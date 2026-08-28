@@ -336,7 +336,7 @@ Bitcoin <span style={{color:T.accent}}>News</span>
 var COIN_COLORS={BTC:"#f7931a",ETH:"#627eea",USDT:"#26a17b",BNB:"#f3ba2f",SOL:"#9945ff"};
 var BTC_MAX=21000000;
 var HALVING_BLOCK=1050000;
-var API_BASE="https://houseofbitcoin.app"; // backend port
+var API_BASE=""; // backend port
 
 var NAV_ITEMS=[
 {icon:"⊞",label:"Dashboard"},{icon:"◈",label:"Market"},
