@@ -44,7 +44,7 @@ async function fetchBTC() {
       axios.get('https://api.coingecko.com/api/v3/global', { timeout: 10000 }),
       axios.get('https://mempool.space/api/blocks/tip/height', { timeout: 8000 }),
       axios.get('https://mempool.space/api/v1/mining/hashrate/3d', { timeout: 8000 }),
-      axios.get('https://api.alternative.me/fng/?limit=1', { timeout: 8000 }),
+      axios.get('https://api.alternative.me/fng/?limit=2', { timeout: 8000 }),
     ]);
     let price=null,change24h=null,mcap=null,volume=null,ethPrice=null,ethChange=null,bnbPrice=null,bnbChange=null,solPrice=null,solChange=null;
     if (priceRes.status==='fulfilled') {
@@ -61,9 +61,9 @@ async function fetchBTC() {
     if (blockRes.status==='fulfilled') blockHeight=blockRes.value.data;
     let hashrate=null;
     if (hrRes.status==='fulfilled'&&hrRes.value.data.currentHashrate) hashrate=parseFloat((hrRes.value.data.currentHashrate/1e18).toFixed(1));
-    let fearGreed=null;
-    if (fgRes.status==='fulfilled') fearGreed=parseInt(fgRes.value.data.data[0].value);
-    cache.btc = { price,change24h,mcap,volume, high24h:price?price*1.02:null, low24h:price?price*0.98:null, dominance,blockHeight,hashrate,fearGreed, circulatingSupply:19750000, ethPrice,ethChange,bnbPrice,bnbChange,solPrice,solChange, mempoolSize:18.45,txCount:362591,difficulty:86.87,activeAddresses:1020000 };
+    let fearGreed=null; let fearGreedYesterday=null;
+    if (fgRes.status==='fulfilled') { fearGreed=parseInt(fgRes.value.data.data[0].value); fearGreedYesterday=parseInt(fgRes.value.data.data[1]?.value||fearGreed); }
+    cache.btc = { price,change24h,mcap,volume, high24h:price?price*1.02:null, low24h:price?price*0.98:null, dominance,blockHeight,hashrate,fearGreed, fearGreedYesterday, circulatingSupply:19750000, ethPrice,ethChange,bnbPrice,bnbChange,solPrice,solChange, mempoolSize:18.45,txCount:362591,difficulty:86.87,activeAddresses:1020000 };
     cache.lastUpdated=new Date().toISOString();
     console.log('BTC updated. Price: $'+price+' Block: '+blockHeight);
   } catch(e) { console.log('fetchBTC error:', e.message); }
