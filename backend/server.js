@@ -35,7 +35,7 @@ async function fetchNews() {
         allNews = allNews.concat(items);
       } catch(e) { console.log('Feed error:', feed.source, e.message); }
     }
-    if (allNews.length > 0) { cache.news = allNews; fs.writeFileSync(__dirname + '/news.json', JSON.stringify(allNews, null, 2)); console.log('News fetched:', allNews.length); }
+    if (allNews.length > 0) { cache.news = allNews; fs.writeFileSync(__dirname + '/news.json', JSON.stringify(allNews, null, 2)); console.log('News fetched:', allNews.length); exec('git add backend/news.json && git commit -m "Auto update news" && git push', {cwd: __dirname + '/..'}, (e, stdout, stderr) => { if (e) console.log('Git push error:', e.message); else console.log('News pushed to GitHub'); }); }
   } catch(e) { console.log('fetchNews error:', e.message); }
 }
 
