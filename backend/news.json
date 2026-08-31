@@ -128,8 +128,16 @@
     "category": "Markets"
   },
   {
+    "title": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
+    "summary": "Deputy Chairman Anatoly Popov told state media that trading could hit 4 trillion rubles in its first year, as the bank prepares to broaden crypto-backed lending once regulators sign off.",
+    "source": "Decrypt",
+    "time": "8/31/2026, 8:46:04 PM",
+    "link": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
+    "category": "Markets"
+  },
+  {
     "title": "Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders",
-    "summary": "A deal would route the decentralized exchange's perpetual futures through Payward's US-regulated Bitnomial, marking Hyperliquid's first US foray—weeks after Trump said his administration was working to bring it onshore.",
+    "summary": "A deal would route the decentralized exchange's perpetual futures through Payward's US-regulated Bitnomial, marking Hyperliquid's first US entry—weeks after Trump said his administration was working to bring it onshore.",
     "source": "Decrypt",
     "time": "8/31/2026, 7:54:15 PM",
     "link": "https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
@@ -184,11 +192,19 @@
     "category": "Markets"
   },
   {
-    "title": "Strategy Buys $370M of Bitcoin in First Purchase Since June",
-    "summary": "The 4,603 BTC cost an average of $80,318, some 29% above what the company took for the coins it sold this summer.",
-    "source": "Decrypt",
-    "time": "8/31/2026, 2:27:01 PM",
-    "link": "https://decrypt.co/376924/strategy-buys-370m-of-bitcoin-in-first-purchase-since-june",
+    "title": "Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg",
+    "summary": "Payward has reportedly presented the CFTC with an outline of the proposed structure, though regulatory approval is still pending.",
+    "source": "The Block",
+    "time": "8/31/2026, 8:16:29 PM",
+    "link": "https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129",
+    "category": "Markets"
+  },
+  {
+    "title": "OpenSea adds Solana NFT trading more than four years after initial beta",
+    "summary": "OpenSea has added support for Solana NFTs, allowing users to buy, sell, and trade the blockchain's digital collectibles on its platform.",
+    "source": "The Block",
+    "time": "8/31/2026, 8:11:53 PM",
+    "link": "https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128",
     "category": "Markets"
   },
   {
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "8/31/2026, 10:15:48 AM",
     "link": "https://www.theblock.co/news/business/2026-08-31-russias-largest-bank-forecasts-46-billion-in-first-year-crypto-exchange-trading-under-new-rules-report-413082",
-    "category": "Markets"
-  },
-  {
-    "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
-    "summary": "As part of the agreement, rival prediction market platforms are reportedly barred from advertising at the tournament and on its ESPN broadcasts.",
-    "source": "The Block",
-    "time": "8/30/2026, 10:28:52 PM",
-    "link": "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
-    "summary": "Li says the attacker manipulated the price of Tectonic's illiquid TONIC token before borrowing against the inflated collateral, a Mango Markets-style hack.",
-    "source": "The Block",
-    "time": "8/30/2026, 8:40:08 PM",
-    "link": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
     "category": "Markets"
   }
 ]
