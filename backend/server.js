@@ -1,3 +1,4 @@
+const fs = require('fs');
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
@@ -33,7 +34,7 @@ async function fetchNews() {
         allNews = allNews.concat(items);
       } catch(e) { console.log('Feed error:', feed.source, e.message); }
     }
-    if (allNews.length > 0) { cache.news = allNews; console.log('News fetched:', allNews.length); }
+    if (allNews.length > 0) { cache.news = allNews; fs.writeFileSync(__dirname + '/news.json', JSON.stringify(allNews, null, 2)); console.log('News fetched:', allNews.length); }
   } catch(e) { console.log('fetchNews error:', e.message); }
 }
 
