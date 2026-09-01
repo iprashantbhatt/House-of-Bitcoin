@@ -10,3 +10,6 @@ test.txt
 auto-commit.sh
 watch-commit.sh
 hob-frontend-backup-*.tar.gz
+
+backend/server.js
+backend/telegram-bot.js
