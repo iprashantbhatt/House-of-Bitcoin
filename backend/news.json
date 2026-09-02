@@ -1,5 +1,53 @@
 [
   {
+    "title": "Live updates: BlackRock's IBIT drives $236 million bitcoin ETF outflow",
+    "summary": "Bitcoin slipped below $77,500 and every major is red on the day. The smaller crypto ETFs kept taking money while the bitcoin funds gave some back.",
+    "source": "CoinDesk",
+    "time": "9/2/2026, 10:31:00 AM",
+    "link": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
+    "category": "Markets"
+  },
+  {
+    "title": "XRP ETFs pull in $170 million over eleven days. Goldman tops institutional holders",
+    "summary": "Spot XRP funds have logged nine straight sessions of inflows, while Q2 filings show Goldman Sachs, Jane Street and Millennium among their biggest professional holders.",
+    "source": "CoinDesk",
+    "time": "9/2/2026, 9:20:03 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/02/xrp-etfs-pull-in-usd160-million-over-nine-days-as-goldman-tops-institutional-holders",
+    "category": "Markets"
+  },
+  {
+    "title": "A China indicator that supports risk-taking in stocks and bitcoin is flashing red",
+    "summary": "China's \"credit impulse\" is flashing red for risk assets.So far, bitcoin has mostly shrugged it off.",
+    "source": "CoinDesk",
+    "time": "9/2/2026, 8:53:22 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/02/a-china-indicator-that-greases-risk-taking-in-stocks-and-bitcoin-is-flashing-red",
+    "category": "Markets"
+  },
+  {
+    "title": "OpenAI says its new 'Astra' AI can build attacks without human help",
+    "summary": "Astra is the first OpenAI model to reach its “Critical” cybersecurity threshold, meaning it can find previously unknown vulnerabilities and develop ways to exploit them across hardened systems.",
+    "source": "CoinDesk",
+    "time": "9/2/2026, 7:28:51 AM",
+    "link": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
+    "category": "Markets"
+  },
+  {
+    "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
+    "summary": "Every large-cap token fell over the past 24 hours, and the high-beta majors gave up roughly triple what bitcoin did.",
+    "source": "CoinDesk",
+    "time": "9/2/2026, 7:01:25 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch",
+    "summary": "BTC trades choppy as $90 oil and rising bond yields weigh on stocks and gold.",
+    "source": "CoinDesk",
+    "time": "9/2/2026, 6:40:36 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch",
+    "category": "Markets"
+  },
+  {
     "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
     "summary": "The U.S. Securities and Exchange Commission issued an agenda for its 24-trading roundtable and proposed a new transfer-agent rule with blockchain implications.",
     "source": "CoinDesk",
@@ -16,51 +64,43 @@
     "category": "Markets"
   },
   {
-    "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
-    "summary": "Revenue on Robinhood Chain hit a 24-hour record of $1.9 million, driving a 30% rally in ARB as traders chased downstream gains.",
-    "source": "CoinDesk",
-    "time": "9/1/2026, 5:28:29 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring",
+    "title": "Crypto industry urges SEC to avoid blanket novel ETF restrictions",
+    "summary": "Grayscale, a16z, and the CCI asked the SEC to preserve existing classification rules and avoid treating novel exchange-traded products as a single category, while proposing different routes to clearer and faster reviews.",
+    "source": "CoinTelegraph",
+    "time": "9/2/2026, 11:48:49 AM",
+    "link": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Musk’s X hit by wave of unsolicited password reset emails",
-    "summary": "Multiple crypto industry figures and CoinDesk staff received unexpected password reset emails on Tuesday, though there is no evidence yet that X itself has been breached.",
-    "source": "CoinDesk",
-    "time": "9/1/2026, 4:59:12 PM",
-    "link": "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
+    "title": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
+    "summary": "US spot Bitcoin ETFs reduced their year-to-date net outflows by 66% as Bitcoin gained about 25% in August, while Ether ETFs turned positive YTD at $732 million and XRP ETFs reached $502 million.",
+    "source": "CoinTelegraph",
+    "time": "9/2/2026, 9:59:43 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
-    "summary": "The protocol aims to give fintechs and investors a faster way to recover losses from DeFi hacks, while letting XRP, bitcoin and XLM holders earn yield by backing that protection.",
-    "source": "CoinDesk",
-    "time": "9/1/2026, 3:56:44 PM",
-    "link": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/2/2026, 7:54:06 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
-    "summary": "September has historically been a poor month for risk assets in general, and bitcoin, in particular.",
-    "source": "CoinDesk",
-    "time": "9/1/2026, 3:55:26 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
+    "title": "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
+    "summary": "The Nasdaq-listed company previously raised $647 million through the facility and accumulated about 29.3 million HYPE tokens.",
+    "source": "CoinTelegraph",
+    "time": "9/2/2026, 7:48:21 AM",
+    "link": "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
-    "summary": "Ethena Pay offers a 6% dollar savings rate and 5% card cashback, using Avalanche for settlement.",
-    "source": "CoinDesk",
-    "time": "9/1/2026, 3:15:35 PM",
-    "link": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
-    "category": "Markets"
-  },
-  {
-    "title": "UK’s crime agency freezes Premier League $13.5 million account in crypto crime probe",
-    "summary": "Authorities targeted funds from a $140 million sponsorship deal with crypto firm Sorare, though law enforcement confirmed no wrongdoing by the Premier League.",
-    "source": "CoinDesk",
-    "time": "9/1/2026, 2:37:10 PM",
-    "link": "https://www.coindesk.com/business/2026/09/01/uk-s-crime-agency-freezes-premier-league-usd13-5-million-account-in-crypto-crime-probe",
+    "title": "Core DAO plans emergency hard fork after validators drew excess rewards",
+    "summary": "Core says the incident is contained and its planned forward upgrade will not roll back the network or reverse previously confirmed transactions.",
+    "source": "CoinTelegraph",
+    "time": "9/2/2026, 6:15:34 AM",
+    "link": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -88,43 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/1/2026, 10:00:17 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
-    "summary": "The proposal would modernize rules largely unchanged since the 1980s, addressing blockchain-based recordkeeping, tokenized securities and increasingly automated market infrastructure.",
-    "source": "CoinTelegraph",
-    "time": "9/1/2026, 7:52:51 PM",
-    "link": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
-    "summary": "The prediction platform permanently banned George Santos and issued a three-year suspension for Laurie Buckhout after investigations into using insider information on event contracts.",
-    "source": "CoinTelegraph",
-    "time": "9/1/2026, 7:39:48 PM",
-    "link": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
-    "summary": "The planned venture will initially focus on a US dollar stablecoin before expanding to other G7 currencies, with a euro-denominated offering next.",
-    "source": "CoinTelegraph",
-    "time": "9/1/2026, 6:39:12 PM",
-    "link": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Ethena launches USDe payments app, offers 6% rewards",
-    "summary": "The self-custodial app brings USDe into everyday payments, savings and cross-border transfers, with annualized rewards of up to 6%.",
-    "source": "CoinTelegraph",
-    "time": "9/1/2026, 6:06:58 PM",
-    "link": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
+    "summary": "The North Carolina Republican bought less than $1,000 of contracts on her own race and drew a three-year ban.",
+    "source": "Decrypt",
+    "time": "9/2/2026, 11:06:22 AM",
+    "link": "https://decrypt.co/377142/kalshi-suspends-house-candidate-laurie-buckhout-for-betting-on-herself",
     "category": "Markets"
   },
   {
@@ -184,11 +192,19 @@
     "category": "Markets"
   },
   {
-    "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
-    "summary": "The publicly traded company recently bought 19,000 SOL, bringing its treasury to more than 2.33 million SOL and SOL equivalents.",
-    "source": "Decrypt",
-    "time": "9/1/2026, 8:03:47 PM",
-    "link": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
+    "title": "G20 finance leaders vow to establish ‘clear pathways’ for digital assets innovation",
+    "summary": "The G20 officials acknowledged that digital assets can support economic growth and private sector innovation.",
+    "source": "The Block",
+    "time": "9/2/2026, 6:43:52 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-02-g20-finance-leaders-digital-assets-413310",
+    "category": "Markets"
+  },
+  {
+    "title": "Kalshi and Polymarket’s combined volume falls 15% in August, first monthly decline in a year",
+    "summary": "Kalshi recorded $37.17 billion in volume in August, while Polymarket and its US platform saw a combined $8.16 billion.",
+    "source": "The Block",
+    "time": "9/2/2026, 6:28:38 AM",
+    "link": "https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309",
     "category": "Markets"
   },
   {
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "9/1/2026, 4:26:02 PM",
     "link": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-gold-move-lockstep-debasement-trade-gains-steam-413137",
-    "category": "Markets"
-  },
-  {
-    "title": "Silhouette debuts RFQ trading for xStocks on Hyperliquid",
-    "summary": "Silhouette launched RFQ trading for xStocks on Hyperliquid, allowing market makers to compete for tokenized equity trades settled onchain.",
-    "source": "The Block",
-    "time": "9/1/2026, 3:30:00 PM",
-    "link": "https://www.theblock.co/news/business/2026-09-01-silhouette-debuts-rfq-trading-for-xstocks-on-hyperliquid-413226",
-    "category": "Markets"
-  },
-  {
-    "title": "Ethena launches Ethena Pay app on Avalanche, offering up to 6% yield and 10% cashback",
-    "summary": "Ethena Labs has launched the beta of Ethena Pay, a new self-custodial money app built on Avalanche, across 48 countries.",
-    "source": "The Block",
-    "time": "9/1/2026, 2:00:02 PM",
-    "link": "https://www.theblock.co/news/web3/2026-09-01-ethena-pay-app-avalanche-yield-cashback-413225",
     "category": "Markets"
   }
 ]
