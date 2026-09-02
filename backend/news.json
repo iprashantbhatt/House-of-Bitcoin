@@ -1,5 +1,13 @@
 [
   {
+    "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+    "summary": "The U.S. Securities and Exchange Commission issued an agenda for its 24-trading roundtable and proposed a new transfer-agent rule with blockchain implications.",
+    "source": "CoinDesk",
+    "time": "9/2/2026, 1:55:46 AM",
+    "link": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
+    "category": "Markets"
+  },
+  {
     "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
     "summary": "The group will focus first on a U.S. dollar stablecoin for payments and digital asset settlement, with a euro token a priority for expansion.",
     "source": "CoinDesk",
@@ -53,14 +61,6 @@
     "source": "CoinDesk",
     "time": "9/1/2026, 2:37:10 PM",
     "link": "https://www.coindesk.com/business/2026/09/01/uk-s-crime-agency-freezes-premier-league-usd13-5-million-account-in-crypto-crime-probe",
-    "category": "Markets"
-  },
-  {
-    "title": "Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal",
-    "summary": "The company's Texas campus has two long-term leases worth $19.6 billion, more than 260 times its latest quarterly revenue, as AI companies race to secure power and data-center capacity.",
-    "source": "CoinDesk",
-    "time": "9/1/2026, 2:11:44 PM",
-    "link": "https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal",
     "category": "Markets"
   },
   {
@@ -128,6 +128,14 @@
     "category": "Markets"
   },
   {
+    "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
+    "summary": "The open-source agent framework that started the \"autonomous AI\" hype cycle just shipped its biggest update ever, almost by accident, and it's coming for the enterprise now.",
+    "source": "Decrypt",
+    "time": "9/2/2026, 12:16:04 AM",
+    "link": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
+    "category": "Markets"
+  },
+  {
     "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
     "summary": "The deal, part of MediaTek's record $3.9 billion bond offering, ties Nvidia's chip ecosystem to a Taiwanese rival building its own AI accelerator business.",
     "source": "Decrypt",
@@ -184,11 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
-    "summary": "X engineers have acknowledged the issue, but have not confirmed a new data breach of its systems.",
-    "source": "Decrypt",
-    "time": "9/1/2026, 6:26:10 PM",
-    "link": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
+    "title": "Hyperliquid Strategies expands equity facility to $2.5 billion from $1 billion",
+    "summary": "As of June 30, Hyperliquid Strategies has sold around $647 million worth of shares, according to its recent filings.",
+    "source": "The Block",
+    "time": "9/2/2026, 5:35:30 AM",
+    "link": "https://www.theblock.co/news/business/2026-09-01-hyperliquid-strategies-expands-equity-facility-413304",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "9/1/2026, 2:00:02 PM",
     "link": "https://www.theblock.co/news/web3/2026-09-01-ethena-pay-app-avalanche-yield-cashback-413225",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin defies oil price spike and rising Fed hike bets after best August since 2017",
-    "summary": "Bitcoin has held up despite higher oil prices and growing expectations for a September Fed rate hike, with Friday's jobs report next in focus.",
-    "source": "The Block",
-    "time": "9/1/2026, 1:33:23 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-defies-oil-price-spike-and-rising-fed-hike-bets-after-best-august-since-2017-413218",
     "category": "Markets"
   }
 ]
