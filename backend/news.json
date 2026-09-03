@@ -1,5 +1,37 @@
 [
   {
+    "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
+    "summary": "The bank is now offering institutional crypto spot trading in the region, bringing BTC and ETH onto the same eFX rails that institutions use to trade dollars and euros.",
+    "source": "CoinDesk",
+    "time": "9/3/2026, 5:58:02 PM",
+    "link": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto for Advisors: Why crypto earnings reports can be misleading",
+    "summary": "",
+    "source": "CoinDesk",
+    "time": "9/3/2026, 5:00:00 PM",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
+    "category": "Markets"
+  },
+  {
+    "title": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
+    "summary": "Users paid nearly $6 million in a day to create and trade tokens through Pons, more than they paid to use Pump or Hyperliquid, and even more than they paid to use Robinhood Chain itself.",
+    "source": "CoinDesk",
+    "time": "9/3/2026, 4:51:39 PM",
+    "link": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution ",
+    "summary": "Gracy Chen highlighted the world's largest asset manager as one example of such a firm seeking to expand distribution of their tokenized ETFs in the region.",
+    "source": "CoinDesk",
+    "time": "9/3/2026, 4:41:25 PM",
+    "link": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
+    "category": "Markets"
+  },
+  {
     "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
     "summary": "Kraken is joining SoFi's settlement network and list SoFiUSD as the companies link traditional banking with crypto markets.",
     "source": "CoinDesk",
@@ -24,7 +56,7 @@
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin rises to $78,000, with next week's CPI report looming large",
+    "title": "Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens",
     "summary": "The government's employment data (due tomorrow) is usually the main economic report of the month, but this time around it's next week's inflation numbers that will decide Fed policy.",
     "source": "CoinDesk",
     "time": "9/3/2026, 12:42:15 PM",
@@ -32,163 +64,171 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
-    "summary": "BTC rose 0.76% since midnight as a softer dollar lifted equities and metals alongside crypto, while ARB and PONS pushed higher for a third session.",
-    "source": "CoinDesk",
-    "time": "9/3/2026, 12:29:52 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
-    "category": "Markets"
-  },
-  {
-    "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
-    "summary": "Firms that miss the deadline could breach financial services law from Oct. 1 and face civil or criminal penalties.",
-    "source": "CoinDesk",
-    "time": "9/3/2026, 12:09:31 PM",
-    "link": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
-    "category": "Markets"
-  },
-  {
-    "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
-    "summary": "The regulator claims the dispute is \"much ado about nothing,\" noting that the order allows any designated contract market, including CME, to list these products.",
-    "source": "CoinDesk",
-    "time": "9/3/2026, 11:13:40 AM",
-    "link": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
-    "category": "Markets"
-  },
-  {
-    "title": "Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027",
-    "summary": "A law firm and a tokenization platform say their proposed structure would give investors legal ownership of cat bonds onchain and could lower the minimum investment.",
-    "source": "CoinDesk",
-    "time": "9/3/2026, 10:30:00 AM",
-    "link": "https://www.coindesk.com/business/2026/09/03/catastrophe-bonds-may-join-tokenization-rush-with-plans-for-test-issuance-in-2027",
-    "category": "Markets"
-  },
-  {
-    "title": "Recovery specialists crack $1B crypto wallet... but find just $10 ",
-    "summary": "Crypto recovery specialists reveal how lost wallets, passwords and seed phrases can sometimes be recovered — but that’s of no help if the money was never there in the first place.",
+    "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
+    "summary": "The CFTC’s lawyers called the lawsuit “much ado about nothing,“ claiming that the CME Group lacked standing to file and argued against its claims over crypto perpetual futures.",
     "source": "CoinTelegraph",
-    "time": "9/3/2026, 3:30:00 PM",
-    "link": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
-    "summary": "VARA and Securitize signed an MoU to foster more tokenization innovation in Dubai and explore how tokenized financial innovation should be regulated in the region.",
-    "source": "CoinTelegraph",
-    "time": "9/3/2026, 3:00:00 PM",
-    "link": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/3/2026, 11:09:13 PM",
+    "link": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "9/3/2026, 3:00:00 PM",
+    "time": "9/3/2026, 10:30:14 PM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Nvidia buys Hugging Face for $12.9B in push into AI software",
-    "summary": "Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by more than 18 million developers to share and deploy AI models.",
+    "title": "Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network",
+    "summary": "Mantle has added Paxos-issued USDG as a natively minted stablecoin while joining the network’s reward-sharing structure.",
     "source": "CoinTelegraph",
-    "time": "9/3/2026, 2:41:11 PM",
-    "link": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/3/2026, 9:36:56 PM",
+    "link": "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia",
-    "summary": "Pencil Finance said that its first-of-a-kind loan offered financing to 6,600 students in Southeast Asia who were underserved by traditional lenders.",
+    "title": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms",
+    "summary": "Kalshi previously said it had been placed in an “impossible position” after federal authorities directed the company to ignore a Michigan restraining order issued in June.",
     "source": "CoinTelegraph",
-    "time": "9/3/2026, 12:59:34 PM",
-    "link": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/3/2026, 9:11:46 PM",
+    "link": "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
-    "summary": "Standard Chartered said it is the first major global bank to offer institutional access to spot Bitcoin and Ether trading in the UAE region.",
+    "title": "Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention",
+    "summary": "Bitcoin rallied 5% to reclaim $80,000 as the US dollar weakened amid a suspected Bank of Japan currency intervention, though analysts remain split on the impact.",
     "source": "CoinTelegraph",
-    "time": "9/3/2026, 12:15:34 PM",
-    "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/3/2026, 8:44:22 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain",
-    "summary": "The third-wave Coldcard exploiter moved about 10% of stolen funds through THORChain as researchers traced the assets to a new Ethereum address.",
+    "title": "Bybit Pay integrates with Mesh to expand crypto payments ",
+    "summary": "The integration lets Bybit users spend digital assets directly from their exchange balances across Mesh-powered platforms.",
     "source": "CoinTelegraph",
-    "time": "9/3/2026, 11:31:07 AM",
-    "link": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/3/2026, 7:13:04 PM",
+    "link": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Kalshi seeks CFTC approval for WTI crude perpetual futures: Report",
-    "summary": "Kalshi reportedly plans to file for approval of a WTI crude oil perpetual futures contract that would trade around the clock five days a week without an expiration date.",
+    "title": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
+    "summary": "The UK political party and its leader, Nigel Farage, have accepted contributions from figures tied to the crypto industry, raising questions about potential influence on policies.",
     "source": "CoinTelegraph",
-    "time": "9/3/2026, 11:28:34 AM",
-    "link": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/3/2026, 7:06:28 PM",
+    "link": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "SoFi Links Banking Network and Stablecoin to Kraken in New Deal",
-    "summary": "Kraken will list SoFiUSD and gain access to SoFi’s round-the-clock dollar settlement network, while Kraken Prime will execute trades for SoFi’s crypto customers.",
-    "source": "Decrypt",
-    "time": "9/3/2026, 5:40:08 PM",
-    "link": "https://decrypt.co/377283/sofi-banking-network-stablecoin-kraken",
+    "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
+    "summary": "The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime.",
+    "source": "CoinTelegraph",
+    "time": "9/3/2026, 6:04:11 PM",
+    "link": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Morning Minute: Strategy CEO Says Selling The Bottom Was Correct Move",
-    "summary": "Strategy sold millions in Bitcoin in the low $60k range and just rebought at $80k. Now they’re sharing the rationale behind the moves.",
+    "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
+    "summary": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion.",
     "source": "Decrypt",
-    "time": "9/3/2026, 1:43:14 PM",
-    "link": "https://decrypt.co/377264/morning-minute-strategy-ceo-says-selling-the-bottom-was-correct-move",
+    "time": "9/3/2026, 11:31:05 PM",
+    "link": "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion",
     "category": "Markets"
   },
   {
-    "title": "Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools",
-    "summary": "Nearly 600,000 students lose access to generative AI tools, while five named vendors keep metered pilots running in high schools.",
+    "title": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July",
+    "summary": "PONS, the token behind Robinhood Chain's biggest meme coin factory, flipped CASHCAT to become the chain's largest cryptocurrency by market cap—and its chart looks like a hockey stick.",
     "source": "Decrypt",
-    "time": "9/3/2026, 1:36:41 PM",
-    "link": "https://decrypt.co/377253/mamdani-imposes-one-year-moratorium-on-generative-ai-in-nyc-schools",
+    "time": "9/3/2026, 10:46:04 PM",
+    "link": "https://decrypt.co/377349/pons-robinhood-chain-meme-coin-token-factory",
     "category": "Markets"
   },
   {
-    "title": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly",
-    "summary": "Fake investment ads on Telegram channels funneled EU victims to a lookalike exchange that emptied their wallets.",
+    "title": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
+    "summary": "The forthcoming bill would pause advanced AI development, create a federal regulator, and threaten violators with up to 20 years in prison.",
     "source": "Decrypt",
-    "time": "9/3/2026, 11:53:41 AM",
-    "link": "https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly",
+    "time": "9/3/2026, 10:16:04 PM",
+    "link": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
     "category": "Markets"
   },
   {
-    "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
-    "summary": "The order calls the prediction market platform a sports betting operation \"masquerading as an investment opportunity.\"",
+    "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
+    "summary": "The model can independently discover and exploit unknown security flaws across hardened systems, triggering a staged rollout and White House review before public access.",
     "source": "Decrypt",
-    "time": "9/3/2026, 10:47:34 AM",
-    "link": "https://decrypt.co/377238/michigan-judge-bars-kalshi-sports-bets-threatens-500k-daily-fine",
+    "time": "9/3/2026, 9:24:24 PM",
+    "link": "https://decrypt.co/377341/openai-releases-gpt-6-astra-agi",
     "category": "Markets"
   },
   {
-    "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
-    "summary": "After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.",
+    "title": "ChatGPT, Claude and Grok Outages Leave Users Asking How to Work Without AI",
+    "summary": "The three AI platforms restored service Thursday after users said the simultaneous disruptions brought their work to a halt.",
     "source": "Decrypt",
-    "time": "9/3/2026, 1:46:04 AM",
-    "link": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
+    "time": "9/3/2026, 8:31:26 PM",
+    "link": "https://decrypt.co/377337/chatgpt-claude-grok-outages-work-without-ai",
     "category": "Markets"
   },
   {
-    "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
-    "summary": "Afterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.",
+    "title": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
+    "summary": "Ethereum funds broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back with $101.15 million in one day after their worst outflow since July.",
     "source": "Decrypt",
-    "time": "9/3/2026, 1:16:04 AM",
-    "link": "https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator",
+    "time": "9/3/2026, 8:15:07 PM",
+    "link": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
     "category": "Markets"
   },
   {
-    "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
-    "summary": "Agents seized digital assets, domains, and servers allegedly used by Hamas’ military wing to collect donations and recruit supporters.",
+    "title": "CFTC Asks Judge to Dismiss CME Lawsuit Over Crypto Perpetual Futures",
+    "summary": "The regulator argues that CME cannot challenge its approval of Kalshi’s Bitcoin perpetual contract without showing concrete financial harm.",
     "source": "Decrypt",
-    "time": "9/3/2026, 12:47:06 AM",
-    "link": "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas",
+    "time": "9/3/2026, 7:31:04 PM",
+    "link": "https://decrypt.co/377315/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt",
+    "summary": "Stocks and crypto rallied together after Governor Christopher Waller said he could back holding rates steady, with short sellers absorbing the brunt of the squeeze.",
+    "source": "Decrypt",
+    "time": "9/3/2026, 6:38:17 PM",
+    "link": "https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
+    "category": "Markets"
+  },
+  {
+    "title": "Coinbase seeks SEC greenlight to list 24/7 equity perpetuals",
+    "summary": "Coinbase, the largest U.S. based crypto exchange, is seeking to list 24/7 equity products as perpetual gain momentum.",
+    "source": "The Block",
+    "time": "9/3/2026, 10:46:52 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto market cap surges to $2.82 trillion as Zcash leads rally alongside stocks",
+    "summary": "Crypto and related stocks like Strategy rallied as bitcoin topped $80,000 and Fed rate expectations remained split.",
+    "source": "The Block",
+    "time": "9/3/2026, 10:09:25 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478",
+    "category": "Markets"
+  },
+  {
+    "title": "Revolut takes ‘important’ step toward becoming a US bank with conditional OCC approval",
+    "summary": "Revolut says it has received preliminary approval from a key U.S. banking regulator as it seeks to become a bank in the country.",
+    "source": "The Block",
+    "time": "9/3/2026, 8:23:44 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-03-revolut-takes-important-step-toward-becoming-a-us-bank-with-conditional-occ-approval-413474",
+    "category": "Markets"
+  },
+  {
+    "title": "Strive CEO says company could end 2026 as second-largest public bitcoin holder as ASST climbs",
+    "summary": "Strive shares climbed to a year-to-date high of $26.84 on Thursday, placing the stock less than 1% below the warrants’ exercise price.",
+    "source": "The Block",
+    "time": "9/3/2026, 6:27:35 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-03-strive-ceo-company-could-end-2026-second-largest-bitcoin-holder-asst-413455",
+    "category": "Markets"
+  },
+  {
+    "title": "Stablecoin payments infrastructure startup Diameter Pay raises $10 million",
+    "summary": "Diameter Pay has raised $10 million in a Series A funding round co-led by CMT Digital and Lightspeed Faction.",
+    "source": "The Block",
+    "time": "9/3/2026, 6:00:03 PM",
+    "link": "https://www.theblock.co/news/deals/2026-09-03-diameter-pay-funding-stablecoin-payments-infrastructure-413454",
     "category": "Markets"
   },
   {
@@ -213,46 +253,6 @@
     "source": "The Block",
     "time": "9/3/2026, 6:30:32 AM",
     "link": "https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422",
-    "category": "Markets"
-  },
-  {
-    "title": "‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures",
-    "summary": "The CFTC said CME lacks standing on its competitive-injury claims, as the exchange is free to list perp futures as a DCM.",
-    "source": "The Block",
-    "time": "9/3/2026, 5:39:02 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
-    "category": "Markets"
-  },
-  {
-    "title": "Anthony Armstrong, former CFO at Elon Musk’s xAI and X, joins Coinbase board",
-    "summary": "Anthony Armstrong — no relation to Coinbase CEO Brian Armstrong — most recently served as CFO across xAI, X.AI Corp., and X Corp.",
-    "source": "The Block",
-    "time": "9/2/2026, 11:03:53 PM",
-    "link": "https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405",
-    "category": "Markets"
-  },
-  {
-    "title": "New Jersey asks Supreme Court to decide who regulates sports betting on prediction markets",
-    "summary": "New Jersey is asking the U.S. Supreme Court to settle, once and for all, how sports betting on prediction markets should be regulated.",
-    "source": "The Block",
-    "time": "9/2/2026, 8:18:28 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-02-new-jersey-asks-supreme-court-to-decide-who-regulates-sports-betting-on-prediction-markets-413398",
-    "category": "Markets"
-  },
-  {
-    "title": "Memecoin shenanigans spill into Nasdaq as microcap mushroom seller Farmmi surges 350%",
-    "summary": "FAMI quickly corrected while the stock saw more than 720 million shares traded — nearly 90 times more than its daily average.",
-    "source": "The Block",
-    "time": "9/2/2026, 7:40:13 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-02-memecoin-shenanigans-nasdaq-microcap-mushroom-seller-farmmi-413374",
-    "category": "Markets"
-  },
-  {
-    "title": "Securitize and Socios team up to tokenize equity in pro sports teams",
-    "summary": "It's the first project launched through Securitize’s fully authorized European Trading & Settlement System under the EU DLT Pilot Regime.",
-    "source": "The Block",
-    "time": "9/2/2026, 7:17:59 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-02-securitize-and-socios-team-up-to-tokenize-equity-in-pro-sports-teams-413378",
     "category": "Markets"
   }
 ]
