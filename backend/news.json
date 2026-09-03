@@ -1,5 +1,29 @@
 [
   {
+    "title": "Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time",
+    "summary": "BTC is nearing a bullish golden cross, a widely tracked signal with a mixed record of success in crypto markets. But this time, USDT is supporting the bullish read.",
+    "source": "CoinDesk",
+    "time": "9/3/2026, 9:01:28 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
+    "category": "Markets"
+  },
+  {
+    "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
+    "summary": "Remixpoint booked gains on ether, solana and XRP, but sold DOGE below its fiscal-year opening value as it concentrated its crypto holdings in bitcoin.",
+    "source": "CoinDesk",
+    "time": "9/3/2026, 6:58:05 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
+    "summary": "Every major token is green over 24 hours, though only zcash and hyperliquid are holding gains on the week.",
+    "source": "CoinDesk",
+    "time": "9/3/2026, 6:22:40 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
+    "category": "Markets"
+  },
+  {
     "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
     "summary": "FBI agents took control of domains and servers, specifically Alqassam.ps, to intercept donations and prevent further fundraising for the Al-Qassam Brigades.",
     "source": "CoinDesk",
@@ -40,27 +64,51 @@
     "category": "Markets"
   },
   {
-    "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-    "summary": "Russia-based Sality watched for copied bitcoin and Ethereum addresses and quietly replaced them with the attacker’s. CrowdStrike and law enforcement have now isolated more than 15,000 infected machines.",
-    "source": "CoinDesk",
-    "time": "9/2/2026, 3:14:47 PM",
-    "link": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
+    "title": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain",
+    "summary": "The third-wave Coldcard exploiter moved about 10% of stolen funds through THORChain as researchers traced the assets to a new Ethereum address.",
+    "source": "CoinTelegraph",
+    "time": "9/3/2026, 11:31:07 AM",
+    "link": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "The token supercycle: everything of value is becoming programmable",
-    "summary": "Tokenization is not just about increasing access to tokens, whatever they may represent, but a fundamental shift in how value is created, owned, financed and moved, argues Solana Foundation’s Lily Liu.",
-    "source": "CoinDesk",
-    "time": "9/2/2026, 3:00:00 PM",
-    "link": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
+    "title": "Kalshi seeks CFTC approval for WTI crude perpetual futures: Report",
+    "summary": "Kalshi reportedly plans to file for approval of a WTI crude oil perpetual futures contract that would trade around the clock five days a week without an expiration date.",
+    "source": "CoinTelegraph",
+    "time": "9/3/2026, 11:28:34 AM",
+    "link": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
-    "summary": "Analysts discuss the cartoon-themed price action as prices for major cryptocurrencies wilt.",
-    "source": "CoinDesk",
-    "time": "9/2/2026, 2:13:26 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
+    "title": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
+    "summary": "ASIC has recorded more than 45 digital asset-related license applications as its temporary enforcement relief approaches Sept. 30 expiration.",
+    "source": "CoinTelegraph",
+    "time": "9/3/2026, 9:47:54 AM",
+    "link": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Ether, XRP ETF inflow streaks end as Bitcoin funds rebound",
+    "summary": "Ether ETFs posted $48 million in outflows after attracting $1.62 billion over 12 trading days, while XRP funds ended an 11-session inflow run.",
+    "source": "CoinTelegraph",
+    "time": "9/3/2026, 9:22:00 AM",
+    "link": "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/3/2026, 8:10:27 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Hyperscale Data ends Michigan BTC mining as holdings fall 79%",
+    "summary": "Hyperscale Data’s Bitcoin holdings have fallen about 79% since late July to 215 BTC as it redirects capital toward its Michigan AI data center.",
+    "source": "CoinTelegraph",
+    "time": "9/3/2026, 6:57:55 AM",
+    "link": "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -80,51 +128,19 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/2/2026, 9:11:15 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly",
+    "summary": "Fake investment ads on Telegram channels funneled EU victims to a lookalike exchange that emptied their wallets.",
+    "source": "Decrypt",
+    "time": "9/3/2026, 11:53:41 AM",
+    "link": "https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly",
     "category": "Markets"
   },
   {
-    "title": "New Jersey officials petition US Supreme Court over prediction markets",
-    "summary": "New Jersey’s Attorney General and gaming authorities filed a petition for a writ of certiorari to the US Supreme Court over Kalshi offering sporting event contracts to residents.",
-    "source": "CoinTelegraph",
-    "time": "9/2/2026, 8:55:41 PM",
-    "link": "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
-    "summary": "Wyoming is using Chainlink to bring near-real-time reserve verification onchain for FRNT as the oracle provider expands its footprint across tokenized financial markets.",
-    "source": "CoinTelegraph",
-    "time": "9/2/2026, 8:38:18 PM",
-    "link": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Ondo urges SEC, CFTC to bring US stock perpetuals onshore",
-    "summary": "Ondo says existing US securities laws can accommodate perpetual futures tied to individual stocks as regulators look to bring more derivatives activity onshore.",
-    "source": "CoinTelegraph",
-    "time": "9/2/2026, 6:39:22 PM",
-    "link": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin’s apparent demand turns negative as price struggles with $77K",
-    "summary": "One of Bitcoin’s onchain demand indicators turns negative again after a brief August rebound, as BTC price slipped below $77,000 amid a broader bond and equities sell-off.",
-    "source": "CoinTelegraph",
-    "time": "9/2/2026, 6:35:56 PM",
-    "link": "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "G20 members tout ‘clear pathways’ for digital asset innovation",
-    "summary": "Officials in the G20, under the US’ presidency, recognized that digital assets could support “broad-based economic growth” and called for improvements in cross-border transactions.",
-    "source": "CoinTelegraph",
-    "time": "9/2/2026, 5:34:06 PM",
-    "link": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
+    "summary": "The order calls the prediction market platform a sports betting operation \"masquerading as an investment opportunity.\"",
+    "source": "Decrypt",
+    "time": "9/3/2026, 10:47:34 AM",
+    "link": "https://decrypt.co/377238/michigan-judge-bars-kalshi-sports-bets-threatens-500k-daily-fine",
     "category": "Markets"
   },
   {
@@ -176,19 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher",
-    "summary": "Phong Le said Strategy’s cost of capital—not Bitcoin’s price—drove its decision to sell nearly 7,000 BTC before resuming purchases above $80,000.",
-    "source": "Decrypt",
-    "time": "9/2/2026, 9:15:06 PM",
-    "link": "https://decrypt.co/377215/right-trade-strategy-no-regrets-selling-bitcoin",
-    "category": "Markets"
-  },
-  {
-    "title": "Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take",
-    "summary": "Bitcoin traders are calling August's spike-and-fade a Bart Simpson hairline. Here's what separates an actual flash crash from an ordinary correction.",
-    "source": "Decrypt",
-    "time": "9/2/2026, 8:30:06 PM",
-    "link": "https://decrypt.co/377185/bitcoin-flash-crash-real-bart-simpson-pattern",
+    "title": "Michigan court orders Kalshi to keep blocking sports prediction markets",
+    "summary": "The injunction converts a temporary restraining order issued in June, and violations would result in a fine of $500,000 per day.",
+    "source": "The Block",
+    "time": "9/3/2026, 6:30:32 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "9/2/2026, 6:00:00 PM",
     "link": "https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345",
-    "category": "Markets"
-  },
-  {
-    "title": "Hyperscale Data shares hit all-time low as company flips Michigan site from bitcoin mining into AI",
-    "summary": "The Michigan AI agreement could generate more than $1.2 billion, with expansion options potentially lifting that above $3 billion.",
-    "source": "The Block",
-    "time": "9/2/2026, 5:29:15 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-02-hyperscale-data-shares-all-time-low-company-flips-michigan-site-bitcoin-mining-into-ai-413357",
     "category": "Markets"
   }
 ]
