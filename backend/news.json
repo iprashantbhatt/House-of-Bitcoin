@@ -1,5 +1,13 @@
 [
   {
+    "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+    "summary": "FBI agents took control of domains and servers, specifically Alqassam.ps, to intercept donations and prevent further fundraising for the Al-Qassam Brigades.",
+    "source": "CoinDesk",
+    "time": "9/2/2026, 11:24:26 PM",
+    "link": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
+    "category": "Markets"
+  },
+  {
     "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
     "summary": "The crypto exchange operator, which confidentially filed for a U.S. listing last November, had already put its IPO plans on hold amid difficult market conditions.",
     "source": "CoinDesk",
@@ -53,14 +61,6 @@
     "source": "CoinDesk",
     "time": "9/2/2026, 2:13:26 PM",
     "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
-    "category": "Markets"
-  },
-  {
-    "title": "Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment",
-    "summary": "The Euronext Growth Paris-listed firm issued 13,181,030 shares with four warrants each at 58 euro cents per share, according to a filing on Wednesday.",
-    "source": "CoinDesk",
-    "time": "9/2/2026, 1:45:16 PM",
-    "link": "https://www.coindesk.com/business/2026/08/29/capital-b-aims-to-add-376-btc-to-bitcoin-treasury-following-usd8-8-million-adam-back-investment",
     "category": "Markets"
   },
   {
@@ -128,6 +128,30 @@
     "category": "Markets"
   },
   {
+    "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+    "summary": "After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.",
+    "source": "Decrypt",
+    "time": "9/3/2026, 1:46:04 AM",
+    "link": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
+    "category": "Markets"
+  },
+  {
+    "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
+    "summary": "Afterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.",
+    "source": "Decrypt",
+    "time": "9/3/2026, 1:16:04 AM",
+    "link": "https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator",
+    "category": "Markets"
+  },
+  {
+    "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
+    "summary": "Agents seized digital assets, domains, and servers allegedly used by Hamas’ military wing to collect donations and recruit supporters.",
+    "source": "Decrypt",
+    "time": "9/3/2026, 12:47:06 AM",
+    "link": "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas",
+    "category": "Markets"
+  },
+  {
     "title": "Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
     "summary": "The Japanese company booked a ¥117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.",
     "source": "Decrypt",
@@ -168,27 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Crypto Groups Push SEC for Tailored Rules on Novel ETFs",
-    "summary": "Groups including The Crypto Council for Innovation, Grayscale, and a16z urged the regulator to preserve existing fund classifications and streamline reviews for new exchange-traded products.",
-    "source": "Decrypt",
-    "time": "9/2/2026, 7:41:04 PM",
-    "link": "https://decrypt.co/377184/crypto-groups-sec-novel-etfs",
-    "category": "Markets"
-  },
-  {
-    "title": "OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities",
-    "summary": "The unreleased model can find zero-day vulnerabilities and chain them into working exploits without a human walking it through each step, and access to that capability is starting with a small group of testers.",
-    "source": "Decrypt",
-    "time": "9/2/2026, 6:43:53 PM",
-    "link": "https://decrypt.co/377180/openai-astra-first-ai-model-critical-hacking",
-    "category": "Markets"
-  },
-  {
-    "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
-    "summary": "Two Thai businessmen claim Tether blocked access to their stablecoins months before federal authorities secured a seizure warrant.",
-    "source": "Decrypt",
-    "time": "9/2/2026, 5:42:13 PM",
-    "link": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
+    "title": "‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures",
+    "summary": "The CFTC said CME lacks standing on its competitive-injury claims, as the exchange is free to list perp futures as a DCM.",
+    "source": "The Block",
+    "time": "9/3/2026, 5:39:02 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "9/2/2026, 5:29:15 PM",
     "link": "https://www.theblock.co/news/markets/2026-09-02-hyperscale-data-shares-all-time-low-company-flips-michigan-site-bitcoin-mining-into-ai-413357",
-    "category": "Markets"
-  },
-  {
-    "title": "Wyoming expands Chainlink partnership with onchain reserve verification for FRNT",
-    "summary": "Last month, Wyoming’s Stable Token Commission fully migrated FRNT from LayerZero to Chainlink CCIP after a security review.",
-    "source": "The Block",
-    "time": "9/2/2026, 3:05:03 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-02-wyoming-expands-chainlink-partnership-onchain-reserve-verification-frnt-413294",
     "category": "Markets"
   }
 ]
