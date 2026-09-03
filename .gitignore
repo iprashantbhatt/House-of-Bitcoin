@@ -13,3 +13,22 @@ hob-frontend-backup-*.tar.gz
 
 backend/server.js
 backend/telegram-bot.js
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.sqlite
+*.sqlite3
+*.db
+id_rsa
+id_ed25519
+*.ppk
+secrets/
+credentials/
+.secrets/
+serviceAccount*.json
+firebase-adminsdk*.json
+.aws/
+.ssh/
+.npmrc
