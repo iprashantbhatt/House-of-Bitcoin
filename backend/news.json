@@ -1,5 +1,37 @@
 [
   {
+    "title": "Live updates: Bitcoin ETFs take $731 million, their biggest day since January",
+    "summary": "Every fund in the complex rose almost 6% on Thursday and net assets crossed $103 billion for the first time. BlackRock's IBIT accounted for well over half the money.",
+    "source": "CoinDesk",
+    "time": "9/4/2026, 9:34:07 AM",
+    "link": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
+    "category": "Markets"
+  },
+  {
+    "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
+    "summary": "The company is subsidizing access to its Daybreak security platform after saying Astra can independently find previously unknown software flaws and turn them into working attacks.",
+    "source": "CoinDesk",
+    "time": "9/4/2026, 7:49:43 AM",
+    "link": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days",
+    "category": "Markets"
+  },
+  {
+    "title": "One full bitcoin now buys a little more than 18 ounces of gold, the most since January",
+    "summary": "Bitcoin is pulling ahead of gold even as both hard assets rally together, driven by fears that governments will inflate away their debt rather than by bond yields.",
+    "source": "CoinDesk",
+    "time": "9/4/2026, 7:10:34 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
+    "summary": "Every major token gained on Friday as traders cut bets on a September Federal Reserve rate increase to a coin flip, though most of the majors are barely changed on the week.",
+    "source": "CoinDesk",
+    "time": "9/4/2026, 6:22:01 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump",
+    "category": "Markets"
+  },
+  {
     "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
     "summary": "The Office of the Comptroller of the Currency granted a provisional charter to the new full-service bank, adding it to the growing mix of crypto-native institutions.",
     "source": "CoinDesk",
@@ -32,35 +64,35 @@
     "category": "Markets"
   },
   {
-    "title": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
-    "summary": "Users paid nearly $6 million in a day to create and trade tokens through Pons, more than they paid to use Pump or Hyperliquid, and even more than they paid to use Robinhood Chain itself.",
-    "source": "CoinDesk",
-    "time": "9/3/2026, 4:51:39 PM",
-    "link": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
+    "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
+    "summary": "US Bitcoin ETFs drew $730.9 million on Thursday as Bitcoin reclaimed $80,000, though CryptoQuant flagged weak fresh demand and a key $83,000 test.",
+    "source": "CoinTelegraph",
+    "time": "9/4/2026, 9:37:13 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution ",
-    "summary": "Gracy Chen highlighted the world's largest asset manager as one example of such a firm seeking to expand distribution of their tokenized ETFs in the region.",
-    "source": "CoinDesk",
-    "time": "9/3/2026, 4:41:25 PM",
-    "link": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/4/2026, 8:22:29 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
-    "summary": "Kraken is joining SoFi's settlement network and list SoFiUSD as the companies link traditional banking with crypto markets.",
-    "source": "CoinDesk",
-    "time": "9/3/2026, 2:00:00 PM",
-    "link": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
+    "title": "El Salvador’s post-review Bitcoin accumulation used no public funds: IMF",
+    "summary": "The IMF attributed Bitcoin added since June 2025 to private donations, addressing questions raised after El Salvador reported a $100 million acquisition.",
+    "source": "CoinTelegraph",
+    "time": "9/4/2026, 8:16:35 AM",
+    "link": "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "FX has stopped reading bond yields the old way. Bitcoin should too.",
-    "summary": "Your day-ahead look for Sept. 3, 2026",
-    "source": "CoinDesk",
-    "time": "9/3/2026, 1:26:00 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too",
+    "title": "US, UK launch joint alliance targeting crypto scam centers",
+    "summary": "The agreement includes parallel investigations and information sharing, with US and UK authorities planning a private-sector disruption operation in London in October.",
+    "source": "CoinTelegraph",
+    "time": "9/4/2026, 6:33:55 AM",
+    "link": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -80,14 +112,6 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/3/2026, 10:30:14 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network",
     "summary": "Mantle has added Paxos-issued USDG as a natively minted stablecoin while joining the network’s reward-sharing structure.",
     "source": "CoinTelegraph",
@@ -104,27 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention",
-    "summary": "Bitcoin rallied 5% to reclaim $80,000 as the US dollar weakened amid a suspected Bank of Japan currency intervention, though analysts remain split on the impact.",
-    "source": "CoinTelegraph",
-    "time": "9/3/2026, 8:44:22 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bybit Pay integrates with Mesh to expand crypto payments ",
-    "summary": "The integration lets Bybit users spend digital assets directly from their exchange balances across Mesh-powered platforms.",
-    "source": "CoinTelegraph",
-    "time": "9/3/2026, 7:13:04 PM",
-    "link": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
-    "summary": "The UK political party and its leader, Nigel Farage, have accepted contributions from figures tied to the crypto industry, raising questions about potential influence on policies.",
-    "source": "CoinTelegraph",
-    "time": "9/3/2026, 7:06:28 PM",
-    "link": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'",
+    "summary": "Adam Aron says AMC Entertainment has no connection to the tokens and is putting outside securities counsel on the case.",
+    "source": "Decrypt",
+    "time": "9/4/2026, 11:24:56 AM",
+    "link": "https://decrypt.co/377378/amc-ceo-calls-robinhood-stock-tokens-contemptible-and-vile",
     "category": "Markets"
   },
   {
@@ -184,11 +192,27 @@
     "category": "Markets"
   },
   {
-    "title": "CFTC Asks Judge to Dismiss CME Lawsuit Over Crypto Perpetual Futures",
-    "summary": "The regulator argues that CME cannot challenge its approval of Kalshi’s Bitcoin perpetual contract without showing concrete financial harm.",
-    "source": "Decrypt",
-    "time": "9/3/2026, 7:31:04 PM",
-    "link": "https://decrypt.co/377315/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
+    "title": "South Korea to start tokenizing ‘all types’ of securities in three stages from 2027",
+    "summary": "South Korea ultimately aims to allow participants to settle tokenized securities onchain with stablecoins, as part of a three-stage plan.",
+    "source": "The Block",
+    "time": "9/4/2026, 11:46:06 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-04-south-korea-to-start-tokenizing-all-types-of-securities-in-three-stages-from-2027-413523",
+    "category": "Markets"
+  },
+  {
+    "title": "US bitcoin ETFs report the largest inflow day since January, worth $731 million",
+    "summary": "Analysts attributed Fed Governor Christopher Waller’s dovish comments to the significant inflow of capital into bitcoin products.",
+    "source": "The Block",
+    "time": "9/4/2026, 10:47:05 AM",
+    "link": "https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515",
+    "category": "Markets"
+  },
+  {
+    "title": "AMC stock jumps 21% overnight as CEO slams Robinhood over ‘outrageous’ tokenized shares",
+    "summary": "OpenAI had previously made a similar criticism of Robinhood’s tokenized equities, saying it did not approve the transfer of its shares.",
+    "source": "The Block",
+    "time": "9/4/2026, 9:59:34 AM",
+    "link": "https://www.theblock.co/news/business/2026-09-04-amc-ceo-slams-robinhood-413513",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "9/3/2026, 6:00:03 PM",
     "link": "https://www.theblock.co/news/deals/2026-09-03-diameter-pay-funding-stablecoin-payments-infrastructure-413454",
-    "category": "Markets"
-  },
-  {
-    "title": "SoFi, Payward agree to link banking network with Kraken infrastructure",
-    "summary": "SoFi Technologies partnered with Payward to connect its banking settlement network with Kraken's digital-asset infrastructure.",
-    "source": "The Block",
-    "time": "9/3/2026, 2:52:54 PM",
-    "link": "https://www.theblock.co/news/business/2026-09-03-sofi-payward-agree-to-link-banking-network-with-kraken-infrastructure-413432",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last",
-    "summary": "Glassnode is less convinced by bitcoin's recent divergence from U.S. equities, saying similar moves have previously been short-lived.",
-    "source": "The Block",
-    "time": "9/3/2026, 1:01:46 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-03-bitcoin-gold-correlation-hits-six-year-high-but-analysts-question-whether-equity-decoupling-will-last-413437",
-    "category": "Markets"
-  },
-  {
-    "title": "Michigan court orders Kalshi to keep blocking sports prediction markets",
-    "summary": "The injunction converts a temporary restraining order issued in June, and violations would result in a fine of $500,000 per day.",
-    "source": "The Block",
-    "time": "9/3/2026, 6:30:32 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422",
     "category": "Markets"
   }
 ]
