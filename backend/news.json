@@ -1,5 +1,21 @@
 [
   {
+    "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+    "summary": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
+    "source": "CoinDesk",
+    "time": "9/5/2026, 8:05:11 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+    "category": "Markets"
+  },
+  {
+    "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+    "summary": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
+    "source": "CoinDesk",
+    "time": "9/5/2026, 6:43:13 PM",
+    "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+    "category": "Markets"
+  },
+  {
     "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
     "summary": "CEL Solicitors says it has identified a wallet holding more than 5,500 BTC linked to former Intersango users.",
     "source": "CoinDesk",
@@ -45,22 +61,6 @@
     "source": "CoinDesk",
     "time": "9/4/2026, 4:12:34 PM",
     "link": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
-    "category": "Markets"
-  },
-  {
-    "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
-    "summary": "This morning's report will be key as the Fed considers whether to raise interest rates at its September policy meeting.",
-    "source": "CoinDesk",
-    "time": "9/4/2026, 2:31:47 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
-    "category": "Markets"
-  },
-  {
-    "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
-    "summary": "Your day-ahead look for Sept. 4, 2026",
-    "source": "CoinDesk",
-    "time": "9/4/2026, 1:29:05 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
     "category": "Markets"
   },
   {
@@ -128,6 +128,22 @@
     "category": "Markets"
   },
   {
+    "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
+    "summary": "At least four more decade-old wallets moved a combined $15.7 million between Aug. 29 and Sept. 4, with one batch of coins sent to Coinbase in a likely sign of a sale.",
+    "source": "Decrypt",
+    "time": "9/5/2026, 7:01:04 PM",
+    "link": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
+    "category": "Markets"
+  },
+  {
+    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+    "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+    "source": "Decrypt",
+    "time": "9/5/2026, 6:06:41 PM",
+    "link": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+    "category": "Markets"
+  },
+  {
     "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
     "summary": "The update fixes a high-severity flaw in Chrome’s V8 engine, but Google has not revealed who is using it or whom they targeted.",
     "source": "Decrypt",
@@ -176,19 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
-    "summary": "Lawyers question AMC’s grounds for a securities-law challenge, but say the tokens’ branding and marketing could leave room for a dispute.",
-    "source": "Decrypt",
-    "time": "9/4/2026, 8:36:41 PM",
-    "link": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
-    "category": "Markets"
-  },
-  {
-    "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
-    "summary": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issuance.",
-    "source": "Decrypt",
-    "time": "9/4/2026, 7:19:55 PM",
-    "link": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
+    "title": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg",
+    "summary": "Brazil's Wealth High Governance Asset Management held about $24 million worth of 21Shares' HYPE fund as of the end of June, the top HYPE ETF holder.",
+    "source": "The Block",
+    "time": "9/5/2026, 10:02:08 PM",
+    "link": "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "9/4/2026, 1:21:09 PM",
     "link": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
-    "category": "Markets"
-  },
-  {
-    "title": "Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter",
-    "summary": "OpenReserve Holdings received preliminary OCC approval for a national bank focused on onchain settlement, following a $25 million seed round.",
-    "source": "The Block",
-    "time": "9/4/2026, 12:18:40 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528",
     "category": "Markets"
   }
 ]
