@@ -1,5 +1,13 @@
 [
   {
+    "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+    "summary": "CEL Solicitors says it has identified a wallet holding more than 5,500 BTC linked to former Intersango users.",
+    "source": "CoinDesk",
+    "time": "9/5/2026, 2:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
+    "category": "Markets"
+  },
+  {
     "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
     "summary": "Daily order-book traders fell about 40% from a year ago while volume rose 79%, as the value held on XRPL climbed above $4 billion.",
     "source": "CoinDesk",
@@ -56,11 +64,19 @@
     "category": "Markets"
   },
   {
-    "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
-    "summary": "ZEC briefly traded above $1,020 as a sharp rally forced traders betting against the token out of leveraged positions.",
-    "source": "CoinDesk",
-    "time": "9/4/2026, 12:40:14 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/5/2026, 1:16:19 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+    "summary": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.",
+    "source": "CoinTelegraph",
+    "time": "9/5/2026, 12:44:29 PM",
+    "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -96,14 +112,6 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/4/2026, 8:31:34 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
     "summary": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus.",
     "source": "CoinTelegraph",
@@ -120,11 +128,19 @@
     "category": "Markets"
   },
   {
-    "title": "US law enforcement group moves to ‘neutral’ position on CLARITY Act",
-    "summary": "Despite earlier opposition to the CLARITY Act over consumer protection, the National Sheriffs’ Association says it will now “step back and allow the legislative process to proceed.“",
-    "source": "CoinTelegraph",
-    "time": "9/4/2026, 7:05:34 PM",
-    "link": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+    "summary": "The update fixes a high-severity flaw in Chrome’s V8 engine, but Google has not revealed who is using it or whom they targeted.",
+    "source": "Decrypt",
+    "time": "9/5/2026, 5:01:04 PM",
+    "link": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
+    "category": "Markets"
+  },
+  {
+    "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+    "summary": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
+    "source": "Decrypt",
+    "time": "9/5/2026, 3:01:03 PM",
+    "link": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
     "category": "Markets"
   },
   {
@@ -176,19 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets",
-    "summary": "The privacy coin's squeeze rode a Fed-driven crypto rally that reversed hours later, when a stronger-than-expected jobs report sent Bitcoin back under $80,000.",
-    "source": "Decrypt",
-    "time": "9/4/2026, 6:24:46 PM",
-    "link": "https://decrypt.co/377445/zcash-price-high-decade-shorts-rekt",
-    "category": "Markets"
-  },
-  {
-    "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
-    "summary": "The activity began in May and remained undisclosed until Friday, a day after OpenAI launched Astra and U.S. lawmakers proposed restrictions on advanced AI.",
-    "source": "Decrypt",
-    "time": "9/4/2026, 5:36:04 PM",
-    "link": "https://decrypt.co/377412/openai-agents-hack-german-website",
+    "title": "LeBron James teases Polymarket partnership in new social media video",
+    "summary": "The announcement comes after James' free agency decision generated $273 million in prediction market volume across platforms.",
+    "source": "The Block",
+    "time": "9/5/2026, 4:01:40 PM",
+    "link": "https://www.theblock.co/news/deals/2026-09-05-lebron-james-teases-polymarket-partnership-in-new-social-media-video-413608",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "9/4/2026, 12:18:40 PM",
     "link": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528",
-    "category": "Markets"
-  },
-  {
-    "title": "South Korea to start tokenizing ‘all types’ of securities in three stages from 2027",
-    "summary": "South Korea ultimately aims to allow participants to settle tokenized securities onchain with stablecoins, as part of a three-stage plan.",
-    "source": "The Block",
-    "time": "9/4/2026, 11:46:06 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-south-korea-to-start-tokenizing-all-types-of-securities-in-three-stages-from-2027-413523",
     "category": "Markets"
   }
 ]
