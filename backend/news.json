@@ -1,5 +1,29 @@
 [
   {
+    "title": "Prediction markets inch closer to the Supreme Court: State of Crypto ",
+    "summary": "New Jersey petitioned for a writ of certiorari in Kalshi's case against it last week, finally throwing the ball to the high court.",
+    "source": "CoinDesk",
+    "time": "9/6/2026, 8:30:00 PM",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+    "category": "Markets"
+  },
+  {
+    "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+    "summary": "Investigators have identified 62 victims and say more than 46 Ukrainians took part in the alleged operation.",
+    "source": "CoinDesk",
+    "time": "9/6/2026, 6:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+    "category": "Markets"
+  },
+  {
+    "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral ",
+    "summary": "Better Mortgage can reuse the pledged bitcoin, and borrowers cannot recover their crypto until the main conventional mortgage is fully repaid or refinanced.",
+    "source": "CoinDesk",
+    "time": "9/6/2026, 4:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+    "category": "Markets"
+  },
+  {
     "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
     "summary": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
     "source": "CoinDesk",
@@ -40,27 +64,19 @@
     "category": "Markets"
   },
   {
-    "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
-    "summary": "AMC boss Adam Aron called Robinhood’s stock tokens “synthetic equity” and threatened legal action. Vlad Tenev says the brokerage stands behind the product.",
-    "source": "CoinDesk",
-    "time": "9/4/2026, 4:56:00 PM",
-    "link": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/6/2026, 3:24:43 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
-    "summary": "The U.K.'s largest retail investment platform, Hargreaves Lansdown, has reversed course following the FCA's decision to lift its retail ban on crypto ETPs in October.",
-    "source": "CoinDesk",
-    "time": "9/4/2026, 4:23:11 PM",
-    "link": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
-    "category": "Markets"
-  },
-  {
-    "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
-    "summary": "The law enforcement association said it has pivoted its position regarding the Clarity Act to neutral, months after it warned against a law it said would shield crypto crime.",
-    "source": "CoinDesk",
-    "time": "9/4/2026, 4:12:34 PM",
-    "link": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
+    "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+    "summary": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
+    "source": "CoinTelegraph",
+    "time": "9/6/2026, 3:03:00 PM",
+    "link": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -72,18 +88,10 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/5/2026, 1:16:19 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
     "summary": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.",
     "source": "CoinTelegraph",
-    "time": "9/5/2026, 12:44:29 PM",
+    "time": "9/5/2026, 12:46:00 PM",
     "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
@@ -120,11 +128,35 @@
     "category": "Markets"
   },
   {
-    "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
-    "summary": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus.",
-    "source": "CoinTelegraph",
-    "time": "9/4/2026, 7:22:58 PM",
-    "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
+    "summary": "Early testers spent OpenAI's launch weekend pushing Astra through 3D cities, playable games, Bach chorales and research papers.",
+    "source": "Decrypt",
+    "time": "9/6/2026, 7:01:04 PM",
+    "link": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
+    "category": "Markets"
+  },
+  {
+    "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
+    "summary": "The multi-year deal will place the XRP logo on the field at Ben Hill Griffin Stadium starting this season, extending Ripple's push into college athletics.",
+    "source": "Decrypt",
+    "time": "9/6/2026, 6:01:03 PM",
+    "link": "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics",
+    "category": "Markets"
+  },
+  {
+    "title": "Stablecoins Won't Scale Without Banks",
+    "summary": "With a growing number of institutions exploring stablecoins, the bottleneck is regulated infrastructure they can trust.",
+    "source": "Decrypt",
+    "time": "9/6/2026, 5:01:03 PM",
+    "link": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
+    "category": "Markets"
+  },
+  {
+    "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
+    "summary": "The team behind Pencil Finance says the financing supported thousands of Southeast Asian students, but it did not disclose borrower costs, defaults, or investor returns.",
+    "source": "Decrypt",
+    "time": "9/6/2026, 3:01:04 PM",
+    "link": "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
     "category": "Markets"
   },
   {
@@ -160,35 +192,27 @@
     "category": "Markets"
   },
   {
-    "title": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
-    "summary": "Nearly 30 banks backed the rare unsecured facility as TikTok’s parent company spends heavily on AI chips, models, and overseas data centers.",
-    "source": "Decrypt",
-    "time": "9/4/2026, 11:46:03 PM",
-    "link": "https://decrypt.co/377489/tiktok-bytedance-loan-ai",
+    "title": "Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin",
+    "summary": "The Bitcoin sidechain has been paused, with exchanges suspending LBTC deposits and withdrawals as Blockstream works to contact those responsible.",
+    "source": "The Block",
+    "time": "9/6/2026, 11:14:36 PM",
+    "link": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
     "category": "Markets"
   },
   {
-    "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
-    "summary": "The group is urging organizations to adopt post-quantum security before powerful computers can compromise today’s encryption and digital signatures.",
-    "source": "Decrypt",
-    "time": "9/4/2026, 11:16:04 PM",
-    "link": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes",
+    "title": "STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter",
+    "summary": "The platform integrated with Raydium's LaunchLab on Saturday as RAY also saw gains of more than 40%.",
+    "source": "The Block",
+    "time": "9/6/2026, 10:51:40 PM",
+    "link": "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
     "category": "Markets"
   },
   {
-    "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
-    "summary": "The prediction market platform's new Perps product scaled from 10 markets to 67 on its first day—though the 20x leverage ceiling only applies to some of them, and none of it reaches U.S. traders.",
-    "source": "Decrypt",
-    "time": "9/4/2026, 10:31:03 PM",
-    "link": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood—And It's Working (Sort Of)",
-    "summary": "A meme coin called BONER cornered half of Hims & Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
-    "source": "Decrypt",
-    "time": "9/4/2026, 9:16:03 PM",
-    "link": "https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
+    "title": "Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens",
+    "summary": "The shutdown comes after attempts to commercialize, license or find a buyer for its technology failed to produce a sustainable business.",
+    "source": "The Block",
+    "time": "9/6/2026, 8:03:26 PM",
+    "link": "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "9/4/2026, 5:37:17 PM",
     "link": "https://www.theblock.co/news/business/2026-09-04-ripple-college-sports-push-xrp-partnership-florida-gators-413576",
-    "category": "Markets"
-  },
-  {
-    "title": "Trezor says ShipMonk breach affected another 67,000 customers",
-    "summary": "The newly identified records date from 2019 to 2021 and include names, emails, phone numbers, shipping addresses, and order numbers.",
-    "source": "The Block",
-    "time": "9/4/2026, 2:03:16 PM",
-    "link": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540",
-    "category": "Markets"
-  },
-  {
-    "title": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
-    "summary": "IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations.",
-    "source": "The Block",
-    "time": "9/4/2026, 1:28:46 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
-    "summary": "In contrast, Jane Street and Charles Schwab raised concerns over rushed ETF launches and confidential filings limiting market scrutiny.",
-    "source": "The Block",
-    "time": "9/4/2026, 1:21:09 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
     "category": "Markets"
   }
 ]
