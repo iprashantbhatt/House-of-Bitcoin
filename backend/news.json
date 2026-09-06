@@ -1,6 +1,6 @@
 [
   {
-    "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+    "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
     "summary": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
     "source": "CoinDesk",
     "time": "9/5/2026, 8:05:11 PM",
@@ -64,6 +64,14 @@
     "category": "Markets"
   },
   {
+    "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
+    "summary": "Tether-backed Orionx is permanently closing after an audit found more than $7 million in customer assets had moved to wallets outside its custody.",
+    "source": "CoinTelegraph",
+    "time": "9/6/2026, 11:07:08 AM",
+    "link": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
@@ -117,14 +125,6 @@
     "source": "CoinTelegraph",
     "time": "9/4/2026, 7:22:58 PM",
     "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
-    "summary": "QuFi’s new platform uses post-quantum cryptography to verify digital asset transactions without requiring changes to existing blockchain settlement networks.",
-    "source": "CoinTelegraph",
-    "time": "9/4/2026, 7:09:25 PM",
-    "link": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
