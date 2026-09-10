@@ -1,5 +1,61 @@
 [
   {
+    "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+    "summary": "The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.",
+    "source": "CoinDesk",
+    "time": "9/10/2026, 9:01:30 PM",
+    "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+    "category": "Markets"
+  },
+  {
+    "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
+    "summary": "The exchange is offering up to 10x leverage on private-company valuations alongside 100 tokenized stocks and ETFs.",
+    "source": "CoinDesk",
+    "time": "9/10/2026, 7:07:59 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
+    "category": "Markets"
+  },
+  {
+    "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
+    "summary": "ESMA said that event contracts may fall under existing EU binary-options bans, crypto-asset frameworks like MiCA or national gambling laws.",
+    "source": "CoinDesk",
+    "time": "9/10/2026, 7:03:34 PM",
+    "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
+    "category": "Markets"
+  },
+  {
+    "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
+    "summary": "Jenson becomes the prediction market’s first CFO as Polymarket builds its regulated U.S. exchange and global platform.",
+    "source": "CoinDesk",
+    "time": "9/10/2026, 6:10:03 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
+    "category": "Markets"
+  },
+  {
+    "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+    "summary": "The London-based challenger bank tapped a Canadian custodian to meet the Financial Conduct Authority’s regulatory requirements. It now expects to roll out retail tokenized deposits by November.",
+    "source": "CoinDesk",
+    "time": "9/10/2026, 5:53:24 PM",
+    "link": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
+    "summary": "Just over a quarter of Bitcoin Depot’s more than 9,200 kiosks have been sold for less than $1 million, court records show.",
+    "source": "CoinDesk",
+    "time": "9/10/2026, 5:14:49 PM",
+    "link": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto for Advisors: Hyperliquid and the future of finance",
+    "summary": "",
+    "source": "CoinDesk",
+    "time": "9/10/2026, 5:00:16 PM",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
+    "category": "Markets"
+  },
+  {
     "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
     "summary": "The remittance giant is rolling out a Visa card that lets customers hold dollars and spend from a stablecoin-backed balance.",
     "source": "CoinDesk",
@@ -8,59 +64,43 @@
     "category": "Markets"
   },
   {
-    "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
-    "summary": "The coalition warned that the current limit is too low, noting some existing European projects already exceed it.",
-    "source": "CoinDesk",
-    "time": "9/10/2026, 3:56:54 PM",
-    "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/10/2026, 11:30:00 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
-    "summary": "So-called digital arrest scams use false claims of authority to pressure victims virtually into making rapid digital payments, including cryptocurrency transactions, writes Moody's Rich Graham.",
-    "source": "CoinDesk",
-    "time": "9/10/2026, 3:00:00 PM",
-    "link": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
+    "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+    "summary": "The EU securities regulator flagged tokenized equities, DeFi exploits and prediction markets as areas where growing crypto ties could pose risks to the broader financial system.",
+    "source": "CoinTelegraph",
+    "time": "9/10/2026, 10:10:29 PM",
+    "link": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
-    "summary": "A paper shared with CoinDesk shows humans and AI agents beating Google’s March result on a core calculation used by Shor’s algorithm, adding another variable to crypto’s quantum clock.",
-    "source": "CoinDesk",
-    "time": "9/10/2026, 3:00:00 PM",
-    "link": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
+    "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+    "summary": "The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoins, tokenized securities and digital financial infrastructure.",
+    "source": "CoinTelegraph",
+    "time": "9/10/2026, 7:54:12 PM",
+    "link": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks",
-    "summary": "Pablo Hernandez cited historical railway and dot-com bubbles to caution that spending driven by hype over actual profits risks broad economic corrections.",
-    "source": "CoinDesk",
-    "time": "9/10/2026, 2:00:36 PM",
-    "link": "https://www.coindesk.com/business/2026/09/10/ai-s-rapid-rise-poses-global-financial-stability-risks-says-head-of-the-bis",
+    "title": "Liquid Network resumes block production after $320M exploit",
+    "summary": "Liquid restarted block production after deploying emergency software updates, though transactions and peg operations remain suspended as recovery efforts continue.",
+    "source": "CoinTelegraph",
+    "time": "9/10/2026, 6:38:16 PM",
+    "link": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
-    "summary": "Long-term yields moved higher despite a $6 billion Treasury buyback, as debt concerns and rising oil prices continue to pressure global bond markets.",
-    "source": "CoinDesk",
-    "time": "9/10/2026, 1:47:41 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/10/scott-bessent-doubles-down-on-bond-buybacks-as-treasury-yields-continue-to-surge",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
-    "summary": "Bybit has an electronic money institution license in Austria and is about to snag a MiFID license too, CEO Ben Zhou told Coindesk.",
-    "source": "CoinDesk",
-    "time": "9/10/2026, 1:36:01 PM",
-    "link": "https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives",
-    "category": "Markets"
-  },
-  {
-    "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
-    "summary": "The investment expands a strategic partnership to bring tokenized, voting-enabled equities to crypto exchange users.",
-    "source": "CoinDesk",
-    "time": "9/10/2026, 1:21:21 PM",
-    "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
+    "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+    "summary": "MoneyGram is following rival Western Union’s lead, rolling out a Visa stablecoin debit card as it expands blockchain-based payments.",
+    "source": "CoinTelegraph",
+    "time": "9/10/2026, 5:59:37 PM",
+    "link": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -88,43 +128,59 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/10/2026, 3:20:26 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
+    "summary": "The draft adds registration requirements for controlled trading protocols and leaves its ethics provisions largely unchanged.",
+    "source": "Decrypt",
+    "time": "9/10/2026, 11:18:48 PM",
+    "link": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
     "category": "Markets"
   },
   {
-    "title": "Solana sees record 263K tokens issued in a single day",
-    "summary": "Memecoin platform Pump.fun accounted for most of the new tokens among launchpads, as the Solana network notched a new all-time daily issuance high.",
-    "source": "CoinTelegraph",
-    "time": "9/10/2026, 3:00:00 PM",
-    "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+    "summary": "OpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheaper.",
+    "source": "Decrypt",
+    "time": "9/10/2026, 11:16:03 PM",
+    "link": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
     "category": "Markets"
   },
   {
-    "title": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
-    "summary": "Jon Cunliffe, Jochen Metzger and Ron Berndsen join Fnality Europe’s supervisory board as the company works to expand beyond its sterling payment system.",
-    "source": "CoinTelegraph",
-    "time": "9/10/2026, 2:02:16 PM",
-    "link": "https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+    "summary": "The ECDSA.Fail challenge cut a resource benchmark for one component of a potential quantum attack by 86%.",
+    "source": "Decrypt",
+    "time": "9/10/2026, 10:34:50 PM",
+    "link": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
     "category": "Markets"
   },
   {
-    "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
-    "summary": "Nasdaq invested $100 million in Payward as part of its push toward tokenized stock products with round-the-clock trading.",
-    "source": "CoinTelegraph",
-    "time": "9/10/2026, 1:41:00 PM",
-    "link": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+    "summary": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
+    "source": "Decrypt",
+    "time": "9/10/2026, 8:51:04 PM",
+    "link": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
     "category": "Markets"
   },
   {
-    "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
-    "summary": "Secretary Scott Bessent warned that failing to pass the CLARITY Act would send a “troubling signal” about America’s leadership in the digital asset industry.",
-    "source": "CoinTelegraph",
-    "time": "9/10/2026, 12:20:00 PM",
-    "link": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
+    "summary": "Bitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern on its chart is about to flip for the first time since November.",
+    "source": "Decrypt",
+    "time": "9/10/2026, 8:46:04 PM",
+    "link": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
+    "category": "Markets"
+  },
+  {
+    "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+    "summary": "The Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned downtime for urgent fixes.",
+    "source": "Decrypt",
+    "time": "9/10/2026, 8:13:13 PM",
+    "link": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
+    "category": "Markets"
+  },
+  {
+    "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
+    "summary": "Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.",
+    "source": "Decrypt",
+    "time": "9/10/2026, 7:07:50 PM",
+    "link": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
     "category": "Markets"
   },
   {
@@ -136,59 +192,27 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
-    "summary": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
-    "source": "Decrypt",
-    "time": "9/10/2026, 3:04:27 PM",
-    "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
+    "title": "Bitwise shuts down Dogecoin ETF less than a year after launch",
+    "summary": "BWOW generated about $3 million in trading volume when it launched in November 2025, but has failed to come anywhere close ever since.",
+    "source": "The Block",
+    "time": "9/10/2026, 10:28:46 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184",
     "category": "Markets"
   },
   {
-    "title": "Morning Minute: Hunter Biden’s LAPTOP Crashes",
-    "summary": "The meme coin plunged on its debut, as recent alt leaders and many onchain darlings slipped in a nasty day for crypto.",
-    "source": "Decrypt",
-    "time": "9/10/2026, 2:10:48 PM",
-    "link": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes",
+    "title": "Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week",
+    "summary": "Ahead of a pivotal initial vote next week, Senate Republicans released a revised version of landmark cryptocurrency legislation.",
+    "source": "The Block",
+    "time": "9/10/2026, 9:42:06 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
     "category": "Markets"
   },
   {
-    "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
-    "summary": "Deutsche Börse's April stake implied a $13.3 billion valuation. Five months on, Nasdaq is paying at $21 billion.",
-    "source": "Decrypt",
-    "time": "9/10/2026, 1:28:55 PM",
-    "link": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation",
-    "category": "Markets"
-  },
-  {
-    "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
-    "summary": "Buterin wants EIP-8288 in I-star, the upgrade after Hegota, and adopting it would make RISC-V Ethereum's canonical instruction set.",
-    "source": "Decrypt",
-    "time": "9/10/2026, 12:11:52 PM",
-    "link": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
-    "summary": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users’ recovery phrases.",
-    "source": "Decrypt",
-    "time": "9/10/2026, 1:02:23 AM",
-    "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
-    "category": "Markets"
-  },
-  {
-    "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
-    "summary": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
-    "source": "Decrypt",
-    "time": "9/9/2026, 10:31:29 PM",
-    "link": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-    "summary": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
-    "source": "Decrypt",
-    "time": "9/9/2026, 8:56:58 PM",
-    "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
+    "title": "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short",
+    "summary": "The wallet now supports more than 10 networks, including Robinhood Chain and Monad, plus perps, prediction markets, and tokenized stocks.",
+    "source": "The Block",
+    "time": "9/10/2026, 8:00:00 PM",
+    "link": "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "9/10/2026, 3:00:00 PM",
     "link": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
-    "category": "Markets"
-  },
-  {
-    "title": "Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership",
-    "summary": "Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expanding their tokenized equity infrastructure partnership.",
-    "source": "The Block",
-    "time": "9/10/2026, 2:53:22 PM",
-    "link": "https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120",
-    "category": "Markets"
-  },
-  {
-    "title": "Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years",
-    "summary": "Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two years, saying the current cycle may have bottomed.",
-    "source": "The Block",
-    "time": "9/10/2026, 12:31:54 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104",
-    "category": "Markets"
-  },
-  {
-    "title": "Hunter Biden’s LAPTOP team cites sniper bots, thin liquidity for 99% crash on launch day",
-    "summary": "The LAPTOP project said it will add pool incentives and expects early prediction-market burns to cut supply.",
-    "source": "The Block",
-    "time": "9/10/2026, 7:28:17 AM",
-    "link": "https://www.theblock.co/news/defi/2026-09-10-hunter-bidens-laptop-sniper-bots-414095",
     "category": "Markets"
   }
 ]
