@@ -1,6 +1,6 @@
 [
   {
-    "title": "Robinhood’s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+    "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
     "summary": "Tenev told CNBC's \"Squawk Box\" on Wednesday that public companies shouldn't have veto power over third-party securities that reference their shares.",
     "source": "CoinDesk",
     "time": "9/9/2026, 6:11:07 PM",
@@ -128,6 +128,14 @@
     "category": "Markets"
   },
   {
+    "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
+    "summary": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users’ recovery phrases.",
+    "source": "Decrypt",
+    "time": "9/10/2026, 1:02:23 AM",
+    "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+    "category": "Markets"
+  },
+  {
     "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
     "summary": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
     "source": "Decrypt",
@@ -184,11 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
-    "summary": "LAPTOP hit a $190.81 peak within minutes of launching on Base, then shed roughly 99% as thin liquidity met a wave of selling.",
-    "source": "Decrypt",
-    "time": "9/9/2026, 5:47:09 PM",
-    "link": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
+    "title": "Trezor says third-party security breach led to phishing emails from legitimate domain",
+    "summary": "This follows last month's security breach at shipping provider ShipMonk, which exposed the personal information of Trezor customers.",
+    "source": "The Block",
+    "time": "9/10/2026, 4:26:58 AM",
+    "link": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "9/9/2026, 4:54:15 PM",
     "link": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
-    "category": "Markets"
-  },
-  {
-    "title": "Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs",
-    "summary": "A group of crypto firms has launched Charter Foundation to offer a new framework to help founders reduce the cost of launching tokens.",
-    "source": "The Block",
-    "time": "9/9/2026, 4:49:03 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023",
     "category": "Markets"
   }
 ]
