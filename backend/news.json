@@ -1,5 +1,37 @@
 [
   {
+    "title": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
+    "summary": "The prediction-market operator plans to seek U.S. approval for about 60 stock and ETF perps, taking one of crypto's biggest trading products into equities.",
+    "source": "CoinDesk",
+    "time": "9/11/2026, 8:17:31 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them",
+    "category": "Markets"
+  },
+  {
+    "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
+    "summary": "SEBI’s Demat 2.0 pilot turns corporate bonds into digital tokens and settles payment through the RBI’s wholesale digital rupee, with secondary trading and retail access expected in later phases.",
+    "source": "CoinDesk",
+    "time": "9/11/2026, 7:13:15 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
+    "summary": "Ninety-five of the CoinDesk 100 fell over the past 24 hours, and bitcoin has shed more than 5% on the week.",
+    "source": "CoinDesk",
+    "time": "9/11/2026, 6:46:15 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
+    "category": "Markets"
+  },
+  {
+    "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
+    "summary": "The software can monitor cash, risk and forecasts and suggest financial moves, but humans still have to approve every action.",
+    "source": "CoinDesk",
+    "time": "9/11/2026, 6:25:21 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
+    "category": "Markets"
+  },
+  {
     "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
     "summary": "The Clarity Act needs 60 votes when the Senate returns from its recess next week. Republicans circulated a fresh draft on Thursday ahead of the vote.",
     "source": "CoinDesk",
@@ -32,35 +64,59 @@
     "category": "Markets"
   },
   {
-    "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
-    "summary": "Jenson becomes the prediction market’s first CFO as Polymarket builds its regulated U.S. exchange and global platform.",
-    "source": "CoinDesk",
-    "time": "9/10/2026, 6:10:03 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
+    "title": "Anthropic says Claude used for cyberattacks and surveillance",
+    "summary": "A Russian-speaking operator targeted more than 20 organizations, while a Mali consultant used Claude to build a mass-surveillance platform.",
+    "source": "CoinTelegraph",
+    "time": "9/11/2026, 11:47:31 AM",
+    "link": "https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
-    "summary": "The London-based challenger bank tapped a Canadian custodian to meet the Financial Conduct Authority’s regulatory requirements. It now expects to roll out retail tokenized deposits by November.",
-    "source": "CoinDesk",
-    "time": "9/10/2026, 5:53:24 PM",
-    "link": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
+    "title": "Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC",
+    "summary": "Blockstream said it would work with law enforcement, exchanges and forensic specialists to recover the Bitcoin if the hackers do not return it.",
+    "source": "CoinTelegraph",
+    "time": "9/11/2026, 10:43:19 AM",
+    "link": "https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
-    "summary": "Just over a quarter of Bitcoin Depot’s more than 9,200 kiosks have been sold for less than $1 million, court records show.",
-    "source": "CoinDesk",
-    "time": "9/10/2026, 5:14:49 PM",
-    "link": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
+    "title": "Bitwise to put down Dogecoin ETF less than a year after launch",
+    "summary": "BWOW held about $688,000 in net assets as of Sept. 9. Trading is expected to end Oct. 14, with cash payouts to follow around Oct. 22.",
+    "source": "CoinTelegraph",
+    "time": "9/11/2026, 9:47:13 AM",
+    "link": "https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Crypto for Advisors: Hyperliquid and the future of finance",
-    "summary": "",
-    "source": "CoinDesk",
-    "time": "9/10/2026, 5:00:16 PM",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
+    "title": "SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report",
+    "summary": "Bankman-Fried’s lawyers challenged the exclusion of evidence about customer losses and argued that his $11 billion forfeiture was excessive.",
+    "source": "CoinTelegraph",
+    "time": "9/11/2026, 9:43:19 AM",
+    "link": "https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/11/2026, 8:14:41 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Revised CLARITY Act targets ‘non-decentralized’ DeFi operators",
+    "summary": "The bill’s ethics section remained largely unchanged despite being one of the main points of contention ahead of a pivotal Senate vote.",
+    "source": "CoinTelegraph",
+    "time": "9/11/2026, 8:08:26 AM",
+    "link": "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
+    "summary": "Trezor told Cointelegraph that the phishing email was sent to 347,000 subscribers and said it is treating every address as “known to the attacker and possibly reusable for phishing.”",
+    "source": "CoinTelegraph",
+    "time": "9/11/2026, 6:21:14 AM",
+    "link": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -72,59 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/10/2026, 11:30:00 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
-    "summary": "The EU securities regulator flagged tokenized equities, DeFi exploits and prediction markets as areas where growing crypto ties could pose risks to the broader financial system.",
-    "source": "CoinTelegraph",
-    "time": "9/10/2026, 10:10:29 PM",
-    "link": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
-    "summary": "The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoins, tokenized securities and digital financial infrastructure.",
-    "source": "CoinTelegraph",
-    "time": "9/10/2026, 7:54:12 PM",
-    "link": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Liquid Network resumes block production after $320M exploit",
-    "summary": "Liquid restarted block production after deploying emergency software updates, though transactions and peg operations remain suspended as recovery efforts continue.",
-    "source": "CoinTelegraph",
-    "time": "9/10/2026, 6:38:16 PM",
-    "link": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
-    "summary": "MoneyGram is following rival Western Union’s lead, rolling out a Visa stablecoin debit card as it expands blockchain-based payments.",
-    "source": "CoinTelegraph",
-    "time": "9/10/2026, 5:59:37 PM",
-    "link": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "EU finance groups push to remove tokenized securities cap",
-    "summary": "European finance and tokenization groups say Brussels should remove limits on assets admitted to DLT infrastructure or set a 1.5 trillion euro baseline if a cap remains.",
-    "source": "CoinTelegraph",
-    "time": "9/10/2026, 5:49:22 PM",
-    "link": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
-    "summary": "Bitcoin fell with US stocks as high inflation and a further surge in oil prices coincided with another multidecade high for US bond yields.",
-    "source": "CoinTelegraph",
-    "time": "9/10/2026, 4:52:15 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
+    "summary": "SBF’s lawyers say he was barred from arguing customers lost nothing, and call the $11 billion forfeiture an \"crushing fine.\"",
+    "source": "Decrypt",
+    "time": "9/11/2026, 11:04:11 AM",
+    "link": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction",
     "category": "Markets"
   },
   {
@@ -184,11 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
-    "summary": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
-    "source": "Decrypt",
-    "time": "9/10/2026, 5:33:11 PM",
-    "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
+    "title": "Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture",
+    "summary": "Bankman-Fried says he was unfairly barred from providing evidence that FTX had more than enough assets to cover losses from the collapse.",
+    "source": "The Block",
+    "time": "9/11/2026, 6:20:15 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "9/10/2026, 3:43:09 PM",
     "link": "https://www.theblock.co/news/regulation/2026-09-10-citadel-urges-sec-assert-oversight-event-contracts-tied-public-firms-414140",
-    "category": "Markets"
-  },
-  {
-    "title": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
-    "summary": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.",
-    "source": "The Block",
-    "time": "9/10/2026, 3:00:00 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
     "category": "Markets"
   }
 ]
