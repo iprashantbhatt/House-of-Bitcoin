@@ -1,5 +1,21 @@
 [
   {
+    "title": "Is Clarity dead? A vibes-based analysis: State of Crypto ",
+    "summary": "I dunno, flip a coin.",
+    "source": "CoinDesk",
+    "time": "9/13/2026, 8:45:08 PM",
+    "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+    "category": "Markets"
+  },
+  {
+    "title": "Quantum-proof blockchain: why math, not machines, holds the key ",
+    "summary": "lockchains don’t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel Médard. Classic math already gives us the tools.",
+    "source": "CoinDesk",
+    "time": "9/13/2026, 7:00:00 PM",
+    "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
+    "category": "Markets"
+  },
+  {
     "title": "Fed rate hike is about Wall Street, not inflation, says economist",
     "summary": "Goldman Sachs late Friday became the last of the major banks to retract its forecast of no rate hike next week.",
     "source": "CoinDesk",
@@ -48,19 +64,11 @@
     "category": "Markets"
   },
   {
-    "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
-    "summary": "Anthropic’s Dario Amodei, OpenAI’s Sam Altman and Elon Musk have agreed on an unusual position: frontier AI development may need to slow as systems become capable of helping build their own successors.",
-    "source": "CoinDesk",
-    "time": "9/12/2026, 8:43:33 PM",
-    "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
-    "category": "Markets"
-  },
-  {
-    "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-    "summary": "Payments and capital markets are driving growth for Ripple's $2.4 billion digital dollar as it looks to bring RLUSD to Europe under MiCA, the firm's Jack McDonald said.",
-    "source": "CoinDesk",
-    "time": "9/12/2026, 6:00:00 PM",
-    "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/13/2026, 6:47:53 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -77,14 +85,6 @@
     "source": "CoinTelegraph",
     "time": "9/13/2026, 11:27:21 AM",
     "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/12/2026, 6:09:41 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,22 @@
     "category": "Markets"
   },
   {
+    "title": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty",
+    "summary": "Blockchain security firm Blockaid said roughly 46.1 billion syBTC were minted but the attacker realized only about $336,000 in proceeds.",
+    "source": "The Block",
+    "time": "9/13/2026, 11:51:11 PM",
+    "link": "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568",
+    "category": "Markets"
+  },
+  {
+    "title": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering",
+    "summary": "Reuters reported that the site was the fourth crypto farm discovered in the area since early 2025, near a local hydroelectric dam.",
+    "source": "The Block",
+    "time": "9/13/2026, 8:29:23 PM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564",
+    "category": "Markets"
+  },
+  {
     "title": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
     "summary": "Bitcoin's outlook remains bullish, but it needs to clear a significant range of resistance levels stretching to $88,700, CryptoQuant said.",
     "source": "The Block",
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "9/11/2026, 6:48:11 PM",
     "link": "https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280",
-    "category": "Markets"
-  },
-  {
-    "title": "Metaplanet reverses course on executive options with 41% cut to potential shares, scraps employee warrant plan",
-    "summary": "The changes come amid a bruising stretch for Metaplanet shares, as stock fell about 17% over two trading sessions this week.",
-    "source": "The Block",
-    "time": "9/11/2026, 5:45:25 PM",
-    "link": "https://www.theblock.co/news/business/2026-09-11-metaplanet-reverses-course-executive-options-41-cut-potential-shares-scraps-employee-warrant-plan-414265",
-    "category": "Markets"
-  },
-  {
-    "title": "India’s SEBI Demat 2.0 pilot debuts with over $100 million in tokenized bonds",
-    "summary": "India's SEBI Demat 2.0 pilot saw three issuers raise over $100 million in tokenized corporate bonds, with settlement via wholesale CBDC.",
-    "source": "The Block",
-    "time": "9/11/2026, 2:09:12 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-11-indias-sebi-demat-2-0-pilot-debuts-with-over-100-million-in-tokenized-bonds-414252",
     "category": "Markets"
   }
 ]
