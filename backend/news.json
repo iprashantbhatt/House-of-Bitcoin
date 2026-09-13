@@ -1,5 +1,29 @@
 [
   {
+    "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+    "summary": "Goldman Sachs late Friday became the last of the major banks to retract its forecast of no rate hike next week.",
+    "source": "CoinDesk",
+    "time": "9/13/2026, 3:00:00 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+    "category": "Markets"
+  },
+  {
+    "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+    "summary": "Stablecoins' “next battleground is in emerging markets,” one expert said, as Circle looks to expand USDC's reach where rival Tether has long been strong.",
+    "source": "CoinDesk",
+    "time": "9/13/2026, 3:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+    "summary": "The crypto industry eagerly awaits a September 15 vote, though it might not happen. Or maybe it will. Or it might get delayed or reappear in some other form.",
+    "source": "CoinDesk",
+    "time": "9/13/2026, 2:00:00 PM",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+    "category": "Markets"
+  },
+  {
     "title": "OpenAI IPO won't happen this year, says Sam Altman",
     "summary": "\"Given everything happening with safety, right now would be an ill-advised moment to go public,\" OpenAI CEO Sam Altman told Fortune.",
     "source": "CoinDesk",
@@ -40,27 +64,11 @@
     "category": "Markets"
   },
   {
-    "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
-    "summary": "Bitcoin Suisse says rising AI investment, government debt and weakening stock-bond diversification strengthen the case for adding bitcoin to traditional portfolios.",
-    "source": "CoinDesk",
-    "time": "9/12/2026, 6:00:00 PM",
-    "link": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
-    "category": "Markets"
-  },
-  {
-    "title": "Staked ether should be seen as the benchmark of the decentralized economy",
-    "summary": "The yield-generating asset has a special place in the digital asset investor’s portfolio, argues GlobalStake’s Ryan Haczynski.",
-    "source": "CoinDesk",
-    "time": "9/12/2026, 4:00:00 PM",
-    "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-    "summary": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost.",
-    "source": "CoinDesk",
-    "time": "9/12/2026, 12:11:01 PM",
-    "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+    "title": "Anthropic chief urges slowdown in AI development to safer pace",
+    "summary": "OpenAI CEO Sam Altman agrees with safety concerns regarding AI development, says no initial share sale this year.",
+    "source": "CoinTelegraph",
+    "time": "9/13/2026, 1:09:54 PM",
+    "link": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -120,11 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-    "summary": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.",
-    "source": "CoinTelegraph",
-    "time": "9/11/2026, 6:05:15 PM",
-    "link": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "AI Agents Spending Money Online? New Research Says Not Really",
+    "summary": "TRM examined roughly $52.7 million across 198.9 million settlements using the x402 protocol. Most of it isn’t coming from AI agents, it says.",
+    "source": "Decrypt",
+    "time": "9/13/2026, 3:01:03 PM",
+    "link": "https://decrypt.co/378103/ai-agents-spending-money-research",
     "category": "Markets"
   },
   {
@@ -181,14 +189,6 @@
     "source": "Decrypt",
     "time": "9/11/2026, 10:53:39 PM",
     "link": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
-    "category": "Markets"
-  },
-  {
-    "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-    "summary": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
-    "source": "Decrypt",
-    "time": "9/11/2026, 8:16:04 PM",
-    "link": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
     "category": "Markets"
   },
   {
