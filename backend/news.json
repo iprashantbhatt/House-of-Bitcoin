@@ -1,5 +1,21 @@
 [
   {
+    "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
+    "summary": "The regulator is moving ahead with crypto market rules as the SEC also opens a new path for tokenized stock trading.",
+    "source": "CoinDesk",
+    "time": "9/18/2026, 5:16:37 PM",
+    "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+    "summary": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
+    "source": "CoinDesk",
+    "time": "9/18/2026, 5:06:31 PM",
+    "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+    "category": "Markets"
+  },
+  {
     "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
     "summary": "Targeting Americans based on what their spending habits can tell us about their politics is an abuse of our financial system, writes Coin Center’s Laz Pieper.",
     "source": "CoinDesk",
@@ -48,27 +64,59 @@
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin climbs above $78,000 early Friday",
-    "summary": "Bitcoin recovered from $75,972 overnight to just below $78,000, a third straight day of gains.",
-    "source": "CoinDesk",
-    "time": "9/18/2026, 11:49:51 AM",
-    "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
-    "category": "Markets"
-  },
-  {
-    "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
-    "summary": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
-    "source": "CoinDesk",
-    "time": "9/18/2026, 9:37:32 AM",
-    "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
-    "category": "Markets"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "9/18/2026, 3:34:11 PM",
+    "time": "9/18/2026, 11:00:00 PM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Coinbase files to bring single-stock perpetual futures to US market",
+    "summary": "Coinbase wants to bring 24/5 perpetual futures trading to individual US stocks, with its proposed contracts now awaiting regulatory approval.",
+    "source": "CoinTelegraph",
+    "time": "9/18/2026, 9:53:54 PM",
+    "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Binance launches 24/7 FX perps with weekend pricing system",
+    "summary": "Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign exchange markets through perpetual futures.",
+    "source": "CoinTelegraph",
+    "time": "9/18/2026, 9:06:30 PM",
+    "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto stocks rebound after CLARITY Act selloff",
+    "summary": "Coinbase, Strategy and other crypto-linked stocks rallied Friday as the CFTC and SEC moved ahead with crypto-related actions under existing authority.",
+    "source": "CoinTelegraph",
+    "time": "9/18/2026, 7:55:57 PM",
+    "link": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "CFTC submits crypto market regulation plan for White House review  ",
+    "summary": "The US commodities regulator submitted a new crypto market regulatory action for White House review days after the Senate failed to advance the CLARITY Act.",
+    "source": "CoinTelegraph",
+    "time": "9/18/2026, 6:04:22 PM",
+    "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
+    "summary": "Bitcoin price action made swift gains at the start of Friday’s Wall Street trading session as US 30-year bond yields began rising again.",
+    "source": "CoinTelegraph",
+    "time": "9/18/2026, 5:35:59 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
+    "summary": "Banks now represent nearly one in four providers on ESMA’s MiCA register after roughly doubling their presence since late June.",
+    "source": "CoinTelegraph",
+    "time": "9/18/2026, 4:04:43 PM",
+    "link": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -80,51 +128,51 @@
     "category": "Markets"
   },
   {
-    "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
-    "summary": "HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bitcoin collateral.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 1:54:24 PM",
-    "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+    "summary": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
+    "source": "Decrypt",
+    "time": "9/18/2026, 11:01:30 PM",
+    "link": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
     "category": "Markets"
   },
   {
-    "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
-    "summary": "Industry watchers are debating the fate of the Zcash development fund after the ZEC token’s rally pushed its value above $95 million.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 1:22:24 PM",
-    "link": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Zcash Is Running—Devs Want to Make It Faster",
+    "summary": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
+    "source": "Decrypt",
+    "time": "9/18/2026, 9:16:03 PM",
+    "link": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
-    "summary": "The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin’s history.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 12:46:17 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
+    "summary": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
+    "source": "Decrypt",
+    "time": "9/18/2026, 8:35:54 PM",
+    "link": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
     "category": "Markets"
   },
   {
-    "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
-    "summary": "Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backed by Japan’s SBI Group.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 11:14:03 AM",
-    "link": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
+    "summary": "XRP is roaring back as Bitcoin claws its way above $800,000 again, but the charts continue to give traders mixed signals.",
+    "source": "Decrypt",
+    "time": "9/18/2026, 6:42:32 PM",
+    "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
     "category": "Markets"
   },
   {
-    "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
-    "summary": "Binance declined to address reports of ECB intervention in its Greek MiCA bid, saying it remains committed to securing authorization in Europe.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 10:50:38 AM",
-    "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
+    "summary": "The agency submitted a prerule on crypto asset transactions and markets to the White House for review, signaling it will build a derivatives framework on its own authority after the Clarity Act's collapse.",
+    "source": "Decrypt",
+    "time": "9/18/2026, 6:08:13 PM",
+    "link": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
-    "summary": "Onchain analyst James Check says Bitcoin may have bottomed near $58,000 after two capitulations and warns against anchoring to an October low.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 10:47:20 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
+    "summary": "Bitcoin just ripped 5.88% higher in a single session, tearing back toward its 2026 highs. The charts say the move is real, but they also say it's gotten ahead of itself.",
+    "source": "Decrypt",
+    "time": "9/18/2026, 5:22:49 PM",
+    "link": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
     "category": "Markets"
   },
   {
@@ -144,51 +192,19 @@
     "category": "Markets"
   },
   {
-    "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
-    "summary": "Investigators say tracing the network's crypto transactions exposed links to organized crime and murder-for-hire.",
-    "source": "Decrypt",
-    "time": "9/18/2026, 11:57:33 AM",
-    "link": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
+    "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
+    "summary": "The moves comes as the SEC and CFTC advance crypto-related rulemaking despite the Clarity Act stalling in the Senate.",
+    "source": "The Block",
+    "time": "9/18/2026, 5:27:41 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
     "category": "Markets"
   },
   {
-    "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
-    "summary": "OFAC says hundreds of millions of dollars in Bitcoin moved through BitBank to the Revolutionary Guards in two months.",
-    "source": "Decrypt",
-    "time": "9/18/2026, 11:01:55 AM",
-    "link": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
-    "category": "Markets"
-  },
-  {
-    "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
-    "summary": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
-    "source": "Decrypt",
-    "time": "9/18/2026, 12:31:03 AM",
-    "link": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
-    "category": "Markets"
-  },
-  {
-    "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
-    "summary": "Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.",
-    "source": "Decrypt",
-    "time": "9/17/2026, 11:46:03 PM",
-    "link": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
-    "category": "Markets"
-  },
-  {
-    "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
-    "summary": "SpaceX's AI division has held internal talks about buying customer records from dead startups—cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
-    "source": "Decrypt",
-    "time": "9/17/2026, 11:16:03 PM",
-    "link": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
-    "category": "Markets"
-  },
-  {
-    "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
-    "summary": "Chipotle is piloting a Palantir-built food safety dashboard after a summer of outbreaks, putting employee data in the hands of a company seeded by the CIA's venture arm.",
-    "source": "Decrypt",
-    "time": "9/17/2026, 10:46:03 PM",
-    "link": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
+    "title": "Grayscale’s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
+    "summary": "The Grayscale Zcash ETF (ZCSH) nears $890 million in assets as ZEC’s rally pushes mining competition to record highs.",
+    "source": "The Block",
+    "time": "9/18/2026, 5:09:09 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
     "category": "Markets"
   },
   {
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "9/17/2026, 7:48:51 PM",
     "link": "https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421",
-    "category": "Markets"
-  },
-  {
-    "title": "As RWA trading surges on Hyperliquid, Dragonfly’s Qureshi makes the case for a multichain future",
-    "summary": "Dragonfly's Haseeb Qureshi said the shift reflects crypto's broader maturation toward tokenized stocks, bonds, and other real-world assets.",
-    "source": "The Block",
-    "time": "9/17/2026, 7:21:07 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-17-as-rwa-trading-surges-hyperliquid-dragonflys-qureshi-makes-case-multichain-future-415406",
-    "category": "Markets"
-  },
-  {
-    "title": "Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance",
-    "summary": "Software developers who build crypto trading tools just got some breathing room from the Commodity Futures Trading Commission.",
-    "source": "The Block",
-    "time": "9/17/2026, 6:50:22 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425",
     "category": "Markets"
   }
 ]
