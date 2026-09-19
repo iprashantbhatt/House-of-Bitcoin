@@ -1,5 +1,29 @@
 [
   {
+    "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+    "summary": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
+    "source": "CoinDesk",
+    "time": "9/19/2026, 2:13:57 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+    "category": "Markets"
+  },
+  {
+    "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+    "summary": "Seven-day average fees fell 82% while transaction counts slipped 6%, with about $1.5 billion a day still changing hands.",
+    "source": "CoinDesk",
+    "time": "9/19/2026, 2:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+    "category": "Markets"
+  },
+  {
+    "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+    "summary": "JPMorgan and Citi move billions in tokenized deposits, but only among their branches. A U.K. challenger bank is about to do something neither has done.",
+    "source": "CoinDesk",
+    "time": "9/19/2026, 2:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+    "category": "Markets"
+  },
+  {
     "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
     "summary": "The regulator is moving ahead with crypto market rules as the SEC also opens a new path for tokenized stock trading.",
     "source": "CoinDesk",
@@ -40,27 +64,19 @@
     "category": "Markets"
   },
   {
-    "title": "XRP on the brink of a golden cross as focus switches to altcoins",
-    "summary": "Your day-ahead look for Sept. 18, 2026",
-    "source": "CoinDesk",
-    "time": "9/18/2026, 1:15:00 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
+    "title": "Bastion wins conditional OCC approval for national trust bank charter",
+    "summary": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.",
+    "source": "CoinTelegraph",
+    "time": "9/19/2026, 1:47:29 PM",
+    "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
-    "summary": "Starknet and arbitrum gained more than 17% while the 10-year Treasury yield slipped back below 5%, with 98 of CoinDesk 100 constituents advancing.",
-    "source": "CoinDesk",
-    "time": "9/18/2026, 12:33:05 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
-    "summary": "Bitcoin is down just 1.5% in its historically weakest month and remains on track for its first quarterly gain in a year, despite rising rates, surging oil and a stronger dollar.",
-    "source": "CoinDesk",
-    "time": "9/18/2026, 12:07:33 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
+    "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+    "summary": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
+    "source": "CoinTelegraph",
+    "time": "9/19/2026, 9:50:58 AM",
+    "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -112,19 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
-    "summary": "Banks now represent nearly one in four providers on ESMA’s MiCA register after roughly doubling their presence since late June.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 4:04:43 PM",
-    "link": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times",
-    "summary": "The non-profit signaled support for reducing Ethereum block times, citing increasing institutional activity moving onto the smart-contract network.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 2:40:04 PM",
-    "link": "https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
+    "summary": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
+    "source": "Decrypt",
+    "time": "9/19/2026, 3:01:04 PM",
+    "link": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
     "category": "Markets"
   },
   {
@@ -181,14 +189,6 @@
     "source": "Decrypt",
     "time": "9/18/2026, 2:52:03 PM",
     "link": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
-    "category": "Markets"
-  },
-  {
-    "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
-    "summary": "It came just hours after S&P Global announced its acquisition of OpenZeppelin, as everything TradFi moves onchain.",
-    "source": "Decrypt",
-    "time": "9/18/2026, 2:34:50 PM",
-    "link": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
     "category": "Markets"
   },
   {
