@@ -1,5 +1,29 @@
 [
   {
+    "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
+    "summary": "U.S. agencies are racing to substitute their regulations for the law that was meant to set crypto markets in governmental bedrock, but will the stand-ins last?",
+    "source": "CoinDesk",
+    "time": "9/19/2026, 6:00:00 PM",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
+    "category": "Markets"
+  },
+  {
+    "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+    "summary": "Marc van der Chijs sold much of his bitcoin to invest in AI. Now, growing concerns about the technology accompany a move to put some profits back into crypto.",
+    "source": "CoinDesk",
+    "time": "9/19/2026, 4:00:00 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+    "category": "Markets"
+  },
+  {
+    "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+    "summary": "The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an extensive security review.",
+    "source": "CoinDesk",
+    "time": "9/19/2026, 3:39:15 PM",
+    "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+    "category": "Markets"
+  },
+  {
     "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
     "summary": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
     "source": "CoinDesk",
@@ -40,27 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
-    "summary": "Targeting Americans based on what their spending habits can tell us about their politics is an abuse of our financial system, writes Coin Center’s Laz Pieper.",
-    "source": "CoinDesk",
-    "time": "9/18/2026, 3:00:00 PM",
-    "link": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+    "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+    "summary": "The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.",
+    "source": "CoinTelegraph",
+    "time": "9/19/2026, 9:14:38 PM",
+    "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
-    "summary": "Although the ECB holds no formal licensing authority under MiCA, high-level intervention led Greece to stall an application that regulators had previously deemed complete, the Journal said.",
-    "source": "CoinDesk",
-    "time": "9/18/2026, 2:57:06 PM",
-    "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+    "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
+    "summary": "Kalshi’s proposal would bring perpetual futures tied to individual stocks to US traders, as Coinbase and Bitnomial pursue similar products.",
+    "source": "CoinTelegraph",
+    "time": "9/19/2026, 8:35:16 PM",
+    "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Zcash targets November upgrade to make private payments up to three times faster",
-    "summary": "NU7 would reduce block times to 25 seconds while setting aside at least 60% of transaction fees to supplement mining rewards beginning in 2031.",
-    "source": "CoinDesk",
-    "time": "9/18/2026, 2:50:01 PM",
-    "link": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
+    "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
+    "summary": "VanEck said Metaplanet’s executive equity exposure remains well above its digital asset treasury peers, even after the company cut its potential share pool by 41%.",
+    "source": "CoinTelegraph",
+    "time": "9/19/2026, 6:15:27 PM",
+    "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -104,27 +128,27 @@
     "category": "Markets"
   },
   {
-    "title": "Crypto stocks rebound after CLARITY Act selloff",
-    "summary": "Coinbase, Strategy and other crypto-linked stocks rallied Friday as the CFTC and SEC moved ahead with crypto-related actions under existing authority.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 7:55:57 PM",
-    "link": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
+    "summary": "The Clarity Act failed to advance in the Senate, shifting the industry’s focus to a new wave of action from the SEC and CFTC.",
+    "source": "Decrypt",
+    "time": "9/19/2026, 7:01:03 PM",
+    "link": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
     "category": "Markets"
   },
   {
-    "title": "CFTC submits crypto market regulation plan for White House review  ",
-    "summary": "The US commodities regulator submitted a new crypto market regulatory action for White House review days after the Senate failed to advance the CLARITY Act.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 6:04:22 PM",
-    "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
+    "summary": "A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.",
+    "source": "Decrypt",
+    "time": "9/19/2026, 6:01:03 PM",
+    "link": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
-    "summary": "Bitcoin price action made swift gains at the start of Friday’s Wall Street trading session as US 30-year bond yields began rising again.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 5:35:59 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
+    "summary": "The Zcash ETF is splitting its shares three ways after pulling in more than $233 million in under a month, as Wall Street piles into crypto's hottest privacy trade.",
+    "source": "Decrypt",
+    "time": "9/19/2026, 5:01:03 PM",
+    "link": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
     "category": "Markets"
   },
   {
@@ -168,27 +192,19 @@
     "category": "Markets"
   },
   {
-    "title": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
-    "summary": "The agency submitted a prerule on crypto asset transactions and markets to the White House for review, signaling it will build a derivatives framework on its own authority after the Clarity Act's collapse.",
-    "source": "Decrypt",
-    "time": "9/18/2026, 6:08:13 PM",
-    "link": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
+    "title": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
+    "summary": "Fidelity's FBTC accounted for $310.7 million of Friday’s overall $433 million net inflow, a notable sum that helped offset earlier withdrawals.",
+    "source": "The Block",
+    "time": "9/19/2026, 8:01:09 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
-    "summary": "Bitcoin just ripped 5.88% higher in a single session, tearing back toward its 2026 highs. The charts say the move is real, but they also say it's gotten ahead of itself.",
-    "source": "Decrypt",
-    "time": "9/18/2026, 5:22:49 PM",
-    "link": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
-    "category": "Markets"
-  },
-  {
-    "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-    "summary": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
-    "source": "Decrypt",
-    "time": "9/18/2026, 2:52:03 PM",
-    "link": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
+    "title": "Visa to close Crossmint memecoin rewards loophole following The Block investigation: report",
+    "summary": "Though the Crossmint-powered memecoin sales are still live on both apps, Visa's grace period is expected to end next week, per the report.",
+    "source": "The Block",
+    "time": "9/19/2026, 5:11:22 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-19-visa-to-close-crossmint-memecoin-rewards-loophole-following-the-block-investigation-report-415866",
     "category": "Markets"
   },
   {
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "9/18/2026, 7:29:10 AM",
     "link": "https://www.theblock.co/news/business/2026-09-18-dtcpay-series-a-sbi-group-415483",
-    "category": "Markets"
-  },
-  {
-    "title": "US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC",
-    "summary": "Treasury said the previously sanctioned Hormuz Safe platform used BitBank to transfer payments collected since June.",
-    "source": "The Block",
-    "time": "9/17/2026, 10:05:28 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462",
-    "category": "Markets"
-  },
-  {
-    "title": "JPMorgan says bitcoin could get more support than gold if ETF hedging eases",
-    "summary": "Bitcoin could get more support than gold if investors reduce their ETF hedges, according to JPMorgan analysts.",
-    "source": "The Block",
-    "time": "9/17/2026, 7:48:51 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421",
     "category": "Markets"
   }
 ]
