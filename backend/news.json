@@ -1,5 +1,13 @@
 [
   {
+    "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+    "summary": "The crypto platform’s market value has fallen to about $753 million, putting fresh attention on the licenses, custody infrastructure and customer relationships a buyer could inherit.",
+    "source": "CoinDesk",
+    "time": "9/20/2026, 4:54:48 PM",
+    "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+    "category": "Markets"
+  },
+  {
     "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
     "summary": "Goldman Sachs and Citizens analysts said the agency's move create new opportunities in custody, tokenization infrastructure and stablecoin settlement, while giving brokers room to expand onchain products.",
     "source": "CoinDesk",
@@ -56,14 +64,6 @@
     "category": "Markets"
   },
   {
-    "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
-    "summary": "JPMorgan and Citi move billions in tokenized deposits, but only among their branches. A U.K. challenger bank is about to do something neither has done.",
-    "source": "CoinDesk",
-    "time": "9/19/2026, 2:00:00 PM",
-    "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
-    "category": "Markets"
-  },
-  {
     "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
     "summary": "Trump posted on Truth Social that his new project would manage the fast-growing sector without adding regulations that could slow innovation.",
     "source": "CoinTelegraph",
@@ -80,7 +80,7 @@
     "category": "Markets"
   },
   {
-    "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal  ",
+    "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal  ",
     "summary": "The partnership is non-exclusive, and Anthropic expects to announce other evaluators in forthcoming weeks with which it will also work.",
     "source": "CoinTelegraph",
     "time": "9/20/2026, 9:51:24 AM",
@@ -125,6 +125,22 @@
     "source": "CoinTelegraph",
     "time": "9/19/2026, 9:52:00 AM",
     "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+    "summary": "After banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital media\" and earning card rewards.",
+    "source": "Decrypt",
+    "time": "9/20/2026, 6:01:03 PM",
+    "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+    "category": "Markets"
+  },
+  {
+    "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
+    "summary": "A Glassnode and Bybit report frames the divergence as the defining feature of this cycle, with froth pooling in the market's riskiest corners even as Bitcoin does the heavy lifting.",
+    "source": "Decrypt",
+    "time": "9/20/2026, 4:01:03 PM",
+    "link": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
     "category": "Markets"
   },
   {
@@ -176,19 +192,19 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
-    "summary": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
-    "source": "Decrypt",
-    "time": "9/18/2026, 8:35:54 PM",
-    "link": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
+    "title": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
+    "summary": "The team plans to focus instead on Anuma, its private AI app, though the migration will still take one more vote.",
+    "source": "The Block",
+    "time": "9/20/2026, 10:11:49 PM",
+    "link": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
     "category": "Markets"
   },
   {
-    "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
-    "summary": "XRP is roaring back as Bitcoin claws its way above $800,000 again, but the charts continue to give traders mixed signals.",
-    "source": "Decrypt",
-    "time": "9/18/2026, 6:42:32 PM",
-    "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
+    "title": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
+    "summary": "In a separate attack, hackers compromised nearly 500 users' accounts using stolen personal information, according to the report.",
+    "source": "The Block",
+    "time": "9/20/2026, 6:07:19 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
     "category": "Markets"
   },
   {
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "9/18/2026, 3:33:40 PM",
     "link": "https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510",
-    "category": "Markets"
-  },
-  {
-    "title": "Kevin O’Leary is buying crypto again, says major stock exchange adoption is the ‘watershed moment’ to watch",
-    "summary": "Kevin O'Leary says he is buying crypto again and watching for a major stock exchange to adopt a blockchain network.",
-    "source": "The Block",
-    "time": "9/18/2026, 12:08:42 PM",
-    "link": "https://www.theblock.co/news/business/2026-09-18-kevin-oleary-is-buying-crypto-again-says-major-stock-exchange-adoption-is-the-watershed-moment-to-watch-415491",
-    "category": "Markets"
-  },
-  {
-    "title": "Stablecoin payments firm dtcpay closes $25 million Series A with SBI Group investment",
-    "summary": "The fresh capital enables it to scale product suite and merchant network, including a revamped business portal for enterprise clients.",
-    "source": "The Block",
-    "time": "9/18/2026, 7:29:10 AM",
-    "link": "https://www.theblock.co/news/business/2026-09-18-dtcpay-series-a-sbi-group-415483",
     "category": "Markets"
   }
 ]
