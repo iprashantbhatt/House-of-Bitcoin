@@ -1,5 +1,21 @@
 [
   {
+    "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+    "summary": "Goldman Sachs and Citizens analysts said the agency's move create new opportunities in custody, tokenization infrastructure and stablecoin settlement, while giving brokers room to expand onchain products.",
+    "source": "CoinDesk",
+    "time": "9/20/2026, 2:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
+    "summary": "Market experts view bitcoin’s price stability as evidence of its fundamental independence from Washington, maintaining that global liquidity and adoption cycles remain the primary growth drivers.",
+    "source": "CoinDesk",
+    "time": "9/20/2026, 2:00:00 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+    "category": "Markets"
+  },
+  {
     "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
     "summary": "U.S. agencies are racing to substitute their regulations for the law that was meant to set crypto markets in governmental bedrock, but will the stand-ins last?",
     "source": "CoinDesk",
@@ -48,34 +64,42 @@
     "category": "Markets"
   },
   {
-    "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-    "summary": "The regulator is moving ahead with crypto market rules as the SEC also opens a new path for tokenized stock trading.",
-    "source": "CoinDesk",
-    "time": "9/18/2026, 5:16:37 PM",
-    "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+    "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
+    "summary": "Trump posted on Truth Social that his new project would manage the fast-growing sector without adding regulations that could slow innovation.",
+    "source": "CoinTelegraph",
+    "time": "9/20/2026, 2:00:52 PM",
+    "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
-    "summary": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
-    "source": "CoinDesk",
-    "time": "9/18/2026, 5:06:31 PM",
-    "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+    "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
+    "summary": "At the close of trading on Sept. 28, shareholders will receive two extra shares for each one they hold.",
+    "source": "CoinTelegraph",
+    "time": "9/20/2026, 11:14:27 AM",
+    "link": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal  ",
+    "summary": "The partnership is non-exclusive, and Anthropic expects to announce other evaluators in forthcoming weeks with which it will also work.",
+    "source": "CoinTelegraph",
+    "time": "9/20/2026, 9:51:24 AM",
+    "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
     "summary": "The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.",
     "source": "CoinTelegraph",
-    "time": "9/19/2026, 9:14:38 PM",
+    "time": "9/19/2026, 9:18:00 PM",
     "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
+    "title": "Kalshi joins Coinbase with own filing for US stock perpetual futures",
     "summary": "Kalshi’s proposal would bring perpetual futures tied to individual stocks to US traders, as Coinbase and Bitnomial pursue similar products.",
     "source": "CoinTelegraph",
-    "time": "9/19/2026, 8:35:16 PM",
+    "time": "9/19/2026, 8:40:00 PM",
     "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
@@ -83,7 +107,7 @@
     "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
     "summary": "VanEck said Metaplanet’s executive equity exposure remains well above its digital asset treasury peers, even after the company cut its potential share pool by 41%.",
     "source": "CoinTelegraph",
-    "time": "9/19/2026, 6:15:27 PM",
+    "time": "9/19/2026, 6:20:00 PM",
     "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
@@ -91,40 +115,16 @@
     "title": "Bastion wins conditional OCC approval for national trust bank charter",
     "summary": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.",
     "source": "CoinTelegraph",
-    "time": "9/19/2026, 1:47:29 PM",
+    "time": "9/19/2026, 1:51:00 PM",
     "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+    "title": "Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report",
     "summary": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
     "source": "CoinTelegraph",
-    "time": "9/19/2026, 9:50:58 AM",
+    "time": "9/19/2026, 9:52:00 AM",
     "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 11:00:00 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Coinbase files to bring single-stock perpetual futures to US market",
-    "summary": "Coinbase wants to bring 24/5 perpetual futures trading to individual US stocks, with its proposed contracts now awaiting regulatory approval.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 9:53:54 PM",
-    "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Binance launches 24/7 FX perps with weekend pricing system",
-    "summary": "Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign exchange markets through perpetual futures.",
-    "source": "CoinTelegraph",
-    "time": "9/18/2026, 9:06:30 PM",
-    "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
