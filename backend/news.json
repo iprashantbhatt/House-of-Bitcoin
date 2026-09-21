@@ -1,5 +1,37 @@
 [
   {
+    "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+    "summary": "TD Cowen expects limited demand for tokenized stocks despite new SEC rules opening a path for trading outside traditional markets.",
+    "source": "CoinDesk",
+    "time": "9/21/2026, 9:08:40 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
+    "summary": "It's the biggest spending from the industry's campaign arm in 2026, much like Fairshake's $40 million against Brown two years ago was its largest-ever outlay.",
+    "source": "CoinDesk",
+    "time": "9/21/2026, 6:01:36 PM",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
+    "category": "Markets"
+  },
+  {
+    "title": "ECB plans to buy tokenized bonds with its own funds",
+    "summary": "The European Central Bank rolled out a new system to link its payment system to blockchain-based financial markets.",
+    "source": "CoinDesk",
+    "time": "9/21/2026, 5:00:47 PM",
+    "link": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
+    "category": "Markets"
+  },
+  {
+    "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
+    "summary": "One expert believes that the failure to pass the bill is a win for the banks that staunchly oppose stablecoin yields, while a global crypto lawyer believes overseas jurisdictions benefit.",
+    "source": "CoinDesk",
+    "time": "9/21/2026, 4:53:52 PM",
+    "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
+    "category": "Markets"
+  },
+  {
     "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
     "summary": "The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH’s strong third quarter could push institutions to increase crypto exposure.",
     "source": "CoinDesk",
@@ -32,35 +64,59 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
-    "summary": "Your day-ahead look for Sept. 21, 2026",
-    "source": "CoinDesk",
-    "time": "9/21/2026, 1:36:11 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
+    "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
+    "summary": "Saudi Arabia has left mBridge, a cross-border CBDC platform that has drawn scrutiny from US policymakers, according to the Financial Times.",
+    "source": "CoinTelegraph",
+    "time": "9/21/2026, 10:37:15 PM",
+    "link": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
-    "summary": "Deployed via Kinetiq's Markets frontend and led by Volmex CEO Cole Kennelly, Hyperliquid's new BVIV perpetuals let traders easily go long or short on 30-day bitcoin volatility.",
-    "source": "CoinDesk",
-    "time": "9/21/2026, 1:30:00 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/21/2026, 9:53:04 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
-    "summary": "The EU central bank's new wholesale platform connects DLT market infrastructure to its payment rails, separate from the retail digital euro pilot planned for 2027.",
-    "source": "CoinDesk",
-    "time": "9/21/2026, 1:18:55 PM",
-    "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+    "title": "Ondo lets institutions convert stocks directly into tokenized shares",
+    "summary": "Ondo’s new in-kind conversion system allows approved institutions to mint and redeem tokenized stocks and ETFs using the underlying securities instead of cash.",
+    "source": "CoinTelegraph",
+    "time": "9/21/2026, 8:35:43 PM",
+    "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
-    "summary": "Open interest climbed 7.59% to $156 billion even as positions were closed out, a sign traders are chasing the move rather than stepping back.",
-    "source": "CoinDesk",
-    "time": "9/21/2026, 12:30:00 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
+    "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
+    "summary": "The digital asset-aligned PAC joined other groups to spend more than a combined $300 million in the 2024 Ohio Senate race, resulting in Sherrod Brown’s loss to Bernie Moreno.",
+    "source": "CoinTelegraph",
+    "time": "9/21/2026, 8:15:22 PM",
+    "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
+    "summary": "Circle is bringing Bitcoin-backed borrowing to institutional clients, allowing them to tap BTC holdings for USDC liquidity without selling their Bitcoin.",
+    "source": "CoinTelegraph",
+    "time": "9/21/2026, 6:56:53 PM",
+    "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
+    "summary": "Bitcoin crossed the $86,000 mark for the first time since late January as falling oil prices and concerns over supply lifted US stocks.",
+    "source": "CoinTelegraph",
+    "time": "9/21/2026, 6:39:40 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
+    "summary": "Coinbase draws scrutiny after the CLARITY Act stalls, while the SEC moves ahead with tokenized stocks and crypto firms push deeper into payments.",
+    "source": "CoinTelegraph",
+    "time": "9/21/2026, 5:08:17 PM",
+    "link": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -72,123 +128,91 @@
     "category": "Markets"
   },
   {
-    "title": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
-    "summary": "Strategy bought 950 Bitcoin for $75.7 million after a two-week pause and spent another $174 million repurchasing its STRC preferred stock.",
-    "source": "CoinTelegraph",
-    "time": "9/21/2026, 2:48:21 PM",
-    "link": "https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
-    "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-    "source": "CoinTelegraph",
-    "time": "9/21/2026, 1:27:00 PM",
-    "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
-    "summary": "Near expanded privacy features for traders as NEAR Intents recorded $29.3 billion in cumulative volume, including swaps involving Zcash.",
-    "source": "CoinTelegraph",
-    "time": "9/21/2026, 12:52:35 PM",
-    "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
-    "summary": "Bitcoin hit $85,000 for the first time since January as markets focused on cooling oil prices.",
-    "source": "CoinTelegraph",
-    "time": "9/21/2026, 12:15:51 PM",
-    "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
-    "summary": "X alleges six Bitcoin-focused accounts coordinated posts and engagement to inflate creator payouts, with claimed and projected losses of at least $378,000.",
-    "source": "CoinTelegraph",
-    "time": "9/21/2026, 11:35:25 AM",
-    "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
-    "summary": "ZetaChain plans to wind down its Cosmos-based layer 1 and migrate ZETA to Solana, joining other crypto projects moving away from standalone chains.",
-    "source": "CoinTelegraph",
-    "time": "9/21/2026, 9:31:47 AM",
-    "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
-    "summary": "The Bank of Korea’s new network will let foreign investors settle won transactions during business hours in their home countries.",
-    "source": "CoinTelegraph",
-    "time": "9/21/2026, 8:41:23 AM",
-    "link": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Strategy's Bitcoin Pile Nears June Record After $76M Purchase",
-    "summary": "The Bitcoin treasury firm’s holdings bottomed at 840,447 BTC in August. They have since climbed 5,553 BTC, to within 0.2% of the high.",
+    "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
+    "summary": "Robinhood CEO Vlad Tenev says crypto event contracts are already outpacing sports bets, and could become the platform's dominant category within a few years.",
     "source": "Decrypt",
-    "time": "9/21/2026, 2:56:46 PM",
-    "link": "https://decrypt.co/378737/strategys-bitcoin-pile-nears-june-record-after-76m-purchase",
+    "time": "9/21/2026, 11:46:03 PM",
+    "link": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
-    "summary": "A short squeeze started the move, but spot buyers have sustained it, and one measure of selling pressure is near a record low.",
+    "title": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
+    "summary": "A lawsuit accuses UK users of running six coordinated accounts to pull at least $278,000 from X's now-defunct Creator Revenue Sharing Program.",
     "source": "Decrypt",
-    "time": "9/21/2026, 2:22:00 PM",
-    "link": "https://decrypt.co/378729/bitcoin-tops-85k-as-648m-in-crypto-shorts-liquidated",
+    "time": "9/21/2026, 10:16:03 PM",
+    "link": "https://decrypt.co/378877/x-sues-bitcoin-influencers-bot-army-creator-payout",
     "category": "Markets"
   },
   {
-    "title": "Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken",
-    "summary": "France is the worst-hit country in the world for these attacks, with more than 70 logged in the first eight months of 2026.",
+    "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
+    "summary": "Eligible customers can request shares at the offering price, but allocations are not guaranteed.",
     "source": "Decrypt",
-    "time": "9/21/2026, 11:51:24 AM",
-    "link": "https://decrypt.co/378720/crypto-workers-children-held-hostage-in-latest-french-wrench-attack-46000-taken",
+    "time": "9/21/2026, 9:26:49 PM",
+    "link": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
     "category": "Markets"
   },
   {
-    "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
-    "summary": "After banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital media\" and earning card rewards.",
+    "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
+    "summary": "The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.",
     "source": "Decrypt",
-    "time": "9/20/2026, 6:01:03 PM",
-    "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+    "time": "9/21/2026, 9:00:04 PM",
+    "link": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
     "category": "Markets"
   },
   {
-    "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
-    "summary": "A Glassnode and Bybit report frames the divergence as the defining feature of this cycle, with froth pooling in the market's riskiest corners even as Bitcoin does the heavy lifting.",
+    "title": "What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026",
+    "summary": "Venice (VVV) has clawed back from under a dollar to a record $34, and the pitch behind it is simple: an AI chatbot that promises to forget you the moment you close the tab.",
     "source": "Decrypt",
-    "time": "9/20/2026, 4:01:03 PM",
-    "link": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
+    "time": "9/21/2026, 8:31:03 PM",
+    "link": "https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
     "category": "Markets"
   },
   {
-    "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
-    "summary": "The Clarity Act failed to advance in the Senate, shifting the industry’s focus to a new wave of action from the SEC and CFTC.",
+    "title": "Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It",
+    "summary": "The HashFly browser experiment uses a digital neural model for Bitcoin hashing and projects greater efficiency from a hypothetical biological version.",
     "source": "Decrypt",
-    "time": "9/19/2026, 7:01:03 PM",
-    "link": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
+    "time": "9/21/2026, 7:46:02 PM",
+    "link": "https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
-    "summary": "A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.",
+    "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
+    "summary": "xAI says the new model is a \"notable improvement\" over Grok 4.6 at the same price. The benchmarks say it's still in second place.",
     "source": "Decrypt",
-    "time": "9/19/2026, 6:01:03 PM",
-    "link": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
+    "time": "9/21/2026, 7:16:03 PM",
+    "link": "https://decrypt.co/378824/xai-launches-grok-4-7",
     "category": "Markets"
   },
   {
-    "title": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
-    "summary": "The Zcash ETF is splitting its shares three ways after pulling in more than $233 million in under a month, as Wall Street piles into crypto's hottest privacy trade.",
+    "title": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
+    "summary": "Crypto advocates argue that NFTs can deliver real digital ownership, but privacy gaps and integration hurdles have held the tech back.",
     "source": "Decrypt",
-    "time": "9/19/2026, 5:01:03 PM",
-    "link": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
+    "time": "9/21/2026, 6:46:03 PM",
+    "link": "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
+    "category": "Markets"
+  },
+  {
+    "title": "Clarity Act fallout: crypto’s Fairshake PAC commits $30 million against Sherrod Brown",
+    "summary": "Crypto PAC Fairshake is throwing $30 million into an Ohio race against former Sen. Sherrod Brown, who has been skeptical of crypto.",
+    "source": "The Block",
+    "time": "9/21/2026, 6:35:43 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962",
+    "category": "Markets"
+  },
+  {
+    "title": "Strive adds 1,355 bitcoin, picks up pace toward year-end second-place treasury goal",
+    "summary": "Strive (ASST) remains the fifth-largest public bitcoin holder, behind Strategy, Twenty One, Metaplanet and MARA.",
+    "source": "The Block",
+    "time": "9/21/2026, 5:07:39 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-21-strive-adds-1355-bitcoin-picks-up-pace-year-end-second-place-treasury-goal-415940",
+    "category": "Markets"
+  },
+  {
+    "title": "Coinbase opens IPO allocations to US customers, starting with Oura",
+    "summary": "This expands Coinbase's push beyond secondary-market stock trading into the primary market, following its rollout of pre-IPO derivatives.",
+    "source": "The Block",
+    "time": "9/21/2026, 4:47:12 PM",
+    "link": "https://www.theblock.co/news/business/2026-09-21-coinbase-opens-ipo-allocations-us-customers-starting-oura-415942",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "9/20/2026, 10:11:49 PM",
     "link": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
-    "category": "Markets"
-  },
-  {
-    "title": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
-    "summary": "In a separate attack, hackers compromised nearly 500 users' accounts using stolen personal information, according to the report.",
-    "source": "The Block",
-    "time": "9/20/2026, 6:07:19 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
-    "summary": "Fidelity's FBTC accounted for $310.7 million of Friday’s overall $433 million net inflow, a notable sum that helped offset earlier withdrawals.",
-    "source": "The Block",
-    "time": "9/19/2026, 8:01:09 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
-    "category": "Markets"
-  },
-  {
-    "title": "Visa to close Crossmint memecoin rewards loophole following The Block investigation: report",
-    "summary": "Though the Crossmint-powered memecoin sales are still live on both apps, Visa's grace period is expected to end next week, per the report.",
-    "source": "The Block",
-    "time": "9/19/2026, 5:11:22 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-19-visa-to-close-crossmint-memecoin-rewards-loophole-following-the-block-investigation-report-415866",
     "category": "Markets"
   }
 ]
