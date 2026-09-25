@@ -1,130 +1,178 @@
 [
   {
-    "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
-    "summary": "The company has vehemently denied that it was shopping for buyers. Allman’s estate declined to comment.",
+    "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
+    "summary": "Bond volatility is at its highest since March, while the bitcoin VIX, BVIV and Wall Street's VIX remain near its yearly low.",
     "source": "CoinDesk",
-    "time": "9/24/2026, 10:13:25 PM",
-    "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
+    "time": "9/25/2026, 1:54:28 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
     "category": "Markets"
   },
   {
-    "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
-    "summary": "The group aims to link onchain shares to official shareholder records following the U.S. SEC's innovation exemption for tokenized stock trading.",
+    "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
+    "summary": "Your day-ahead look for Sept. 25, 2026",
     "source": "CoinDesk",
-    "time": "9/24/2026, 10:05:00 PM",
-    "link": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
+    "time": "9/25/2026, 1:29:04 PM",
+    "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
     "category": "Markets"
   },
   {
-    "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
-    "summary": "The U.S derivatives regulator is grinding away at further guidance that welcomes tokenization and blockchain recordkeeping as regular industry elements.",
+    "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+    "summary": "Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, with the altcoin season index at its highest in more than three months.",
     "source": "CoinDesk",
-    "time": "9/24/2026, 10:04:46 PM",
-    "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
+    "time": "9/25/2026, 11:59:45 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
     "category": "Markets"
   },
   {
-    "title": "The stock token debate, and the gap nobody can close alone",
-    "summary": "The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now is what has to be true for any of it to be a market, argues Bullish’s Tram Doman.",
+    "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
+    "summary": "At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.",
     "source": "CoinDesk",
-    "time": "9/24/2026, 10:03:21 PM",
-    "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
+    "time": "9/25/2026, 11:13:01 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
-    "summary": "Bitcoin’s return above its one-year average excited chart watchers. AltcoinPro Research says the more important signal is whether it can stay above its 200-day average.",
+    "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+    "summary": "The cross-chain lending protocol accused LayerZero and its co-founder Brian Pellegrino of failing to disclose weaknesses in their protocol, which led to the $292 million hack.",
     "source": "CoinDesk",
-    "time": "9/24/2026, 8:46:58 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
+    "time": "9/25/2026, 10:58:03 AM",
+    "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
     "category": "Markets"
   },
   {
-    "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
-    "summary": "Attackers drained Duelbits' hot wallets across four blockchains; about $6 million in stolen funds now sits in a single Ethereum address.",
+    "title": "Live updates: Bitcoin steadies below $85,000 as bond selloff pauses",
+    "summary": "Treasury yields eased from multi-decade highs and oil slipped on reports of a phased U.S.-Iran deal, with roughly $14 billion in bitcoin options set to expire on Deribit on Friday.",
     "source": "CoinDesk",
-    "time": "9/24/2026, 5:48:20 PM",
-    "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
+    "time": "9/25/2026, 9:09:11 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
-    "summary": "Bitcoin’s latest bear market was milder than past crashes as ETFs, institutional investors and a maturing market reshape its cycles.",
+    "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
+    "summary": "Bitget lost $351.6 million after attackers compromised a wallet backend, spoofed transaction data, Chen said on X.",
     "source": "CoinDesk",
-    "time": "9/24/2026, 5:26:34 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
+    "time": "9/25/2026, 6:29:34 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
     "category": "Markets"
   },
   {
-    "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits ",
-    "summary": "Barclays, NatWest, and HSBC and others used tokenized deposits for remortgages and a marketplace-payment test, taking bank-issued digital cash beyond a single institution.",
+    "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+    "summary": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains.",
     "source": "CoinDesk",
-    "time": "9/24/2026, 5:07:18 PM",
-    "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitget confirms $351M security breach, suspends withdrawals",
-    "summary": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
-    "source": "CoinTelegraph",
-    "time": "9/24/2026, 11:47:17 PM",
-    "link": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-    "summary": "Although the CFTC chair did not say the failed vote on the CLARITY Act was behind new rules for authorized crypto entities, he said the move was “to provide regulatory clarity.“",
-    "source": "CoinTelegraph",
-    "time": "9/24/2026, 11:42:51 PM",
-    "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
-    "summary": "US Treasury yields hit a 19-year high on Thursday, pressuring risk assets as Bitcoin held near $84,000 and ONDO became top performer among altcoins.",
-    "source": "CoinTelegraph",
-    "time": "9/24/2026, 10:32:16 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
-    "summary": "DoubleZero launched a dedicated fiber market data feed for Hyperliquid, giving professional trading firms faster access to its full order book.",
-    "source": "CoinTelegraph",
-    "time": "9/24/2026, 10:04:07 PM",
-    "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/25/2026, 12:41:44 AM",
+    "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "9/24/2026, 9:50:39 PM",
+    "time": "9/25/2026, 3:32:49 PM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
-    "summary": "Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets.",
+    "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
+    "summary": "The IRS can now see your crypto gains, but has no idea about the cost-basis. That’s proving to be a big headache for some cryptocurrency investors.",
     "source": "CoinTelegraph",
-    "time": "9/24/2026, 7:14:35 PM",
-    "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/25/2026, 3:30:00 PM",
+    "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
-    "summary": "The France-based semiconductor company has fully unwound a Bitcoin treasury that once held more than 3,200 BTC as more firms scale back crypto holdings.",
+    "title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
+    "summary": "CoinGlass will retain its brand and team, while its website, app, free tools, API and pricing will remain unchanged following the acquisition.",
     "source": "CoinTelegraph",
-    "time": "9/24/2026, 7:13:38 PM",
-    "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/25/2026, 2:44:30 PM",
+    "link": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
-    "summary": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 billion in expected annualized volume.",
+    "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
+    "summary": "The analyzed Safari sample targets iOS 18.4–18.6.2 using previously patched flaws, while its effectiveness on iOS 26.5 remains unverified.",
     "source": "CoinTelegraph",
-    "time": "9/24/2026, 5:57:00 PM",
-    "link": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/25/2026, 2:19:34 PM",
+    "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "IBIT options price trading more calmly after Bitcoin rebound",
+    "summary": "IBIT’s expected volatility sits near the bottom of its 12-month range, according to Saxo Bank’s analysis of options data from Sept. 23.",
+    "source": "CoinTelegraph",
+    "time": "9/25/2026, 1:11:33 PM",
+    "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
+    "summary": "Yuga Labs’ 0xQuit said the NFTs are safe and will be returned once the risk passes, while holders were urged to revoke NFT permissions.",
+    "source": "CoinTelegraph",
+    "time": "9/25/2026, 11:48:53 AM",
+    "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
+    "summary": "KelpDAO says LayerZero endorsed its bridge setup before the attack, while CEO Bryan Pellegrino has dismissed the lawsuit as meritless.",
+    "source": "CoinTelegraph",
+    "time": "9/25/2026, 10:51:17 AM",
+    "link": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
+    "summary": "US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed for a third day, lifting year-to-date net flows to $787 million.",
+    "source": "CoinTelegraph",
+    "time": "9/25/2026, 9:41:36 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
+    "summary": "STRF, STRC, STRK and STRD would accrue dividends on weekends and holidays, in a move Strategy says will dampen volatility.",
+    "source": "Decrypt",
+    "time": "9/25/2026, 3:22:00 PM",
+    "link": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
+    "category": "Markets"
+  },
+  {
+    "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
+    "summary": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
+    "source": "Decrypt",
+    "time": "9/25/2026, 3:16:03 PM",
+    "link": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
+    "category": "Markets"
+  },
+  {
+    "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
+    "summary": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
+    "source": "Decrypt",
+    "time": "9/25/2026, 3:04:06 PM",
+    "link": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
+    "category": "Markets"
+  },
+  {
+    "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
+    "summary": "Two entries in his annual disclosure put the holding somewhere between $16,000 and $65,000, alongside more than $1 million in cash.",
+    "source": "Decrypt",
+    "time": "9/25/2026, 2:01:15 PM",
+    "link": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
+    "category": "Markets"
+  },
+  {
+    "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
+    "summary": "Evercrest says LayerZero approved the single-verifier configuration in writing multiple times, then warned a different developer about it.",
+    "source": "Decrypt",
+    "time": "9/25/2026, 1:09:52 PM",
+    "link": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
+    "category": "Markets"
+  },
+  {
+    "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
+    "summary": "The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.",
+    "source": "Decrypt",
+    "time": "9/25/2026, 11:50:01 AM",
+    "link": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
     "category": "Markets"
   },
   {
@@ -144,56 +192,32 @@
     "category": "Markets"
   },
   {
-    "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
-    "summary": "A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily—without telling users first.",
-    "source": "Decrypt",
-    "time": "9/24/2026, 10:01:03 PM",
-    "link": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
+    "title": "Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks",
+    "summary": "Strategy is seeking shareholder approval to pay daily dividends across its four U.S.-listed preferred stocks.",
+    "source": "The Block",
+    "time": "9/25/2026, 3:48:57 PM",
+    "link": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
     "category": "Markets"
   },
   {
-    "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
-    "summary": "Muse Charm is Meta's palm-sized gadget for talking to its Muse AI agent on the go. It has cameras, a fingerprint sensor, and its own cell connection.",
-    "source": "Decrypt",
-    "time": "9/24/2026, 9:16:03 PM",
-    "link": "https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens",
+    "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
+    "summary": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.",
+    "source": "The Block",
+    "time": "9/25/2026, 1:00:00 PM",
+    "link": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
     "category": "Markets"
   },
   {
-    "title": "AI Can Now Doxx Your Anonymous Accounts? Here's What’s Going On",
-    "summary": "A February research paper showing AI can unmask pseudonymous internet users is freaking everyone out again this week. Here's what the paper actually says.",
-    "source": "Decrypt",
-    "time": "9/24/2026, 8:31:03 PM",
-    "link": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on",
+    "title": "KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit",
+    "summary": "KelpDAO sued LayerZero and Bryan Pellegrino over the April 18 rsETH exploit, alleging the bridge setup was endorsed in writing.",
+    "source": "The Block",
+    "time": "9/25/2026, 11:13:08 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
     "category": "Markets"
   },
   {
-    "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
-    "summary": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.",
-    "source": "Decrypt",
-    "time": "9/24/2026, 7:51:31 PM",
-    "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
-    "category": "Markets"
-  },
-  {
-    "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
-    "summary": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect—as recent KYC leaks expose crypto holders to phishing and physical attacks.",
-    "source": "Decrypt",
-    "time": "9/24/2026, 7:31:03 PM",
-    "link": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
-    "category": "Markets"
-  },
-  {
-    "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
-    "summary": "Washington may fund private stablecoin ventures abroad to protect the dollar's reserve status and prop up Treasury demand.",
-    "source": "Decrypt",
-    "time": "9/24/2026, 6:55:43 PM",
-    "link": "https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance",
-    "category": "Markets"
-  },
-  {
-    "title": "More than $170 million in crypto moves from Bitget wallets to unidentified address",
-    "summary": "The receiving address has made several swaps, but the reason for the Bitget wallet transfers remains unclear.",
+    "title": "Bitget confirms $351.6 million security breach affecting exchange hot wallets",
+    "summary": "Bitget said private keys were not compromised and that losses from the incident will be covered by its User Protection Fund.",
     "source": "The Block",
     "time": "9/24/2026, 11:20:47 PM",
     "link": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "9/24/2026, 8:22:39 PM",
     "link": "https://www.theblock.co/news/markets/2026-09-24-jpmorgan-bitcoin-production-cost-miners-relief-416283",
-    "category": "Markets"
-  },
-  {
-    "title": "New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation",
-    "summary": "New York has sued Polymarket, accusing it of operating an illegal gambling operation and asking a court to block it from operating.",
-    "source": "The Block",
-    "time": "9/24/2026, 6:25:05 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-24-new-york-block-polymarket-alleging-illegal-gambling-operation-416279",
-    "category": "Markets"
-  },
-  {
-    "title": "Ondo launches onchain portfolio tokens based on BlackRock-developed strategies",
-    "summary": "Ondo has launched three onchain portfolio tokens based on model portfolio strategies developed by BlackRock.",
-    "source": "The Block",
-    "time": "9/24/2026, 4:27:45 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
-    "category": "Markets"
-  },
-  {
-    "title": "Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments",
-    "summary": "Solana Foundation appointed Rachel Conlan as chief strategy officer and former Polygon Labs exec Jamal Raees as GM of payments.",
-    "source": "The Block",
-    "time": "9/24/2026, 3:00:00 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-24-solana-foundation-taps-binance-polygon-vets-to-drive-institutional-adoption-and-payments-416254",
     "category": "Markets"
   }
 ]
