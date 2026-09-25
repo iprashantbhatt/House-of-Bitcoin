@@ -1,5 +1,37 @@
 [
   {
+    "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+    "summary": "The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and USDC. Most of the stolen funds sit in ether, which can't be frozen.",
+    "source": "CoinDesk",
+    "time": "9/25/2026, 4:41:53 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+    "category": "Markets"
+  },
+  {
+    "title": "Tokenization is moving faster than Washington",
+    "summary": "Regulatory clarity is not simply a legal or political issue, argues former New York Governor Andrew Cuomo. It is an economic one.",
+    "source": "CoinDesk",
+    "time": "9/25/2026, 4:37:32 PM",
+    "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+    "category": "Markets"
+  },
+  {
+    "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+    "summary": "While Tether's stated ceiling places its maximum exposure under $64 million, the incident underscores lingering counterparty risks in fiat gateway networks.",
+    "source": "CoinDesk",
+    "time": "9/25/2026, 4:32:48 PM",
+    "link": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+    "category": "Markets"
+  },
+  {
+    "title": "Strategy proposes daily dividends to bring STRC back toward $100",
+    "summary": "STRC has remained below $100 since May, despite a 12% dividend rate and roughly $1 billion in preferred share buybacks.",
+    "source": "CoinDesk",
+    "time": "9/25/2026, 4:22:07 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
+    "category": "Markets"
+  },
+  {
     "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
     "summary": "Bond volatility is at its highest since March, while the bitcoin VIX, BVIV and Wall Street's VIX remain near its yearly low.",
     "source": "CoinDesk",
@@ -32,163 +64,171 @@
     "category": "Markets"
   },
   {
-    "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-    "summary": "The cross-chain lending protocol accused LayerZero and its co-founder Brian Pellegrino of failing to disclose weaknesses in their protocol, which led to the $292 million hack.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 10:58:03 AM",
-    "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
+    "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
+    "summary": "OG.com, recently spun out of Crypto.com, joins Coinbase, Kalshi and Kraken parent Payward in seeking approval to bring perpetual futures to individual US stocks.",
+    "source": "CoinTelegraph",
+    "time": "9/25/2026, 10:37:21 PM",
+    "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin steadies below $85,000 as bond selloff pauses",
-    "summary": "Treasury yields eased from multi-decade highs and oil slipped on reports of a phased U.S.-Iran deal, with roughly $14 billion in bitcoin options set to expire on Deribit on Friday.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 9:09:11 AM",
-    "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
+    "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+    "summary": "Former CFTC Commissioner Summer Mersinger joined the Blockchain Association in 2025 after resigning during her second term at the federal commodities regulator.",
+    "source": "CoinTelegraph",
+    "time": "9/25/2026, 10:26:40 PM",
+    "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
-    "summary": "Bitget lost $351.6 million after attackers compromised a wallet backend, spoofed transaction data, Chen said on X.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 6:29:34 AM",
-    "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
-    "category": "Markets"
-  },
-  {
-    "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-    "summary": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 12:41:44 AM",
-    "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
+    "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+    "summary": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the direction of EQIBank, where Tether holds some assets.",
+    "source": "CoinTelegraph",
+    "time": "9/25/2026, 8:56:53 PM",
+    "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "9/25/2026, 3:32:49 PM",
+    "time": "9/25/2026, 8:42:59 PM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
-    "summary": "The IRS can now see your crypto gains, but has no idea about the cost-basis. That’s proving to be a big headache for some cryptocurrency investors.",
+    "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
+    "summary": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.",
     "source": "CoinTelegraph",
-    "time": "9/25/2026, 3:30:00 PM",
-    "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/25/2026, 8:33:49 PM",
+    "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
-    "summary": "CoinGlass will retain its brand and team, while its website, app, free tools, API and pricing will remain unchanged following the acquisition.",
+    "title": "Bitget clarifies $388M in assets affected by security breach",
+    "summary": "The Bitget breach announced on Thursday affected about $35 million more than previously reported, based on an analysis of assets on Zcash and TRON.",
     "source": "CoinTelegraph",
-    "time": "9/25/2026, 2:44:30 PM",
-    "link": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/25/2026, 7:17:45 PM",
+    "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
-    "summary": "The analyzed Safari sample targets iOS 18.4–18.6.2 using previously patched flaws, while its effectiveness on iOS 26.5 remains unverified.",
+    "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
+    "summary": "Strategy’s proposal would move STRC and its three other preferred stocks to daily dividend payments, following a similar move by Bitcoin treasury firm Strive.",
     "source": "CoinTelegraph",
-    "time": "9/25/2026, 2:19:34 PM",
-    "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/25/2026, 6:34:16 PM",
+    "link": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "IBIT options price trading more calmly after Bitcoin rebound",
-    "summary": "IBIT’s expected volatility sits near the bottom of its 12-month range, according to Saxo Bank’s analysis of options data from Sept. 23.",
+    "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+    "summary": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs.",
     "source": "CoinTelegraph",
-    "time": "9/25/2026, 1:11:33 PM",
-    "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/25/2026, 5:49:34 PM",
+    "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
-    "summary": "Yuga Labs’ 0xQuit said the NFTs are safe and will be returned once the risk passes, while holders were urged to revoke NFT permissions.",
-    "source": "CoinTelegraph",
-    "time": "9/25/2026, 11:48:53 AM",
-    "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
-    "summary": "KelpDAO says LayerZero endorsed its bridge setup before the attack, while CEO Bryan Pellegrino has dismissed the lawsuit as meritless.",
-    "source": "CoinTelegraph",
-    "time": "9/25/2026, 10:51:17 AM",
-    "link": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
-    "summary": "US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed for a third day, lifting year-to-date net flows to $787 million.",
-    "source": "CoinTelegraph",
-    "time": "9/25/2026, 9:41:36 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
-    "summary": "STRF, STRC, STRK and STRD would accrue dividends on weekends and holidays, in a move Strategy says will dampen volatility.",
+    "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+    "summary": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
     "source": "Decrypt",
-    "time": "9/25/2026, 3:22:00 PM",
-    "link": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
+    "time": "9/25/2026, 11:25:35 PM",
+    "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
     "category": "Markets"
   },
   {
-    "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
-    "summary": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
+    "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+    "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into running unauthorized network attacks.",
     "source": "Decrypt",
-    "time": "9/25/2026, 3:16:03 PM",
-    "link": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
+    "time": "9/25/2026, 9:45:39 PM",
+    "link": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
     "category": "Markets"
   },
   {
-    "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
-    "summary": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
+    "title": "Google Built an AI That Hunts Its Own Security Bugs",
+    "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.",
     "source": "Decrypt",
-    "time": "9/25/2026, 3:04:06 PM",
-    "link": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
+    "time": "9/25/2026, 9:16:04 PM",
+    "link": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
     "category": "Markets"
   },
   {
-    "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
-    "summary": "Two entries in his annual disclosure put the holding somewhere between $16,000 and $65,000, alongside more than $1 million in cash.",
+    "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+    "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
     "source": "Decrypt",
-    "time": "9/25/2026, 2:01:15 PM",
-    "link": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
+    "time": "9/25/2026, 8:42:51 PM",
+    "link": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
     "category": "Markets"
   },
   {
-    "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
-    "summary": "Evercrest says LayerZero approved the single-verifier configuration in writing multiple times, then warned a different developer about it.",
+    "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
+    "summary": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.",
     "source": "Decrypt",
-    "time": "9/25/2026, 1:09:52 PM",
-    "link": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
+    "time": "9/25/2026, 7:46:05 PM",
+    "link": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
     "category": "Markets"
   },
   {
-    "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
-    "summary": "The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.",
+    "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
+    "summary": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.",
     "source": "Decrypt",
-    "time": "9/25/2026, 11:50:01 AM",
-    "link": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
+    "time": "9/25/2026, 7:08:57 PM",
+    "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
     "category": "Markets"
   },
   {
-    "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
-    "summary": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.",
+    "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+    "summary": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
     "source": "Decrypt",
-    "time": "9/24/2026, 11:56:03 PM",
-    "link": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
+    "time": "9/25/2026, 6:17:19 PM",
+    "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
     "category": "Markets"
   },
   {
-    "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
-    "summary": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
+    "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
+    "summary": "Pullback or reversal? Here's what the charts suggest for BTC.",
     "source": "Decrypt",
-    "time": "9/24/2026, 11:15:38 PM",
-    "link": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
+    "time": "9/25/2026, 6:06:23 PM",
+    "link": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
+    "category": "Markets"
+  },
+  {
+    "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
+    "summary": "Promoting a network’s current uses generally would not create an expectation of profit, SEC staff said.",
+    "source": "The Block",
+    "time": "9/25/2026, 10:32:40 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
+    "category": "Markets"
+  },
+  {
+    "title": "Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO",
+    "summary": "The Blockchain Association is switching up its leadership with CEO Summer Mersinger set to step down next month.",
+    "source": "The Block",
+    "time": "9/25/2026, 9:48:07 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913",
+    "category": "Markets"
+  },
+  {
+    "title": "Man charged in $16 million crypto ‘massive pig butchering’ scam",
+    "summary": "A man was charged for his role in defrauding someone of millions of dollars' worth of crypto in a \"massive pig butchering\" scam.",
+    "source": "The Block",
+    "time": "9/25/2026, 7:48:16 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895",
+    "category": "Markets"
+  },
+  {
+    "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
+    "summary": "Magic Eden legacy approvals exposed $5.7 million in NFTs to an exploit before whitehats rescued 23,155 tokens.",
+    "source": "The Block",
+    "time": "9/25/2026, 4:09:15 PM",
+    "link": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
+    "category": "Markets"
+  },
+  {
+    "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
+    "summary": "Aave V4 added Apple, Nvidia, Tesla, and four more tokenized stocks as collateral for USDC loans for non-U.S. users.",
+    "source": "The Block",
+    "time": "9/25/2026, 4:00:00 PM",
+    "link": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
     "category": "Markets"
   },
   {
@@ -213,46 +253,6 @@
     "source": "The Block",
     "time": "9/25/2026, 11:13:08 AM",
     "link": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitget confirms $351.6 million security breach affecting exchange hot wallets",
-    "summary": "Bitget said private keys were not compromised and that losses from the incident will be covered by its User Protection Fund.",
-    "source": "The Block",
-    "time": "9/24/2026, 11:20:47 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
-    "category": "Markets"
-  },
-  {
-    "title": "Fed proposes reserve limits, capital standards for stablecoin issuers under GENIUS Act",
-    "summary": "The Federal Reserve proposed new measures for stablecoin issuers, including reserve-asset limits and standardized capital requirements.",
-    "source": "The Block",
-    "time": "9/24/2026, 10:19:46 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336",
-    "category": "Markets"
-  },
-  {
-    "title": "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
-    "summary": "SkyAI’s board survived a shareholder protest, but its proposed equity pay plan fell by a wide margin.",
-    "source": "The Block",
-    "time": "9/24/2026, 9:17:47 PM",
-    "link": "https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298",
-    "category": "Markets"
-  },
-  {
-    "title": "ARK Invest brings $1.3 billion venture fund onchain through Securitize",
-    "summary": "ARK Invest is bringing its $1.3B ARK Venture Fund (ARKVX), which holds OpenAI, Anthropic and Stripe, onchain via Securitize on Ethereum.",
-    "source": "The Block",
-    "time": "9/24/2026, 8:37:22 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294",
-    "category": "Markets"
-  },
-  {
-    "title": "JPMorgan says bitcoin crossing $85,000 production cost could ease miner selling pressure",
-    "summary": "JPMorgan analysts said bitcoin's move above its estimated $85,000 production cost could ease miner selling if sustained.",
-    "source": "The Block",
-    "time": "9/24/2026, 8:22:39 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-24-jpmorgan-bitcoin-production-cost-miners-relief-416283",
     "category": "Markets"
   }
 ]
