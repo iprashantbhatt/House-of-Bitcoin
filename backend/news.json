@@ -1,5 +1,53 @@
 [
   {
+    "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+    "summary": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
+    "source": "CoinDesk",
+    "time": "9/26/2026, 7:00:00 AM",
+    "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+    "category": "Markets"
+  },
+  {
+    "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+    "summary": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support threshold restarted its two-week activation clock.",
+    "source": "CoinDesk",
+    "time": "9/26/2026, 6:30:00 AM",
+    "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+    "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+    "source": "CoinDesk",
+    "time": "9/26/2026, 6:02:13 AM",
+    "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+    "category": "Markets"
+  },
+  {
+    "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+    "summary": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.",
+    "source": "CoinDesk",
+    "time": "9/26/2026, 12:17:38 AM",
+    "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+    "category": "Markets"
+  },
+  {
+    "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+    "summary": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
+    "source": "CoinDesk",
+    "time": "9/25/2026, 11:17:30 PM",
+    "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+    "category": "Markets"
+  },
+  {
+    "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+    "summary": "The trade group will be run again by its original CEO, Kristin Smith, when Summer Mersinger leaves at the end of a long congressional tussle.",
+    "source": "CoinDesk",
+    "time": "9/25/2026, 10:01:05 PM",
+    "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
+    "category": "Markets"
+  },
+  {
     "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
     "summary": "The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and USDC. Most of the stolen funds sit in ether, which can't be frozen.",
     "source": "CoinDesk",
@@ -16,51 +64,35 @@
     "category": "Markets"
   },
   {
-    "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
-    "summary": "While Tether's stated ceiling places its maximum exposure under $64 million, the incident underscores lingering counterparty risks in fiat gateway networks.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 4:32:48 PM",
-    "link": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+    "title": "Kalshi loses appeal, setting up potential Supreme Court case",
+    "summary": "The 6th US Circuit Court of Appeals ruled against prediction market Kalshi, siding with Ohio and Tennessee on regulating sports-event contracts under state laws.",
+    "source": "CoinTelegraph",
+    "time": "9/26/2026, 3:21:12 PM",
+    "link": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Strategy proposes daily dividends to bring STRC back toward $100",
-    "summary": "STRC has remained below $100 since May, despite a 12% dividend rate and roughly $1 billion in preferred share buybacks.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 4:22:07 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/26/2026, 2:17:00 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-    "summary": "Bond volatility is at its highest since March, while the bitcoin VIX, BVIV and Wall Street's VIX remain near its yearly low.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 1:54:28 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
+    "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+    "summary": "Peirce, known as “Crypto Mom,” served on the SEC for about eight years, including as director of the Crypto Task Force.",
+    "source": "CoinTelegraph",
+    "time": "9/26/2026, 11:02:22 AM",
+    "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-    "summary": "Your day-ahead look for Sept. 25, 2026",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 1:29:04 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
-    "category": "Markets"
-  },
-  {
-    "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-    "summary": "Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, with the altcoin season index at its highest in more than three months.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 11:59:45 AM",
-    "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-    "summary": "At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 11:13:01 AM",
-    "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+    "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+    "summary": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
+    "source": "CoinTelegraph",
+    "time": "9/26/2026, 8:59:29 AM",
+    "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -88,14 +120,6 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/25/2026, 8:42:59 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
     "summary": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.",
     "source": "CoinTelegraph",
@@ -104,27 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Bitget clarifies $388M in assets affected by security breach",
-    "summary": "The Bitget breach announced on Thursday affected about $35 million more than previously reported, based on an analysis of assets on Zcash and TRON.",
-    "source": "CoinTelegraph",
-    "time": "9/25/2026, 7:17:45 PM",
-    "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
-    "summary": "Strategy’s proposal would move STRC and its three other preferred stocks to daily dividend payments, following a similar move by Bitcoin treasury firm Strive.",
-    "source": "CoinTelegraph",
-    "time": "9/25/2026, 6:34:16 PM",
-    "link": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
-    "summary": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs.",
-    "source": "CoinTelegraph",
-    "time": "9/25/2026, 5:49:34 PM",
-    "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
+    "summary": "Google Vids now lets any Google account holder generate free HD AI video using Gemini Omni 1.1 Flash, with new scene, timing, and watermark controls.",
+    "source": "Decrypt",
+    "time": "9/26/2026, 3:01:03 PM",
+    "link": "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
     "category": "Markets"
   },
   {
@@ -181,14 +189,6 @@
     "source": "Decrypt",
     "time": "9/25/2026, 6:17:19 PM",
     "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
-    "summary": "Pullback or reversal? Here's what the charts suggest for BTC.",
-    "source": "Decrypt",
-    "time": "9/25/2026, 6:06:23 PM",
-    "link": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
     "category": "Markets"
   },
   {
