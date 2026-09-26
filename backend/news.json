@@ -1,5 +1,37 @@
 [
   {
+    "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+    "summary": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
+    "source": "CoinDesk",
+    "time": "9/26/2026, 4:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+    "category": "Markets"
+  },
+  {
+    "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+    "summary": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
+    "source": "CoinDesk",
+    "time": "9/26/2026, 3:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+    "summary": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
+    "source": "CoinDesk",
+    "time": "9/26/2026, 2:56:41 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+    "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+    "source": "CoinDesk",
+    "time": "9/26/2026, 2:00:00 PM",
+    "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+    "category": "Markets"
+  },
+  {
     "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
     "summary": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
     "source": "CoinDesk",
@@ -16,14 +48,6 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-    "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
-    "source": "CoinDesk",
-    "time": "9/26/2026, 6:02:13 AM",
-    "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-    "category": "Markets"
-  },
-  {
     "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
     "summary": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.",
     "source": "CoinDesk",
@@ -37,30 +61,6 @@
     "source": "CoinDesk",
     "time": "9/25/2026, 11:17:30 PM",
     "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-    "category": "Markets"
-  },
-  {
-    "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-    "summary": "The trade group will be run again by its original CEO, Kristin Smith, when Summer Mersinger leaves at the end of a long congressional tussle.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 10:01:05 PM",
-    "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
-    "category": "Markets"
-  },
-  {
-    "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-    "summary": "The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and USDC. Most of the stolen funds sit in ether, which can't be frozen.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 4:41:53 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-    "category": "Markets"
-  },
-  {
-    "title": "Tokenization is moving faster than Washington",
-    "summary": "Regulatory clarity is not simply a legal or political issue, argues former New York Governor Andrew Cuomo. It is an economic one.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 4:37:32 PM",
-    "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
     "category": "Markets"
   },
   {
@@ -128,6 +128,30 @@
     "category": "Markets"
   },
   {
+    "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
+    "summary": "Bitcoin ETFs have drawn nearly $3 billion over seven straight sessions, erasing post-Clarity Act losses and pushing 2026 flows back into positive territory.",
+    "source": "Decrypt",
+    "time": "9/26/2026, 7:01:03 PM",
+    "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
+    "category": "Markets"
+  },
+  {
+    "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+    "summary": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
+    "source": "Decrypt",
+    "time": "9/26/2026, 6:06:03 PM",
+    "link": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+    "category": "Markets"
+  },
+  {
+    "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
+    "summary": "An open competition run by StarkWare, Yukon Research, and Eigen Labs drove the estimated cost of building a quantum-safe Bitcoin transaction from about $320 to roughly $67, with AI models topping the leaderboards.",
+    "source": "Decrypt",
+    "time": "9/26/2026, 5:01:05 PM",
+    "link": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
+    "category": "Markets"
+  },
+  {
     "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
     "summary": "Google Vids now lets any Google account holder generate free HD AI video using Gemini Omni 1.1 Flash, with new scene, timing, and watermark controls.",
     "source": "Decrypt",
@@ -168,27 +192,19 @@
     "category": "Markets"
   },
   {
-    "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
-    "summary": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.",
-    "source": "Decrypt",
-    "time": "9/25/2026, 7:46:05 PM",
-    "link": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
+    "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+    "summary": "The inflows pushed bitcoin ETFs' year-to-date net flows back above zero, after the funds sat roughly $5.8 billion in the red just two months ago.",
+    "source": "The Block",
+    "time": "9/26/2026, 7:24:12 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
     "category": "Markets"
   },
   {
-    "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
-    "summary": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.",
-    "source": "Decrypt",
-    "time": "9/25/2026, 7:08:57 PM",
-    "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
-    "category": "Markets"
-  },
-  {
-    "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
-    "summary": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
-    "source": "Decrypt",
-    "time": "9/25/2026, 6:17:19 PM",
-    "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+    "title": "Kalshi loses appeal over Ohio and Tennessee sports betting laws, widening circuit split",
+    "summary": "A federal appeals court ruled on Friday that Kalshi has not adequately shown its sports event contracts are swaps under the Commodity Exchange Act.",
+    "source": "The Block",
+    "time": "9/26/2026, 5:17:34 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937",
     "category": "Markets"
   },
   {
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "9/25/2026, 3:48:57 PM",
     "link": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
-    "category": "Markets"
-  },
-  {
-    "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
-    "summary": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.",
-    "source": "The Block",
-    "time": "9/25/2026, 1:00:00 PM",
-    "link": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
-    "category": "Markets"
-  },
-  {
-    "title": "KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit",
-    "summary": "KelpDAO sued LayerZero and Bryan Pellegrino over the April 18 rsETH exploit, alleging the bridge setup was endorsed in writing.",
-    "source": "The Block",
-    "time": "9/25/2026, 11:13:08 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
     "category": "Markets"
   }
 ]
