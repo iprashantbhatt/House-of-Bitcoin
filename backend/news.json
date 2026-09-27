@@ -1,5 +1,13 @@
 [
   {
+    "title": "How months of work on the Clarity Act all fell apart",
+    "summary": "Interviews with industry participants and legislative aides paint a picture of a blown bill-writing process, with sources pointing to nearly every facet of the bill's development and the debate around it as contributing factors to this month's failed vote.",
+    "source": "CoinDesk",
+    "time": "9/27/2026, 2:00:00 PM",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
+    "category": "Markets"
+  },
+  {
     "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
     "summary": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
     "source": "CoinDesk",
@@ -56,11 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-    "summary": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
-    "source": "CoinDesk",
-    "time": "9/25/2026, 11:17:30 PM",
-    "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+    "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report  ",
+    "summary": "A rogue OpenAI research agent bypassed blocks on the Australian government health-data portal, accessing non-public files in June.",
+    "source": "CoinTelegraph",
+    "time": "9/27/2026, 2:46:28 PM",
+    "link": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Riot Platforms repays $200M credit facility, releases collateral",
+    "summary": "The Bitcoin miner has continued to expand its data-center business as well.",
+    "source": "CoinTelegraph",
+    "time": "9/27/2026, 11:57:19 AM",
+    "link": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
+    "summary": "Our ambition should be to “enable 10 million new companies to raise capital,” Strategy’s executive chairman Michael Saylor wrote in an essay.",
+    "source": "CoinTelegraph",
+    "time": "9/27/2026, 9:18:42 AM",
+    "link": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -104,27 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
-    "summary": "Former CFTC Commissioner Summer Mersinger joined the Blockchain Association in 2025 after resigning during her second term at the federal commodities regulator.",
-    "source": "CoinTelegraph",
-    "time": "9/25/2026, 10:26:40 PM",
-    "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-    "summary": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the direction of EQIBank, where Tether holds some assets.",
-    "source": "CoinTelegraph",
-    "time": "9/25/2026, 8:56:53 PM",
-    "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
-    "summary": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.",
-    "source": "CoinTelegraph",
-    "time": "9/25/2026, 8:33:49 PM",
-    "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
+    "summary": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
+    "source": "Decrypt",
+    "time": "9/27/2026, 3:01:03 PM",
+    "link": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
     "category": "Markets"
   },
   {
@@ -181,14 +189,6 @@
     "source": "Decrypt",
     "time": "9/25/2026, 9:16:04 PM",
     "link": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
-    "category": "Markets"
-  },
-  {
-    "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
-    "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
-    "source": "Decrypt",
-    "time": "9/25/2026, 8:42:51 PM",
-    "link": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
     "category": "Markets"
   },
   {
