@@ -1,5 +1,13 @@
 [
   {
+    "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+    "summary": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.",
+    "source": "CoinDesk",
+    "time": "9/27/2026, 4:29:13 PM",
+    "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+    "category": "Markets"
+  },
+  {
     "title": "How months of work on the Clarity Act all fell apart",
     "summary": "Interviews with industry participants and legislative aides paint a picture of a blown bill-writing process, with sources pointing to nearly every facet of the bill's development and the debate around it as contributing factors to this month's failed vote.",
     "source": "CoinDesk",
@@ -53,14 +61,6 @@
     "source": "CoinDesk",
     "time": "9/26/2026, 6:30:00 AM",
     "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
-    "category": "Markets"
-  },
-  {
-    "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
-    "summary": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.",
-    "source": "CoinDesk",
-    "time": "9/26/2026, 12:17:38 AM",
-    "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
     "category": "Markets"
   },
   {
@@ -128,6 +128,22 @@
     "category": "Markets"
   },
   {
+    "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
+    "summary": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months—and of how hard autonomous AI is to contain.",
+    "source": "Decrypt",
+    "time": "9/27/2026, 6:01:03 PM",
+    "link": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
+    "summary": "Three developments this week—a cost breakthrough, a new privacy design, and a custody playbook—show a field moving from theory to logistics, even as \"Q-Day\" remains hypotheti",
+    "source": "Decrypt",
+    "time": "9/27/2026, 5:01:03 PM",
+    "link": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+    "category": "Markets"
+  },
+  {
     "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
     "summary": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
     "source": "Decrypt",
@@ -176,19 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
-    "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into running unauthorized network attacks.",
-    "source": "Decrypt",
-    "time": "9/25/2026, 9:45:39 PM",
-    "link": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
-    "category": "Markets"
-  },
-  {
-    "title": "Google Built an AI That Hunts Its Own Security Bugs",
-    "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.",
-    "source": "Decrypt",
-    "time": "9/25/2026, 9:16:04 PM",
-    "link": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+    "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
+    "summary": "Ethereum co-founder Vitalik Buterin said Ethereum is \"really not just a blockchain anymore\" and laid out how its design will change by 2030 in a post.",
+    "source": "The Block",
+    "time": "9/27/2026, 4:35:53 PM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "9/25/2026, 4:00:00 PM",
     "link": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
-    "category": "Markets"
-  },
-  {
-    "title": "Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks",
-    "summary": "Strategy is seeking shareholder approval to pay daily dividends across its four U.S.-listed preferred stocks.",
-    "source": "The Block",
-    "time": "9/25/2026, 3:48:57 PM",
-    "link": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
     "category": "Markets"
   }
 ]
