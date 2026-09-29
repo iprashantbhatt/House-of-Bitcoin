@@ -1,6 +1,30 @@
 [
   {
-    "title": "Bitcoin beats gold, surge to $100,000 in play",
+    "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+    "summary": "The agreement opens the door to tokenized derivatives as some of Wall Street's biggest institutions, including Nasdaq, NYSE and DTCC, move traditional markets onchain.",
+    "source": "CoinDesk",
+    "time": "9/29/2026, 8:21:07 PM",
+    "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
+    "category": "Markets"
+  },
+  {
+    "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
+    "summary": "The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible.",
+    "source": "CoinDesk",
+    "time": "9/29/2026, 6:00:00 PM",
+    "link": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
+    "category": "Markets"
+  },
+  {
+    "title": "Democrats killed the Clarity Act",
+    "summary": "Democrats should remember the people they represent and do what's best for them, not what's best for their political calculus, consultants, and special interests, writes Sen. Tim Scott (R-S.C.).",
+    "source": "CoinDesk",
+    "time": "9/29/2026, 4:08:18 PM",
+    "link": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
     "summary": "Your day-ahead look for Sept. 29, 2026",
     "source": "CoinDesk",
     "time": "9/29/2026, 1:34:55 PM",
@@ -24,8 +48,8 @@
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin rebounds above $84,000 as ETFs draw in $30 million",
-    "summary": "Ether led a modest recovery among major tokens, while ZEC extended its slide and its U.S. fund posted the only outflow among crypto ETFs on Monday.",
+    "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
+    "summary": "The Conference Board's Consumer Confidence Index fell to its lowest level in more than a decade in September, with expectations of continued weakening in business and labor market conditions.",
     "source": "CoinDesk",
     "time": "9/29/2026, 12:14:41 PM",
     "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
@@ -40,27 +64,59 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
-    "summary": "Bitcoin is on track for a third straight monthly gain, but higher yields, oil prices and two major November events could test its Q4 momentum.",
-    "source": "CoinDesk",
-    "time": "9/29/2026, 11:45:31 AM",
-    "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
+    "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
+    "summary": "Seven commissioner seats at the SEC and CFTC will be empty after Friday, leaving only a few leaders at financial regulators to oversee aspects of the $3 trillion crypto industry.",
+    "source": "CoinTelegraph",
+    "time": "9/29/2026, 9:59:43 PM",
+    "link": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
-    "summary": "Why yields are rising matters more for bitcoin than how high they go.",
-    "source": "CoinDesk",
-    "time": "9/29/2026, 11:06:11 AM",
-    "link": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
+    "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
+    "summary": "OpenAI is reportedly seeking another $30 billion from investors as the ChatGPT developer pushes its long-awaited public market debut into 2027.",
+    "source": "CoinTelegraph",
+    "time": "9/29/2026, 9:55:49 PM",
+    "link": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
-    "summary": "The swap service identified more than $50 million in attempted transfers, although most rejected funds subsequently moved through other providers.",
-    "source": "CoinDesk",
-    "time": "9/29/2026, 8:23:47 AM",
-    "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
+    "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
+    "summary": "Kakaopay Securities is working with Dinari and Ondo Finance to explore tokenizing Korean-listed equities and expanding their availability to investors in international markets.",
+    "source": "CoinTelegraph",
+    "time": "9/29/2026, 9:49:53 PM",
+    "link": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/29/2026, 9:42:02 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+    "summary": "Bitwise’s NEAR ETF begins trading on NYSE Arca as the token rallies more than 160% over the past month and activity on NEAR Intents grows.",
+    "source": "CoinTelegraph",
+    "time": "9/29/2026, 7:14:36 PM",
+    "link": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
+    "summary": "Bitcoin failed to make another run at $85,000 as sellers held the line above current levels, while surging US bond yields weighed on stocks and precious metals.",
+    "source": "CoinTelegraph",
+    "time": "9/29/2026, 6:26:11 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
+    "summary": "Gracy Chen said she saw the 2025 Bybit hack as a “good reference point” for Bitget’s security breach, noting that only a small percentage of funds had been frozen or recovered.",
+    "source": "CoinTelegraph",
+    "time": "9/29/2026, 6:18:06 PM",
+    "link": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -72,123 +128,107 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/29/2026, 3:08:04 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
-    "summary": "CoinShares says IBIT offers clues to institutional buying, but basis trades mean inflows are not necessarily bets on rising Bitcoin prices.",
-    "source": "CoinTelegraph",
-    "time": "9/29/2026, 2:40:12 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "ECB puts AI agent payments on the digital euro drawing board",
-    "summary": "The ECB is seeking firms to explore AI agents and machine-to-machine interactions as it prepares a separate digital euro pilot for 2027.",
-    "source": "CoinTelegraph",
-    "time": "9/29/2026, 2:00:45 PM",
-    "link": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
-    "summary": "Glamsterdam will bring proposer-builder separation, block-level access lists and new gas pricing, while its mainnet date remains unset.",
-    "source": "CoinTelegraph",
-    "time": "9/29/2026, 12:46:05 PM",
-    "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
-    "summary": "US spot crypto ETF inflows fell about 80% from Friday as Bitcoin, Ether, Solana and XRP funds attracted $64.8 million combined on Monday.",
-    "source": "CoinTelegraph",
-    "time": "9/29/2026, 12:15:19 PM",
-    "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
-    "summary": "Bitcoin price action consolidated after early-week losses while protecting a “trend-defining” support zone.",
-    "source": "CoinTelegraph",
-    "time": "9/29/2026, 12:04:42 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
-    "summary": "Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.",
-    "source": "CoinTelegraph",
-    "time": "9/29/2026, 11:50:22 AM",
-    "link": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
-    "summary": "Plus, crypto majors rebound as oil and yields fall and Saylor’s Strategy returns to buying Bitcoin.",
+    "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
+    "summary": "Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.",
     "source": "Decrypt",
-    "time": "9/29/2026, 2:05:18 PM",
-    "link": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
+    "time": "9/29/2026, 11:46:03 PM",
+    "link": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
     "category": "Markets"
   },
   {
-    "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
-    "summary": "The judge has told Pleterski he will raise objections on his behalf, to keep inadmissible evidence away from the jury.",
+    "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
+    "summary": "The renewed agreement preserves Cboe's exclusive rights to S&P 500 index options through 2051 while opening the door to pairing the flagship benchmark with blockchain infrastructure.",
     "source": "Decrypt",
-    "time": "9/29/2026, 12:38:29 PM",
-    "link": "https://decrypt.co/379523/canadas-crypto-king-aiden-pleterski-to-represent-himself-at-fraud-trial",
+    "time": "9/29/2026, 11:16:04 PM",
+    "link": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
     "category": "Markets"
   },
   {
-    "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
-    "summary": "Coinbase Clearing will take USDC as collateral and settle around the clock, though margined products stay with partners.",
+    "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
+    "summary": "Bitwise's NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR exposure and staking rewards as the AI-focused token soars.",
     "source": "Decrypt",
-    "time": "9/29/2026, 11:38:57 AM",
-    "link": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
+    "time": "9/29/2026, 10:36:04 PM",
+    "link": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
     "category": "Markets"
   },
   {
-    "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
-    "summary": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
+    "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
+    "summary": "The company's IPO prospectus shows revenue up twelvefold, a $518 billion spending plan, and a risk section warning that its own AI could pose existential risks to humanity.",
     "source": "Decrypt",
-    "time": "9/28/2026, 11:46:03 PM",
-    "link": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+    "time": "9/29/2026, 10:06:03 PM",
+    "link": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
     "category": "Markets"
   },
   {
-    "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
-    "summary": "A UC San Diego-led team impersonated a hardware security module without extracting its key.",
+    "title": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
+    "summary": "Linear Fox founder Nathan Fargo released a public jailbreak for the PS5, dubbed Relapse, while Sony argues in court that players don't own their digital games.",
     "source": "Decrypt",
-    "time": "9/28/2026, 11:16:03 PM",
-    "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+    "time": "9/29/2026, 9:31:04 PM",
+    "link": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
     "category": "Markets"
   },
   {
-    "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
-    "summary": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Citi's banking rails.",
+    "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+    "summary": "OpenAI's DevDay launched dots, always-on AI agents with their own computers, plus a cheaper GPT-6.1 Sol and a $500 speed tier. Here's every announcement, explained for people who don't speak AI.",
     "source": "Decrypt",
-    "time": "9/28/2026, 10:36:03 PM",
-    "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+    "time": "9/29/2026, 8:55:22 PM",
+    "link": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
     "category": "Markets"
   },
   {
-    "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
-    "summary": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured.",
+    "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
+    "summary": "Bitcoin ETFs extended their inflow streak to eight straight days on Monday, bouncing back from the Clarity Act sell-off in a big way.",
     "source": "Decrypt",
-    "time": "9/28/2026, 10:06:03 PM",
-    "link": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
+    "time": "9/29/2026, 8:18:33 PM",
+    "link": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
     "category": "Markets"
   },
   {
-    "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-    "summary": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for months.",
+    "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
+    "summary": "Matt Brittin, who joined the BBC from Google, argued that \"not all creativity is bad,\" while noting that the technology won't replace humans.",
     "source": "Decrypt",
-    "time": "9/28/2026, 9:36:21 PM",
-    "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
+    "time": "9/29/2026, 7:31:04 PM",
+    "link": "https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good",
+    "category": "Markets"
+  },
+  {
+    "title": "CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high",
+    "summary": "Bitcoin could face a near-term correction as short-term traders' onchain unrealized profit margin has reached its highest level in 21 months, according to CryptoQuant.",
+    "source": "The Block",
+    "time": "9/29/2026, 9:14:47 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206",
+    "category": "Markets"
+  },
+  {
+    "title": "Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades",
+    "summary": "Comer’s expanded probe seeks records on government insiders, employee trades and suspicious activity referrals.",
+    "source": "The Block",
+    "time": "9/29/2026, 7:40:37 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192",
+    "category": "Markets"
+  },
+  {
+    "title": "Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2",
+    "summary": "Aztec Labs has relaunched zk.money, a self-custodial privacy wallet, on Aztec Network after discontinuing the original product in 2023.",
+    "source": "The Block",
+    "time": "9/29/2026, 6:00:00 PM",
+    "link": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin tests long-term holder supply cluster as leverage clears, analysts say",
+    "summary": "Bitcoin traded near $84,000 on Tuesday, near Glassnode's largest long-term holder cost-basis cluster price range.",
+    "source": "The Block",
+    "time": "9/29/2026, 5:09:46 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-29-bitcoin-tests-long-term-holder-supply-cluster-leverage-clears-analysts-say-417162",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitwise launches first US spot NEAR ETF with staking rewards",
+    "summary": "Bitwise's NRR is the first U.S. NEAR ETP, charging a 0.75% fee and staking its NEAR in-house, with rewards flowing to shareholders via NAV.",
+    "source": "The Block",
+    "time": "9/29/2026, 4:27:22 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150",
     "category": "Markets"
   },
   {
@@ -213,46 +253,6 @@
     "source": "The Block",
     "time": "9/28/2026, 9:10:42 PM",
     "link": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
-    "category": "Markets"
-  },
-  {
-    "title": "Citi expands Coinbase partnership to power stablecoin payments for businesses",
-    "summary": "Coinbase is expanding partnership with Citi to provide businesses with infrastructure connecting traditional fiat payments and stablecoins.",
-    "source": "The Block",
-    "time": "9/28/2026, 7:22:06 PM",
-    "link": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
-    "category": "Markets"
-  },
-  {
-    "title": "SEC Commissioner Hester Peirce reflects on her time at the agency, what she still wanted to get done: ‘There’s no good time to leave’",
-    "summary": "After nearly a decade at the Securities and Exchange Commission, Hester Peirce is wrapping up her last week at the agency.",
-    "source": "The Block",
-    "time": "9/28/2026, 6:35:29 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075",
-    "category": "Markets"
-  },
-  {
-    "title": "Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase",
-    "summary": "SATA supplied 85% of Strive’s latest capital as its bitcoin holdings climbed to 27,462 BTC.",
-    "source": "The Block",
-    "time": "9/28/2026, 6:00:33 PM",
-    "link": "https://www.theblock.co/news/business/2026-09-28-strive-pushes-bitcoin-holdings-above-27400-btc-latest-94-5-million-purchase-417035",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitget attacker tested risk controls with small transfers before $388 million theft, CEO says",
-    "summary": "Bitget's attacker ran two small test transfers half an hour before draining $388 million, CEO Gracy Chen says.",
-    "source": "The Block",
-    "time": "9/28/2026, 5:30:51 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-28-bitget-attacker-tested-risk-controls-small-transfers-388-million-theft-ceo-says-417045",
-    "category": "Markets"
-  },
-  {
-    "title": "Tom Lee’s Bitmine tops 6 million ETH after buying another 17,362 ether",
-    "summary": "Bitmine's total crypto, cash and other investments currently stand at $17.2B, and the company owns over 4.9% of ether's circulating supply.",
-    "source": "The Block",
-    "time": "9/28/2026, 3:39:06 PM",
-    "link": "https://www.theblock.co/news/business/2026-09-28-tom-lees-bitmine-tops-6-million-eth-after-buying-another-17362-ether-416989",
     "category": "Markets"
   }
 ]
