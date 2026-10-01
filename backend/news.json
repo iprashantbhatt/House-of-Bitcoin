@@ -1,7 +1,39 @@
 [
   {
-    "title": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
-    "summary": "After a spike higher overnight, interest rates are dipping ahead of tomorrow's key U.S. employment report.",
+    "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+    "summary": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week.",
+    "source": "CoinDesk",
+    "time": "10/1/2026, 10:20:04 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+    "category": "Markets"
+  },
+  {
+    "title": "Another Trump memecoin dinner advertised for token's top investors",
+    "summary": "The company managing the memecoin calls the November event the \"most exclusive dinner in the world.\"",
+    "source": "CoinDesk",
+    "time": "10/1/2026, 8:45:29 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+    "category": "Markets"
+  },
+  {
+    "title": " Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
+    "summary": "",
+    "source": "CoinDesk",
+    "time": "10/1/2026, 5:00:00 PM",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
+    "category": "Markets"
+  },
+  {
+    "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+    "summary": "The popular cross-chain trading system said it will reimburse losses after a bug affected deposits and withdrawals across several networks.",
+    "source": "CoinDesk",
+    "time": "10/1/2026, 4:18:14 PM",
+    "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+    "category": "Markets"
+  },
+  {
+    "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
+    "summary": "The euro is losing ground versus the greenback as spiking French bond yields revive memories of the European sovereign debt crisis.",
     "source": "CoinDesk",
     "time": "10/1/2026, 1:59:17 PM",
     "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
@@ -32,163 +64,171 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
-    "summary": "Prices briefly topped $85,000 on Wednesday after weaker-than-expected U.S. inflation cooled bets on Fed rate hikes, But bulls couldn’t hold the move and spot ETFs didn’t help.",
-    "source": "CoinDesk",
-    "time": "10/1/2026, 12:38:04 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
-    "category": "Markets"
-  },
-  {
-    "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-    "summary": "Citi also raised its 12-month target for ether from from $2,240 to $3,028.",
-    "source": "CoinDesk",
-    "time": "10/1/2026, 11:59:30 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
-    "category": "Markets"
-  },
-  {
-    "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
-    "summary": "An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH.",
-    "source": "CoinDesk",
-    "time": "10/1/2026, 9:06:30 AM",
-    "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-    "category": "Markets"
-  },
-  {
-    "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
-    "summary": "DogeOS wants to turn DOGE into more than a payments and speculation asset, but its applications still rely on selected operators rather than Dogecoin miners.",
-    "source": "CoinDesk",
-    "time": "10/1/2026, 6:58:52 AM",
-    "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
-    "summary": "Crypto security losses reached $1.26 billion in Q3 across 247 incidents, with September alone accounting for roughly $769 million.",
+    "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+    "summary": "Evernorth expects to begin trading on Nasdaq under the ticker XRPN after its SPAC merger closes, with an XRP treasury worth roughly $710 million at current prices.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 3:35:47 PM",
-    "link": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/1/2026, 11:07:45 PM",
+    "link": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "LATAM stablecoin liquidity may depend on few providers, investor says ",
-    "summary": "Researchers in a Latin American stablecoin ecosystem report warned “fragility in the system is concentrated in its thinnest layer,” with just 16 of 494 companies focused primarily on wholesale liquidity, treasury and credit.",
+    "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
+    "summary": "The president is scheduled to appear at his golf club in Washington, DC, at a Nov. 22 dinner for his top 185 memecoin holders, following similar events in May 2025 and April 2026.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 3:30:00 PM",
-    "link": "https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Stablecoins can drain from banks and nations at lightning speed",
-    "summary": "Highly liquid and settling 24/7, stablecoins can leave banks and countries at lightning speed. But whether stablecoins are a risk — or an opportunity — depends on your perspective.",
-    "source": "CoinTelegraph",
-    "time": "10/1/2026, 3:30:00 PM",
-    "link": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/1/2026, 11:00:11 PM",
+    "link": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 3:08:56 PM",
+    "time": "10/1/2026, 10:07:25 PM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Tokenized assets don’t always mirror traditional markets, Dune finds",
-    "summary": "Dune found that tokenized markets show different trading patterns from traditional markets, with RWA value reaching $34.5 billion.",
+    "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
+    "summary": "A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader changes to MiCA’s stablecoin rules.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 12:50:24 PM",
-    "link": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/1/2026, 8:45:09 PM",
+    "link": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
-    "summary": "Bitcoin erased its post-PCE gains as analysts cautioned that methodology changes complicated the lower-than-expected inflation reading.",
+    "title": "Illinois will postpone implementation of crypto tax following lawsuit",
+    "summary": "State officials agreed to delay the 0.2% crypto tax for six months after lawsuits and industry pushback claimed the bill was rushed through the legislature.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 12:30:18 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/1/2026, 8:01:49 PM",
+    "link": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
-    "summary": "EU regulators are reportedly examining Binance’s use of a MiCA exemption to serve customers as ESMA seeks stronger enforcement powers.",
+    "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight ",
+    "summary": "The agreement will allow the two state regulators to share supervisory information, streamline licensing reviews and coordinate examinations and enforcement actions involving digital asset firms.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 12:07:18 PM",
-    "link": "https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/1/2026, 6:12:23 PM",
+    "link": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
-    "summary": "Chainalysis still faces an aiding-and-abetting claim over Celsius’ disputed $3.3 billion audit after a judge dismissed 15 other claims.",
+    "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
+    "summary": "US bond yields fell sharply around Thursday’s Wall Street open as Bitcoin price action sought to preserve a local trend of higher lows.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 11:09:46 AM",
-    "link": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/1/2026, 5:55:19 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
-    "summary": "The guidelines exclude cryptocurrencies, leaving tokens outside a regime written for currencies bought with real money inside games.",
-    "source": "Decrypt",
-    "time": "10/1/2026, 3:22:58 PM",
-    "link": "https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
+    "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+    "summary": "The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals.",
+    "source": "CoinTelegraph",
+    "time": "10/1/2026, 5:43:34 PM",
+    "link": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
-    "summary": "Plus, a major MetaMask security event has crypto natives on edge as details trickle out.",
+    "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
+    "summary": "ZEC is 21% off its $1,698 peak after ETF outflows and a suspected North Korean heist routed money through its shielded pool. Is the run over, or will traders buy the dip?",
     "source": "Decrypt",
-    "time": "10/1/2026, 2:29:00 PM",
-    "link": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+    "time": "10/1/2026, 11:31:03 PM",
+    "link": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
     "category": "Markets"
   },
   {
-    "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
-    "summary": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.",
+    "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
+    "summary": "The proposal would let advisers and funds use state trust companies as custodians and permit self-custody under certain conditions, aiming to replace years of ambiguity with a clear compliance path.",
     "source": "Decrypt",
-    "time": "10/1/2026, 2:23:15 PM",
-    "link": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+    "time": "10/1/2026, 10:46:03 PM",
+    "link": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
     "category": "Markets"
   },
   {
-    "title": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
-    "summary": "The wallet says it has found no immediate threat to user wallets, but the ETH it is pulling out of Lido could take 45 days to return.",
+    "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+    "summary": "Reddit RSS dies November 13 and outside apps lose their data pipeline by March 2027. Reddit blames scraping bots, though it licenses its own content to AI companies.",
     "source": "Decrypt",
-    "time": "10/1/2026, 11:38:06 AM",
-    "link": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
+    "time": "10/1/2026, 10:31:03 PM",
+    "link": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
     "category": "Markets"
   },
   {
-    "title": "EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report",
-    "summary": "Regulators are probing how the exchange keeps serving EU customers from Abu Dhabi, months after it lost its MiCA registrations.",
+    "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
+    "summary": "OpenAI says it disrupted a campaign involving 15,000+ users and ties a core cluster to people associated with Moonshot, the startup behind Kimi.",
     "source": "Decrypt",
-    "time": "10/1/2026, 10:56:02 AM",
-    "link": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report",
+    "time": "10/1/2026, 9:46:03 PM",
+    "link": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
     "category": "Markets"
   },
   {
-    "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
-    "summary": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off.",
+    "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+    "summary": "Communications chief Andy Stone said reading Messages requires two permissions the user controls, disputing a journalist who reported Muse synced his texts despite his settings.",
     "source": "Decrypt",
-    "time": "10/1/2026, 1:20:59 AM",
-    "link": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+    "time": "10/1/2026, 9:16:03 PM",
+    "link": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
     "category": "Markets"
   },
   {
-    "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
-    "summary": "The team behind the MyDoge wallet opened a public test of DogeOS, a layer that lets developers build lending platforms and games on top of the meme coin network.",
+    "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
+    "summary": "Shareholders approved Evernorth's merger with Armada Acquisition Corp. II, clearing the way for the Ripple-backed firm to begin trading Oct. 8 with a stash of roughly 473 million XRP.",
     "source": "Decrypt",
-    "time": "9/30/2026, 11:46:03 PM",
-    "link": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
+    "time": "10/1/2026, 8:46:03 PM",
+    "link": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
     "category": "Markets"
   },
   {
-    "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
-    "summary": "An internal memo warned FBI staff that ShinyHunters, the group claiming it hacked the bureau's jobs site, may hold their private details.",
+    "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
+    "summary": "OpenAI says the three broke its rules on handling sensitive information. The exits land after months of rogue-agent incidents, a trail of safety-team departures, and a new lawsuit.",
     "source": "Decrypt",
-    "time": "9/30/2026, 11:16:04 PM",
-    "link": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
+    "time": "10/1/2026, 8:12:04 PM",
+    "link": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
+    "category": "Markets"
+  },
+  {
+    "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+    "summary": "Bitcoin enters its historically strongest month after a record-pace September, but a Fed hike and 5.3% Treasury yields are testing the bulls.",
+    "source": "Decrypt",
+    "time": "10/1/2026, 7:11:44 PM",
+    "link": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+    "category": "Markets"
+  },
+  {
+    "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
+    "summary": "SEC proposed a crypto framework for investment advisers & funds, allowing self-custody in some cases & state trust companies as custodians.",
+    "source": "The Block",
+    "time": "10/1/2026, 11:00:53 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
+    "category": "Markets"
+  },
+  {
+    "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
+    "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.",
+    "source": "The Block",
+    "time": "10/1/2026, 9:10:36 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+    "category": "Markets"
+  },
+  {
+    "title": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
+    "summary": "Co-author Jérôme de Tychey said industry participants and core contributors convinced him a scoping process was the wrong venue for an issuance change.",
+    "source": "The Block",
+    "time": "10/1/2026, 6:17:23 PM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+    "category": "Markets"
+  },
+  {
+    "title": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
+    "summary": "Armada Acquisition Corp. II shareholders approved the Evernorth merger. The XRP treasury company expects to hold ~473M XRP.",
+    "source": "The Block",
+    "time": "10/1/2026, 5:17:11 PM",
+    "link": "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
+    "category": "Markets"
+  },
+  {
+    "title": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
+    "summary": "NEAR Intents patched the contract flaw, but deposits and withdrawals on 11 networks remain disrupted.",
+    "source": "The Block",
+    "time": "10/1/2026, 4:18:12 PM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
     "category": "Markets"
   },
   {
@@ -213,46 +253,6 @@
     "source": "The Block",
     "time": "10/1/2026, 1:13:46 PM",
     "link": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
-    "category": "Markets"
-  },
-  {
-    "title": "Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says",
-    "summary": "Bitwise’s Matt Hougan says Clarity’s defeat left crypto with fewer restrictions and faster SEC action.",
-    "source": "The Block",
-    "time": "9/30/2026, 11:53:05 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
-    "category": "Markets"
-  },
-  {
-    "title": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
-    "summary": "The CFTC secured a win in court after the agency said two defendants participated in a crypto scheme that they then tried to walk back.",
-    "source": "The Block",
-    "time": "9/30/2026, 10:37:08 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
-    "category": "Markets"
-  },
-  {
-    "title": "Base launches Cobalt upgrade with conditional transactions and new B20 asset functions",
-    "summary": "Base has launched Cobalt, adding conditional transactions and new functions for assets issued under its B20 standard.",
-    "source": "The Block",
-    "time": "9/30/2026, 9:00:00 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308",
-    "category": "Markets"
-  },
-  {
-    "title": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
-    "summary": "DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smart contracts to Dogecoin, with DOGE used for gas fees.",
-    "source": "The Block",
-    "time": "9/30/2026, 8:23:57 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
-    "category": "Markets"
-  },
-  {
-    "title": "White House weighs new CFTC event contract rules in growing prediction market power struggle",
-    "summary": "The White House is weighing two proposed rules from the CFTC tied to prediction markets as the agency seeks to assert its jurisdiction.",
-    "source": "The Block",
-    "time": "9/30/2026, 7:54:45 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345",
     "category": "Markets"
   }
 ]
