@@ -1,5 +1,53 @@
 [
   {
+    "title": "Cboe wants to turn VIX into a never-ending trade",
+    "summary": "Your day-ahead look for Oct. 2, 2026",
+    "source": "CoinDesk",
+    "time": "10/2/2026, 1:30:00 PM",
+    "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
+    "category": "Markets"
+  },
+  {
+    "title": "Live updates: Bitcoin rises, re-taking $86,000 ahead of key U.S. jobs data",
+    "summary": "U.S. stock index futures were also gaining as oil fell more than 3% and yields continued to ease from recent highs.",
+    "source": "CoinDesk",
+    "time": "10/2/2026, 1:22:40 PM",
+    "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
+    "summary": "Bitcoin dominance is closing in on 60% while USDT's has slipped to 6.3%, pointing to a market growing more comfortable with risk.",
+    "source": "CoinDesk",
+    "time": "10/2/2026, 12:31:16 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
+    "summary": "Rising open interest and funding rates signal renewed demand for bullish bitcoin exposure.",
+    "source": "CoinDesk",
+    "time": "10/2/2026, 11:14:21 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
+    "category": "Markets"
+  },
+  {
+    "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
+    "summary": "A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT and loans backed by BTC, while keeping most transaction data off Bitcoin’s public ledger.",
+    "source": "CoinDesk",
+    "time": "10/2/2026, 10:28:19 AM",
+    "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
+    "summary": "Bitcoin is up roughly 3% in October as traders await September’s jobs data, while rising bond yields, a stronger dollar weigh on broader markets.",
+    "source": "CoinDesk",
+    "time": "10/2/2026, 10:11:54 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
+    "category": "Markets"
+  },
+  {
     "title": "SEC proposes new crypto custody rules for investment advisers and funds",
     "summary": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week.",
     "source": "CoinDesk",
@@ -16,115 +64,99 @@
     "category": "Markets"
   },
   {
-    "title": " Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-    "summary": "",
-    "source": "CoinDesk",
-    "time": "10/1/2026, 5:00:00 PM",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-    "category": "Markets"
-  },
-  {
-    "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
-    "summary": "The popular cross-chain trading system said it will reimburse losses after a bug affected deposits and withdrawals across several networks.",
-    "source": "CoinDesk",
-    "time": "10/1/2026, 4:18:14 PM",
-    "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-    "category": "Markets"
-  },
-  {
-    "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
-    "summary": "The euro is losing ground versus the greenback as spiking French bond yields revive memories of the European sovereign debt crisis.",
-    "source": "CoinDesk",
-    "time": "10/1/2026, 1:59:17 PM",
-    "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
-    "category": "Markets"
-  },
-  {
-    "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
-    "summary": "Both sides agreed the 0.2% tax should be put off until July 1, if the court approves the deal, which will let the state and industry focus on the legal dispute.",
-    "source": "CoinDesk",
-    "time": "10/1/2026, 1:58:00 PM",
-    "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
-    "summary": "Your day-ahead look for Oct. 1, 2026",
-    "source": "CoinDesk",
-    "time": "10/1/2026, 1:30:38 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
-    "category": "Markets"
-  },
-  {
-    "title": "Synthetic tokenized stocks are bad for American investors",
-    "summary": "U.S. markets are the envy of the world because investors trust that whoever owns a share owns it fully, writes Aaron Kaplan, founder of Promethum. The synthetic models cheapens that trust, shortchanges U.S. investors, and undercuts the issuer-led capital markets model.",
-    "source": "CoinDesk",
-    "time": "10/1/2026, 1:00:00 PM",
-    "link": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
-    "category": "Markets"
-  },
-  {
-    "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
-    "summary": "Evernorth expects to begin trading on Nasdaq under the ticker XRPN after its SPAC merger closes, with an XRP treasury worth roughly $710 million at current prices.",
+    "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
+    "summary": "The furious debate over Bitget’s $387.7M of hacked funds comes down to whether ideals around “permissionless and decentralized” tech means never intervening — even if you could.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 11:07:45 PM",
-    "link": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
-    "summary": "The president is scheduled to appear at his golf club in Washington, DC, at a Nov. 22 dinner for his top 185 memecoin holders, following similar events in May 2025 and April 2026.",
-    "source": "CoinTelegraph",
-    "time": "10/1/2026, 11:00:11 PM",
-    "link": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/2/2026, 3:30:00 PM",
+    "link": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 10:07:25 PM",
+    "time": "10/2/2026, 3:00:00 PM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
-    "summary": "A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader changes to MiCA’s stablecoin rules.",
+    "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+    "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 8:45:09 PM",
-    "link": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/2/2026, 2:25:56 PM",
+    "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Illinois will postpone implementation of crypto tax following lawsuit",
-    "summary": "State officials agreed to delay the 0.2% crypto tax for six months after lawsuits and industry pushback claimed the bill was rushed through the legislature.",
+    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "summary": "Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader market climbed to $3.7 billion, putting the network’s share at roughly 30%.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 8:01:49 PM",
-    "link": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/2/2026, 1:40:21 PM",
+    "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight ",
-    "summary": "The agreement will allow the two state regulators to share supervisory information, streamline licensing reviews and coordinate examinations and enforcement actions involving digital asset firms.",
+    "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
+    "summary": "Strategy’s scale and cash reserves give it an edge over treasury rivals, according to Saifedean Ammous, author of “The Bitcoin Standard.”",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 6:12:23 PM",
-    "link": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/2/2026, 12:54:33 PM",
+    "link": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
-    "summary": "US bond yields fell sharply around Thursday’s Wall Street open as Bitcoin price action sought to preserve a local trend of higher lows.",
+    "title": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain",
+    "summary": "Arthur Hayes said money printing could lift crypto prices, while CONNECT Seoul speakers examined Wall Street’s competitive edge onchain.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 5:55:19 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/2/2026, 12:29:35 PM",
+    "link": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
-    "summary": "The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals.",
+    "title": "Bitcoin reaches for $87K as short liquidations top $120M ",
+    "summary": "Bitcoin buyers broke through a wall of ask liquidity to reach new October BTC price highs near $87,800, with the area immediately above now a new resistance hurdle.",
     "source": "CoinTelegraph",
-    "time": "10/1/2026, 5:43:34 PM",
-    "link": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/2/2026, 11:37:06 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+    "summary": "Aave founder Stani Kulechov said Aave v3 was unaffected after an attacker exploited a third-party adapter to drain about $305,000 from two Safe multisig wallets.",
+    "source": "CoinTelegraph",
+    "time": "10/2/2026, 11:30:49 AM",
+    "link": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
+    "summary": "Cooler inflation and two dovish Fed speakers have shifted the odds toward a rate hold, with payrolls due and CPI landing on October 14.",
+    "source": "Decrypt",
+    "time": "10/2/2026, 2:58:25 PM",
+    "link": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
+    "category": "Markets"
+  },
+  {
+    "title": "Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?",
+    "summary": "Hacks are never good, but a rapid response, user compensation and 1-hour bug fixing seems to top the spectrum of team reactions.",
+    "source": "Decrypt",
+    "time": "10/2/2026, 2:19:00 PM",
+    "link": "https://decrypt.co/379929/morning-minute-near-intents-hacked-for-3-8m-was-it-a-bullish-hack",
+    "category": "Markets"
+  },
+  {
+    "title": "US Designates Russia's A7 Network as Transnational Criminal Organization",
+    "summary": "Treasury's proposed rule aims to cut A7's front companies off from U.S. finance—including crypto, where its ruble token moved $179 billion.",
+    "source": "Decrypt",
+    "time": "10/2/2026, 1:28:41 PM",
+    "link": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
+    "category": "Markets"
+  },
+  {
+    "title": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
+    "summary": "A second suspect faces extradition to Puerto Rico, while Investigators are tracing the proceeds of ransoms the group demanded in crypto.",
+    "source": "Decrypt",
+    "time": "10/2/2026, 11:12:54 AM",
+    "link": "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group",
     "category": "Markets"
   },
   {
@@ -160,35 +192,51 @@
     "category": "Markets"
   },
   {
-    "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-    "summary": "Communications chief Andy Stone said reading Messages requires two permissions the user controls, disputing a journalist who reported Muse synced his texts despite his settings.",
-    "source": "Decrypt",
-    "time": "10/1/2026, 9:16:03 PM",
-    "link": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
+    "title": "Bitcoin nears highest level since January as $85,000 sell wall clears, US jobs data disappoints",
+    "summary": "Bitcoin climbed back toward $87,000 on Friday as sellers cleared out around $85,000, according to Glassnode.",
+    "source": "The Block",
+    "time": "10/2/2026, 3:34:40 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570",
     "category": "Markets"
   },
   {
-    "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
-    "summary": "Shareholders approved Evernorth's merger with Armada Acquisition Corp. II, clearing the way for the Ripple-backed firm to begin trading Oct. 8 with a stash of roughly 473 million XRP.",
-    "source": "Decrypt",
-    "time": "10/1/2026, 8:46:03 PM",
-    "link": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
+    "title": "BitGo CEO says Clarity’s failure left capital markets exposed to risk potentially worse than Lehman",
+    "summary": "BitGo CEO Mike Belshe warned that Clarity's failure left systemic risks arising from one firm holding exchange, brokerage, and custody functions.",
+    "source": "The Block",
+    "time": "10/2/2026, 2:28:54 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560",
     "category": "Markets"
   },
   {
-    "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
-    "summary": "OpenAI says the three broke its rules on handling sensitive information. The exits land after months of rogue-agent incidents, a trail of safety-team departures, and a new lawsuit.",
-    "source": "Decrypt",
-    "time": "10/1/2026, 8:12:04 PM",
-    "link": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
+    "title": "ECB outlines three models for putting central bank money onchain",
+    "summary": "The ECB outlined three models for bringing central bank money onchain as financial institutions explore settlement infrastructure.",
+    "source": "The Block",
+    "time": "10/2/2026, 12:17:39 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
     "category": "Markets"
   },
   {
-    "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
-    "summary": "Bitcoin enters its historically strongest month after a record-pace September, but a Fed hike and 5.3% Treasury yields are testing the bulls.",
-    "source": "Decrypt",
-    "time": "10/1/2026, 7:11:44 PM",
-    "link": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+    "title": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
+    "summary": "US spot bitcoin ETFs recorded $2.65 billion in net inflows in September, their second-largest monthly inflow since October 2025.",
+    "source": "The Block",
+    "time": "10/2/2026, 7:50:41 AM",
+    "link": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
+    "category": "Markets"
+  },
+  {
+    "title": "SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
+    "summary": "Robinhood's Johann Kerbrat told The Block that Robinhood is still working through the SEC's latest innovation exemption on tokenized stocks.",
+    "source": "The Block",
+    "time": "10/2/2026, 7:04:41 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
+    "category": "Markets"
+  },
+  {
+    "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+    "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
+    "source": "The Block",
+    "time": "10/2/2026, 2:22:58 AM",
+    "link": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
     "category": "Markets"
   },
   {
@@ -205,54 +253,6 @@
     "source": "The Block",
     "time": "10/1/2026, 9:10:36 PM",
     "link": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-    "category": "Markets"
-  },
-  {
-    "title": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
-    "summary": "Co-author Jérôme de Tychey said industry participants and core contributors convinced him a scoping process was the wrong venue for an issuance change.",
-    "source": "The Block",
-    "time": "10/1/2026, 6:17:23 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
-    "category": "Markets"
-  },
-  {
-    "title": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
-    "summary": "Armada Acquisition Corp. II shareholders approved the Evernorth merger. The XRP treasury company expects to hold ~473M XRP.",
-    "source": "The Block",
-    "time": "10/1/2026, 5:17:11 PM",
-    "link": "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
-    "category": "Markets"
-  },
-  {
-    "title": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
-    "summary": "NEAR Intents patched the contract flaw, but deposits and withdrawals on 11 networks remain disrupted.",
-    "source": "The Block",
-    "time": "10/1/2026, 4:18:12 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
-    "category": "Markets"
-  },
-  {
-    "title": "Robinhood Wallet integrates Arcus RFQ system for stock token swaps",
-    "summary": "Robinhood Wallet adds Arcus as a routing provider for Stock Token swaps, giving eligible users access to more than 190 tokens.",
-    "source": "The Block",
-    "time": "10/1/2026, 3:00:00 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-01-robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps-417394",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds",
-    "summary": "Meanwhile, U.S. spot Ethereum ETFs saw $59.6 million in net outflows on Wednesday, led by $26.6 million exiting Fidelity's FETH fund.",
-    "source": "The Block",
-    "time": "10/1/2026, 2:17:06 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
-    "category": "Markets"
-  },
-  {
-    "title": "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot",
-    "summary": "Lloyds used USDC to settle $750,000 of payment obligations with Visa during a seven-day live cross-border pilot.",
-    "source": "The Block",
-    "time": "10/1/2026, 1:13:46 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
     "category": "Markets"
   }
 ]
