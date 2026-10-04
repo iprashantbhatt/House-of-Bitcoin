@@ -1,5 +1,29 @@
 [
   {
+    "title": "There's an election next month: State of Crypto ",
+    "summary": "Congress is gone from Washington for the final pre-election recess, and it's time to take stock of what's going on ahead of November.",
+    "source": "CoinDesk",
+    "time": "10/4/2026, 8:30:00 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto poured years into new products. The next challenge is keeping users",
+    "summary": "Crypto firms have spent years building financial products on blockchains. Getting people to use them — and keep using them — is becoming the next challenge.",
+    "source": "CoinDesk",
+    "time": "10/4/2026, 4:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+    "category": "Markets"
+  },
+  {
+    "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+    "summary": "Crypto M&A has hit record levels, but the Clarity Act’s Senate setback leaves dealmakers weighing how much regulatory uncertainty still matters.",
+    "source": "CoinDesk",
+    "time": "10/4/2026, 3:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+    "category": "Markets"
+  },
+  {
     "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
     "summary": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology.",
     "source": "CoinDesk",
@@ -40,27 +64,11 @@
     "category": "Markets"
   },
   {
-    "title": "Bank group sues U.S. regulator over granting crypto trust charters",
-    "summary": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.",
-    "source": "CoinDesk",
-    "time": "10/2/2026, 11:23:20 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
-    "category": "Markets"
-  },
-  {
-    "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
-    "summary": "The potential agreement could span digital assets, custody, trading, payments and other financial-market infrastructure.",
-    "source": "CoinDesk",
-    "time": "10/2/2026, 7:34:40 PM",
-    "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
-    "category": "Markets"
-  },
-  {
-    "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-    "summary": "Once home to more than $2 billion in crypto assets, Blast is shutting down as activity fades, costs rise, and bigger platforms like Coinbase and Robinhood build networks of their own.",
-    "source": "CoinDesk",
-    "time": "10/2/2026, 7:15:35 PM",
-    "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/4/2026, 8:51:50 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -96,14 +104,6 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/3/2026, 2:20:00 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
     "summary": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.",
     "source": "CoinTelegraph",
@@ -125,6 +125,30 @@
     "source": "CoinTelegraph",
     "time": "10/3/2026, 9:09:00 AM",
     "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+    "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple.",
+    "source": "Decrypt",
+    "time": "10/4/2026, 7:01:03 PM",
+    "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+    "category": "Markets"
+  },
+  {
+    "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+    "summary": "The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a \"side door into the banking system\" without the safeguards that bind traditional banks.",
+    "source": "Decrypt",
+    "time": "10/4/2026, 6:01:03 PM",
+    "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+    "category": "Markets"
+  },
+  {
+    "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+    "summary": "Spot Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled Fed rate-hike bets.",
+    "source": "Decrypt",
+    "time": "10/4/2026, 5:01:03 PM",
+    "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
     "category": "Markets"
   },
   {
@@ -165,30 +189,6 @@
     "source": "Decrypt",
     "time": "10/3/2026, 3:01:04 PM",
     "link": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
-    "category": "Markets"
-  },
-  {
-    "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
-    "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.",
-    "source": "Decrypt",
-    "time": "10/2/2026, 11:16:04 PM",
-    "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
-    "category": "Markets"
-  },
-  {
-    "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-    "summary": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
-    "source": "Decrypt",
-    "time": "10/2/2026, 10:16:04 PM",
-    "link": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-    "category": "Markets"
-  },
-  {
-    "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
-    "summary": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules.",
-    "source": "Decrypt",
-    "time": "10/2/2026, 9:46:03 PM",
-    "link": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
     "category": "Markets"
   },
   {
