@@ -1,5 +1,13 @@
 [
   {
+    "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
+    "summary": "The derivatives regulator is proposing two rules meant to cover the waterfront of crypto activity and exchanges, as long as it's not simple, direct trading.",
+    "source": "CoinDesk",
+    "time": "10/5/2026, 5:54:23 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
+    "category": "Markets"
+  },
+  {
     "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
     "summary": "The payments giant is planning a major global expansion for its stablecoin cards business, and is exploring tokenized deposits and DeFi use cases, new crypto head Henri Stern said.",
     "source": "CoinDesk",
@@ -48,19 +56,27 @@
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin in tight range close to $86,000 as rates continue to rise",
-    "summary": "A weak September jobs report may have taken a rate hike off the table, but bitcoin is still stuck below $87,000, with FOMC minutes due Wednesday.",
+    "title": "Live updates: Bitcoin under pressure as rates continue to rise",
+    "summary": "Friday's soft employment report alone isn't likely to push the Fed off its rate-hike cycle.",
     "source": "CoinDesk",
     "time": "10/5/2026, 12:39:57 PM",
     "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
     "category": "Markets"
   },
   {
-    "title": "Cardano's ADA leads gains in narrow range-bound market",
-    "summary": "In traditional markets, the U.S. Dollar Index jumped to 102.53 early today, the highest since April 2025, extending its rise from the Sept. 9 low of 98.60.",
-    "source": "CoinDesk",
-    "time": "10/5/2026, 12:37:30 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+    "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
+    "summary": "CFTC Chair Michael Selig claimed that the agency was using its “existing statutory authorities“ to address crypto regulation after Congress failed to advance a market structure bill.",
+    "source": "CoinTelegraph",
+    "time": "10/5/2026, 7:40:23 PM",
+    "link": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
+    "summary": "Weak US jobs data has narrowed expectations for another Fed hike in October, offering Bitcoin some relief as investors continue to embrace the debasement trade.",
+    "source": "CoinTelegraph",
+    "time": "10/5/2026, 6:53:08 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -112,19 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
-    "summary": "The Ohio Republican candidate holds a stake in a digital asset manager and received donations from many in the industry, but has avoided making crypto a central campaign issue.",
-    "source": "CoinTelegraph",
-    "time": "10/5/2026, 12:11:26 PM",
-    "link": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week ",
-    "summary": "Bitcoin bulls renewed pressure on range highs with the 2026 yearly open forming the next key resistance to break through.",
-    "source": "CoinTelegraph",
-    "time": "10/5/2026, 11:08:09 AM",
-    "link": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
+    "summary": "The CFTC is seeking public comment on a framework that would create a new federal license for crypto exchanges, with leverage offers as the trigger for oversight.",
+    "source": "Decrypt",
+    "time": "10/5/2026, 6:46:03 PM",
+    "link": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
     "category": "Markets"
   },
   {
@@ -184,11 +192,19 @@
     "category": "Markets"
   },
   {
-    "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-    "summary": "Filed under the SEC's new Innovation Exemption, the notice lists more than 60 stocks, including Nvidia and SpaceX, paired with stablecoins.",
-    "source": "Decrypt",
-    "time": "10/5/2026, 12:22:27 PM",
-    "link": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
+    "title": "Treasury withdraws crypto mixing rule, citing concerns over ‘chilling effect on legitimate activity’",
+    "summary": "FinCEN is withdrawing a proposal that would've designated crypto mixing a \"primary money laundering concern\" under the PATRIOT Act.",
+    "source": "The Block",
+    "time": "10/5/2026, 7:22:37 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
+    "category": "Markets"
+  },
+  {
+    "title": "Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens",
+    "summary": "Umia raised $6.11 million through a seven-day auction of its UMIA token, with ten funds and nearly 700 individual bidders taking part.",
+    "source": "The Block",
+    "time": "10/5/2026, 6:49:15 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
     "category": "Markets"
   },
   {
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "10/5/2026, 2:04:15 PM",
     "link": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
-    "category": "Markets"
-  },
-  {
-    "title": "Visa, CoinShares find growing crypto appetite among consumers and affluent investors",
-    "summary": "Visa and CoinShares surveys show rising stablecoin interest in Asia Pacific alongside strong digital-asset ownership among affluent investors.",
-    "source": "The Block",
-    "time": "10/5/2026, 2:01:06 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642",
-    "category": "Markets"
-  },
-  {
-    "title": "Injective CEO Eric Chen expects US INJ ETFs to launch sooner than 2027",
-    "summary": "There are currently two ETF applications tied to INJ — the 21Shares Injective ETF and the Canary Staked INJ ETF.",
-    "source": "The Block",
-    "time": "10/5/2026, 10:42:20 AM",
-    "link": "https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616",
     "category": "Markets"
   }
 ]
