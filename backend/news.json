@@ -1,5 +1,13 @@
 [
   {
+    "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
+    "summary": "The payments giant is planning a major global expansion for its stablecoin cards business, and is exploring tokenized deposits and DeFi use cases, new crypto head Henri Stern said.",
+    "source": "CoinDesk",
+    "time": "10/5/2026, 3:46:31 PM",
+    "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+    "category": "Markets"
+  },
+  {
     "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
     "summary": "Armada Acquisition Corp. II rose about 270% last week, leaving the thinly traded shell at nearly four times its roughly $10.50 trust value before merging with Evernorth, an XPR treasury company.",
     "source": "CoinDesk",
@@ -40,7 +48,7 @@
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin above $86,000 as traders price out an October Fed hike",
+    "title": "Live updates: Bitcoin in tight range close to $86,000 as rates continue to rise",
     "summary": "A weak September jobs report may have taken a rate hike off the table, but bitcoin is still stuck below $87,000, with FOMC minutes due Wednesday.",
     "source": "CoinDesk",
     "time": "10/5/2026, 12:39:57 PM",
@@ -56,11 +64,11 @@
     "category": "Markets"
   },
   {
-    "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-    "summary": "Your look at what's coming in the week starting Oct. 5.",
-    "source": "CoinDesk",
-    "time": "10/5/2026, 11:37:13 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
+    "title": "Bitcoin price fails to break higher after best weekly close in eight months",
+    "summary": "Bitcoin’s highest weekly close in eight months formed low-timeframe resistance at the start of Monday’s US trading session.",
+    "source": "CoinTelegraph",
+    "time": "10/5/2026, 5:09:57 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -120,11 +128,27 @@
     "category": "Markets"
   },
   {
-    "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
-    "summary": "The partnership will enable select institutions in Asia and the Gulf region to instantly settle US dollar transactions through the bank’s SGB Net",
-    "source": "CoinTelegraph",
-    "time": "10/5/2026, 10:56:10 AM",
-    "link": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means",
+    "summary": "The Bitcoin rally keeps bumping into the same wall, but a classic bullish signal suggests the trend is built to last.",
+    "source": "Decrypt",
+    "time": "10/5/2026, 6:10:00 PM",
+    "link": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
+    "category": "Markets"
+  },
+  {
+    "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
+    "summary": "Reporters from CNBC and CNN are on the program beside the exchanges, two weeks before the midterms put the sector on air.",
+    "source": "Decrypt",
+    "time": "10/5/2026, 6:03:03 PM",
+    "link": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
+    "summary": "The purchase lifts Bitmine's stash past 6 million ETH—4.9% of supply and 99% of the way to its \"Alchemy of 5%\" goal—as chairman Tom Lee says Ethereum is \"dwarfing\" other macro assets.",
+    "source": "Decrypt",
+    "time": "10/5/2026, 4:54:17 PM",
+    "link": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
     "category": "Markets"
   },
   {
@@ -168,27 +192,27 @@
     "category": "Markets"
   },
   {
-    "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-    "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple.",
-    "source": "Decrypt",
-    "time": "10/4/2026, 7:01:03 PM",
-    "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+    "title": "CFTC proposes new federal framework for leveraged retail crypto trading",
+    "summary": "The CFTC launched rulemaking on leveraged and margined retail crypto trading, proposing Regulation CTX and CAM and a new \"crypto asset market\" exchange.",
+    "source": "The Block",
+    "time": "10/5/2026, 6:09:02 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
     "category": "Markets"
   },
   {
-    "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
-    "summary": "The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a \"side door into the banking system\" without the safeguards that bind traditional banks.",
-    "source": "Decrypt",
-    "time": "10/4/2026, 6:01:03 PM",
-    "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+    "title": "Strive adds 2,000 bitcoin in biggest buy since June, closes in on MARA",
+    "summary": "Strive’s bitcoin holdings near 30,000 BTC as the race among the largest public treasuries heats up.",
+    "source": "The Block",
+    "time": "10/5/2026, 5:03:54 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677",
     "category": "Markets"
   },
   {
-    "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-    "summary": "Spot Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled Fed rate-hike bets.",
-    "source": "Decrypt",
-    "time": "10/4/2026, 5:01:03 PM",
-    "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+    "title": "DeFi Development sees NAV per share more than doubling, holds 2.56 million SOL",
+    "summary": "DFDV says preliminary Q3 estimates show NAV per share more than doubled as its Solana treasury grew to 2.56 million SOL.",
+    "source": "The Block",
+    "time": "10/5/2026, 4:33:14 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "10/5/2026, 10:42:20 AM",
     "link": "https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616",
-    "category": "Markets"
-  },
-  {
-    "title": "OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue",
-    "summary": "OKXICE has notified the SEC that it intends to launch a tokenized securities trading venue under the innovation exemption.",
-    "source": "The Block",
-    "time": "10/5/2026, 8:38:24 AM",
-    "link": "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613",
-    "category": "Markets"
-  },
-  {
-    "title": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
-    "summary": "DFX holders can cash out now or wait for more funding, with no firm timeline for full repayment.",
-    "source": "The Block",
-    "time": "10/2/2026, 7:10:40 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
-    "category": "Markets"
-  },
-  {
-    "title": "Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
-    "summary": "Ethereum L2 Blast is winding down after costs outpaced revenue. Users have until Oct. 26 to withdraw via the app.",
-    "source": "The Block",
-    "time": "10/2/2026, 6:54:29 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583",
     "category": "Markets"
   }
 ]
