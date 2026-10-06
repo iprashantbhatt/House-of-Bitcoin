@@ -1,5 +1,29 @@
 [
   {
+    "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
+    "summary": "DeepSeek and Moonshot attract fresh capital ahead of planned listings, while OpenAI courts major investors.",
+    "source": "CoinDesk",
+    "time": "10/6/2026, 11:25:36 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
+    "category": "Markets"
+  },
+  {
+    "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+    "summary": "he product converts more than 50 local currencies into stablecoins, offers rewards of up to 10% on eligible USDG balances and includes virtual and physical payment cards.",
+    "source": "CoinDesk",
+    "time": "10/6/2026, 11:02:01 AM",
+    "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
+    "category": "Markets"
+  },
+  {
+    "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
+    "summary": "This shallower decline isn’t limited to the one-year anniversary. The bear market itself has been milder with past downturns seeing prices plummet 77% to 85%.",
+    "source": "CoinDesk",
+    "time": "10/6/2026, 10:27:43 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
+    "category": "Markets"
+  },
+  {
     "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
     "summary": "FinCEN withdrew two proposals that had hung over self-custody and crypto mixers for years without ever taking effect.",
     "source": "CoinDesk",
@@ -40,27 +64,43 @@
     "category": "Markets"
   },
   {
-    "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
-    "summary": "The planned 24/7 venue will offer dozens of tokenized U.S. stocks, with trades conducted against stablecoins through blockchain-based liquidity pools rather than a traditional order book.",
-    "source": "CoinDesk",
-    "time": "10/5/2026, 7:18:14 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+    "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
+    "summary": "Ondo’s tokenized notes will give eligible investors exposure to private companies, with the first tied to an unnamed pre-IPO AI company.",
+    "source": "CoinTelegraph",
+    "time": "10/6/2026, 11:21:38 AM",
+    "link": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
-    "summary": "The derivatives regulator is proposing two rules meant to cover the waterfront of crypto activity and exchanges, as long as it's not simple, direct trading.",
-    "source": "CoinDesk",
-    "time": "10/5/2026, 5:54:23 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
+    "title": "Solana Foundation targets settlement in seconds with DvP launch",
+    "summary": "Solana DvP offers financial institutions an open-source settlement program designed to complete asset transfers and payments in seconds.",
+    "source": "CoinTelegraph",
+    "time": "10/6/2026, 11:11:26 AM",
+    "link": "https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
-    "summary": "The payments giant is planning a major global expansion for its stablecoin cards business, and is exploring tokenized deposits and DeFi use cases, new crypto head Henri Stern said.",
-    "source": "CoinDesk",
-    "time": "10/5/2026, 3:46:31 PM",
-    "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+    "title": "Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH",
+    "summary": "US spot Bitcoin ETFs reversed two days of inflows as Bitcoin slipped below $86,000, trading roughly 32% below its October 2025 all-time high.",
+    "source": "CoinTelegraph",
+    "time": "10/6/2026, 10:14:17 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
+    "summary": "An EEZ contributor shared a 0.001 ETH cross-chain test as the project develops a framework to connect Ethereum mainnet and its rollups.",
+    "source": "CoinTelegraph",
+    "time": "10/6/2026, 9:09:33 AM",
+    "link": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/6/2026, 8:00:00 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -85,46 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/6/2026, 5:40:00 AM",
     "link": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
-    "summary": "ZachXBT says he infiltrated the network by posing as a customer, gaining information that helped trace funds from the $1.5 billion Bybit hack.",
-    "source": "CoinTelegraph",
-    "time": "10/6/2026, 3:47:24 AM",
-    "link": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto PAC announces support for 32 House candidates in US midterms",
-    "summary": "Fairshake said it would financially back 32 House candidates who all voted in favor of the CLARITY market structure bill in 2025, as the legislation remains in limbo in the Senate.",
-    "source": "CoinTelegraph",
-    "time": "10/5/2026, 11:42:30 PM",
-    "link": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
-    "summary": "The bureau under the US Treasury said it was withdrawing two proposed rules on unhosted wallets and crypto mixers ”as part of the Trump Administration’s deregulatory agenda.”",
-    "source": "CoinTelegraph",
-    "time": "10/5/2026, 10:46:53 PM",
-    "link": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
-    "summary": "The payments infrastructure company is seeking federal approval to offer stablecoin custody and related fiat services through a limited-purpose national trust bank.",
-    "source": "CoinTelegraph",
-    "time": "10/5/2026, 9:53:52 PM",
-    "link": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
-    "summary": "CCI CEO Ji Hun Kim said that the organization “remains confident“ in the OCC’s approval of charters for crypto companies, despite a recent lawsuit and pushback from some lawmakers.",
-    "source": "CoinTelegraph",
-    "time": "10/5/2026, 9:15:22 PM",
-    "link": "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,22 @@
     "category": "Markets"
   },
   {
+    "title": "ZachXBT says he fronted $349,700 to infiltrate alleged Chinese launderers tied to Lazarus, Bybit hack",
+    "summary": "Posing as a client, ZachXBT said he gathered intelligence that helped freeze funds tied to the $1.5 billion Bybit hack.",
+    "source": "The Block",
+    "time": "10/6/2026, 11:51:47 AM",
+    "link": "https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767",
+    "category": "Markets"
+  },
+  {
+    "title": "Ondo launches onchain private-company exposure, starting with AI",
+    "summary": "Ondo Finance launched a private-markets platform with tokenized notes tied initially to a pre-IPO artificial intelligence company.",
+    "source": "The Block",
+    "time": "10/6/2026, 11:38:28 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762",
+    "category": "Markets"
+  },
+  {
     "title": "Treasury withdraws crypto mixing rule, citing concerns over ‘chilling effect on legitimate activity’",
     "summary": "FinCEN is withdrawing a proposal that would've designated crypto mixing a \"primary money laundering concern\" under the PATRIOT Act.",
     "source": "The Block",
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "10/5/2026, 3:23:07 PM",
     "link": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
-    "category": "Markets"
-  },
-  {
-    "title": "‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC",
-    "summary": "Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $73 billion.",
-    "source": "The Block",
-    "time": "10/5/2026, 2:13:28 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631",
-    "category": "Markets"
-  },
-  {
-    "title": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’",
-    "summary": "Metaplanet added a net 1,000 BTC during the third quarter as its total bitcoin holdings reached 44,000 BTC.",
-    "source": "The Block",
-    "time": "10/5/2026, 2:04:15 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
     "category": "Markets"
   }
 ]
