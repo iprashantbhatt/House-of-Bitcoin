@@ -1,5 +1,37 @@
 [
   {
+    "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+    "summary": "FinCEN withdrew two proposals that had hung over self-custody and crypto mixers for years without ever taking effect.",
+    "source": "CoinDesk",
+    "time": "10/6/2026, 6:55:36 AM",
+    "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
+    "category": "Markets"
+  },
+  {
+    "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+    "summary": "One of Ethereum’s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas.",
+    "source": "CoinDesk",
+    "time": "10/6/2026, 6:49:05 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+    "summary": "BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasury yields kept climbing.",
+    "source": "CoinDesk",
+    "time": "10/6/2026, 6:41:10 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
+    "category": "Markets"
+  },
+  {
+    "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+    "summary": "Solana Foundation launched an open-source program that lets institutions settle trades in seconds, not days. JPMorgan provided key inputs.",
+    "source": "CoinDesk",
+    "time": "10/6/2026, 6:23:45 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+    "category": "Markets"
+  },
+  {
     "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
     "summary": "The super PAC shared a list of more than 30 incumbent candidates it's backing, with about a million dollars going to three names from each party.",
     "source": "CoinDesk",
@@ -32,35 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
-    "summary": "Armada Acquisition Corp. II rose about 270% last week, leaving the thinly traded shell at nearly four times its roughly $10.50 trust value before merging with Evernorth, an XPR treasury company.",
-    "source": "CoinDesk",
-    "time": "10/5/2026, 2:28:35 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
+    "title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
+    "summary": "Better Markets said the CFTC’s proposed framework to bring certain cryptocurrency transactions and exchanges under its oversight will leave investors less protected than under the SEC.",
+    "source": "CoinTelegraph",
+    "time": "10/6/2026, 7:43:50 AM",
+    "link": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
-    "summary": "Your day-ahead look for Oct. 5, 2026",
-    "source": "CoinDesk",
-    "time": "10/5/2026, 1:14:35 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+    "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters ",
+    "summary": "Rain joins a growing queue of crypto firms seeking federal trust charters, while community banks have just asked a court to overturn the OCC rules underpinning them.",
+    "source": "CoinTelegraph",
+    "time": "10/6/2026, 5:45:40 AM",
+    "link": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
-    "summary": "The Treasury Department said the network raised more than $2 million through purported humanitarian charities, including hundreds of thousands of dollars sent in crypto.",
-    "source": "CoinDesk",
-    "time": "10/5/2026, 1:08:03 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
-    "category": "Markets"
-  },
-  {
-    "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-    "summary": "The Japanese firm sold 10,000 BTC before buying 11,000 BTC, demonstrating liquidity as it seeks recurring income from preferred securities.",
-    "source": "CoinDesk",
-    "time": "10/5/2026, 12:58:03 PM",
-    "link": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
+    "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+    "summary": "OKX Money lets users hold, send and spend dollar-backed stablecoins, with qualifying USDG balances earning up to 10% APY.",
+    "source": "CoinTelegraph",
+    "time": "10/6/2026, 5:40:00 AM",
+    "link": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -96,14 +120,6 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/5/2026, 9:25:00 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
     "summary": "CCI CEO Ji Hun Kim said that the organization “remains confident“ in the OCC’s approval of charters for crypto companies, despite a recent lawsuit and pushback from some lawmakers.",
     "source": "CoinTelegraph",
@@ -112,19 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
-    "summary": "S&P Global’s new framework evaluates digital asset lending vaults across six risk categories as deposits in the sector climb to about $10 billion.",
-    "source": "CoinTelegraph",
-    "time": "10/5/2026, 7:58:58 PM",
-    "link": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
-    "summary": "CFTC Chair Michael Selig claimed that the agency was using its “existing statutory authorities“ to address crypto regulation after Congress failed to advance a market structure bill.",
-    "source": "CoinTelegraph",
-    "time": "10/5/2026, 7:40:23 PM",
-    "link": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+    "summary": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead of days.",
+    "source": "Decrypt",
+    "time": "10/6/2026, 4:01:03 AM",
+    "link": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
     "category": "Markets"
   },
   {
@@ -181,14 +189,6 @@
     "source": "Decrypt",
     "time": "10/5/2026, 8:12:28 PM",
     "link": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
-    "category": "Markets"
-  },
-  {
-    "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
-    "summary": "The CFTC is seeking public comment on a framework that would create a new federal license for crypto exchanges, with leverage offers as the trigger for oversight.",
-    "source": "Decrypt",
-    "time": "10/5/2026, 6:46:03 PM",
-    "link": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
     "category": "Markets"
   },
   {
