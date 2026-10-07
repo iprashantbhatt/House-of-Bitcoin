@@ -1,5 +1,37 @@
 [
   {
+    "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+    "summary": "The stablecoin payments company’s proposed New York trust bank would custody digital assets and dollars, manage stablecoin reserves and issue and redeem dollar-backed tokens.",
+    "source": "CoinDesk",
+    "time": "10/7/2026, 11:09:06 AM",
+    "link": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
+    "category": "Markets"
+  },
+  {
+    "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+    "summary": "Robinhood has added bitcoin worth $25 million to its balance sheet, senior vice president and general manager of crypto and international, told the Starting Block Wednesday.",
+    "source": "CoinDesk",
+    "time": "10/7/2026, 10:53:27 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+    "category": "Markets"
+  },
+  {
+    "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
+    "summary": "Bitcoin dipped to around $84,200 on Wednesday but stayed inside its recent range, keeping the broader bullish stair-step trajectory intact.",
+    "source": "CoinDesk",
+    "time": "10/7/2026, 9:52:22 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
+    "category": "Markets"
+  },
+  {
+    "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+    "summary": "Wallets linked to the U.S. government moved millions in crypto on Tuesday, according to data tracked by Arkham.",
+    "source": "CoinDesk",
+    "time": "10/7/2026, 7:58:25 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
+    "category": "Markets"
+  },
+  {
     "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
     "summary": "The consumer-focused blockchain will close Dec. 15 after Igloo spent tens of millions supporting it, days after Blast said its own network was no longer worth operating.",
     "source": "CoinDesk",
@@ -32,35 +64,51 @@
     "category": "Markets"
   },
   {
-    "title": "Crypto is expanding the boundaries of what can be priced",
-    "summary": "The future of crypto may therefore depend less on creating the next novel asset and more on building the infrastructure required to price a growing universe of existing ones, argues Altius co-founder and CEO Annabelle Huang.",
-    "source": "CoinDesk",
-    "time": "10/6/2026, 6:50:26 PM",
-    "link": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
+    "title": "Crypto liquidations hit $550M as Bitcoin price dips below $84K",
+    "summary": "Bitcoin fell 2.3% in two hours amid suspicion over the appearance of leveraged BTC short positions on Hyperliquid.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 11:45:35 AM",
+    "link": "https://cointelegraph.com/markets/crypto-liquidations-hit-550m-as-bitcoin-price-dips-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-    "summary": "The exchange is increasingly aiming to position itself as a global financial tech platform spanning crypto, payments and tokenized assets, following an investment and joint venture with NYSE parent ICE.",
-    "source": "CoinDesk",
-    "time": "10/6/2026, 5:20:30 PM",
-    "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
+    "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
+    "summary": "Bitcoin ETFs returned to net inflows with $119 million on Tuesday despite falling prices, while Ether funds reached a six-session outflow streak totaling $408 million.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 11:03:38 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
-    "summary": "The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliances compete for distribution, users and reserve economics.",
-    "source": "CoinDesk",
-    "time": "10/6/2026, 3:02:33 PM",
-    "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+    "title": "BitMine sets 5% Ether supply ‘hard cap’ as accumulation target nears",
+    "summary": "Tom Lee said BitMine will not accumulate Ether past 5% of the supply, turning the company’s target into a ceiling.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 10:50:02 AM",
+    "link": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-    "summary": "Adam Iza’s sentence runs concurrently with a 15-year term imposed last month for his role in an attempted bitcoin robbery.",
-    "source": "CoinDesk",
-    "time": "10/6/2026, 2:31:51 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
+    "title": "Russia clears first crypto exchanges, custodians under new law",
+    "summary": "Russia registered its first crypto exchanges and custodians, including its largest bank, Sberbank, which plans to launch crypto products on Dec. 1.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 10:06:35 AM",
+    "link": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
+    "summary": "Prosecutors say a recent Bitcoin Fog appeals court ruling supports their argument that Tornado Cash activity in Manhattan was enough to establish venue for parts of Roman Storm’s case in New York.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 9:10:59 AM",
+    "link": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 8:00:00 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -80,51 +128,19 @@
     "category": "Markets"
   },
   {
-    "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
-    "summary": "Igloo CEO Luca Netz said the company funded Abstract for 18 months but still failed to find product-market fit despite attracting major brands and a community of millions.",
-    "source": "CoinTelegraph",
-    "time": "10/7/2026, 2:01:40 AM",
-    "link": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Prosecutors Cite Bitcoin Fog Ruling Against Roman Storm's Venue Challenge",
+    "summary": "The Tornado Cash founder hit back in a tweet, noting FinCEN withdrew a proposed mixer rule over concerns it could chill legitimate activity.",
+    "source": "Decrypt",
+    "time": "10/7/2026, 11:58:06 AM",
+    "link": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
     "category": "Markets"
   },
   {
-    "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
-    "summary": "The lawsuit alleged that Tether froze USDt funds in a Conduit wallet tied to an investigation launched by Brazilian authorities in 2024.",
-    "source": "CoinTelegraph",
-    "time": "10/6/2026, 11:00:44 PM",
-    "link": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
-    "summary": "The proposed fund would hold ZEC directly, with Gemini Trust serving as custodian and Winklevoss Capital affiliates eyeing up to a $100 million investment.",
-    "source": "CoinTelegraph",
-    "time": "10/6/2026, 10:53:19 PM",
-    "link": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "UK names 6 banks to lead first digitally native government bond",
-    "summary": "The DIGIT pilot will test distributed ledger technology and onchain settlement for UK sovereign debt, with issuance expected by the first quarter of 2027.",
-    "source": "CoinTelegraph",
-    "time": "10/6/2026, 9:19:00 PM",
-    "link": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast ",
-    "summary": "The digital ruble’s early uptake comes as BRICS nations explore linking their digital currencies for cross-border trade and payments.",
-    "source": "CoinTelegraph",
-    "time": "10/6/2026, 8:19:35 PM",
-    "link": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bill aims at stopping US lawmaker bets on their own elections ahead of midterms",
-    "summary": "The No Betting on Your Own Race Act will not be addressed before the 2026 US midterms as Congress is on recess until after the election.",
-    "source": "CoinTelegraph",
-    "time": "10/6/2026, 7:59:32 PM",
-    "link": "https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
+    "summary": "Unveiled at TOKEN2049 Singapore, the Morpho-powered Crypto Loan feature lets users borrow stablecoins against wrapped Bitcoin while keeping private keys and final approval on their hardware device.",
+    "source": "Decrypt",
+    "time": "10/7/2026, 11:01:03 AM",
+    "link": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
     "category": "Markets"
   },
   {
@@ -176,19 +192,27 @@
     "category": "Markets"
   },
   {
-    "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
-    "summary": "The proposed fund would hold ZEC directly, trade on Nasdaq under \"WINK\" with Gemini as custodian, and add the Winklevoss twins to a wave of institutional interest in the privacy coin.",
-    "source": "Decrypt",
-    "time": "10/6/2026, 8:42:34 PM",
-    "link": "https://decrypt.co/380210/another-zcash-etf-coming-winklevoss-twins-wink",
+    "title": "Jito’s JTX plans mobile app this fall, eyes perps integration later this winter",
+    "summary": "Jito’s JTX plans a mobile app, equities feature, and perpetual futures as it expands beyond spot trading on Solana.",
+    "source": "The Block",
+    "time": "10/7/2026, 11:51:29 AM",
+    "link": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
     "category": "Markets"
   },
   {
-    "title": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
-    "summary": "Paris-based Mistral launched Large 4, a model nicknamed after a June internet joke. It tops GPT-6 Astra on one finance test, but trails Claude on others.",
-    "source": "Decrypt",
-    "time": "10/6/2026, 7:22:54 PM",
-    "link": "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme",
+    "title": "‘Every single exchange’ will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says",
+    "summary": "Chervinsky says that beyond regulated perps, onchain markets need to enter the U.S. regulatory perimeter, a step he expects will happen soon.",
+    "source": "The Block",
+    "time": "10/7/2026, 10:30:01 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896",
+    "category": "Markets"
+  },
+  {
+    "title": "Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push",
+    "summary": "Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector.",
+    "source": "The Block",
+    "time": "10/7/2026, 9:08:36 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "10/6/2026, 6:43:41 PM",
     "link": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
-    "category": "Markets"
-  },
-  {
-    "title": "Solana treasury DeFi Development authorizes CHAD preferred stock buyback program",
-    "summary": "Solana treasury firm DeFi Development approved an open-ended program to repurchase CHAD preferred stock if it trades below its $10 par value.",
-    "source": "The Block",
-    "time": "10/6/2026, 5:09:41 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
-    "category": "Markets"
-  },
-  {
-    "title": "Brevan Howard to use Ripple Prime for multi-asset brokerage, clearing and financing",
-    "summary": "Ripple Prime will provide prime brokerage, clearing and financing to Brevan Howard, deepening a tie that began with its Ripple investment.",
-    "source": "The Block",
-    "time": "10/6/2026, 4:36:08 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-06-ripple-prime-brevan-howard-prime-brokerage-clearing-financing-417801",
-    "category": "Markets"
-  },
-  {
-    "title": "Polymarket rolls out V2 upgrade with single ERC-1155 positions contract, pUSD collateral",
-    "summary": "Polymarket rolls out Protocol V2, replacing its legacy Gnosis-based setup with a single ERC-1155 positions contract and pUSD collateral.",
-    "source": "The Block",
-    "time": "10/6/2026, 4:35:03 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804",
     "category": "Markets"
   }
 ]
