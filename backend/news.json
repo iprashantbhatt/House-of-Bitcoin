@@ -1,5 +1,13 @@
 [
   {
+    "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+    "summary": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.",
+    "source": "CoinDesk",
+    "time": "10/7/2026, 8:59:32 PM",
+    "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+    "category": "Markets"
+  },
+  {
     "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
     "summary": "Polygon said businesses can also move the world’s largest stablecoin USDT between TRON and EVM networks without connecting to a wallet provider, bridge or fiat-ramp operator.",
     "source": "CoinDesk",
@@ -56,11 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
-    "summary": "Banks need their own permissioned ledger, wallet tools and smart-contract capabilities before they can use Swift’s tokenized-deposit network, Taurus’s Lamine Brahimi said.",
-    "source": "CoinDesk",
-    "time": "10/7/2026, 1:59:24 PM",
-    "link": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
+    "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+    "summary": "The partnership with SAP-backed Tereina will let businesses send and receive Circle’s stablecoins from within the financial software they already use.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 10:48:34 PM",
+    "link": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 8:55:36 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
+    "summary": "“Trump’s coin was max extraction, and I wanted to troll every grift like it,“ said Hunter Biden in a breakdown of the memecoin launch and fallout.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 8:00:10 PM",
+    "link": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -81,7 +105,7 @@
   },
   {
     "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
-    "summary": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient",
+    "summary": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient.",
     "source": "CoinTelegraph",
     "time": "10/7/2026, 6:06:03 PM",
     "link": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -104,27 +128,59 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/7/2026, 3:07:40 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+    "summary": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
+    "source": "Decrypt",
+    "time": "10/7/2026, 11:46:03 PM",
+    "link": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
     "category": "Markets"
   },
   {
-    "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO ",
-    "summary": "Some traders are looking for more predictable prediction market opportunities, rather than playing “hot potato” with the next 100x gem, according to Polymarket’s Shayne Coplan.",
-    "source": "CoinTelegraph",
-    "time": "10/7/2026, 2:29:39 PM",
-    "link": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+    "summary": "Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do.",
+    "source": "Decrypt",
+    "time": "10/7/2026, 11:16:03 PM",
+    "link": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
     "category": "Markets"
   },
   {
-    "title": "Crypto card access doesn’t match global demand, Tangem says",
-    "summary": "Crypto card demand can be stronger where access is harder, Tangem says, as it expands its Visa payment offering, allowing users to spend from its self-custodial wallet.",
-    "source": "CoinTelegraph",
-    "time": "10/7/2026, 1:37:48 PM",
-    "link": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+    "summary": "Claude Haiku 5.5 costs about 75% less to run than its predecessor and targets high-volume jobs like summaries and live customer support. It arrives 15 days after Opus 5.5.",
+    "source": "Decrypt",
+    "time": "10/7/2026, 10:46:03 PM",
+    "link": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model",
+    "category": "Markets"
+  },
+  {
+    "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+    "summary": "The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only \"permanent law change\" can secure U.S. leadership.",
+    "source": "Decrypt",
+    "time": "10/7/2026, 10:16:04 PM",
+    "link": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
+    "category": "Markets"
+  },
+  {
+    "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+    "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
+    "source": "Decrypt",
+    "time": "10/7/2026, 9:46:04 PM",
+    "link": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+    "category": "Markets"
+  },
+  {
+    "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
+    "summary": "Seoul's Yoido Full Gospel Church says data on 850,000 members may be compromised, and a security firm found signs AI helped run the attack.",
+    "source": "Decrypt",
+    "time": "10/7/2026, 9:10:31 PM",
+    "link": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
+    "category": "Markets"
+  },
+  {
+    "title": "Google Lets You Build a Video Game by Typing a Description",
+    "summary": "Google's Playground turns a typed description into a playable, shareable game, no coding required. It's live for U.S. adults, with creation access tiered by Google AI subscription.",
+    "source": "Decrypt",
+    "time": "10/7/2026, 8:08:51 PM",
+    "link": "https://decrypt.co/380326/google-build-video-game-typing-description",
     "category": "Markets"
   },
   {
@@ -136,59 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
-    "summary": "Bitcoin fell sharply as oil topped $101 and the 30-year Treasury yield hit its highest since 2002. The daily chart still leans bullish. The four-hour chart disagrees.",
-    "source": "Decrypt",
-    "time": "10/7/2026, 5:34:31 PM",
-    "link": "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
-    "summary": "Speaking at Token2049 in Singapore, the chairman said Bitmine is about 100,000 ETH—roughly six to seven weeks—from its 5% cap, setting an end date on a buying spree that made it the world's largest Ethereum treasury.",
-    "source": "Decrypt",
-    "time": "10/7/2026, 4:55:32 PM",
-    "link": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
-    "category": "Markets"
-  },
-  {
-    "title": "Engineer Gets 32 Months for Bitcoin Extortion Plot Against His Own Employer",
-    "summary": "Daniel Rhyne locked his company's IT administrators out of its network and demanded 20 BTC, then worth $750,000, to stop the shutdowns.",
-    "source": "Decrypt",
-    "time": "10/7/2026, 2:39:09 PM",
-    "link": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
-    "category": "Markets"
-  },
-  {
-    "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
-    "summary": "OKX raises more, $500M+ in crypto longs liquidated after a late evening selloff, and Abstract calls it quits.",
-    "source": "Decrypt",
-    "time": "10/7/2026, 2:18:43 PM",
-    "link": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
-    "category": "Markets"
-  },
-  {
-    "title": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
-    "summary": "The EU police agency expects blockchains to adapt to the threat, while a second report weighs the risk of data stolen now and cracked later.",
-    "source": "Decrypt",
-    "time": "10/7/2026, 12:49:16 PM",
-    "link": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
-    "category": "Markets"
-  },
-  {
-    "title": "Prosecutors Cite Bitcoin Fog Ruling Against Roman Storm's Venue Challenge",
-    "summary": "The Tornado Cash founder hit back in a tweet, noting FinCEN withdrew a proposed mixer rule over concerns it could chill legitimate activity.",
-    "source": "Decrypt",
-    "time": "10/7/2026, 11:58:06 AM",
-    "link": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
-    "category": "Markets"
-  },
-  {
-    "title": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
-    "summary": "Unveiled at TOKEN2049 Singapore, the Morpho-powered Crypto Loan feature lets users borrow stablecoins against wrapped Bitcoin while keeping private keys and final approval on their hardware device.",
-    "source": "Decrypt",
-    "time": "10/7/2026, 11:01:03 AM",
-    "link": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
+    "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
+    "summary": "Grayscale's Krista Lynch says SEC listing standards cover about 15 tokens, letting crypto ETF issuers get selective beyond bitcoin and ether.",
+    "source": "The Block",
+    "time": "10/7/2026, 8:37:17 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/7/2026, 9:08:36 AM",
     "link": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
-    "summary": "Crypto liquidations amounted to $555.6 million over the past 24 hours, including $487.2 million in long positions, according to CoinGlass.",
-    "source": "The Block",
-    "time": "10/7/2026, 5:57:21 AM",
-    "link": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
     "category": "Markets"
   }
 ]
