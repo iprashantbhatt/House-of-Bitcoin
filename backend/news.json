@@ -1,5 +1,29 @@
 [
   {
+    "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
+    "summary": "The consumer-focused blockchain will close Dec. 15 after Igloo spent tens of millions supporting it, days after Blast said its own network was no longer worth operating.",
+    "source": "CoinDesk",
+    "time": "10/7/2026, 6:31:14 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+    "category": "Markets"
+  },
+  {
+    "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+    "summary": "The new standard is aimed at regulated stablecoins, funds and bonds whose issuers need identity checks, sanctions controls and other transfer rules built into the asset itself.",
+    "source": "CoinDesk",
+    "time": "10/7/2026, 6:11:33 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+    "summary": "Bitcoin briefly broke under the level analysts flagged as the point where sellers take over. Oil and the dollar both climbed.",
+    "source": "CoinDesk",
+    "time": "10/7/2026, 6:00:51 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+    "category": "Markets"
+  },
+  {
     "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
     "summary": "Pantera Capital and Bullish also participated in the ANVL purchase as Anvil rolls out software designed to make its collateral protocol easier for businesses to integrate.",
     "source": "CoinDesk",
@@ -40,27 +64,11 @@
     "category": "Markets"
   },
   {
-    "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
-    "summary": "Your day-ahead look for Oct. 6, 2026",
-    "source": "CoinDesk",
-    "time": "10/6/2026, 1:30:00 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
-    "category": "Markets"
-  },
-  {
-    "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
-    "summary": "FxPro says a slide below $84,000 would hand control to sellers and put $80,000 in play. Minutes from the Fed's last meeting come out Wednesday.",
-    "source": "CoinDesk",
-    "time": "10/6/2026, 12:35:49 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
-    "category": "Markets"
-  },
-  {
-    "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
-    "summary": "Leading the gains is BTW, the native token of Bitway, a bitcoin-compatible layer-1, which jumped 25% in the past 24 hours and is up 170% over the past 30 days.",
-    "source": "CoinDesk",
-    "time": "10/6/2026, 12:30:00 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
+    "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch ",
+    "summary": "Gold recorded 542 million contracts and an estimated $5 million in fees in September, surpassing Ether’s 318 million contracts and $2.6 million, though Bitcoin remained far ahead.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 6:57:54 AM",
+    "link": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -93,14 +101,6 @@
     "source": "CoinTelegraph",
     "time": "10/6/2026, 10:53:19 PM",
     "link": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/6/2026, 10:48:12 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,22 @@
     "category": "Markets"
   },
   {
+    "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
+    "summary": "Crypto liquidations amounted to $555.6 million over the past 24 hours, including $487.2 million in long positions, according to CoinGlass.",
+    "source": "The Block",
+    "time": "10/7/2026, 5:57:21 AM",
+    "link": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
+    "category": "Markets"
+  },
+  {
+    "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
+    "summary": "Coinbase plans to relaunch Coinbase Pro by year-end and has completed its Deribit integration, creating Coinbase Global Exchange.",
+    "source": "The Block",
+    "time": "10/7/2026, 5:00:00 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
+    "category": "Markets"
+  },
+  {
     "title": "Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing ‘tens of millions’",
     "summary": "Abstract, the Pudgy Penguins-backed Ethereum L2, will shut down on Dec. 15. Users must bridge assets off before then.",
     "source": "The Block",
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "10/6/2026, 4:35:03 PM",
     "link": "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804",
-    "category": "Markets"
-  },
-  {
-    "title": "Fortitude expands Zcash mining push with up to $100 million equipment commitment",
-    "summary": "Fortitude secured priority access to BITMAIN’s next-generation Zcash miners as it expands capacity and increases financing from DCG.",
-    "source": "The Block",
-    "time": "10/6/2026, 3:00:48 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790",
-    "category": "Markets"
-  },
-  {
-    "title": "Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections",
-    "summary": "Don Davis introduced legislation barring federal candidates and their families from trading prediction contracts tied to their own elections.",
-    "source": "The Block",
-    "time": "10/6/2026, 1:36:15 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781",
     "category": "Markets"
   }
 ]
