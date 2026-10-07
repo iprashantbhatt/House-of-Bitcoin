@@ -1,5 +1,37 @@
 [
   {
+    "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+    "summary": "Polygon said businesses can also move the world’s largest stablecoin USDT between TRON and EVM networks without connecting to a wallet provider, bridge or fiat-ramp operator.",
+    "source": "CoinDesk",
+    "time": "10/7/2026, 6:30:00 PM",
+    "link": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+    "category": "Markets"
+  },
+  {
+    "title": "Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next",
+    "summary": "Gate rebrands around Gate Money, which combines accounts, asset conversion, savings and card payments as the exchange broadens beyond its trading base.",
+    "source": "CoinDesk",
+    "time": "10/7/2026, 5:13:15 PM",
+    "link": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
+    "summary": "AI has made it cheap to link wallet addresses to the people behind them, and the permanence of the blockchain means records don’t age out. Michael Zhao of Grayscale Research explains how Zcash’s shielded transactions address this problem, and why close to 29% of all ZEC ever mined now sits in the shielded pool.",
+    "source": "CoinDesk",
+    "time": "10/7/2026, 5:03:54 PM",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
+    "category": "Markets"
+  },
+  {
+    "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization ",
+    "summary": "The National Bank of Kazakhstan said it will study a local currency-linked stablecoin and tokenized real-world assets with Tether.",
+    "source": "CoinDesk",
+    "time": "10/7/2026, 4:27:37 PM",
+    "link": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+    "category": "Markets"
+  },
+  {
     "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
     "summary": "EU law enforcement agencies urged developers, exchanges, and users to initiate phased post-quantum migrations immediately to prevent future unauthorized fund transfers.",
     "source": "CoinDesk",
@@ -32,35 +64,43 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what bitcoin needs to break above $87,000",
-    "summary": "Your day-ahead look for Oct. 7, 2026",
-    "source": "CoinDesk",
-    "time": "10/7/2026, 1:30:00 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
+    "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
+    "summary": "The layer-1 blockchain said its programmable offchain tunnels reached the milestone during a live stress test designed to simulate high-frequency activity between AI agents.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 7:46:59 PM",
+    "link": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
-    "summary": "Ether underperformed, losing 6% after Tom Lee said Bitmine would soon stop purchasing additional ETH.",
-    "source": "CoinDesk",
-    "time": "10/7/2026, 1:09:50 PM",
-    "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
+    "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+    "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 6:25:38 PM",
+    "link": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin’s recovery stalls just short of rescuing its last underwater cohort",
-    "summary": "Yearly buyer cohorts and U.S. spot ETF investors offer a map of potential support and resistance as bitcoin retreats below $84,000.",
-    "source": "CoinDesk",
-    "time": "10/7/2026, 12:38:23 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
+    "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
+    "summary": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 6:06:03 PM",
+    "link": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Liquidations jump to $547 million as oil rally hits crypto market",
-    "summary": "Bitcoin fell below $84,000 as oil climbed on Iranian tanker attacks, while smaller tokens fell harder and liquidations rose to $547 million.",
-    "source": "CoinDesk",
-    "time": "10/7/2026, 12:35:09 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+    "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
+    "summary": "US institutions will gain access to Deribit’s options and perpetual futures through Coinbase, with US retail options expected later this year.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 5:36:11 PM",
+    "link": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
+    "summary": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
+    "source": "CoinTelegraph",
+    "time": "10/7/2026, 5:06:14 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -88,43 +128,27 @@
     "category": "Markets"
   },
   {
-    "title": "Trump-backed WLFI plans USD1 payments for online businesses",
-    "summary": "World Liberty Financial outlined plans to bring USD1 to major online platforms as Mesh announced a payments partnership scheduled to roll out this quarter.",
-    "source": "CoinTelegraph",
-    "time": "10/7/2026, 12:26:55 PM",
-    "link": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+    "summary": "Government-labeled wallets sent 833.6 BTC to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed, but the stash behind it is the largest any government holds in Arkham's ranking.",
+    "source": "Decrypt",
+    "time": "10/7/2026, 6:56:56 PM",
+    "link": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
     "category": "Markets"
   },
   {
-    "title": "Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO ",
-    "summary": "Early Wall Street wealth-creation opportunities remain inaccessible to retail participants, but Hyperliquid’s perpetual contracts aim to democratize access, according to its CEO.",
-    "source": "CoinTelegraph",
-    "time": "10/7/2026, 12:19:27 PM",
-    "link": "https://cointelegraph.com/news/wall-street-wealth-creation-unsustainable-hyperliquid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
+    "summary": "Bitcoin fell sharply as oil topped $101 and the 30-year Treasury yield hit its highest since 2002. The daily chart still leans bullish. The four-hour chart disagrees.",
+    "source": "Decrypt",
+    "time": "10/7/2026, 5:34:31 PM",
+    "link": "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next",
     "category": "Markets"
   },
   {
-    "title": "‘Old money’ has stronger Bitcoin ‘diamond hands,’ says BingX exec",
-    "summary": "BingX strategy chief Kevin Lee says wealthy investors are taking a longer-term approach to Bitcoin, though family-office crypto exposure remains limited.",
-    "source": "CoinTelegraph",
-    "time": "10/7/2026, 11:57:19 AM",
-    "link": "https://cointelegraph.com/news/bingx-old-money-bitcoin-diamond-hands-token2049?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto liquidations hit $550M as Bitcoin price dips below $84K",
-    "summary": "Bitcoin fell 2.3% in two hours amid suspicion over the appearance of leveraged BTC short positions on Hyperliquid.",
-    "source": "CoinTelegraph",
-    "time": "10/7/2026, 11:45:35 AM",
-    "link": "https://cointelegraph.com/markets/crypto-liquidations-hit-550m-as-bitcoin-price-dips-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
-    "summary": "Bitcoin ETFs returned to net inflows with $119 million on Tuesday despite falling prices, while Ether funds reached a six-session outflow streak totaling $408 million.",
-    "source": "CoinTelegraph",
-    "time": "10/7/2026, 11:03:38 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
+    "summary": "Speaking at Token2049 in Singapore, the chairman said Bitmine is about 100,000 ETH—roughly six to seven weeks—from its 5% cap, setting an end date on a buying spree that made it the world's largest Ethereum treasury.",
+    "source": "Decrypt",
+    "time": "10/7/2026, 4:55:32 PM",
+    "link": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
     "category": "Markets"
   },
   {
@@ -168,27 +192,27 @@
     "category": "Markets"
   },
   {
-    "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
-    "summary": "Google's new image model, Nano Banana 2.1, is live. It costs about half as much as its predecessor, but the performance claims come from Google's own tests.",
-    "source": "Decrypt",
-    "time": "10/7/2026, 12:46:03 AM",
-    "link": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+    "title": "Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk",
+    "summary": "Justin Drake recommended moving crypto assets to fresh addresses that keep their public keys hidden behind a hash.",
+    "source": "The Block",
+    "time": "10/7/2026, 7:23:02 PM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
     "category": "Markets"
   },
   {
-    "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
-    "summary": "Nothing in Circle's posts announces a sponsorship, but replies dug up Khaled's 2018 SEC settlement over a crypto fraud he promoted. The internet never forgets.",
-    "source": "Decrypt",
-    "time": "10/7/2026, 12:16:03 AM",
-    "link": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+    "title": "Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’",
+    "summary": "A commissioned report details thin liquidity and market-maker-linked gains during LAPTOP’s launch.",
+    "source": "The Block",
+    "time": "10/7/2026, 6:40:51 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
     "category": "Markets"
   },
   {
-    "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
-    "summary": "A developer posted metadata for about 5.6 billion public TikTok videos, scraped through the app's private API in a way TikTok's terms prohibit. The free dataset also doubles as a storefront.",
-    "source": "Decrypt",
-    "time": "10/7/2026, 12:00:19 AM",
-    "link": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
+    "title": "Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows",
+    "summary": "Moody's assigned Sky a B3 issuer rating with a stable outlook, its first rating of a stablecoin protocol. Sky is also rated B- by S&P.",
+    "source": "The Block",
+    "time": "10/7/2026, 4:20:01 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "10/7/2026, 5:57:21 AM",
     "link": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
-    "category": "Markets"
-  },
-  {
-    "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
-    "summary": "Coinbase plans to relaunch Coinbase Pro by year-end and has completed its Deribit integration, creating Coinbase Global Exchange.",
-    "source": "The Block",
-    "time": "10/7/2026, 5:00:00 AM",
-    "link": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
-    "category": "Markets"
-  },
-  {
-    "title": "Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing ‘tens of millions’",
-    "summary": "Abstract, the Pudgy Penguins-backed Ethereum L2, will shut down on Dec. 15. Users must bridge assets off before then.",
-    "source": "The Block",
-    "time": "10/6/2026, 10:11:30 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855",
-    "category": "Markets"
-  },
-  {
-    "title": "Conduit sues Tether over $2.76 million freeze, says it has ‘no legal entitlement’ to funds",
-    "summary": "Conduit is suing Tether in NY federal court, alleging the USDT issuer froze $2.76 million of its funds for over a year without explanation.",
-    "source": "The Block",
-    "time": "10/6/2026, 7:54:00 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831",
     "category": "Markets"
   }
 ]
