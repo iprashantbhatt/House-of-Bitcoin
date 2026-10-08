@@ -1,5 +1,53 @@
 [
   {
+    "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+    "summary": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.",
+    "source": "CoinDesk",
+    "time": "10/8/2026, 5:43:04 PM",
+    "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+    "category": "Markets"
+  },
+  {
+    "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+    "summary": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer holdings.",
+    "source": "CoinDesk",
+    "time": "10/8/2026, 5:23:26 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3 ",
+    "summary": "",
+    "source": "CoinDesk",
+    "time": "10/8/2026, 5:11:15 PM",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
+    "category": "Markets"
+  },
+  {
+    "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
+    "summary": "As crypto debates whether holders should move funds before AI or quantum advances expose wallet keys, custody firms face a separate problem: upgrading systems before an emergency migration.",
+    "source": "CoinDesk",
+    "time": "10/8/2026, 4:39:48 PM",
+    "link": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
+    "category": "Markets"
+  },
+  {
+    "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
+    "summary": "Veridian became the first company to use Cardano’s new programmable-token standard for its equity, though the tokenized shares are not being offered to the public.",
+    "source": "CoinDesk",
+    "time": "10/8/2026, 4:24:24 PM",
+    "link": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+    "category": "Markets"
+  },
+  {
+    "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
+    "summary": "Glassnode co-founder's latest figures show growing public-key exposure as Justin Drake urges preparations for potential AI attacks on wallet cryptography.",
+    "source": "CoinDesk",
+    "time": "10/8/2026, 4:03:20 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
+    "category": "Markets"
+  },
+  {
     "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
     "summary": "Tokenized shares in the mega-caps will first trade on Securitize's Solana-based platform, with further plans to expand them to NYSE and OKXICE digital venues, the firm said.",
     "source": "CoinDesk",
@@ -16,51 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "NUVA brings U.S. residential mortgage credit to offshore investors ",
-    "summary": "The company's HOME token gives eligible investors exposure to a vault of U.S. home equity lines of credit starting from 1 USDC and targets a 7% annual yield.",
-    "source": "CoinDesk",
-    "time": "10/8/2026, 1:36:25 PM",
-    "link": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+    "title": "IMF warns tokenized markets could amplify financial risks",
+    "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
+    "source": "CoinTelegraph",
+    "time": "10/8/2026, 6:25:06 PM",
+    "link": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million",
-    "summary": "The 100 BTC came directly from two mining rewards created during Bitcoin’s “Satoshi era” and had not moved for more than 16 years.",
-    "source": "CoinDesk",
-    "time": "10/8/2026, 1:30:19 PM",
-    "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million",
+    "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes ",
+    "summary": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
+    "source": "CoinTelegraph",
+    "time": "10/8/2026, 5:55:55 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
-    "summary": "Your day-ahead look for Oct. 8, 2026",
-    "source": "CoinDesk",
-    "time": "10/8/2026, 1:15:00 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
-    "category": "Markets"
-  },
-  {
-    "title": "Live updates: Risk assets under pressure as bond selloff and oil rally intensify",
-    "summary": "Rising Treasury yields, surging energy prices and a stronger dollar weigh on bitcoin and tech, while silver falls below $59 an ounce.",
-    "source": "CoinDesk",
-    "time": "10/8/2026, 12:44:47 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
-    "summary": "Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000.",
-    "source": "CoinDesk",
-    "time": "10/8/2026, 12:30:41 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
-    "category": "Markets"
-  },
-  {
-    "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
-    "summary": "The bank would offer the service to institutions and accredited corporate investors, subject to regulatory requirements.",
-    "source": "CoinDesk",
-    "time": "10/8/2026, 11:32:13 AM",
-    "link": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+    "title": "US government moves $1B in seized Bitcoin after $770M transfers",
+    "summary": "Blockchain analysts identified the US government wallet tied to the recovery of funds from the Bitfinex hack.",
+    "source": "CoinTelegraph",
+    "time": "10/8/2026, 5:24:16 PM",
+    "link": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -104,27 +128,51 @@
     "category": "Markets"
   },
   {
-    "title": "US government moves $770M of seized Bitcoin to Coinbase Prime ",
-    "summary": "The US government moved 9,261 Bitcoin to Coinbase Prime, including 2,456 BTC in newly discovered funds pointing to federal law enforcement seizures.",
-    "source": "CoinTelegraph",
-    "time": "10/8/2026, 1:03:36 PM",
-    "link": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
+    "summary": "Investors yanked $484.9 million out of spot Bitcoin ETFs in a single day. Oil is near $100, bond yields are at their highest since 2002, and the Fed isn't done hiking.",
+    "source": "Decrypt",
+    "time": "10/8/2026, 7:46:05 PM",
+    "link": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls",
-    "summary": "Bitcoin’s realized cap rise in the 30 days to Oct. 5 came mostly from existing holders, not fresh capital, Glassnode data showed.",
-    "source": "CoinTelegraph",
-    "time": "10/8/2026, 11:56:07 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
+    "summary": "Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.",
+    "source": "Decrypt",
+    "time": "10/8/2026, 7:07:48 PM",
+    "link": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
     "category": "Markets"
   },
   {
-    "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
-    "summary": "ESMA urged EU crypto firms to halt services involving non-MiCA-compliant stablecoins, giving regulators three months to address existing exposures.",
-    "source": "CoinTelegraph",
-    "time": "10/8/2026, 11:42:04 AM",
-    "link": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
+    "summary": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.",
+    "source": "Decrypt",
+    "time": "10/8/2026, 6:44:20 PM",
+    "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+    "category": "Markets"
+  },
+  {
+    "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
+    "summary": "Day traders are selling, leveraged longs are getting flushed and ETF money is heading for the door. The daily chart still holds the line, but its cushion is shrinking.",
+    "source": "Decrypt",
+    "time": "10/8/2026, 6:14:46 PM",
+    "link": "https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains",
+    "category": "Markets"
+  },
+  {
+    "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
+    "summary": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.",
+    "source": "Decrypt",
+    "time": "10/8/2026, 5:42:16 PM",
+    "link": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
+    "category": "Markets"
+  },
+  {
+    "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+    "summary": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Solana, with NYSE and OKX-ICE venues planned.",
+    "source": "Decrypt",
+    "time": "10/8/2026, 5:10:49 PM",
+    "link": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
     "category": "Markets"
   },
   {
@@ -136,7 +184,7 @@
     "category": "Markets"
   },
   {
-    "title": "Morning Minute: Ethereum Researcher Says AI May Break Crypto Encryption Before Quantum",
+    "title": "Morning Minute: AI Could Break Crypto Encryption Before Quantum, Says Ethereum Researcher",
     "summary": "Justin Drake is calling for crypto holders to start calmly planning for “Bunker Mode.\" But reactions so far haven’t been too calm.",
     "source": "Decrypt",
     "time": "10/8/2026, 1:48:13 PM",
@@ -144,51 +192,51 @@
     "category": "Markets"
   },
   {
-    "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft",
-    "summary": "Jonathan Spalletta also spent stolen crypto on a Roman coin marking Julius Caesar's assassination and moon-flown Wright brothers fabric.",
-    "source": "Decrypt",
-    "time": "10/8/2026, 1:37:17 PM",
-    "link": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
+    "title": "NFL tells Supreme Court prediction market sports contracts are gambling, not swaps",
+    "summary": "The NFL filed an amicus brief urging the Supreme Court to hear New Jersey's case, arguing Kalshi's sports contracts are gambling, not CFTC-regulated swaps.",
+    "source": "The Block",
+    "time": "10/8/2026, 7:30:58 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064",
     "category": "Markets"
   },
   {
-    "title": "Former PlayStation Exec Slams Sony's Move to Kill Discs: 'What Are You Buying?'",
-    "summary": "Sony plans to cease physical disc production in 2028. A former PlayStation exec claims it has caused reputational damage.",
-    "source": "Decrypt",
-    "time": "10/8/2026, 12:45:11 PM",
-    "link": "https://decrypt.co/380387/former-playstation-exec-slams-sonys-move-to-kill-discs-what-are-you-buying",
+    "title": "Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says",
+    "summary": "TD Cowen kept its $260 price target on Strategy (MSTR) as dilution limits the benefit of higher bitcoin forecasts.",
+    "source": "The Block",
+    "time": "10/8/2026, 7:18:24 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066",
     "category": "Markets"
   },
   {
-    "title": "Greece Plans 10% Crypto Capital Gains Tax, Down From 15% Floated in June",
-    "summary": "A draft bill would exempt the first €500 of annual gains, as crypto tax rates across Europe run from Cyprus's 8% to Italy's 33%.",
-    "source": "Decrypt",
-    "time": "10/8/2026, 12:32:52 PM",
-    "link": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+    "title": "The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market",
+    "summary": "Section 1: The Block’s Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adoption. While these metrics remain important, they speak to demand-side factors rather than the environment in which crypto companies and capital can operate. A country can have large trading volume while having a restrictive domestic […]",
+    "source": "The Block",
+    "time": "10/8/2026, 7:16:23 PM",
+    "link": "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081",
     "category": "Markets"
   },
   {
-    "title": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
-    "summary": "Users can send USDC across borders from late October, three months after Samsung teased stablecoin support without naming a blockchain.",
-    "source": "Decrypt",
-    "time": "10/8/2026, 11:05:50 AM",
-    "link": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+    "title": "Bitwise CEO says ‘tragic’ Dogecoin ETF failure shows gap between ETF buyers and crypto-app users",
+    "summary": "Alongside its recent spot NEAR ETF launch, Bitwise is prioritizing AI and intends to do more in that area.",
+    "source": "The Block",
+    "time": "10/8/2026, 6:43:47 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070",
     "category": "Markets"
   },
   {
-    "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
-    "summary": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
-    "source": "Decrypt",
-    "time": "10/7/2026, 11:46:03 PM",
-    "link": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+    "title": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
+    "summary": "Bitcoin traded near $82,000 on Thursday, with analysts at QCP expecting a fourth-quarter range of $80,000 to $90,000.",
+    "source": "The Block",
+    "time": "10/8/2026, 4:52:27 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052",
     "category": "Markets"
   },
   {
-    "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
-    "summary": "Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do.",
-    "source": "Decrypt",
-    "time": "10/7/2026, 11:16:03 PM",
-    "link": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+    "title": "Securitize launches 1:1-backed tokenized stocks, starting with Apple, Nvidia, Strategy and more",
+    "summary": "Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement.",
+    "source": "The Block",
+    "time": "10/8/2026, 4:04:39 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
     "category": "Markets"
   },
   {
@@ -205,54 +253,6 @@
     "source": "The Block",
     "time": "10/8/2026, 9:55:14 AM",
     "link": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
-    "category": "Markets"
-  },
-  {
-    "title": "‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats",
-    "summary": "Ethereum co-founder Vitalik Buterin warned that the crypto industry should take risks to cryptography from AI-accelerated math seriously.",
-    "source": "The Block",
-    "time": "10/8/2026, 7:00:28 AM",
-    "link": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
-    "category": "Markets"
-  },
-  {
-    "title": "Samsung to launch USDC transfers on Solana for US Galaxy users",
-    "summary": "The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app.",
-    "source": "The Block",
-    "time": "10/8/2026, 4:50:01 AM",
-    "link": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
-    "category": "Markets"
-  },
-  {
-    "title": "Solana’s Orca merges with Loopscale in push to finance AI, robotics and defense",
-    "summary": "Orca and Loopscale unite as Formation, targeting financing for AI, energy, robotics and defense.",
-    "source": "The Block",
-    "time": "10/8/2026, 12:01:02 AM",
-    "link": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
-    "category": "Markets"
-  },
-  {
-    "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
-    "summary": "Grayscale's Krista Lynch says SEC listing standards cover about 15 tokens, letting crypto ETF issuers get selective beyond bitcoin and ether.",
-    "source": "The Block",
-    "time": "10/7/2026, 8:37:17 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
-    "category": "Markets"
-  },
-  {
-    "title": "Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk",
-    "summary": "Justin Drake recommended moving crypto assets to fresh addresses that keep their public keys hidden behind a hash.",
-    "source": "The Block",
-    "time": "10/7/2026, 7:23:02 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
-    "category": "Markets"
-  },
-  {
-    "title": "Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’",
-    "summary": "A commissioned report details thin liquidity and market-maker-linked gains during LAPTOP’s launch.",
-    "source": "The Block",
-    "time": "10/7/2026, 6:40:51 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
     "category": "Markets"
   }
 ]
