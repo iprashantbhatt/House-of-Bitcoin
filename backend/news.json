@@ -1,5 +1,21 @@
 [
   {
+    "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+    "summary": "The Sepolia rehearsal has raised its processing budget more than threefold, but sampled blocks used less than half that allowance.",
+    "source": "CoinDesk",
+    "time": "10/8/2026, 6:23:23 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
+    "summary": "Bitcoin has slipped under a level FxPro says opens a \"quick path to $80,000.\" Brent crude climbed above $102 and pushed Treasury yields back toward their highest since 2002.",
+    "source": "CoinDesk",
+    "time": "10/8/2026, 6:00:07 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
+    "category": "Markets"
+  },
+  {
     "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
     "summary": "The amount of money the crypto media firm has been shopping itself for was not revealed.",
     "source": "CoinDesk",
@@ -48,24 +64,24 @@
     "category": "Markets"
   },
   {
-    "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
-    "summary": "EU law enforcement agencies urged developers, exchanges, and users to initiate phased post-quantum migrations immediately to prevent future unauthorized fund transfers.",
-    "source": "CoinDesk",
-    "time": "10/7/2026, 3:20:54 PM",
-    "link": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+    "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
+    "summary": "Former New York Governor Andrew Cuomo urged the crypto industry to balance its support for Democrats and Republicans if they want federal crypto legislation passed.",
+    "source": "CoinTelegraph",
+    "time": "10/8/2026, 7:06:51 AM",
+    "link": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
-    "summary": "Tom Lee said Bitmine will be “done stacking” once it owns 5% of ETH, setting an end date to an accumulation streak that began in mid-2025 and made the company the world's largest Ethereum treasury.",
-    "source": "CoinDesk",
-    "time": "10/7/2026, 2:40:31 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+    "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
+    "summary": "Canton CEO Yuval Rooz compared blockchain adoption to Uber and Airbnb, arguing that widespread adoption could help insulate it from potential policy reversals.",
+    "source": "CoinTelegraph",
+    "time": "10/8/2026, 6:28:27 AM",
+    "link": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-    "summary": "Ethereum researchers say crypto users should consider moving funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.",
+    "summary": "Ethereum researchers say crypto users should consider an orderly migration of funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.",
     "source": "CoinTelegraph",
     "time": "10/8/2026, 2:04:32 AM",
     "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -77,14 +93,6 @@
     "source": "CoinTelegraph",
     "time": "10/7/2026, 10:48:34 PM",
     "link": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/7/2026, 8:55:36 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -117,14 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/7/2026, 6:06:03 PM",
     "link": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
-    "summary": "US institutions will gain access to Deribit’s options and perpetual futures through Coinbase, with US retail options expected later this year.",
-    "source": "CoinTelegraph",
-    "time": "10/7/2026, 5:36:11 PM",
-    "link": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,22 @@
     "category": "Markets"
   },
   {
+    "title": "‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats",
+    "summary": "Ethereum co-founder Vitalik Buterin warned that the crypto industry should take risks to cryptography from AI-accelerated math seriously.",
+    "source": "The Block",
+    "time": "10/8/2026, 7:00:28 AM",
+    "link": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
+    "category": "Markets"
+  },
+  {
+    "title": "Samsung to launch USDC transfers on Solana for US Galaxy users",
+    "summary": "The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app.",
+    "source": "The Block",
+    "time": "10/8/2026, 4:50:01 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
+    "category": "Markets"
+  },
+  {
     "title": "Solana’s Orca merges with Loopscale in push to finance AI, robotics and defense",
     "summary": "Orca and Loopscale unite as Formation, targeting financing for AI, energy, robotics and defense.",
     "source": "The Block",
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "10/7/2026, 1:15:16 PM",
     "link": "https://www.theblock.co/news/ecosystems/2026-10-07-nears-polosukhin-sees-shrinking-need-for-centralized-exchanges-as-onchain-tools-expand-417912",
-    "category": "Markets"
-  },
-  {
-    "title": "Jito’s JTX plans mobile app this fall, eyes perps integration later this winter",
-    "summary": "Jito’s JTX plans a mobile app, equities feature, and perpetual futures as it expands beyond spot trading on Solana.",
-    "source": "The Block",
-    "time": "10/7/2026, 11:51:29 AM",
-    "link": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
-    "category": "Markets"
-  },
-  {
-    "title": "‘Every single exchange’ will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says",
-    "summary": "Chervinsky says that beyond regulated perps, onchain markets need to enter the U.S. regulatory perimeter, a step he expects will happen soon.",
-    "source": "The Block",
-    "time": "10/7/2026, 10:30:01 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896",
     "category": "Markets"
   }
 ]
