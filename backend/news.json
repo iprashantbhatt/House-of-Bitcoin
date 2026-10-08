@@ -1,5 +1,13 @@
 [
   {
+    "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+    "summary": "The amount of money the crypto media firm has been shopping itself for was not revealed.",
+    "source": "CoinDesk",
+    "time": "10/8/2026, 2:35:24 AM",
+    "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+    "category": "Markets"
+  },
+  {
     "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
     "summary": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.",
     "source": "CoinDesk",
@@ -56,11 +64,11 @@
     "category": "Markets"
   },
   {
-    "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
-    "summary": "The firm is putting its own capital into stablecoin and tokenized gold vaults as institutional finance moves further onchain.",
-    "source": "CoinDesk",
-    "time": "10/7/2026, 2:34:13 PM",
-    "link": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+    "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+    "summary": "Ethereum researchers say crypto users should consider moving funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.",
+    "source": "CoinTelegraph",
+    "time": "10/8/2026, 2:04:32 AM",
+    "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -117,14 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/7/2026, 5:36:11 PM",
     "link": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
-    "summary": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
-    "source": "CoinTelegraph",
-    "time": "10/7/2026, 5:06:14 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,14 @@
     "category": "Markets"
   },
   {
+    "title": "Solana’s Orca merges with Loopscale in push to finance AI, robotics and defense",
+    "summary": "Orca and Loopscale unite as Formation, targeting financing for AI, energy, robotics and defense.",
+    "source": "The Block",
+    "time": "10/8/2026, 12:01:02 AM",
+    "link": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
+    "category": "Markets"
+  },
+  {
     "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
     "summary": "Grayscale's Krista Lynch says SEC listing standards cover about 15 tokens, letting crypto ETF issuers get selective beyond bitcoin and ether.",
     "source": "The Block",
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/7/2026, 10:30:01 AM",
     "link": "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896",
-    "category": "Markets"
-  },
-  {
-    "title": "Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push",
-    "summary": "Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector.",
-    "source": "The Block",
-    "time": "10/7/2026, 9:08:36 AM",
-    "link": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
     "category": "Markets"
   }
 ]
