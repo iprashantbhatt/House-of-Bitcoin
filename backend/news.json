@@ -1,6 +1,30 @@
 [
   {
-    "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+    "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+    "summary": "The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit.",
+    "source": "CoinDesk",
+    "time": "10/8/2026, 9:46:15 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto crumbles as anniversary of flash crash nears",
+    "summary": "It was October 10, 2025, when bitcoin plunged from about $122,000 to $105,000, with much of the decline occurring within minutes.",
+    "source": "CoinDesk",
+    "time": "10/8/2026, 8:14:39 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
+    "category": "Markets"
+  },
+  {
+    "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
+    "summary": "In opposition to federal oversight of the prediction markets, the National Football League has sided with states, Gary Gensler and one of the authors of the relevant law.",
+    "source": "CoinDesk",
+    "time": "10/8/2026, 8:06:41 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+    "category": "Markets"
+  },
+  {
+    "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
     "summary": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.",
     "source": "CoinDesk",
     "time": "10/8/2026, 5:43:04 PM",
@@ -40,27 +64,35 @@
     "category": "Markets"
   },
   {
-    "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
-    "summary": "Glassnode co-founder's latest figures show growing public-key exposure as Justin Drake urges preparations for potential AI attacks on wallet cryptography.",
-    "source": "CoinDesk",
-    "time": "10/8/2026, 4:03:20 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
+    "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+    "summary": "Securitize’s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading.",
+    "source": "CoinTelegraph",
+    "time": "10/8/2026, 9:31:38 PM",
+    "link": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
-    "summary": "Tokenized shares in the mega-caps will first trade on Securitize's Solana-based platform, with further plans to expand them to NYSE and OKXICE digital venues, the firm said.",
-    "source": "CoinDesk",
-    "time": "10/8/2026, 3:06:24 PM",
-    "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+    "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi ",
+    "summary": "According to the league, Kalshi and other prediction markets “threaten game integrity” because many event contracts are “highly susceptible to manipulation.”",
+    "source": "CoinTelegraph",
+    "time": "10/8/2026, 9:17:18 PM",
+    "link": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
-    "summary": "Ethereum researchers warned AI could break the signatures guarding bitcoin, ether and the tokens built on them \"in months, not years\" in the worst case, well before quantum computers arrive.",
-    "source": "CoinDesk",
-    "time": "10/8/2026, 1:47:16 PM",
-    "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/8/2026, 8:29:33 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+    "summary": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January.",
+    "source": "CoinTelegraph",
+    "time": "10/8/2026, 8:17:35 PM",
+    "link": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -96,35 +128,51 @@
     "category": "Markets"
   },
   {
-    "title": "Crypto lending rises again… but have they solved the risks?",
-    "summary": "Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protocols. Here’s how to stay safe.",
-    "source": "CoinTelegraph",
-    "time": "10/8/2026, 3:30:00 PM",
-    "link": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
+    "summary": "Manus built a self-driving AI assistant before the hype, sold itself to Meta, then watched Beijing unwind the deal. Its first fresh money since: more than $500 million.",
+    "source": "Decrypt",
+    "time": "10/8/2026, 11:46:03 PM",
+    "link": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/8/2026, 2:58:01 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
+    "summary": "Google Cloud unveiled a single Gemini agent that takes goals instead of questions, works in the background for days, and can join a company as a staffer with its own inbox and calendar.",
+    "source": "Decrypt",
+    "time": "10/8/2026, 11:16:03 PM",
+    "link": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
     "category": "Markets"
   },
   {
-    "title": "EU lawmakers push crypto onto anti-corruption agenda",
-    "summary": "MEPs also called for stronger asset recovery, while the Commission plans to adopt its first anti-corruption strategy by the end of this year.",
-    "source": "CoinTelegraph",
-    "time": "10/8/2026, 2:54:21 PM",
-    "link": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
+    "summary": "Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet's 60 million.",
+    "source": "Decrypt",
+    "time": "10/8/2026, 10:16:03 PM",
+    "link": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
     "category": "Markets"
   },
   {
-    "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
-    "summary": "Hashi has more than $500M in commitments ahead of mainnet launch, while Anchorage offers institutions settlement and self-custody.",
-    "source": "CoinTelegraph",
-    "time": "10/8/2026, 2:03:28 PM",
-    "link": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
+    "summary": "The NFL urged the Supreme Court to resolve a circuit split over whether states can regulate sports contracts on prediction markets, arguing they're gambling, not federally regulated swaps.",
+    "source": "Decrypt",
+    "time": "10/8/2026, 9:31:03 PM",
+    "link": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
+    "category": "Markets"
+  },
+  {
+    "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
+    "summary": "A batch of 100.02 BTC mined in July 2010 moved Wednesday after 16 years. It's worth about $8.3 million, but nothing in the transaction shows who owns it.",
+    "source": "Decrypt",
+    "time": "10/8/2026, 8:46:04 PM",
+    "link": "https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years",
+    "category": "Markets"
+  },
+  {
+    "title": "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
+    "summary": "Solana DEX Orca and lending platform Loopscale will operate as Formation, a New York company aiming to finance AI, energy, robotics and defense assets and eventually reach regulated U.S. markets.",
+    "source": "Decrypt",
+    "time": "10/8/2026, 8:16:05 PM",
+    "link": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
     "category": "Markets"
   },
   {
@@ -144,51 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-    "summary": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.",
-    "source": "Decrypt",
-    "time": "10/8/2026, 6:44:20 PM",
-    "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
-    "category": "Markets"
-  },
-  {
-    "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
-    "summary": "Day traders are selling, leveraged longs are getting flushed and ETF money is heading for the door. The daily chart still holds the line, but its cushion is shrinking.",
-    "source": "Decrypt",
-    "time": "10/8/2026, 6:14:46 PM",
-    "link": "https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains",
-    "category": "Markets"
-  },
-  {
-    "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
-    "summary": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.",
-    "source": "Decrypt",
-    "time": "10/8/2026, 5:42:16 PM",
-    "link": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
-    "category": "Markets"
-  },
-  {
-    "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-    "summary": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Solana, with NYSE and OKX-ICE venues planned.",
-    "source": "Decrypt",
-    "time": "10/8/2026, 5:10:49 PM",
-    "link": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-    "category": "Markets"
-  },
-  {
-    "title": "AI Video Game Mod Mashups Are Taking Off—Here Are the Wackiest Examples",
-    "summary": "Minecraft in Elden Ring, Skate in Call of Duty, and Spider-Man in Gotham. AI vibe coders are creating crazy video game mashup mods.",
-    "source": "Decrypt",
-    "time": "10/8/2026, 2:15:51 PM",
-    "link": "https://decrypt.co/380407/ai-video-game-mod-mashups-are-taking-off-here-are-the-wackiest-examples",
-    "category": "Markets"
-  },
-  {
-    "title": "Morning Minute: AI Could Break Crypto Encryption Before Quantum, Says Ethereum Researcher",
-    "summary": "Justin Drake is calling for crypto holders to start calmly planning for “Bunker Mode.\" But reactions so far haven’t been too calm.",
-    "source": "Decrypt",
-    "time": "10/8/2026, 1:48:13 PM",
-    "link": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
+    "title": "JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4",
+    "summary": "JPMorgan analysts estimate around $50 billion has flowed into digital assets this year, equal to an annualized pace of $66 billion.",
+    "source": "The Block",
+    "time": "10/8/2026, 8:46:59 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/8/2026, 12:20:00 PM",
     "link": "https://www.theblock.co/news/defi/2026-10-08-crypto-industry-split-over-justin-drakes-ai-warning-418021",
-    "category": "Markets"
-  },
-  {
-    "title": "Standard Chartered to expand crypto custody services in Singapore",
-    "summary": "The bank said the service would extend its existing crypto custody footprint in the UAE, Luxembourg, and Hong Kong.",
-    "source": "The Block",
-    "time": "10/8/2026, 9:55:14 AM",
-    "link": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
     "category": "Markets"
   }
 ]
