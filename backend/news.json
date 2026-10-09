@@ -1,5 +1,13 @@
 [
   {
+    "title": "Robinhood Chain considers technology that gives paying traders priority",
+    "summary": "Arbitrum recently replaced its Timeboost transaction-ordering system with a new model called Priority Gas Auctions.",
+    "source": "CoinDesk",
+    "time": "10/9/2026, 8:11:00 PM",
+    "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+    "category": "Markets"
+  },
+  {
     "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
     "summary": "Alex Mashinsky, already serving 12 years for fraud, settled New York’s civil case over claims he misled Celsius customers about the failed crypto lender’s safety.",
     "source": "CoinDesk",
@@ -56,11 +64,35 @@
     "category": "Markets"
   },
   {
-    "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-    "summary": "Britain said the crypto platforms and two payment services may have helped Russia evade financial sanctions, with two handling transactions involving the Kremlin-backed A7 network.",
-    "source": "CoinDesk",
-    "time": "10/9/2026, 12:14:59 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+    "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
+    "summary": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions.",
+    "source": "CoinTelegraph",
+    "time": "10/9/2026, 10:39:17 PM",
+    "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
+    "summary": "The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, securities and commodities industries.",
+    "source": "CoinTelegraph",
+    "time": "10/9/2026, 10:14:02 PM",
+    "link": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+    "summary": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without explanation.",
+    "source": "CoinTelegraph",
+    "time": "10/9/2026, 9:04:03 PM",
+    "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/9/2026, 8:30:11 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -96,35 +128,27 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
-    "summary": "Bitcoin and crypto markets eyed a recovery from Thursday’s drop despite concerns of another hardware wallet exploit.",
-    "source": "CoinTelegraph",
-    "time": "10/9/2026, 5:20:36 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+    "summary": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
+    "source": "Decrypt",
+    "time": "10/9/2026, 9:47:01 PM",
+    "link": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
     "category": "Markets"
   },
   {
-    "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures ",
-    "summary": "Dragonfly’s Qureshi argued that asset migration is not a real solution in case of AI models breaking cryptographic signatures, and urged blockchains to adopt proactive measures.",
-    "source": "CoinTelegraph",
-    "time": "10/9/2026, 3:49:22 PM",
-    "link": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+    "summary": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal.",
+    "source": "Decrypt",
+    "time": "10/9/2026, 8:46:03 PM",
+    "link": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/9/2026, 3:31:41 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
-    "summary": "French authorities recorded 90 crypto-related cases involving kidnapping, extortion, threats and violent theft in seven months. What makes France such a hotspot?",
-    "source": "CoinTelegraph",
-    "time": "10/9/2026, 3:30:00 PM",
-    "link": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
+    "summary": "The crypto platform filed for designated contract market and futures commission merchant licenses, which would let it run its own regulated event-contract venue instead of relying on overseas partners.",
+    "source": "Decrypt",
+    "time": "10/9/2026, 8:06:03 PM",
+    "link": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
     "category": "Markets"
   },
   {
@@ -168,27 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Bleeds in Uptober—How Low Can It Go? Experts Weigh In",
-    "summary": "Experts highlight several support levels, from $83,000 down to $72,000, that Bitcoin may need to test in a bearish start to Uptober.",
-    "source": "Decrypt",
-    "time": "10/9/2026, 3:20:12 PM",
-    "link": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
-    "category": "Markets"
-  },
-  {
-    "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
-    "summary": "The package hits five crypto and payment platforms, two of which handled transactions with Russia’s A7 network, the UK government said.",
-    "source": "Decrypt",
-    "time": "10/9/2026, 2:04:07 PM",
-    "link": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-    "category": "Markets"
-  },
-  {
-    "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
-    "summary": "Is this the beginning of a bigger selloff with the anniversary of 10/10 looming? Or just a leverage flush before the next leg up?",
-    "source": "Decrypt",
-    "time": "10/9/2026, 1:41:15 PM",
-    "link": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
+    "title": "Former FTX COO says Netflix’s ‘Altruists’ trailer ‘made me physically throw up’",
+    "summary": "Former FTX COO Constance Wang says Netflix's \"The Altruists\" misrepresents FTX's collapse and turns it into a love story.",
+    "source": "The Block",
+    "time": "10/9/2026, 8:51:45 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/9/2026, 12:33:46 PM",
     "link": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
-    "category": "Markets"
-  },
-  {
-    "title": "JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4",
-    "summary": "JPMorgan analysts estimate around $50 billion has flowed into digital assets this year, equal to an annualized pace of $66 billion.",
-    "source": "The Block",
-    "time": "10/8/2026, 8:46:59 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115",
     "category": "Markets"
   }
 ]
