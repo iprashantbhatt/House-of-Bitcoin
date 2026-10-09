@@ -1,66 +1,82 @@
 [
   {
-    "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-    "summary": "Bitcoin rebounded to $82,000 as Trump ruled out an Iran strike before the midterms, while crypto security experts pushed back on “bunker mode” fears.",
+    "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
+    "summary": "A man from Virginia, who facilitated millions of drug transactions worth roughly $430 million, agreed to give up $100 million worth of BTC. His partner forfeited nearly 1,600 BTC.",
     "source": "CoinDesk",
-    "time": "10/9/2026, 5:27:38 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
+    "time": "10/9/2026, 11:20:16 AM",
+    "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
     "category": "Markets"
   },
   {
-    "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-    "summary": "As Democrats steadily rise in their potential to take back a Senate majority, Senator Richard Blumenthal is digging into Tether's U.S. financial partnership.",
+    "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI ",
+    "summary": "The bitcoin miner’s transfer does not confirm a sale, but comes as its treasury has fallen from 53,822 BTC in February to 35,577 BTC in August.",
     "source": "CoinDesk",
-    "time": "10/8/2026, 11:22:58 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+    "time": "10/9/2026, 11:08:09 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
     "category": "Markets"
   },
   {
-    "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
-    "summary": "The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit.",
+    "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
+    "summary": "Meanwhile has signed 15 brokers serving high-net worth clients across markets iSwitzerland, Singapore, Hong Kong and the UAE.",
     "source": "CoinDesk",
-    "time": "10/8/2026, 9:46:15 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
+    "time": "10/9/2026, 11:06:00 AM",
+    "link": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
     "category": "Markets"
   },
   {
-    "title": "Crypto crumbles as anniversary of flash crash nears",
-    "summary": "It was October 10, 2025, when bitcoin plunged from about $122,000 to $105,000, with much of the decline occurring within minutes.",
+    "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+    "summary": "Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquidation.",
     "source": "CoinDesk",
-    "time": "10/8/2026, 8:14:39 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
+    "time": "10/9/2026, 8:51:32 AM",
+    "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
     "category": "Markets"
   },
   {
-    "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-    "summary": "In opposition to federal oversight of the prediction markets, the National Football League has sided with states, Gary Gensler and one of the authors of the relevant law.",
+    "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
+    "summary": "Layer-1 blockchain Sui is launching Hashi, an institutional protocol allowing holders to use bitcoin as collateral without moving it off the Bitcoin network.",
     "source": "CoinDesk",
-    "time": "10/8/2026, 8:06:41 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+    "time": "10/9/2026, 8:40:54 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
     "category": "Markets"
   },
   {
-    "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
-    "summary": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.",
+    "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
+    "summary": "The network is completing a seven-week push to produce blocks twice as frequently, though validators face higher costs and tighter operating windows.",
     "source": "CoinDesk",
-    "time": "10/8/2026, 5:43:04 PM",
-    "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+    "time": "10/9/2026, 7:00:52 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
     "category": "Markets"
   },
   {
-    "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
-    "summary": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer holdings.",
+    "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+    "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline.",
     "source": "CoinDesk",
-    "time": "10/8/2026, 5:23:26 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+    "time": "10/9/2026, 6:21:36 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
     "category": "Markets"
   },
   {
-    "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3 ",
-    "summary": "",
+    "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
+    "summary": "About $356 million in ETH positions were liquidated over 24 hours, more than bitcoin despite ether’s market value being less than a fifth as large.",
     "source": "CoinDesk",
-    "time": "10/8/2026, 5:11:15 PM",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
+    "time": "10/9/2026, 6:04:36 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
+    "summary": "Bitcoin dipped below $81,000, sparking mass crypto liquidations as traders sent BTC to exchanges at a loss.",
+    "source": "CoinTelegraph",
+    "time": "10/9/2026, 11:50:01 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
+    "summary": "Bitcoin ETFs lost $244 million on Thursday, while Ether funds extended their outflow streak to eight sessions, shedding $641 million.",
+    "source": "CoinTelegraph",
+    "time": "10/9/2026, 9:34:44 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -112,19 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
-    "summary": "Securitize’s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading.",
-    "source": "CoinTelegraph",
-    "time": "10/8/2026, 9:31:38 PM",
-    "link": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi ",
-    "summary": "According to the league, Kalshi and other prediction markets “threaten game integrity” because many event contracts are “highly susceptible to manipulation.”",
-    "source": "CoinTelegraph",
-    "time": "10/8/2026, 9:17:18 PM",
-    "link": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
+    "summary": "Ajay Shinjin helped steal nearly $265,000 in crypto after criminals hijacked BT customers' phone numbers in November 2021.",
+    "source": "Decrypt",
+    "time": "10/9/2026, 10:59:31 AM",
+    "link": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
     "category": "Markets"
   },
   {
@@ -181,14 +189,6 @@
     "source": "Decrypt",
     "time": "10/8/2026, 7:46:05 PM",
     "link": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
-    "category": "Markets"
-  },
-  {
-    "title": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
-    "summary": "Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.",
-    "source": "Decrypt",
-    "time": "10/8/2026, 7:07:48 PM",
-    "link": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
     "category": "Markets"
   },
   {
