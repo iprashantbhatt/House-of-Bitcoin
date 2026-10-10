@@ -128,6 +128,30 @@
     "category": "Markets"
   },
   {
+    "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+    "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule excludes casino-style gambling—sharpening the agency’s claim to exclusive jurisdiction.",
+    "source": "Decrypt",
+    "time": "10/10/2026, 7:01:03 PM",
+    "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+    "category": "Markets"
+  },
+  {
+    "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+    "summary": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe and the Middle East.",
+    "source": "Decrypt",
+    "time": "10/10/2026, 6:01:04 PM",
+    "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+    "category": "Markets"
+  },
+  {
+    "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
+    "summary": "Physicists at George Washington University say a formula can estimate when an AI chatbot will flip from good answers to bad ones, and early tests on small models back it up.",
+    "source": "Decrypt",
+    "time": "10/10/2026, 5:01:03 PM",
+    "link": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+    "category": "Markets"
+  },
+  {
     "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
     "summary": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section.",
     "source": "Decrypt",
@@ -168,27 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
-    "summary": "Starknet is \"actively considering\" becoming its own blockchain, a move it says would make it the first fully quantum-resistant network by 2027.",
-    "source": "Decrypt",
-    "time": "10/9/2026, 6:36:03 PM",
-    "link": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
-    "category": "Markets"
-  },
-  {
-    "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
-    "summary": "The DWF Labs-linked firms allege in London’s High Court that BitGo sold discounted Falcon Finance and ESPORTS tokens roughly two months before their lock-up expired, cratering the value of their remaining holdings.",
-    "source": "Decrypt",
-    "time": "10/9/2026, 6:08:23 PM",
-    "link": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
-    "category": "Markets"
-  },
-  {
-    "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
-    "summary": "Mashinsky owes New York $25 million if he fails to forfeit another $10 million, and $10 million more if he doesn't serve his full sentence.",
-    "source": "Decrypt",
-    "time": "10/9/2026, 6:07:07 PM",
-    "link": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+    "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+    "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds.",
+    "source": "The Block",
+    "time": "10/10/2026, 5:10:37 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/9/2026, 12:40:59 PM",
     "link": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-    "category": "Markets"
-  },
-  {
-    "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-    "summary": "Meanwhile raised $37.5M from existing investors, bringing the Sam Altman-backed bitcoin life insurer's total funding above $180 million.",
-    "source": "The Block",
-    "time": "10/9/2026, 12:33:46 PM",
-    "link": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
     "category": "Markets"
   }
 ]
