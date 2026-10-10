@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+    "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
+    "source": "CoinDesk",
+    "time": "10/10/2026, 7:43:00 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+    "category": "Markets"
+  },
+  {
     "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
     "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
     "source": "CoinDesk",
@@ -56,11 +64,19 @@
     "category": "Markets"
   },
   {
-    "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-    "summary": "DWF is seeking $114 million in damages on the basis BitGo’s token sales resulted in direct losses through the fall in tokens' prices.",
-    "source": "CoinDesk",
-    "time": "10/9/2026, 2:23:54 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+    "title": "Tech chief says EU can fend off rogue AI risk: Report",
+    "summary": "There are global concerns following incidents at OpenAI ‌and Anthropic, and fears have arisen that rogue AI agents may venture beyond human control.",
+    "source": "CoinTelegraph",
+    "time": "10/10/2026, 10:41:06 AM",
+    "link": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+    "summary": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
+    "source": "CoinTelegraph",
+    "time": "10/10/2026, 9:10:43 AM",
+    "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -109,22 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/9/2026, 7:02:47 PM",
     "link": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-    "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases.",
-    "source": "CoinTelegraph",
-    "time": "10/9/2026, 6:22:45 PM",
-    "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
-    "summary": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred stock buybacks.",
-    "source": "CoinTelegraph",
-    "time": "10/9/2026, 5:51:53 PM",
-    "link": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
