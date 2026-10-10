@@ -1,5 +1,29 @@
 [
   {
+    "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+    "summary": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak.",
+    "source": "CoinDesk",
+    "time": "10/10/2026, 2:00:00 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+    "category": "Markets"
+  },
+  {
+    "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+    "summary": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test.",
+    "source": "CoinDesk",
+    "time": "10/10/2026, 2:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+    "summary": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain.",
+    "source": "CoinDesk",
+    "time": "10/10/2026, 1:00:00 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+    "category": "Markets"
+  },
+  {
     "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
     "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
     "source": "CoinDesk",
@@ -40,27 +64,19 @@
     "category": "Markets"
   },
   {
-    "title": "Robinhood Chain considers technology that gives paying traders priority",
-    "summary": "Arbitrum recently replaced its Timeboost transaction-ordering system with a new model called Priority Gas Auctions.",
-    "source": "CoinDesk",
-    "time": "10/9/2026, 8:11:00 PM",
-    "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/10/2026, 2:30:00 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-    "summary": "Alex Mashinsky, already serving 12 years for fraud, settled New York’s civil case over claims he misled Celsius customers about the failed crypto lender’s safety.",
-    "source": "CoinDesk",
-    "time": "10/9/2026, 4:55:23 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-    "category": "Markets"
-  },
-  {
-    "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-    "summary": "The hardware wallet maker said it is investigating devices sold by a Southeast Asian reseller as social posts swirl about crypto assets drained from Bitcoin, Ethereum and Tron addresses.",
-    "source": "CoinDesk",
-    "time": "10/9/2026, 4:47:27 PM",
-    "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+    "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+    "summary": "“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.",
+    "source": "CoinTelegraph",
+    "time": "10/10/2026, 1:52:14 PM",
+    "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -104,14 +120,6 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/9/2026, 8:30:11 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
     "summary": "The technical trial showed how AI agents could discover services and make micropayments using HSBC’s tokenized deposits, with real-time settlement and risk checks.",
     "source": "CoinTelegraph",
@@ -120,11 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
-    "summary": "Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million to $86 million in suspected crypto thefts.",
-    "source": "CoinTelegraph",
-    "time": "10/9/2026, 7:02:47 PM",
-    "link": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+    "summary": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section.",
+    "source": "Decrypt",
+    "time": "10/10/2026, 3:01:03 PM",
+    "link": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
     "category": "Markets"
   },
   {
@@ -181,14 +189,6 @@
     "source": "Decrypt",
     "time": "10/9/2026, 6:07:07 PM",
     "link": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
-    "category": "Markets"
-  },
-  {
-    "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
-    "summary": "Ledger asked reseller CryptoBilis to pause sales and urged recent buyers not to set up their devices, as an onchain investigator tracked more than $86 million in suspected thefts.",
-    "source": "Decrypt",
-    "time": "10/9/2026, 5:30:36 PM",
-    "link": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
     "category": "Markets"
   },
   {
