@@ -67,7 +67,7 @@
     "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
     "summary": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October.",
     "source": "CoinTelegraph",
-    "time": "10/11/2026, 7:03:00 PM",
+    "time": "10/11/2026, 7:11:00 PM",
     "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
@@ -75,7 +75,7 @@
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "10/11/2026, 2:45:00 PM",
+    "time": "10/11/2026, 2:59:00 PM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
@@ -83,7 +83,7 @@
     "title": "Coldcard says it’s investigating how phishing link appeared on its X account  ",
     "summary": "Company advised users not to visit or interact with the link in question and said it will share any further verified updates.",
     "source": "CoinTelegraph",
-    "time": "10/11/2026, 12:32:00 PM",
+    "time": "10/11/2026, 12:40:00 PM",
     "link": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
@@ -192,6 +192,14 @@
     "category": "Markets"
   },
   {
+    "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+    "summary": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
+    "source": "The Block",
+    "time": "10/11/2026, 8:07:41 PM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+    "category": "Markets"
+  },
+  {
     "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
     "summary": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined.",
     "source": "The Block",
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/9/2026, 4:16:15 PM",
     "link": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
-    "category": "Markets"
-  },
-  {
-    "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming ‘tokenization supercycle’",
-    "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak.",
-    "source": "The Block",
-    "time": "10/9/2026, 3:12:57 PM",
-    "link": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
     "category": "Markets"
   }
 ]
