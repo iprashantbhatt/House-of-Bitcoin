@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+    "summary": "Bitcoin is holding on to its weekend gains as oil trades lower. ETFs lost over $600 million in outflows last week.",
+    "source": "CoinDesk",
+    "time": "10/12/2026, 6:49:30 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+    "category": "Markets"
+  },
+  {
     "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto ",
     "summary": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal.",
     "source": "CoinDesk",
@@ -56,11 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-    "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
-    "source": "CoinDesk",
-    "time": "10/10/2026, 7:43:00 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/12/2026, 7:55:00 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "DATA Network to migrate to Sui, retire own chain ",
+    "summary": "The migration is backed by a $30 million investment from Sui Foundation.",
+    "source": "CoinTelegraph",
+    "time": "10/12/2026, 7:15:43 AM",
+    "link": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "French lawmakers back reporting rule for crypto wallets over $112K  ",
+    "summary": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets.",
+    "source": "CoinTelegraph",
+    "time": "10/12/2026, 6:45:15 AM",
+    "link": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -88,14 +112,6 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/11/2026, 2:59:00 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "Coldcard says it’s investigating how phishing link appeared on its X account  ",
     "summary": "Company advised users not to visit or interact with the link in question and said it will share any further verified updates.",
     "source": "CoinTelegraph",
@@ -109,22 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/11/2026, 11:05:00 AM",
     "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "CFTC proposals aimed at separating prediction markets from casino gambling  ",
-    "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.",
-    "source": "CoinTelegraph",
-    "time": "10/11/2026, 9:50:00 AM",
-    "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-    "summary": "“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.",
-    "source": "CoinTelegraph",
-    "time": "10/10/2026, 1:52:14 PM",
-    "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,22 @@
     "category": "Markets"
   },
   {
+    "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
+    "summary": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States.",
+    "source": "The Block",
+    "time": "10/12/2026, 6:33:57 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
+    "category": "Markets"
+  },
+  {
+    "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+    "summary": "DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired.",
+    "source": "The Block",
+    "time": "10/12/2026, 4:00:00 AM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+    "category": "Markets"
+  },
+  {
     "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
     "summary": "The same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours.",
     "source": "The Block",
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "10/9/2026, 6:05:22 PM",
     "link": "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
-    "category": "Markets"
-  },
-  {
-    "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
-    "summary": "Ledger said it is investigating reports of fund losses from users in Southeast Asia who bought its products from reseller CryptoBilis.",
-    "source": "The Block",
-    "time": "10/9/2026, 4:52:55 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
-    "category": "Markets"
-  },
-  {
-    "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
-    "summary": "Bessent’s latest crypto seizure plan follows months of sanctions and freezes targeting Iranian assets.",
-    "source": "The Block",
-    "time": "10/9/2026, 4:41:09 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151",
     "category": "Markets"
   }
 ]
