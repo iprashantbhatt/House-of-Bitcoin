@@ -1,5 +1,29 @@
 [
   {
+    "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+    "summary": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates, and explained why he thinks the company faces intense political attacks.",
+    "source": "CoinDesk",
+    "time": "10/12/2026, 6:18:03 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
+    "category": "Markets"
+  },
+  {
+    "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+    "summary": "The Bitmine chairman said he expects younger investors to drive demand for digital assets as his ether treasury company inches closer to owning 5% of the total supply.",
+    "source": "CoinDesk",
+    "time": "10/12/2026, 5:27:09 PM",
+    "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+    "category": "Markets"
+  },
+  {
+    "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+    "summary": "A planned Bermuda issuance would put legal ownership onchain and seek capital for disaster risks that remain costly to insure.",
+    "source": "CoinDesk",
+    "time": "10/12/2026, 5:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+    "category": "Markets"
+  },
+  {
     "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
     "summary": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure.",
     "source": "CoinDesk",
@@ -8,7 +32,7 @@
     "category": "Markets"
   },
   {
-    "title": "Ledger claims CryptoBilis cases are limited as up to $93M is traced, $10M frozen",
+    "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
     "summary": "Ledger said every confirmed case involves devices sold by the Southeast Asian reseller, but critics say the hardware-wallet maker must answer for an authorized sales channel.",
     "source": "CoinDesk",
     "time": "10/12/2026, 2:01:53 PM",
@@ -40,27 +64,35 @@
     "category": "Markets"
   },
   {
-    "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-    "summary": "SWI Group said it would use the proceeds from an 800 million-euro ($894 million) fundraise to transform Genesis Digital Assets, acquired from the FTX bankruptcy, from a bitcoin miner to an AI-focused data center.",
-    "source": "CoinDesk",
-    "time": "10/12/2026, 12:27:00 PM",
-    "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
+    "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals ",
+    "summary": "The Bitcoin mining industry needs roughly $50 billion to complete planned AI infrastructure projects, with IREN, Riot Platforms and HIVE Digital facing major funding gaps.",
+    "source": "CoinTelegraph",
+    "time": "10/12/2026, 6:51:05 PM",
+    "link": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-    "summary": "The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5, while spot bitcoin ETFs lost $681 million last week.",
-    "source": "CoinDesk",
-    "time": "10/12/2026, 12:20:54 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
+    "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
+    "summary": "Bitcoin price action stayed rangebound after failing to sustain above $84,000 into the Wall Street open on rising oil prices.",
+    "source": "CoinTelegraph",
+    "time": "10/12/2026, 6:30:21 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-    "summary": "Your look at what's coming in the week starting Oct. 12.",
-    "source": "CoinDesk",
-    "time": "10/12/2026, 10:58:24 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+    "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print ",
+    "summary": "Evernorth’s share price rose by 5% as investors welcomed the Nasdaq debut of the first pure-play XRP digital asset treasury.",
+    "source": "CoinTelegraph",
+    "time": "10/12/2026, 4:18:49 PM",
+    "link": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets ",
+    "summary": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices.",
+    "source": "CoinTelegraph",
+    "time": "10/12/2026, 4:07:00 PM",
+    "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -96,35 +128,35 @@
     "category": "Markets"
   },
   {
-    "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
-    "summary": "Payward received full market approval from Dubai’s VARA to expand its digital asset services in the UAE, building on the preliminary approval received in May.",
-    "source": "CoinTelegraph",
-    "time": "10/12/2026, 11:41:17 AM",
-    "link": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
+    "summary": "The Crypto Fear and Greed Index has dropped to 56 from an August peak of 82, as oil, bond yields, and ETF outflows hit Bitcoin in October.",
+    "source": "Decrypt",
+    "time": "10/12/2026, 6:41:34 PM",
+    "link": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
     "category": "Markets"
   },
   {
-    "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal ",
-    "summary": "Standard Chartered has launched custody for Ripple’s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.",
-    "source": "CoinTelegraph",
-    "time": "10/12/2026, 11:30:57 AM",
-    "link": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
+    "summary": "The wallet manufacturer said its own systems and direct sales are unaffected, and that the reseller has stopped selling hardware wallets.",
+    "source": "Decrypt",
+    "time": "10/12/2026, 6:32:17 PM",
+    "link": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
     "category": "Markets"
   },
   {
-    "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-    "summary": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.",
-    "source": "CoinTelegraph",
-    "time": "10/12/2026, 10:45:58 AM",
-    "link": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "NEXTPredict Paid $12,000 to Hedge Its Conference on a Prediction Market",
+    "summary": "Where event insurance deals with scrapped shows and what happens inside the venue, NEXTPredict is focusing on flight cancellations.",
+    "source": "Decrypt",
+    "time": "10/12/2026, 6:01:04 PM",
+    "link": "https://decrypt.co/380484/nextpredict-paid-12000-to-hedge-its-conference-on-a-prediction-market",
     "category": "Markets"
   },
   {
-    "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
-    "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.",
-    "source": "CoinTelegraph",
-    "time": "10/12/2026, 8:30:21 AM",
-    "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+    "summary": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token’s total supply.",
+    "source": "Decrypt",
+    "time": "10/12/2026, 5:56:35 PM",
+    "link": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
     "category": "Markets"
   },
   {
@@ -160,35 +192,19 @@
     "category": "Markets"
   },
   {
-    "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-    "summary": "An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities.",
-    "source": "Decrypt",
-    "time": "10/11/2026, 7:11:03 PM",
-    "link": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+    "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+    "summary": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana.",
+    "source": "The Block",
+    "time": "10/12/2026, 7:06:25 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-    "summary": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.",
-    "source": "Decrypt",
-    "time": "10/11/2026, 6:01:03 PM",
-    "link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
-    "category": "Markets"
-  },
-  {
-    "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
-    "summary": "Zakura, a Zcash full node developer, says it expects hash-based signatures to land in Zcash in January, and is rolling out a privacy tool for rotating transparent addresses this week.",
-    "source": "Decrypt",
-    "time": "10/11/2026, 3:00:03 PM",
-    "link": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
-    "category": "Markets"
-  },
-  {
-    "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
-    "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule excludes casino-style gambling—sharpening the agency’s claim to exclusive jurisdiction.",
-    "source": "Decrypt",
-    "time": "10/10/2026, 7:01:03 PM",
-    "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+    "title": "DeFi Development grows SOL holdings 12% as CHAD hits record highs",
+    "summary": "DFDV added 22,070 SOL last week, lifting holdings to 2.59 million SOL, as its CHAD preferred stock hit record highs despite a selloff.",
+    "source": "The Block",
+    "time": "10/12/2026, 4:53:25 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
     "category": "Markets"
   },
   {
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "10/12/2026, 6:33:57 AM",
     "link": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
-    "category": "Markets"
-  },
-  {
-    "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
-    "summary": "DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired.",
-    "source": "The Block",
-    "time": "10/12/2026, 4:00:00 AM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
-    "category": "Markets"
-  },
-  {
-    "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
-    "summary": "The same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours.",
-    "source": "The Block",
-    "time": "10/12/2026, 12:26:02 AM",
-    "link": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
     "category": "Markets"
   }
 ]
