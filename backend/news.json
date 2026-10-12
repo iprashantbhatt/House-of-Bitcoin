@@ -1,5 +1,13 @@
 [
   {
+    "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto ",
+    "summary": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal.",
+    "source": "CoinDesk",
+    "time": "10/11/2026, 8:30:00 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+    "category": "Markets"
+  },
+  {
     "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
     "summary": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved.",
     "source": "CoinDesk",
@@ -56,11 +64,19 @@
     "category": "Markets"
   },
   {
-    "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-    "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
-    "source": "CoinDesk",
-    "time": "10/10/2026, 6:44:35 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+    "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+    "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
+    "source": "CoinTelegraph",
+    "time": "10/12/2026, 3:21:29 AM",
+    "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest ",
+    "summary": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a “$94 billion” XRP bug — but receive just a $250K bounty.",
+    "source": "CoinTelegraph",
+    "time": "10/12/2026, 12:57:53 AM",
+    "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -109,22 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/10/2026, 1:52:14 PM",
     "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Tech chief says EU can fend off rogue AI risk: Report",
-    "summary": "Recent incidents at OpenAI ‌and Anthropic stoke global concerns and fears that rogue AI agents may venture beyond human control.",
-    "source": "CoinTelegraph",
-    "time": "10/10/2026, 10:45:00 AM",
-    "link": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-    "summary": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
-    "source": "CoinTelegraph",
-    "time": "10/10/2026, 9:10:43 AM",
-    "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,14 @@
     "category": "Markets"
   },
   {
+    "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
+    "summary": "The same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours.",
+    "source": "The Block",
+    "time": "10/12/2026, 12:26:02 AM",
+    "link": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
+    "category": "Markets"
+  },
+  {
     "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
     "summary": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
     "source": "The Block",
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/9/2026, 4:41:09 PM",
     "link": "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151",
-    "category": "Markets"
-  },
-  {
-    "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
-    "summary": "NY AG Letitia James secured up to $35M from ex-Celsius CEO Alex Mashinsky and a permanent ban from the securities and crypto industries.",
-    "source": "The Block",
-    "time": "10/9/2026, 4:16:15 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
     "category": "Markets"
   }
 ]
