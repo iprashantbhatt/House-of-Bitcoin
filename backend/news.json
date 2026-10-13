@@ -1,5 +1,13 @@
 [
   {
+    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+    "summary": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing.",
+    "source": "CoinDesk",
+    "time": "10/13/2026, 11:52:00 PM",
+    "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+    "category": "Markets"
+  },
+  {
     "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
     "summary": "MNX is offering a different way to trade the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek.",
     "source": "CoinDesk",
@@ -53,14 +61,6 @@
     "source": "CoinDesk",
     "time": "10/13/2026, 1:02:47 PM",
     "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
-    "category": "Markets"
-  },
-  {
-    "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-    "summary": "The September CPI report comes out on Wednesday, with economists expecting a sizable increase in the headline number but a softening in the core rate.",
-    "source": "CoinDesk",
-    "time": "10/13/2026, 12:46:57 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
     "category": "Markets"
   },
   {
@@ -128,6 +128,30 @@
     "category": "Markets"
   },
   {
+    "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+    "summary": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
+    "source": "Decrypt",
+    "time": "10/13/2026, 11:46:04 PM",
+    "link": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+    "category": "Markets"
+  },
+  {
+    "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
+    "summary": "The chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down.",
+    "source": "Decrypt",
+    "time": "10/13/2026, 11:16:04 PM",
+    "link": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
+    "category": "Markets"
+  },
+  {
+    "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+    "summary": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure.",
+    "source": "Decrypt",
+    "time": "10/13/2026, 10:16:03 PM",
+    "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+    "category": "Markets"
+  },
+  {
     "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
     "summary": "A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million.",
     "source": "Decrypt",
@@ -165,30 +189,6 @@
     "source": "Decrypt",
     "time": "10/13/2026, 6:14:50 PM",
     "link": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
-    "category": "Markets"
-  },
-  {
-    "title": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
-    "summary": "AnyPS5 is working to get any PS5 game running natively on PC—and gamers are hoping it'll work for the next instalment of Grand Theft Auto.",
-    "source": "Decrypt",
-    "time": "10/13/2026, 4:51:28 PM",
-    "link": "https://decrypt.co/380833/ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch",
-    "category": "Markets"
-  },
-  {
-    "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
-    "summary": "Ledger says the hidden chip reads the 24-word phrase off the screen during setup, leaving the Secure Element and its software untouched.",
-    "source": "Decrypt",
-    "time": "10/13/2026, 1:53:15 PM",
-    "link": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-    "category": "Markets"
-  },
-  {
-    "title": "Morning Minute: Bitcoin Gets Spooked as ‘Uptober’ Lets Down",
-    "summary": "Crypto majors are red, alts are down bad and onchain is facing capitulation. This was not the ‘Uptober’ that was promised…",
-    "source": "Decrypt",
-    "time": "10/13/2026, 1:40:51 PM",
-    "link": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
     "category": "Markets"
   },
   {
