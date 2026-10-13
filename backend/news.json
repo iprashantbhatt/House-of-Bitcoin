@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+    "summary": "A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain.",
+    "source": "CoinDesk",
+    "time": "10/13/2026, 7:45:10 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+    "category": "Markets"
+  },
+  {
     "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
     "summary": "About $800 million in leveraged positions were wiped out over 24 hours, 86% of them bullish. Chip-stock contracts on crypto exchanges took a chunk of the damage.",
     "source": "CoinDesk",
@@ -56,11 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
-    "summary": "Ledger said every confirmed case involves devices sold by the Southeast Asian reseller, but critics say the hardware-wallet maker must answer for an authorized sales channel.",
-    "source": "CoinDesk",
-    "time": "10/12/2026, 2:01:53 PM",
-    "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+    "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
+    "summary": "Bitcoin’s liquidity kept BTC price below $84,000 amid a mounting South Korean tech and semiconductor stock sell-off.",
+    "source": "CoinTelegraph",
+    "time": "10/13/2026, 11:42:00 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
+    "summary": "Chinese fraud victims seeking to recover 61,000 seized Bitcoin face a legal setback after a UK court ruled that Chinese law governs their claims.",
+    "source": "CoinTelegraph",
+    "time": "10/13/2026, 11:03:06 AM",
+    "link": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis ",
+    "summary": "Ledger detailed how LTE-enabled implants exposed wallet recovery phrases as CryptoBilis halted sales and Trezor and OneKey cut ties with the reseller.",
+    "source": "CoinTelegraph",
+    "time": "10/13/2026, 10:45:10 AM",
+    "link": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -104,27 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
-    "summary": "The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending trades.",
-    "source": "CoinTelegraph",
-    "time": "10/13/2026, 2:52:52 AM",
-    "link": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "FTX’s crypto mining venture is now used to advance AI ",
-    "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022.",
-    "source": "CoinTelegraph",
-    "time": "10/12/2026, 11:11:26 PM",
-    "link": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
-    "summary": "With just 22 days until the US midterm elections, a crypto-aligned committee has announced another major ad expenditure to support “pro-crypto” candidates in 2026.",
-    "source": "CoinTelegraph",
-    "time": "10/12/2026, 8:55:49 PM",
-    "link": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
+    "summary": "The shutdown comes as NFT trading volumes have collapsed from their 2021-2022 peak, with market revenue projected at $318 million this year.",
+    "source": "Decrypt",
+    "time": "10/13/2026, 11:12:45 AM",
+    "link": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
     "category": "Markets"
   },
   {
@@ -181,14 +189,6 @@
     "source": "Decrypt",
     "time": "10/12/2026, 6:41:34 PM",
     "link": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
-    "category": "Markets"
-  },
-  {
-    "title": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
-    "summary": "The wallet manufacturer said its own systems and direct sales are unaffected, and that the reseller has stopped selling hardware wallets.",
-    "source": "Decrypt",
-    "time": "10/12/2026, 6:32:17 PM",
-    "link": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
     "category": "Markets"
   },
   {
