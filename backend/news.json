@@ -1,5 +1,29 @@
 [
   {
+    "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+    "summary": "About $800 million in leveraged positions were wiped out over 24 hours, 86% of them bullish. Chip-stock contracts on crypto exchanges took a chunk of the damage.",
+    "source": "CoinDesk",
+    "time": "10/13/2026, 7:27:17 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+    "category": "Markets"
+  },
+  {
+    "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+    "summary": "Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.",
+    "source": "CoinDesk",
+    "time": "10/13/2026, 6:43:18 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+    "summary": "Bitcoin climbed back above $83,000 after an early dip, decoupling from a sharp slide in Korean chip stocks and weakness in Nasdaq futures ahead of Thursday’s US CPI report.",
+    "source": "CoinDesk",
+    "time": "10/13/2026, 6:18:20 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+    "category": "Markets"
+  },
+  {
     "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
     "summary": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates, and explained why he thinks the company faces intense political attacks.",
     "source": "CoinDesk",
@@ -40,31 +64,39 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
-    "summary": "Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment, while IREN secures a multiyear cloud services deal with Anthropic.",
-    "source": "CoinDesk",
-    "time": "10/12/2026, 1:21:11 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/13/2026, 7:51:31 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
-    "summary": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisis response.",
-    "source": "CoinDesk",
-    "time": "10/12/2026, 1:02:38 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+    "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+    "summary": "Blur’s planned website closure revived criticism of the royalty policies and token rewards that helped it overtake OpenSea during the NFT boom, but hurt creators.",
+    "source": "CoinTelegraph",
+    "time": "10/13/2026, 7:38:37 AM",
+    "link": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "South Korea just got its first traditional bank loans backed by bitcoin",
-    "summary": "Loans use third-party custodians for bitcoin holdings and rely on court-ordered sales if borrowers default.",
-    "source": "CoinDesk",
-    "time": "10/12/2026, 12:57:37 PM",
-    "link": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
+    "title": "Binance to shut down crypto mining pool services in November",
+    "summary": "Binance will discontinue its mining pool and related services on Nov. 10, urging miners to move to alternative pools before the shutdown.",
+    "source": "CoinTelegraph",
+    "time": "10/13/2026, 7:23:26 AM",
+    "link": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Meta launches Muse Wonder AI models, challenging top rivals",
+    "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+    "summary": "Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers could have difficulty withdrawing assets.",
+    "source": "CoinTelegraph",
+    "time": "10/13/2026, 4:41:30 AM",
+    "link": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
     "summary": "Meta co-founder Mark Zuckerberg said its newest models are a step toward “personal superintelligence.”",
     "source": "CoinTelegraph",
     "time": "10/13/2026, 3:54:31 AM",
@@ -88,43 +120,11 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/12/2026, 9:26:13 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
     "summary": "With just 22 days until the US midterm elections, a crypto-aligned committee has announced another major ad expenditure to support “pro-crypto” candidates in 2026.",
     "source": "CoinTelegraph",
     "time": "10/12/2026, 8:55:49 PM",
     "link": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo ",
-    "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash.",
-    "source": "CoinTelegraph",
-    "time": "10/12/2026, 8:38:14 PM",
-    "link": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals ",
-    "summary": "The Bitcoin mining industry needs roughly $50 billion to complete planned AI infrastructure projects, with IREN, Riot Platforms and HIVE Digital facing major funding gaps.",
-    "source": "CoinTelegraph",
-    "time": "10/12/2026, 6:51:05 PM",
-    "link": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
-    "summary": "Bitcoin price action stayed rangebound after failing to sustain above $84,000 into the Wall Street open on rising oil prices.",
-    "source": "CoinTelegraph",
-    "time": "10/12/2026, 6:30:21 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,22 @@
     "category": "Markets"
   },
   {
+    "title": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
+    "summary": "The executive cited improved depth, 24/7 trading and weekend price discovery as reasons why the opportunities have become more relevant.",
+    "source": "The Block",
+    "time": "10/13/2026, 7:44:14 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data",
+    "summary": "The wallet originally received 4,582 BTC in March 2020, when the holdings were worth roughly $40.8 million.",
+    "source": "The Block",
+    "time": "10/13/2026, 6:18:30 AM",
+    "link": "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383",
+    "category": "Markets"
+  },
+  {
     "title": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
     "summary": "Crypto liquidations amounted to $771 million over the past 24 hours, including $685.6 million in long positions.",
     "source": "The Block",
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "10/12/2026, 4:53:25 PM",
     "link": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitmine adds 12,532 ETH as Tom Lee flags potential ‘largest-ever’ crypto bull market",
-    "summary": "Bitmine (BMNR) added 12,532 ETH last week, lifting its Ethereum treasury to 6.03 million tokens, or 4.9% of supply, with 84% staked.",
-    "source": "The Block",
-    "time": "10/12/2026, 3:43:32 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296",
-    "category": "Markets"
-  },
-  {
-    "title": "‘There’s always room for more orange’: Michael Saylor’s Strategy scoops up another 250 bitcoin for $21.5 million as holdings reach 848,250 BTC",
-    "summary": "Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $71 billion.",
-    "source": "The Block",
-    "time": "10/12/2026, 2:13:45 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-12-theres-always-room-for-more-orange-michael-saylors-strategy-scoops-up-another-250-bitcoin-for-21-5-million-as-holdings-reach-848250-btc-418275",
     "category": "Markets"
   }
 ]
