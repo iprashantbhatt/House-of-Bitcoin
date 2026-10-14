@@ -64,6 +64,14 @@
     "category": "Markets"
   },
   {
+    "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause ",
+    "summary": "Illinois officials already agreed to delay implementation of a 0.2% tax on crypto assets, but industry-aligned organizations are pushing for summary judgment on the merits.",
+    "source": "CoinTelegraph",
+    "time": "10/14/2026, 10:56:22 PM",
+    "link": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
@@ -120,11 +128,27 @@
     "category": "Markets"
   },
   {
-    "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
-    "summary": "Remittance-sized crypto transfers from Canada to three Asian countries reached $2.36 billion, while transfers to the Philippines alone rose 28% to $61 million.",
-    "source": "CoinTelegraph",
-    "time": "10/14/2026, 3:00:00 PM",
-    "link": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+    "summary": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
+    "source": "Decrypt",
+    "time": "10/14/2026, 11:46:04 PM",
+    "link": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+    "category": "Markets"
+  },
+  {
+    "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+    "summary": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
+    "source": "Decrypt",
+    "time": "10/14/2026, 11:16:03 PM",
+    "link": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+    "category": "Markets"
+  },
+  {
+    "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+    "summary": "A new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
+    "source": "Decrypt",
+    "time": "10/14/2026, 10:16:05 PM",
+    "link": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
     "category": "Markets"
   },
   {
@@ -168,27 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
-    "summary": "Turkish police and intelligence officers reportedly seized cash, phones, jewelry and firearms at the crypto founder's address in Beşiktaş.",
-    "source": "Decrypt",
-    "time": "10/14/2026, 4:03:20 PM",
-    "link": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
-    "category": "Markets"
-  },
-  {
-    "title": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
-    "summary": "European electronics chain MediaMarkt Saturn has also halted Ledger sales after a customer in Germany reported finding an implant.",
-    "source": "Decrypt",
-    "time": "10/14/2026, 3:47:44 PM",
-    "link": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
-    "category": "Markets"
-  },
-  {
-    "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
-    "summary": "Sahil Arora says he's not done with celebrity meme coins, and that Fomo presents new possible strategies for his controversial schemes.",
-    "source": "Decrypt",
-    "time": "10/14/2026, 3:41:21 PM",
-    "link": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
+    "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+    "summary": "Leadership at the White House is shifting once again, as Patrick Witt’s tenure as the administration’s top crypto adviser comes to an end.",
+    "source": "The Block",
+    "time": "10/14/2026, 10:30:15 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/14/2026, 4:32:39 PM",
     "link": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
-    "category": "Markets"
-  },
-  {
-    "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
-    "summary": "BNY and Citadel Securities completed the first tokenized U.S. Treasury repo workflow on a major triparty platform.",
-    "source": "The Block",
-    "time": "10/14/2026, 3:21:37 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
     "category": "Markets"
   }
 ]
