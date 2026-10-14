@@ -1,5 +1,13 @@
 [
   {
+    "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+    "summary": "The news could put multiple rate hikes by the Federal Reserve back into play.",
+    "source": "CoinDesk",
+    "time": "10/14/2026, 2:33:56 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+    "category": "Markets"
+  },
+  {
     "title": "Here's how analysts see U.S. inflation influencing bitcoin",
     "summary": "Your day-ahead look for Oct. 14, 2026",
     "source": "CoinDesk",
@@ -32,8 +40,8 @@
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
-    "summary": "A brief run at $84,000 faded within the hour as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print.",
+    "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
+    "summary": "Bond yields and Fed rate hike expectations are jumping higher after the September CPI report was hotter than expected at both the headline and core levels.",
     "source": "CoinDesk",
     "time": "10/14/2026, 11:45:53 AM",
     "link": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
@@ -56,11 +64,51 @@
     "category": "Markets"
   },
   {
-    "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-    "summary": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.",
-    "source": "CoinDesk",
-    "time": "10/14/2026, 7:44:51 AM",
-    "link": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/14/2026, 3:36:56 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "‘Bunker mode’ won’t protect your crypto, critics say ",
+    "summary": "Even if Justin Drake’s prediction that AI could break cryptography proves correct, critics say “bunker mode” is an impractical suggestion that’s unlikely to protect your crypto.",
+    "source": "CoinTelegraph",
+    "time": "10/14/2026, 3:30:00 PM",
+    "link": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
+    "summary": "Remittance-sized crypto transfers from Canada to three Asian countries reached $2.36 billion, while transfers to the Philippines alone rose 28% to $61 million.",
+    "source": "CoinTelegraph",
+    "time": "10/14/2026, 3:00:00 PM",
+    "link": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Qivalis receives EMI authorization from Dutch central bank for euro stablecoin",
+    "summary": "Qivalis said the EMI authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements.",
+    "source": "CoinTelegraph",
+    "time": "10/14/2026, 2:53:41 PM",
+    "link": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion ",
+    "summary": "Payward expects to close the acquisition in 2027, enabling it to expand its traditional banking services into four EU operating markets already served by Saldo Bank.",
+    "source": "CoinTelegraph",
+    "time": "10/14/2026, 2:26:05 PM",
+    "link": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Can crypto users trust the supply chain behind hardware wallets?",
+    "summary": "Ledger hardware wallet implants have renewed scrutiny of the middlemen handling devices before they reach buyers, even through authorized sellers.",
+    "source": "CoinTelegraph",
+    "time": "10/14/2026, 1:59:42 PM",
+    "link": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -80,51 +128,27 @@
     "category": "Markets"
   },
   {
-    "title": "Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case ",
-    "summary": "Should US high court justices grant review of the case, they could release a decision as early as June 2027.",
-    "source": "CoinTelegraph",
-    "time": "10/14/2026, 12:29:47 PM",
-    "link": "https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
+    "summary": "European electronics chain MediaMarkt Saturn has also halted Ledger sales after a customer in Germany reported finding an implant.",
+    "source": "Decrypt",
+    "time": "10/14/2026, 3:47:44 PM",
+    "link": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author ",
-    "summary": "Saifedean Ammous argues that Bitcoin already functions as money when held as a store of value; expects it will become larger and less volatile than gold as it matures.",
-    "source": "CoinTelegraph",
-    "time": "10/14/2026, 12:25:53 PM",
-    "link": "https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
+    "summary": "Sahil Arora says he's not done with celebrity meme coins, and that Fomo presents new possible strategies for his controversial schemes.",
+    "source": "Decrypt",
+    "time": "10/14/2026, 3:41:21 PM",
+    "link": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
     "category": "Markets"
   },
   {
-    "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE ",
-    "summary": "Standard Chartered expanded its spot crypto trading services to professional investors in the UAE region, with plans to offer access to more market participants.",
-    "source": "CoinTelegraph",
-    "time": "10/14/2026, 12:07:03 PM",
-    "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/14/2026, 7:35:52 AM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Starknet introduces wallet privacy feature for DeFi activity",
-    "summary": "Starknet’s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
-    "source": "CoinTelegraph",
-    "time": "10/14/2026, 7:32:14 AM",
-    "link": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
-    "summary": "New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.",
-    "source": "CoinTelegraph",
-    "time": "10/14/2026, 7:30:10 AM",
-    "link": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Morning Minute: Move Over, Saylor, There’s a New Top Buyer in Town",
+    "summary": "With Strategy's preferred stock STRC closing in on $100 par, Saylor might not be the number two buyer for long...",
+    "source": "Decrypt",
+    "time": "10/14/2026, 2:11:35 PM",
+    "link": "https://decrypt.co/380920/morning-minute-move-over-saylor-theres-a-new-top-buyer-in-town",
     "category": "Markets"
   },
   {
@@ -168,27 +192,43 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-    "summary": "A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million.",
-    "source": "Decrypt",
-    "time": "10/13/2026, 9:38:12 PM",
-    "link": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
+    "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
+    "summary": "BNY and Citadel Securities completed the first tokenized U.S. Treasury repo workflow on a major triparty platform.",
+    "source": "The Block",
+    "time": "10/14/2026, 3:21:37 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
     "category": "Markets"
   },
   {
-    "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
-    "summary": "The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC.",
-    "source": "Decrypt",
-    "time": "10/13/2026, 8:15:05 PM",
-    "link": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+    "title": "Strategy’s preferred stock financing may cost it bitcoin, K33 argues",
+    "summary": "K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares.",
+    "source": "The Block",
+    "time": "10/14/2026, 3:20:46 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543",
     "category": "Markets"
   },
   {
-    "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
-    "summary": "Palantir CTO Shyam Sankar says many AI researchers have taken up smoking to signal their faith in AI.",
-    "source": "Decrypt",
-    "time": "10/13/2026, 7:37:46 PM",
-    "link": "https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer",
+    "title": "DriveWealth to use Ripple’s RLUSD for stablecoin settlement, cross-border payments",
+    "summary": "DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.",
+    "source": "The Block",
+    "time": "10/14/2026, 3:00:00 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+    "category": "Markets"
+  },
+  {
+    "title": "Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states",
+    "summary": "Polygon Labs completed its Coinme acquisition, bringing 37 state money transmitter licenses into its stablecoin payments infrastructure.",
+    "source": "The Block",
+    "time": "10/14/2026, 3:00:00 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
+    "category": "Markets"
+  },
+  {
+    "title": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
+    "summary": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.",
+    "source": "The Block",
+    "time": "10/14/2026, 2:00:00 PM",
+    "link": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
     "category": "Markets"
   },
   {
@@ -213,46 +253,6 @@
     "source": "The Block",
     "time": "10/13/2026, 6:00:00 PM",
     "link": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
-    "category": "Markets"
-  },
-  {
-    "title": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
-    "summary": "Interactive Brokers now lets eligible clients stake ETH through its Client Portal, with zerohash providing the service.",
-    "source": "The Block",
-    "time": "10/13/2026, 5:24:14 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
-    "category": "Markets"
-  },
-  {
-    "title": "DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index",
-    "summary": "DRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data.",
-    "source": "The Block",
-    "time": "10/13/2026, 5:00:29 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
-    "category": "Markets"
-  },
-  {
-    "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
-    "summary": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales.",
-    "source": "The Block",
-    "time": "10/13/2026, 4:45:08 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
-    "category": "Markets"
-  },
-  {
-    "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-    "summary": "Strive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA.",
-    "source": "The Block",
-    "time": "10/13/2026, 3:42:25 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
-    "category": "Markets"
-  },
-  {
-    "title": "Binance to shut down mining pool, cloud mining and related services",
-    "summary": "Binance said it will shut down its mining pool, cloud mining, and Pool Savings services on Nov. 10.",
-    "source": "The Block",
-    "time": "10/13/2026, 1:40:56 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410",
     "category": "Markets"
   }
 ]
