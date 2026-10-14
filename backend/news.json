@@ -1,5 +1,21 @@
 [
   {
+    "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+    "summary": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.",
+    "source": "CoinDesk",
+    "time": "10/14/2026, 7:44:51 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+    "category": "Markets"
+  },
+  {
+    "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+    "summary": "The integration will let software pay for online services using XRP and RLUSD, while questions remain about how much real economic activity the transactions represent.",
+    "source": "CoinDesk",
+    "time": "10/14/2026, 7:24:12 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+    "category": "Markets"
+  },
+  {
     "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
     "summary": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat.",
     "source": "CoinDesk",
@@ -45,22 +61,6 @@
     "source": "CoinDesk",
     "time": "10/13/2026, 5:52:09 PM",
     "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
-    "category": "Markets"
-  },
-  {
-    "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
-    "summary": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of \"wrench attacks\" spreading in the country.",
-    "source": "CoinDesk",
-    "time": "10/13/2026, 5:24:52 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-    "category": "Markets"
-  },
-  {
-    "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
-    "summary": "The country’s regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses.",
-    "source": "CoinDesk",
-    "time": "10/13/2026, 1:58:04 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
     "category": "Markets"
   },
   {
