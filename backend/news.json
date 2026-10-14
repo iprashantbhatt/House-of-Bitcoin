@@ -1,5 +1,21 @@
 [
   {
+    "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+    "summary": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat.",
+    "source": "CoinDesk",
+    "time": "10/14/2026, 6:11:16 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+    "summary": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday’s U.S. inflation data.",
+    "source": "CoinDesk",
+    "time": "10/14/2026, 5:50:54 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+    "category": "Markets"
+  },
+  {
     "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
     "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies.",
     "source": "CoinDesk",
@@ -48,19 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-    "summary": "The $911 billion Pittsburgh-based asset manager is teaming up with Prometheum to bring blockchain-based share classes of its funds to traditional brokerage accounts.",
-    "source": "CoinDesk",
-    "time": "10/13/2026, 1:56:04 PM",
-    "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/14/2026, 7:35:52 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
-    "summary": "Your day-ahead look for Oct. 13, 2026",
-    "source": "CoinDesk",
-    "time": "10/13/2026, 1:26:45 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
+    "title": "Starknet introduces wallet privacy feature for DeFi activity",
+    "summary": "Starknet’s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
+    "source": "CoinTelegraph",
+    "time": "10/14/2026, 7:32:14 AM",
+    "link": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+    "summary": "New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.",
+    "source": "CoinTelegraph",
+    "time": "10/14/2026, 7:30:10 AM",
+    "link": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -88,14 +112,6 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/13/2026, 9:33:57 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
     "summary": "CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor’s list of authorized entities starting Jan. 1.",
     "source": "CoinTelegraph",
@@ -109,22 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/13/2026, 6:51:25 PM",
     "link": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11% ",
-    "summary": "Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.",
-    "source": "CoinTelegraph",
-    "time": "10/13/2026, 5:57:55 PM",
-    "link": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
-    "summary": "Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea’s tech-stock rout.",
-    "source": "CoinTelegraph",
-    "time": "10/13/2026, 5:27:32 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
