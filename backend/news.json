@@ -1,5 +1,13 @@
 [
   {
+    "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+    "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies.",
+    "source": "CoinDesk",
+    "time": "10/14/2026, 3:00:00 AM",
+    "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+    "category": "Markets"
+  },
+  {
     "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
     "summary": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
     "source": "CoinDesk",
@@ -56,11 +64,11 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-    "summary": "Investors are positioning ahead of today's bank earnings reports and Wednesday’s U.S. inflation data.",
-    "source": "CoinDesk",
-    "time": "10/13/2026, 1:06:39 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+    "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’ ",
+    "summary": "Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.",
+    "source": "CoinTelegraph",
+    "time": "10/14/2026, 4:19:56 AM",
+    "link": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -117,14 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/13/2026, 5:27:32 PM",
     "link": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus ",
-    "summary": "Anthropic warned that rogue “AI worms” are months away from the ability to self-replicate and autonomously infect user devices such as home appliances and other internet-connected devices.",
-    "source": "CoinTelegraph",
-    "time": "10/13/2026, 3:55:09 PM",
-    "link": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,14 @@
     "category": "Markets"
   },
   {
+    "title": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration",
+    "summary": "Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration.",
+    "source": "The Block",
+    "time": "10/14/2026, 4:49:34 AM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+    "category": "Markets"
+  },
+  {
     "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
     "summary": "Developers can now build XRPL wallets into apps via Privy, with support for XRP, RLUSD, AI agent payments and x402.",
     "source": "The Block",
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/13/2026, 1:38:19 PM",
     "link": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
-    "category": "Markets"
-  },
-  {
-    "title": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
-    "summary": "The executive cited improved depth, 24/7 trading and weekend price discovery as reasons why the opportunities have become more relevant.",
-    "source": "The Block",
-    "time": "10/13/2026, 7:44:14 AM",
-    "link": "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389",
     "category": "Markets"
   }
 ]
