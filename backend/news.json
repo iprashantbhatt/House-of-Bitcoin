@@ -1,5 +1,21 @@
 [
   {
+    "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
+    "summary": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
+    "source": "CoinDesk",
+    "time": "10/14/2026, 10:48:11 AM",
+    "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+    "category": "Markets"
+  },
+  {
+    "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+    "summary": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets.",
+    "source": "CoinDesk",
+    "time": "10/14/2026, 10:10:07 AM",
+    "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+    "category": "Markets"
+  },
+  {
     "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
     "summary": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.",
     "source": "CoinDesk",
@@ -45,22 +61,6 @@
     "source": "CoinDesk",
     "time": "10/14/2026, 1:23:05 AM",
     "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
-    "category": "Markets"
-  },
-  {
-    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-    "summary": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing.",
-    "source": "CoinDesk",
-    "time": "10/13/2026, 11:52:00 PM",
-    "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
-    "summary": "MNX is offering a different way to trade the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek.",
-    "source": "CoinDesk",
-    "time": "10/13/2026, 5:52:09 PM",
-    "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
     "category": "Markets"
   },
   {
@@ -128,6 +128,14 @@
     "category": "Markets"
   },
   {
+    "title": "BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives",
+    "summary": "The claim challenges 1,053 loss-making perpetual swap trades from 2018 to 2022 and also accuses the now-closed exchange of deceit.",
+    "source": "Decrypt",
+    "time": "10/14/2026, 11:54:52 AM",
+    "link": "https://decrypt.co/380904/bitmex-sued-in-uk-for-return-of-27m-in-bitcoin-over-unlicensed-derivatives",
+    "category": "Markets"
+  },
+  {
     "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
     "summary": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
     "source": "Decrypt",
@@ -181,14 +189,6 @@
     "source": "Decrypt",
     "time": "10/13/2026, 6:46:05 PM",
     "link": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
-    "category": "Markets"
-  },
-  {
-    "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
-    "summary": "Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases.",
-    "source": "Decrypt",
-    "time": "10/13/2026, 6:14:50 PM",
-    "link": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
     "category": "Markets"
   },
   {
