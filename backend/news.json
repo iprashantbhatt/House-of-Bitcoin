@@ -1,7 +1,47 @@
 [
   {
-    "title": "Live updates: Bitcoin back under $81,000 as AI selloff worsens",
-    "summary": "September inflation came in above forecasts and the selloff in AI stocks picked up speed, dragging bitcoin back toward last week’s low.",
+    "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+    "summary": "",
+    "source": "CoinDesk",
+    "time": "10/15/2026, 5:00:00 PM",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+    "category": "Markets"
+  },
+  {
+    "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
+    "summary": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers, then went after victims again with fake recovery offers.",
+    "source": "CoinDesk",
+    "time": "10/15/2026, 2:35:24 PM",
+    "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
+    "category": "Markets"
+  },
+  {
+    "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
+    "summary": "Ledger’s Atom will run apps like WhatsApp and Instragram and let users switch between smartphone functions and a protected mode for managing digital assets.",
+    "source": "CoinDesk",
+    "time": "10/15/2026, 2:00:00 PM",
+    "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+    "summary": "Your day-ahead look for Oct. 15, 2026",
+    "source": "CoinDesk",
+    "time": "10/15/2026, 1:15:00 PM",
+    "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+    "category": "Markets"
+  },
+  {
+    "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
+    "summary": "Bitcoin fell to just above $80,000 as South Korea’s Kospi plunged 8%, while the CoinDesk 80 fell 2.2% and all but six CoinDesk 100 members declined.",
+    "source": "CoinDesk",
+    "time": "10/15/2026, 12:52:11 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
+    "category": "Markets"
+  },
+  {
+    "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
+    "summary": "Stocks have also turned positive after big early losses, helped by sharply lower bond yields.",
     "source": "CoinDesk",
     "time": "10/15/2026, 12:16:15 PM",
     "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
@@ -24,43 +64,35 @@
     "category": "Markets"
   },
   {
-    "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
-    "summary": "Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence.",
-    "source": "CoinDesk",
-    "time": "10/15/2026, 11:20:57 AM",
-    "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
+    "title": "Mastercard brings stablecoin balances into traditional banking and card payments ",
+    "summary": "The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 5:46:05 PM",
+    "link": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
-    "summary": "BlackRock's CEO says \"a moratorium of some sort\" on data center buildouts would put the U.S. in a recession.",
-    "source": "CoinDesk",
-    "time": "10/15/2026, 8:17:58 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
+    "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+    "summary": "BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 5:10:44 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-    "summary": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.",
-    "source": "CoinDesk",
-    "time": "10/15/2026, 6:25:15 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+    "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+    "summary": "Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 4:22:43 PM",
+    "link": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
-    "summary": "Computing power directed at Binance Pool has fallen from 26 EH/s in December to about 9 EH/s. Its remaining miners must choose another provider before a Nov. 10 cutoff.",
-    "source": "CoinDesk",
-    "time": "10/15/2026, 6:13:56 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-    "summary": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.",
-    "source": "CoinDesk",
-    "time": "10/15/2026, 5:57:45 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+    "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
+    "summary": "The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation.",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 4:16:55 PM",
+    "link": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -96,35 +128,19 @@
     "category": "Markets"
   },
   {
-    "title": "White House crypto council chief Patrick Witt steps down ",
-    "summary": "Witt’s departure leaves a leadership gap at the White House Crypto Council and marks the fourth high-profile exit from the advisory group.",
-    "source": "CoinTelegraph",
-    "time": "10/15/2026, 12:41:09 PM",
-    "link": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
+    "summary": "Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.",
+    "source": "Decrypt",
+    "time": "10/15/2026, 5:20:41 PM",
+    "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
     "category": "Markets"
   },
   {
-    "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
-    "summary": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.",
-    "source": "CoinTelegraph",
-    "time": "10/15/2026, 12:22:00 PM",
-    "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B ",
-    "summary": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter’s total losses, according to Hacken.",
-    "source": "CoinTelegraph",
-    "time": "10/15/2026, 12:00:00 PM",
-    "link": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
-    "summary": "Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday.",
-    "source": "CoinTelegraph",
-    "time": "10/15/2026, 11:48:07 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+    "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
+    "source": "Decrypt",
+    "time": "10/15/2026, 4:27:18 PM",
+    "link": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
     "category": "Markets"
   },
   {
@@ -176,19 +192,35 @@
     "category": "Markets"
   },
   {
-    "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
-    "summary": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
-    "source": "Decrypt",
-    "time": "10/14/2026, 11:16:03 PM",
-    "link": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+    "title": "DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings",
+    "summary": "DeFi Development is raising the dividend rate on its CHAD preferred stock to 14% from 13% as it taps CHAD sales to grow its Solana treasury.",
+    "source": "The Block",
+    "time": "10/15/2026, 5:48:32 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694",
     "category": "Markets"
   },
   {
-    "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-    "summary": "A new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
-    "source": "Decrypt",
-    "time": "10/14/2026, 10:16:05 PM",
-    "link": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+    "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",
+    "summary": "Ripple Prime has added RWA perpetual swaps tied to equities, ETFs, metals, energy and currencies, with 24/7 trading and settlement.",
+    "source": "The Block",
+    "time": "10/15/2026, 4:43:35 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
+    "category": "Markets"
+  },
+  {
+    "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
+    "summary": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
+    "source": "The Block",
+    "time": "10/15/2026, 4:26:53 PM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitwise CIO argues bitcoin will benefit whether AI booms or busts",
+    "summary": "Bitwise CIO Matt Hougan predicts an AI bubble collapse would prompt government bailouts and eventually fuel a bitcoin rally.",
+    "source": "The Block",
+    "time": "10/15/2026, 4:01:06 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
     "category": "Markets"
   },
   {
@@ -221,38 +253,6 @@
     "source": "The Block",
     "time": "10/15/2026, 6:38:48 AM",
     "link": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
-    "category": "Markets"
-  },
-  {
-    "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
-    "summary": "Leadership at the White House is shifting once again, as Patrick Witt’s tenure as the administration’s top crypto adviser comes to an end.",
-    "source": "The Block",
-    "time": "10/14/2026, 10:30:15 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
-    "category": "Markets"
-  },
-  {
-    "title": "Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month",
-    "summary": "SkyAI's SOL treasury fell 70% in under a month, with 400,000 SOL unexplained. Bastion Trading won't tender at $3 a share and wants $3.50.",
-    "source": "The Block",
-    "time": "10/14/2026, 8:25:54 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
-    "category": "Markets"
-  },
-  {
-    "title": "‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns",
-    "summary": "As insider trading concerns are accumulating, one of the biggest platforms said its markets make it easier to suss out bad actors.",
-    "source": "The Block",
-    "time": "10/14/2026, 7:47:18 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
-    "summary": "Bitcoin dropped below $82,000 after September's core CPI beat forecasts as analysts weigh price targets and an October hike.",
-    "source": "The Block",
-    "time": "10/14/2026, 6:51:54 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
     "category": "Markets"
   }
 ]
