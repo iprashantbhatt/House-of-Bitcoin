@@ -64,6 +64,22 @@
     "category": "Markets"
   },
   {
+    "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+    "summary": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill.",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 7:14:45 PM",
+    "link": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Sweden revisits digital krona as ECB advances digital euro plans ",
+    "summary": "Sweden’s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments.",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 6:49:59 PM",
+    "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
     "title": "Mastercard brings stablecoin balances into traditional banking and card payments ",
     "summary": "The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.",
     "source": "CoinTelegraph",
@@ -112,19 +128,19 @@
     "category": "Markets"
   },
   {
-    "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest ",
-    "summary": "The HEX token’s price declined by 30% following local media reports of the Istanbul arrest of founder Richard Schueler, nearly two years after Interpol issued a “Red Notice.”",
-    "source": "CoinTelegraph",
-    "time": "10/15/2026, 2:12:57 PM",
-    "link": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code",
+    "summary": "Google DeepMind's first internal audit of AI-driven research finds no measurable speedup in AI progress.",
+    "source": "Decrypt",
+    "time": "10/15/2026, 7:36:05 PM",
+    "link": "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code",
     "category": "Markets"
   },
   {
-    "title": "Ledger’s answer to wallet tampering costs $849 and ships next year",
-    "summary": "Ledger’s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia.",
-    "source": "CoinTelegraph",
-    "time": "10/15/2026, 2:00:00 PM",
-    "link": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
+    "summary": "The first major integration since Mastercard’s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and stablecoins through a single API, with agentic commerce support planned.",
+    "source": "Decrypt",
+    "time": "10/15/2026, 6:28:50 PM",
+    "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
     "category": "Markets"
   },
   {
@@ -176,19 +192,19 @@
     "category": "Markets"
   },
   {
-    "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
-    "summary": "The scammers also ran a fake recovery service, contacting victims weeks later with promises to get their stolen crypto back.",
-    "source": "Decrypt",
-    "time": "10/15/2026, 12:01:21 PM",
-    "link": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
+    "title": "CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat",
+    "summary": "CleanSpark is ending monthly mining reports, while BitFuFu faces uncertainty over its Ethiopia deal.",
+    "source": "The Block",
+    "time": "10/15/2026, 6:06:00 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686",
     "category": "Markets"
   },
   {
-    "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
-    "summary": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
-    "source": "Decrypt",
-    "time": "10/14/2026, 11:46:04 PM",
-    "link": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+    "title": "Multiliquid, a settlement platform for tokenized assets, raises $8 million",
+    "summary": "Multiliquid has raised $8 million across its pre-seed and seed rounds, with Polychain leading the seed round.",
+    "source": "The Block",
+    "time": "10/15/2026, 6:00:02 PM",
+    "link": "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693",
     "category": "Markets"
   },
   {
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "10/15/2026, 2:00:00 PM",
     "link": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
-    "category": "Markets"
-  },
-  {
-    "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
-    "summary": "The EBA classified Circle’s USDC as the EU’s first \"significant\" e-money token, with new supervisory responsibilities beginning Nov. 12.",
-    "source": "The Block",
-    "time": "10/15/2026, 1:10:07 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
-    "summary": "Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading.",
-    "source": "The Block",
-    "time": "10/15/2026, 6:38:48 AM",
-    "link": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
     "category": "Markets"
   }
 ]
