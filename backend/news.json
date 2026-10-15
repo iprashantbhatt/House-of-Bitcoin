@@ -48,8 +48,8 @@
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
-    "summary": "Stocks have also turned positive after big early losses, helped by sharply lower bond yields.",
+    "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
+    "summary": "Stocks also turned positive after big early losses, helped by sharply lower bond yields.",
     "source": "CoinDesk",
     "time": "10/15/2026, 12:16:15 PM",
     "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
@@ -61,6 +61,14 @@
     "source": "CoinDesk",
     "time": "10/15/2026, 12:00:56 PM",
     "link": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+    "category": "Markets"
+  },
+  {
+    "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+    "summary": "The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance’s 2023 settlement with US authorities.",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 10:21:11 PM",
+    "link": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -120,11 +128,19 @@
     "category": "Markets"
   },
   {
-    "title": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
-    "summary": "The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the “anti-crypto army”?",
-    "source": "CoinTelegraph",
-    "time": "10/15/2026, 3:30:00 PM",
-    "link": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+    "summary": "Google's Willow chip cut errors 40x on the scarce “magic states” quantum computers burn through, a step toward smaller, useful machines—and toward ones that could threaten today's encryption.",
+    "source": "Decrypt",
+    "time": "10/15/2026, 11:46:04 PM",
+    "link": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+    "category": "Markets"
+  },
+  {
+    "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+    "summary": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.",
+    "source": "Decrypt",
+    "time": "10/15/2026, 10:31:04 PM",
+    "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
     "category": "Markets"
   },
   {
@@ -176,19 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Ledger Announces Atom Touchscreen Android Device",
-    "summary": "Ledger says the Android-based Atom will carry anti-tamper protections and be sold only on its site, as it probes tampered resold wallets.",
-    "source": "Decrypt",
-    "time": "10/15/2026, 3:32:21 PM",
-    "link": "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
-    "category": "Markets"
-  },
-  {
-    "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
-    "summary": "Experts blame a build up in leverage for Zcash's drop in value, as well as growing concerns about AI breaking crypto encryption.",
-    "source": "Decrypt",
-    "time": "10/15/2026, 2:42:30 PM",
-    "link": "https://decrypt.co/381015/zcash-tanks-double-digits-after-meteoric-rise-sees-leverage-build-up",
+    "title": "Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users",
+    "summary": "Balaji Srinivasan's Network School acquired Farcaster from Neynar. Users must sign a \"social smart contract\" or drop to read-only access.",
+    "source": "The Block",
+    "time": "10/15/2026, 11:41:14 PM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/15/2026, 3:00:00 PM",
     "link": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656",
-    "category": "Markets"
-  },
-  {
-    "title": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets",
-    "summary": "Ledger unveiled Atom, an Android-based security device with Solana Mobile integration, AI-agent controls, and hardware-tampering protections.",
-    "source": "The Block",
-    "time": "10/15/2026, 2:00:00 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
     "category": "Markets"
   }
 ]
