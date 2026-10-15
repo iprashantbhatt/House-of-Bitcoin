@@ -1,5 +1,29 @@
 [
   {
+    "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+    "summary": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.",
+    "source": "CoinDesk",
+    "time": "10/15/2026, 6:25:15 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+    "summary": "Computing power directed at Binance Pool has fallen from 26 EH/s in December to about 9 EH/s. Its remaining miners must choose another provider before a Nov. 10 cutoff.",
+    "source": "CoinDesk",
+    "time": "10/15/2026, 6:13:56 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+    "summary": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.",
+    "source": "CoinDesk",
+    "time": "10/15/2026, 5:57:45 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+    "category": "Markets"
+  },
+  {
     "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
     "summary": "CEO Tarek Mansour said he feels \"pretty good\" about the pending outcome of the current legal fight over who has the right to regulate prediction markets.",
     "source": "CoinDesk",
@@ -40,27 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-    "summary": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE.",
-    "source": "CoinDesk",
-    "time": "10/14/2026, 4:08:43 PM",
-    "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+    "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+    "summary": "South Korea is proposing tougher cybersecurity assessments after a review identified security deficiencies at 130 financial firms.",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 7:52:21 AM",
+    "link": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
-    "summary": "Congress must decide how the U.S. can build the infrastructure its booming digital economy requires while protecting the communities that host it.",
-    "source": "CoinDesk",
-    "time": "10/14/2026, 3:51:12 PM",
-    "link": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 7:49:17 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-    "summary": "Payward agreed to buy Lithuania’s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending.",
-    "source": "CoinDesk",
-    "time": "10/14/2026, 3:07:45 PM",
-    "link": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+    "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+    "summary": "The consultation follows Parliament’s passage of digital asset legislation in April, with Australia’s securities regulator now proposing capital, custody and trading standards for crypto platforms.",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 7:00:40 AM",
+    "link": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -96,35 +120,11 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/14/2026, 9:13:24 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA ",
     "summary": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a “significant e-money token.“",
     "source": "CoinTelegraph",
     "time": "10/14/2026, 9:03:52 PM",
     "link": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "US authorities dismantle crypto scam network that stole tens of millions ",
-    "summary": "Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites linked to investment scams that targeted Russian-speaking Americans.",
-    "source": "CoinTelegraph",
-    "time": "10/14/2026, 7:56:45 PM",
-    "link": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "OCC report finds debanking efforts tied to crypto activities ",
-    "summary": "The report from the US banking regulator did not include specific examples of debanking related to crypto, but mentioned it alongside ties to oil, gas and firearms.",
-    "source": "CoinTelegraph",
-    "time": "10/14/2026, 7:03:20 PM",
-    "link": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,14 @@
     "category": "Markets"
   },
   {
+    "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
+    "summary": "Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading.",
+    "source": "The Block",
+    "time": "10/15/2026, 6:38:48 AM",
+    "link": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
+    "category": "Markets"
+  },
+  {
     "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
     "summary": "Leadership at the White House is shifting once again, as Patrick Witt’s tenure as the administration’s top crypto adviser comes to an end.",
     "source": "The Block",
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/14/2026, 5:00:00 PM",
     "link": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
-    "category": "Markets"
-  },
-  {
-    "title": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
-    "summary": "Strive acquired 2,822 bitcoin for $235 million following $369.2 million in gross proceeds from traditional warrant exercises.",
-    "source": "The Block",
-    "time": "10/14/2026, 4:32:39 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
     "category": "Markets"
   }
 ]
