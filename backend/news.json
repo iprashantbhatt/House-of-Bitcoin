@@ -1,5 +1,37 @@
 [
   {
+    "title": "Live updates: Bitcoin back under $81,000 as AI selloff worsens",
+    "summary": "September inflation came in above forecasts and the selloff in AI stocks picked up speed, dragging bitcoin back toward last week’s low.",
+    "source": "CoinDesk",
+    "time": "10/15/2026, 12:16:15 PM",
+    "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
+    "category": "Markets"
+  },
+  {
+    "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
+    "summary": "Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself.",
+    "source": "CoinDesk",
+    "time": "10/15/2026, 12:00:56 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+    "category": "Markets"
+  },
+  {
+    "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+    "summary": "The country’s regulator, ASIC, has proposed tougher rules to protect users’ digital assets, crypto trading and to safeguard the country’s financial stability.",
+    "source": "CoinDesk",
+    "time": "10/15/2026, 11:53:37 AM",
+    "link": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+    "category": "Markets"
+  },
+  {
+    "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+    "summary": "Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence.",
+    "source": "CoinDesk",
+    "time": "10/15/2026, 11:20:57 AM",
+    "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
+    "category": "Markets"
+  },
+  {
     "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
     "summary": "BlackRock's CEO says \"a moratorium of some sort\" on data center buildouts would put the U.S. in a recession.",
     "source": "CoinDesk",
@@ -32,35 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
-    "summary": "CEO Tarek Mansour said he feels \"pretty good\" about the pending outcome of the current legal fight over who has the right to regulate prediction markets.",
-    "source": "CoinDesk",
-    "time": "10/14/2026, 6:34:53 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
+    "title": "White House crypto council chief Patrick Witt steps down ",
+    "summary": "Witt’s departure leaves a leadership gap at the White House Crypto Council and marks the fourth high-profile exit from the advisory group.",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 12:41:09 PM",
+    "link": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
-    "summary": "U.S.-linked wallets account for just over 88% of tracked AI model payments, dwarfing China’s 0.1% share, according to new Chainalysis research.",
-    "source": "CoinDesk",
-    "time": "10/14/2026, 5:35:36 PM",
-    "link": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+    "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
+    "summary": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 12:22:00 PM",
+    "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
-    "summary": "",
-    "source": "CoinDesk",
-    "time": "10/14/2026, 5:05:15 PM",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
-    "category": "Markets"
-  },
-  {
-    "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
-    "summary": "The blockchain and AI developer platform has completed two years of audits and wants its shares available onchain from the first day of trading.",
-    "source": "CoinDesk",
-    "time": "10/14/2026, 4:49:32 PM",
-    "link": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+    "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B ",
+    "summary": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter’s total losses, according to Hacken.",
+    "source": "CoinTelegraph",
+    "time": "10/15/2026, 12:00:00 PM",
+    "link": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -104,27 +128,19 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/15/2026, 7:49:17 AM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
+    "summary": "Odds of an October Fed hike have climbed to 29% from 18% a week ago, and analysts see Bitcoin range-bound until the picture clears.",
+    "source": "Decrypt",
+    "time": "10/15/2026, 1:48:42 PM",
+    "link": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data",
     "category": "Markets"
   },
   {
-    "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
-    "summary": "The consultation follows Parliament’s passage of digital asset legislation in April, with Australia’s securities regulator now proposing capital, custody and trading standards for crypto platforms.",
-    "source": "CoinTelegraph",
-    "time": "10/15/2026, 7:00:40 AM",
-    "link": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July  ",
-    "summary": "TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies.",
-    "source": "CoinTelegraph",
-    "time": "10/15/2026, 5:29:22 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
+    "summary": "The scammers also ran a fake recovery service, contacting victims weeks later with promises to get their stolen crypto back.",
+    "source": "Decrypt",
+    "time": "10/15/2026, 12:01:21 PM",
+    "link": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
     "category": "Markets"
   },
   {
@@ -176,19 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now",
-    "summary": "In a detailed technical post, the exchange argued Bitcoin’s multi-year migration to quantum-resistant cryptography must begin before any “Q-Day,” laying out requirements spanning block space, custody and dormant coins.",
-    "source": "Decrypt",
-    "time": "10/14/2026, 6:15:19 PM",
-    "link": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table",
-    "summary": "September CPI hit 3.7%, above forecasts, sending Treasury yields higher and dragging crypto down with stocks.",
-    "source": "Decrypt",
-    "time": "10/14/2026, 4:51:44 PM",
-    "link": "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds",
+    "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
+    "summary": "The EBA classified Circle’s USDC as the EU’s first \"significant\" e-money token, with new supervisory responsibilities beginning Nov. 12.",
+    "source": "The Block",
+    "time": "10/15/2026, 1:10:07 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/14/2026, 5:47:18 PM",
     "link": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
-    "category": "Markets"
-  },
-  {
-    "title": "StarkWare launches OffMarket to let Polymarket users trade more privately",
-    "summary": "StarkWare has opened OffMarket to the public, allowing Polymarket users to trade without publicly linking positions to their accounts.",
-    "source": "The Block",
-    "time": "10/14/2026, 5:00:00 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
     "category": "Markets"
   }
 ]
