@@ -1,5 +1,29 @@
 [
   {
+    "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+    "summary": "XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders.",
+    "source": "CoinDesk",
+    "time": "10/16/2026, 7:53:58 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+    "category": "Markets"
+  },
+  {
+    "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+    "summary": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.",
+    "source": "CoinDesk",
+    "time": "10/16/2026, 6:29:19 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+    "summary": "Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April.",
+    "source": "CoinDesk",
+    "time": "10/16/2026, 6:14:22 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+    "category": "Markets"
+  },
+  {
     "title": "At the White House, crypto policy vacancy looms large",
     "summary": "The departure of President Donald Trump's crypto adviser, Patrick Witt, leaves the digital assets office vacant and its policy aims uncertain.",
     "source": "CoinDesk",
@@ -40,27 +64,11 @@
     "category": "Markets"
   },
   {
-    "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
-    "summary": "Bitcoin fell to just above $80,000 as South Korea’s Kospi plunged 8%, while the CoinDesk 80 fell 2.2% and all but six CoinDesk 100 members declined.",
-    "source": "CoinDesk",
-    "time": "10/15/2026, 12:52:11 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
-    "category": "Markets"
-  },
-  {
-    "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
-    "summary": "Stocks also turned positive after big early losses, helped by sharply lower bond yields.",
-    "source": "CoinDesk",
-    "time": "10/15/2026, 12:16:15 PM",
-    "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
-    "category": "Markets"
-  },
-  {
-    "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
-    "summary": "Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself.",
-    "source": "CoinDesk",
-    "time": "10/15/2026, 12:00:56 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+    "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans  ",
+    "summary": "Network School founder Balaji Srinivasan wants to turn Farcaster into a haven for well-mannered techno-optimists. He had to do a bit of housekeeping first.",
+    "source": "CoinTelegraph",
+    "time": "10/16/2026, 7:16:11 AM",
+    "link": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -117,14 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/15/2026, 6:49:59 PM",
     "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Mastercard brings stablecoin balances into traditional banking and card payments ",
-    "summary": "The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.",
-    "source": "CoinTelegraph",
-    "time": "10/15/2026, 5:46:05 PM",
-    "link": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,14 @@
     "category": "Markets"
   },
   {
+    "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
+    "summary": "The court noted that Gemini voluntarily settled three weeks before trial and that policy changes do not warrant reopening the judgment.",
+    "source": "The Block",
+    "time": "10/16/2026, 7:44:05 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+    "category": "Markets"
+  },
+  {
     "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
     "summary": "MSCI's new non-operating company rules could exclude Strategy, Metaplanet and SharpLink. The final list of affected firms is due Nov. 11.",
     "source": "The Block",
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/15/2026, 4:26:53 PM",
     "link": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitwise CIO argues bitcoin will benefit whether AI booms or busts",
-    "summary": "Bitwise CIO Matt Hougan predicts an AI bubble collapse would prompt government bailouts and eventually fuel a bitcoin rally.",
-    "source": "The Block",
-    "time": "10/15/2026, 4:01:06 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
     "category": "Markets"
   }
 ]
