@@ -1,5 +1,13 @@
 [
   {
+    "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+    "summary": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
+    "source": "CoinDesk",
+    "time": "10/16/2026, 10:34:48 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+    "category": "Markets"
+  },
+  {
     "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
     "summary": "XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders.",
     "source": "CoinDesk",
@@ -56,11 +64,19 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
-    "summary": "Your day-ahead look for Oct. 15, 2026",
-    "source": "CoinDesk",
-    "time": "10/15/2026, 1:15:00 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+    "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant ",
+    "summary": "Bitcoin’s market cycle signals tool showed BTC price action copying history, possibly preparing to reclaim a key moving average before testing new highs.",
+    "source": "CoinTelegraph",
+    "time": "10/16/2026, 11:22:13 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge ",
+    "summary": "Europe’s second-largest Bitcoin treasury raised $30 million and increased its Bitcoin holdings by 11% in the first half of 2026, despite reporting a $75 million Bitcoin impairment loss.",
+    "source": "CoinTelegraph",
+    "time": "10/16/2026, 9:59:46 AM",
+    "link": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -112,19 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-    "summary": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.",
-    "source": "CoinTelegraph",
-    "time": "10/16/2026, 12:42:58 AM",
-    "link": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
-    "summary": "The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance’s 2023 settlement with US authorities.",
-    "source": "CoinTelegraph",
-    "time": "10/15/2026, 10:21:11 PM",
-    "link": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
+    "summary": "Hardware wallets keep your crypto keys offline. Learn how devices from Ledger, Trezor and others protect your Bitcoin and Ethereum.",
+    "source": "Decrypt",
+    "time": "10/16/2026, 11:10:48 AM",
+    "link": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
     "category": "Markets"
   },
   {
@@ -184,11 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
-    "summary": "Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.",
-    "source": "Decrypt",
-    "time": "10/15/2026, 5:20:41 PM",
-    "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
+    "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
+    "summary": "The company attributed roughly €67.5 million ($75.9 million) of the loss to an additional bitcoin impairment charge.",
+    "source": "The Block",
+    "time": "10/16/2026, 11:30:21 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/15/2026, 4:43:35 PM",
     "link": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
-    "category": "Markets"
-  },
-  {
-    "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
-    "summary": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
-    "source": "The Block",
-    "time": "10/15/2026, 4:26:53 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
     "category": "Markets"
   }
 ]
