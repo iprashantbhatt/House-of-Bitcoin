@@ -56,8 +56,8 @@
     "category": "Markets"
   },
   {
-    "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
-    "summary": "Fixed income is again catching a bid on worries about the deflating AI bubble.",
+    "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
+    "summary": "A Friday surge in oil prices hit already-shaky equity markets, sending the Nasdaq down more than 2%.",
     "source": "CoinDesk",
     "time": "10/16/2026, 11:48:14 AM",
     "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
@@ -128,6 +128,14 @@
     "category": "Markets"
   },
   {
+    "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
+    "summary": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for public roads, and not due until 2028.",
+    "source": "Decrypt",
+    "time": "10/16/2026, 10:16:04 PM",
+    "link": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+    "category": "Markets"
+  },
+  {
     "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
     "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
     "source": "Decrypt",
@@ -184,11 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
-    "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
-    "source": "Decrypt",
-    "time": "10/16/2026, 2:22:18 PM",
-    "link": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
+    "title": "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen",
+    "summary": "Strive plans fresh funding for bitcoin purchases as TD Cowen sees warrant-related stock pressure easing.",
+    "source": "The Block",
+    "time": "10/16/2026, 10:22:57 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/16/2026, 11:30:21 AM",
     "link": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
-    "category": "Markets"
-  },
-  {
-    "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
-    "summary": "The court noted that Gemini voluntarily settled three weeks before trial and that policy changes do not warrant reopening the judgment.",
-    "source": "The Block",
-    "time": "10/16/2026, 7:44:05 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
     "category": "Markets"
   }
 ]
