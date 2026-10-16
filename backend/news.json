@@ -48,8 +48,8 @@
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
-    "summary": "Crypto bounced a day after bitcoin’s brief drop under $80,000, but investors kept pulling money from ether, SOL and ZEC funds.",
+    "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
+    "summary": "Crypto held to its bounce following bitcoin’s brief drop under $80,000, but investors kept pulling money from ether, SOL and ZEC funds.",
     "source": "CoinDesk",
     "time": "10/16/2026, 11:48:14 AM",
     "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
@@ -61,6 +61,14 @@
     "source": "CoinDesk",
     "time": "10/16/2026, 11:36:21 AM",
     "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+    "category": "Markets"
+  },
+  {
+    "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report ",
+    "summary": "Germany’s largest bank reportedly plans to expand its digital asset custody services to Asian financial centers due to the growth of the digital asset economy.",
+    "source": "CoinTelegraph",
+    "time": "10/16/2026, 3:33:40 PM",
+    "link": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -120,11 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans  ",
-    "summary": "Network School founder Balaji Srinivasan wants to turn Farcaster into a haven for well-mannered techno-optimists. He had to do a bit of housekeeping first.",
-    "source": "CoinTelegraph",
-    "time": "10/16/2026, 7:16:11 AM",
-    "link": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+    "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
+    "source": "Decrypt",
+    "time": "10/16/2026, 2:22:18 PM",
+    "link": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
     "category": "Markets"
   },
   {
@@ -184,11 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
-    "summary": "In a note to investors, Matt Hougan used a “Choose Your Own Adventure” framework to argue that superabundance, an AI bust or a muddle-through economy all ultimately funnel to the same place: Bitcoin higher.",
-    "source": "Decrypt",
-    "time": "10/15/2026, 9:16:04 PM",
-    "link": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
+    "title": "How Ethereum Works",
+    "summary": "The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the same problems in different ways.",
+    "source": "The Block",
+    "time": "10/16/2026, 3:31:07 PM",
+    "link": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/15/2026, 11:41:14 PM",
     "link": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
-    "category": "Markets"
-  },
-  {
-    "title": "CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat",
-    "summary": "CleanSpark is ending monthly mining reports, while BitFuFu faces uncertainty over its Ethiopia deal.",
-    "source": "The Block",
-    "time": "10/15/2026, 6:06:00 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686",
     "category": "Markets"
   }
 ]
