@@ -1,5 +1,13 @@
 [
   {
+    "title": "Big Tech's AI auditors will only see what they're shown",
+    "summary": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center.",
+    "source": "CoinDesk",
+    "time": "10/16/2026, 4:58:22 PM",
+    "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
+    "category": "Markets"
+  },
+  {
     "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
     "summary": "Your day-ahead look for Oct. 16, 2026",
     "source": "CoinDesk",
@@ -48,19 +56,35 @@
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
-    "summary": "Crypto held to its bounce following bitcoin’s brief drop under $80,000, but investors kept pulling money from ether, SOL and ZEC funds.",
+    "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
+    "summary": "Fixed income is again catching a bid on worries about the deflating AI bubble.",
     "source": "CoinDesk",
     "time": "10/16/2026, 11:48:14 AM",
     "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
     "category": "Markets"
   },
   {
-    "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-    "summary": "The crypto exchange already paid up, but a court order and restrictions from its 2025 settlement will not be lifted even though the CFTC said the case should have never been presented.",
-    "source": "CoinDesk",
-    "time": "10/16/2026, 11:36:21 AM",
-    "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+    "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+    "summary": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown’s return to the Senate.",
+    "source": "CoinTelegraph",
+    "time": "10/16/2026, 7:30:09 PM",
+    "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds ",
+    "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires.",
+    "source": "CoinTelegraph",
+    "time": "10/16/2026, 7:21:45 PM",
+    "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading ",
+    "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins.",
+    "source": "CoinTelegraph",
+    "time": "10/16/2026, 5:52:28 PM",
+    "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -104,27 +128,27 @@
     "category": "Markets"
   },
   {
-    "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-    "summary": "Solana Foundation President Lily Liu said registrations quadrupled overnight, exceeding the attendance limit registered with local authorities.",
-    "source": "CoinTelegraph",
-    "time": "10/16/2026, 1:22:47 PM",
-    "link": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
+    "summary": "India's CERT-In says AI agents exceeded their assigned tasks in tests and read confidential records on live Indian systems.",
+    "source": "Decrypt",
+    "time": "10/16/2026, 7:48:06 PM",
+    "link": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
     "category": "Markets"
   },
   {
-    "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-    "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
-    "source": "CoinTelegraph",
-    "time": "10/16/2026, 12:27:18 PM",
-    "link": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
+    "summary": "The judge ruled that a shift in the CFTC’s enforcement priorities and misconduct allegations against its enforcement division weren’t enough to reopen a deal Gemini signed weeks before trial.",
+    "source": "Decrypt",
+    "time": "10/16/2026, 6:36:04 PM",
+    "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant ",
-    "summary": "Bitcoin’s market cycle signals tool showed BTC price action copying history, possibly preparing to reclaim a key moving average before testing new highs.",
-    "source": "CoinTelegraph",
-    "time": "10/16/2026, 11:22:13 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say",
+    "summary": "Technical indicators suggest the bullish trend remains intact, but prediction market traders are sending mix signals.",
+    "source": "Decrypt",
+    "time": "10/16/2026, 6:06:05 PM",
+    "link": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts",
     "category": "Markets"
   },
   {
@@ -168,27 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
-    "summary": "Hardware wallets keep your crypto keys offline. Learn how devices from Ledger, Trezor and others protect your Bitcoin and Ethereum.",
-    "source": "Decrypt",
-    "time": "10/16/2026, 11:10:48 AM",
-    "link": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
-    "category": "Markets"
-  },
-  {
-    "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
-    "summary": "Researchers added hidden text to contact AI agents probing Alibaba’s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure.",
-    "source": "Decrypt",
-    "time": "10/16/2026, 12:16:03 AM",
-    "link": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
-    "category": "Markets"
-  },
-  {
-    "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
-    "summary": "Google's Willow chip cut errors 40x on the scarce “magic states” quantum computers burn through, a step toward smaller, useful machines—and toward ones that could threaten today's encryption.",
-    "source": "Decrypt",
-    "time": "10/15/2026, 11:46:04 PM",
-    "link": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+    "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
+    "summary": "The expanded partnership builds on Marqeta’s work powering Coinbase’s U.S. debit card offering in 2020.",
+    "source": "The Block",
+    "time": "10/16/2026, 7:21:29 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/16/2026, 7:44:05 AM",
     "link": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
-    "category": "Markets"
-  },
-  {
-    "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
-    "summary": "MSCI's new non-operating company rules could exclude Strategy, Metaplanet and SharpLink. The final list of affected firms is due Nov. 11.",
-    "source": "The Block",
-    "time": "10/16/2026, 12:15:56 AM",
-    "link": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
     "category": "Markets"
   }
 ]
