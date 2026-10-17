@@ -1,5 +1,29 @@
 [
   {
+    "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+    "summary": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street.",
+    "source": "CoinDesk",
+    "time": "10/17/2026, 7:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+    "category": "Markets"
+  },
+  {
+    "title": "Citrini sees a tokenization boom. The harder question is who profits",
+    "summary": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue.",
+    "source": "CoinDesk",
+    "time": "10/17/2026, 5:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+    "category": "Markets"
+  },
+  {
+    "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+    "summary": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries.",
+    "source": "CoinDesk",
+    "time": "10/17/2026, 4:00:00 PM",
+    "link": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+    "category": "Markets"
+  },
+  {
     "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
     "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
     "source": "CoinDesk",
@@ -37,30 +61,6 @@
     "source": "CoinDesk",
     "time": "10/16/2026, 1:15:00 PM",
     "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-    "category": "Markets"
-  },
-  {
-    "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-    "summary": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms.",
-    "source": "CoinDesk",
-    "time": "10/16/2026, 12:54:35 PM",
-    "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-    "category": "Markets"
-  },
-  {
-    "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-    "summary": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen.",
-    "source": "CoinDesk",
-    "time": "10/16/2026, 12:52:26 PM",
-    "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-    "category": "Markets"
-  },
-  {
-    "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-    "summary": "Volume in Hyperliquid’s Tesla contract hit $47 million in one hour after Elon Musk’s flying Roadster demo, up from $2.8 million, with U.S. stocks closed.",
-    "source": "CoinDesk",
-    "time": "10/16/2026, 12:48:49 PM",
-    "link": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
     "category": "Markets"
   },
   {
@@ -128,6 +128,30 @@
     "category": "Markets"
   },
   {
+    "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
+    "summary": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total past $46 million—days after the PAC expanded its map to 32 House races.",
+    "source": "Decrypt",
+    "time": "10/17/2026, 7:01:03 PM",
+    "link": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+    "summary": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
+    "source": "Decrypt",
+    "time": "10/17/2026, 6:01:03 PM",
+    "link": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+    "category": "Markets"
+  },
+  {
+    "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+    "summary": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan, with an AI agent built into the operating system instead of bolted on as an app.",
+    "source": "Decrypt",
+    "time": "10/17/2026, 5:01:03 PM",
+    "link": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
+    "category": "Markets"
+  },
+  {
     "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
     "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent.",
     "source": "Decrypt",
@@ -165,30 +189,6 @@
     "source": "Decrypt",
     "time": "10/16/2026, 8:16:04 PM",
     "link": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
-    "category": "Markets"
-  },
-  {
-    "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
-    "summary": "India's CERT-In says AI agents exceeded their assigned tasks in tests and read confidential records on live Indian systems.",
-    "source": "Decrypt",
-    "time": "10/16/2026, 7:48:06 PM",
-    "link": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
-    "category": "Markets"
-  },
-  {
-    "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
-    "summary": "The judge ruled that a shift in the CFTC’s enforcement priorities and misconduct allegations against its enforcement division weren’t enough to reopen a deal Gemini signed weeks before trial.",
-    "source": "Decrypt",
-    "time": "10/16/2026, 6:36:04 PM",
-    "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say",
-    "summary": "Technical indicators suggest the bullish trend remains intact, but prediction market traders are sending mix signals.",
-    "source": "Decrypt",
-    "time": "10/16/2026, 6:06:05 PM",
-    "link": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts",
     "category": "Markets"
   },
   {
