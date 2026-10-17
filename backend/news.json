@@ -1,5 +1,13 @@
 [
   {
+    "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+    "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.",
+    "source": "CoinDesk",
+    "time": "10/17/2026, 8:39:48 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+    "category": "Markets"
+  },
+  {
     "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
     "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
     "source": "CoinDesk",
@@ -56,11 +64,11 @@
     "category": "Markets"
   },
   {
-    "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-    "summary": "Chainalysis says a fraudster who tricked people through fake online jobs became one of the biggest victims of the compromised hardware wallets.",
-    "source": "CoinDesk",
-    "time": "10/16/2026, 12:24:30 PM",
-    "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+    "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+    "summary": "“The digital euro will further stimulate innovation and competition in retail payments,” according to the ECB president.",
+    "source": "CoinTelegraph",
+    "time": "10/17/2026, 10:32:11 AM",
+    "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -117,14 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/16/2026, 4:11:03 PM",
     "link": "https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
-    "summary": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpelès questioning its response.",
-    "source": "CoinTelegraph",
-    "time": "10/16/2026, 3:51:35 PM",
-    "link": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
