@@ -1,5 +1,13 @@
 [
   {
+    "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+    "summary": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on.",
+    "source": "CoinDesk",
+    "time": "10/18/2026, 9:13:32 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+    "category": "Markets"
+  },
+  {
     "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
     "summary": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
     "source": "CoinDesk",
@@ -56,11 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "Big Tech's AI auditors will only see what they're shown",
-    "summary": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center.",
-    "source": "CoinDesk",
-    "time": "10/16/2026, 4:58:22 PM",
-    "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
+    "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+    "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
+    "source": "CoinTelegraph",
+    "time": "10/18/2026, 12:43:12 PM",
+    "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+    "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
+    "source": "CoinTelegraph",
+    "time": "10/18/2026, 11:14:26 AM",
+    "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+    "summary": "The round brings AIsa’s total funding to more than $9 million.",
+    "source": "CoinTelegraph",
+    "time": "10/18/2026, 8:26:53 AM",
+    "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -75,7 +99,7 @@
     "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
     "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.",
     "source": "CoinTelegraph",
-    "time": "10/17/2026, 2:58:03 PM",
+    "time": "10/17/2026, 3:01:00 PM",
     "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
@@ -83,15 +107,15 @@
     "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
     "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
     "source": "CoinTelegraph",
-    "time": "10/17/2026, 12:00:07 PM",
+    "time": "10/17/2026, 12:03:00 PM",
     "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+    "title": "Lagarde says euro-area economy is resilient, digital euro under development",
     "summary": "“The digital euro will further stimulate innovation and competition in retail payments,” according to the ECB president.",
     "source": "CoinTelegraph",
-    "time": "10/17/2026, 10:32:11 AM",
+    "time": "10/17/2026, 10:45:00 AM",
     "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
@@ -99,32 +123,8 @@
     "title": "Bitget to discontinue services for some users in one-off exercise   ",
     "summary": "Bitget says user funds are safe and exchange will continue to operate during the change.",
     "source": "CoinTelegraph",
-    "time": "10/17/2026, 9:26:57 AM",
+    "time": "10/17/2026, 9:28:00 AM",
     "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-    "summary": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown’s return to the Senate.",
-    "source": "CoinTelegraph",
-    "time": "10/16/2026, 7:30:09 PM",
-    "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds ",
-    "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires.",
-    "source": "CoinTelegraph",
-    "time": "10/16/2026, 7:21:45 PM",
-    "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading ",
-    "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins.",
-    "source": "CoinTelegraph",
-    "time": "10/16/2026, 5:52:28 PM",
-    "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
