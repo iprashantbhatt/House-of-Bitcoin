@@ -1,5 +1,45 @@
 [
   {
+    "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
+    "summary": "Your day-ahead look for Oct. 20, 2026",
+    "source": "CoinDesk",
+    "time": "10/20/2026, 1:14:21 PM",
+    "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
+    "category": "Markets"
+  },
+  {
+    "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+    "summary": "The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios.",
+    "source": "CoinDesk",
+    "time": "10/20/2026, 1:10:40 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+    "summary": "Bitcoin slipped 0.5% to around $81,400 even after the biggest daily spot ETF inflow in nearly a month as South Korea's Kospi index fell 3.7% on AI worries.",
+    "source": "CoinDesk",
+    "time": "10/20/2026, 12:22:55 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+    "category": "Markets"
+  },
+  {
+    "title": "Live updates: Market jitters persist as the AI selloff deepens",
+    "summary": "South Korea’s KOSPI fell almost 4%, accompanied by one of the weakest IPO debuts in the country’s history, with data centre company Elice tumbling around 30%.",
+    "source": "CoinDesk",
+    "time": "10/20/2026, 12:14:19 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+    "category": "Markets"
+  },
+  {
+    "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
+    "summary": "Elice’s debut slump added to concerns over AI infrastructure valuations, while rising oil prices compounded market uncertainty.",
+    "source": "CoinDesk",
+    "time": "10/20/2026, 11:32:24 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
+    "category": "Markets"
+  },
+  {
     "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
     "summary": "Fidelity's FBTC and Grayscale's GBTC saw outflows of $83.6 million and $54.9 million, respectively.",
     "source": "CoinDesk",
@@ -24,43 +64,11 @@
     "category": "Markets"
   },
   {
-    "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
-    "summary": "The launch comes as Zerohash bids for a federal trust charter.",
-    "source": "CoinDesk",
-    "time": "10/19/2026, 4:58:40 PM",
-    "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
-    "category": "Markets"
-  },
-  {
-    "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-    "summary": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn’t shared a name, specs or a release date.",
-    "source": "CoinDesk",
-    "time": "10/19/2026, 2:16:58 PM",
-    "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
-    "category": "Markets"
-  },
-  {
-    "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
-    "summary": "Your day-ahead look for Oct. 19, 2026",
-    "source": "CoinDesk",
-    "time": "10/19/2026, 1:15:00 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
-    "category": "Markets"
-  },
-  {
-    "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
-    "summary": "Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount.",
-    "source": "CoinDesk",
-    "time": "10/19/2026, 1:05:54 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-    "summary": "Bitcoin rose 0.8% to around $82,700 as China’s GDP beat estimates and Nasdaq futures rebounded, while the CoinDesk 80 gained 1.3% and DeFi led gains.",
-    "source": "CoinDesk",
-    "time": "10/19/2026, 12:26:33 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
+    "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
+    "summary": "Nine other crypto platforms voluntarily restricted app access in Kazakhstan, prompting the regulator to withdraw its claims against them.",
+    "source": "CoinTelegraph",
+    "time": "10/20/2026, 1:12:21 PM",
+    "link": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -117,14 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/20/2026, 7:14:11 AM",
     "link": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "US bans DeepSeek from civilian agency IT systems",
-    "summary": "The restrictions extend earlier bans within US defense and security agencies, amid concerns that DeepSeek could expose federal information to China.",
-    "source": "CoinTelegraph",
-    "time": "10/20/2026, 6:07:58 AM",
-    "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
