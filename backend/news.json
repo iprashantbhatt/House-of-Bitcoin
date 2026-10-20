@@ -1,5 +1,53 @@
 [
   {
+    "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+    "summary": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach.",
+    "source": "CoinDesk",
+    "time": "10/20/2026, 8:26:29 PM",
+    "link": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+    "category": "Markets"
+  },
+  {
+    "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+    "summary": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma.",
+    "source": "CoinDesk",
+    "time": "10/20/2026, 7:02:31 PM",
+    "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+    "category": "Markets"
+  },
+  {
+    "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+    "summary": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff.",
+    "source": "CoinDesk",
+    "time": "10/20/2026, 4:28:39 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
+    "category": "Markets"
+  },
+  {
+    "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+    "summary": "The court injunctions apply strictly to users within the AIFC and do not extend across the rest of Kazakhstan.",
+    "source": "CoinDesk",
+    "time": "10/20/2026, 3:35:08 PM",
+    "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
+    "category": "Markets"
+  },
+  {
+    "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
+    "summary": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16.",
+    "source": "CoinDesk",
+    "time": "10/20/2026, 2:40:17 PM",
+    "link": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
+    "category": "Markets"
+  },
+  {
+    "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+    "summary": "Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027.",
+    "source": "CoinDesk",
+    "time": "10/20/2026, 1:25:00 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
+    "category": "Markets"
+  },
+  {
     "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
     "summary": "Your day-ahead look for Oct. 20, 2026",
     "source": "CoinDesk",
@@ -16,243 +64,195 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
-    "summary": "Bitcoin slipped 0.5% to around $81,400 even after the biggest daily spot ETF inflow in nearly a month as South Korea's Kospi index fell 3.7% on AI worries.",
-    "source": "CoinDesk",
-    "time": "10/20/2026, 12:22:55 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-    "category": "Markets"
-  },
-  {
-    "title": "Live updates: Market jitters persist as the AI selloff deepens",
-    "summary": "South Korea’s KOSPI fell almost 4%, accompanied by one of the weakest IPO debuts in the country’s history, with data centre company Elice tumbling around 30%.",
-    "source": "CoinDesk",
-    "time": "10/20/2026, 12:14:19 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
-    "category": "Markets"
-  },
-  {
-    "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
-    "summary": "Elice’s debut slump added to concerns over AI infrastructure valuations, while rising oil prices compounded market uncertainty.",
-    "source": "CoinDesk",
-    "time": "10/20/2026, 11:32:24 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-    "summary": "Fidelity's FBTC and Grayscale's GBTC saw outflows of $83.6 million and $54.9 million, respectively.",
-    "source": "CoinDesk",
-    "time": "10/20/2026, 10:24:01 AM",
-    "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
-    "category": "Markets"
-  },
-  {
-    "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
-    "summary": "The stablecoin issuer's CEO, Paolo Ardoino, has been defending against accusations that the firm's stablecoins have fueled financial activity in Iran.",
-    "source": "CoinDesk",
-    "time": "10/19/2026, 10:21:13 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
-    "category": "Markets"
-  },
-  {
-    "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
-    "summary": "The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first bitcoin perp.",
-    "source": "CoinDesk",
-    "time": "10/19/2026, 6:47:00 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
-    "category": "Markets"
-  },
-  {
-    "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
-    "summary": "Nine other crypto platforms voluntarily restricted app access in Kazakhstan, prompting the regulator to withdraw its claims against them.",
+    "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+    "summary": "Derek Brown likened the prediction market company to a “public nuisance“ that was “causing a significant and substantial ongoing harm“ to state residents.",
     "source": "CoinTelegraph",
-    "time": "10/20/2026, 1:12:21 PM",
-    "link": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/20/2026, 11:19:15 PM",
+    "link": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines ",
-    "summary": "More than 6 billion XRP reached exchanges tracked by CryptoQuant in the 30 days to Oct. 19, the most since March.",
+    "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+    "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC’s public comment period comes to a close.",
     "source": "CoinTelegraph",
-    "time": "10/20/2026, 12:20:58 PM",
-    "link": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/20/2026, 10:38:00 PM",
+    "link": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
-    "summary": "Mt. Gox extended its repayment deadline by another year as some creditors remain unpaid due to incomplete procedures and payment processing issues.",
+    "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong? ",
+    "summary": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming.",
     "source": "CoinTelegraph",
-    "time": "10/20/2026, 12:20:13 PM",
-    "link": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/20/2026, 9:59:39 PM",
+    "link": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack ",
-    "summary": "The proposed acquisition would give Bitget a route into Thailand’s crypto market through a locally licensed operator.",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "10/20/2026, 12:00:00 PM",
-    "link": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/20/2026, 9:17:40 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
-    "summary": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.",
+    "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+    "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet’s holdings if it allocates the full amount.",
     "source": "CoinTelegraph",
-    "time": "10/20/2026, 10:54:27 AM",
-    "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/20/2026, 7:40:00 PM",
+    "link": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-    "summary": "BlackRock’s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup.",
+    "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets ",
+    "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins.",
     "source": "CoinTelegraph",
-    "time": "10/20/2026, 10:12:57 AM",
-    "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/20/2026, 6:47:48 PM",
+    "link": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
-    "summary": "BlackRock’s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows.",
+    "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
+    "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.",
     "source": "CoinTelegraph",
-    "time": "10/20/2026, 7:39:20 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/20/2026, 6:38:13 PM",
+    "link": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
-    "summary": "In June, Sophon’s developers said the costs of maintaining a standalone blockchain no longer justified its benefits and announced plans to focus on consumer finance and AI applications on Base.",
+    "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
+    "summary": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture.",
     "source": "CoinTelegraph",
-    "time": "10/20/2026, 7:14:11 AM",
-    "link": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/20/2026, 6:23:17 PM",
+    "link": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
-    "summary": "The defunct exchange's trustee said many creditors still have not completed the procedures needed to get their Bitcoin back.",
+    "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+    "summary": "The ChatGPT maker is folding Orchestra’s drug-program agents into Rosalind, its life sciences suite, betting AI can shave time off the decade-plus it takes to bring a medicine to patients.",
     "source": "Decrypt",
-    "time": "10/20/2026, 12:55:48 PM",
-    "link": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute",
+    "time": "10/20/2026, 11:46:04 PM",
+    "link": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
     "category": "Markets"
   },
   {
-    "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-    "summary": "The iShares Bitcoin Managed Protection ETF would use options on IBIT to limit losses, in exchange for giving up some upside.",
+    "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+    "summary": "J.P. Morgan Asset Management’s 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn’t adding it to its main portfolio models.",
     "source": "Decrypt",
-    "time": "10/20/2026, 11:13:30 AM",
-    "link": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
+    "time": "10/20/2026, 11:16:04 PM",
+    "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
     "category": "Markets"
   },
   {
-    "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
-    "summary": "The Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing in $369 million, and it now plans a $630 million sale of 15% preferred stock.",
+    "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+    "summary": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
     "source": "Decrypt",
-    "time": "10/19/2026, 11:46:05 PM",
-    "link": "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
+    "time": "10/20/2026, 10:46:04 PM",
+    "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
     "category": "Markets"
   },
   {
-    "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
-    "summary": "Anthropic committed 5% of its shares to a public benefit fund, and within hours Elon Musk promised a SpaceX share to every American child.",
+    "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+    "summary": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.",
     "source": "Decrypt",
-    "time": "10/19/2026, 11:15:04 PM",
-    "link": "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares",
+    "time": "10/20/2026, 10:16:04 PM",
+    "link": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
     "category": "Markets"
   },
   {
-    "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-    "summary": "XRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator approval.",
+    "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+    "summary": "FINMA waived the diversification rules for the fund but leaned hard on custody and investor-protection safeguards.",
     "source": "Decrypt",
-    "time": "10/19/2026, 10:46:05 PM",
-    "link": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
+    "time": "10/20/2026, 9:31:04 PM",
+    "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
     "category": "Markets"
   },
   {
-    "title": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
-    "summary": "Hobbyists are booting iOS 16 on Xiaomi and Nothing phones and posting the proof. It barely works, but it suggests Apple's software is no longer welded to Apple's hardware.",
+    "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+    "summary": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled.",
     "source": "Decrypt",
-    "time": "10/19/2026, 9:46:04 PM",
-    "link": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
+    "time": "10/20/2026, 8:31:04 PM",
+    "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
     "category": "Markets"
   },
   {
-    "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
-    "summary": "Unveiled at Money20/20, the API-based tool combines payment and blockchain intelligence to flag fraud, scams and sanctions exposure before funds move on-chain.",
+    "title": "Bitcoin's Next Move: Here's What to Watch",
+    "summary": "Bitcoin trades just below $83,000, above both the short-term and long-term moving averages. Here are the levels traders are watching.",
     "source": "Decrypt",
-    "time": "10/19/2026, 9:16:04 PM",
-    "link": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
+    "time": "10/20/2026, 7:45:04 PM",
+    "link": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
     "category": "Markets"
   },
   {
-    "title": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares",
-    "summary": "Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue.",
+    "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
+    "summary": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
     "source": "Decrypt",
-    "time": "10/19/2026, 8:46:05 PM",
-    "link": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
+    "time": "10/20/2026, 7:03:26 PM",
+    "link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
     "category": "Markets"
   },
   {
-    "title": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
-    "summary": "Min Jung, associate researcher at Presto Research, said investors could be positioning for a potential 'catch-up trade' in bitcoin.",
+    "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+    "summary": "As the SEC’s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts.",
     "source": "The Block",
-    "time": "10/20/2026, 9:05:24 AM",
-    "link": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
+    "time": "10/20/2026, 9:19:54 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
     "category": "Markets"
   },
   {
-    "title": "Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
-    "summary": "The group filed comments on Treasury's proposed rule implementing the GENIUS Act, which governs who can issue and sell payment stablecoins.",
+    "title": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
+    "summary": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture.",
     "source": "The Block",
-    "time": "10/20/2026, 6:07:41 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
+    "time": "10/20/2026, 9:12:38 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
     "category": "Markets"
   },
   {
-    "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
-    "summary": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset.",
+    "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+    "summary": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adoption.",
     "source": "The Block",
-    "time": "10/20/2026, 12:00:53 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
+    "time": "10/20/2026, 8:14:28 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
     "category": "Markets"
   },
   {
-    "title": "Mesh taps Visa to let users spend crypto without a separate card",
-    "summary": "Mesh and Visa will let users spend crypto and stablecoin balances from wallet apps, with no need to sell or transfer assets first.",
+    "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
+    "summary": "Nectar Group, the developer of bitcoin income platform HoneyB, has raised $5 million in a seed funding round.",
     "source": "The Block",
-    "time": "10/19/2026, 6:10:02 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
+    "time": "10/20/2026, 7:11:47 PM",
+    "link": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
     "category": "Markets"
   },
   {
-    "title": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
-    "summary": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.",
+    "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+    "summary": "A record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell to 2.63%. Solana staking hit a record 440.5 million SOL.",
     "source": "The Block",
-    "time": "10/19/2026, 6:00:00 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658",
+    "time": "10/20/2026, 6:31:24 PM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
     "category": "Markets"
   },
   {
-    "title": "Galaxy’s AI data center business is undervalued amid CoreWeave debt concerns, StoneX says",
-    "summary": "StoneX reiterates Buy and $57 target on GLXY, saying the market undervalues its Helios AI data center despite CoreWeave debt worries.",
+    "title": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo",
+    "summary": "OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust.",
     "source": "The Block",
-    "time": "10/19/2026, 5:53:42 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-19-galaxy-digital-glxy-stonex-buy-coreweave-helios-ai-data-center-421045",
+    "time": "10/20/2026, 6:20:40 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421",
     "category": "Markets"
   },
   {
-    "title": "SkyAI sells off entire Solana treasury as it launches $201 million buyback",
-    "summary": "SkyAI holds $223.8 million in cash after selling all its SOL, with its $3 buyback running through Oct. 29.",
+    "title": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
+    "summary": "Mastercard opened early access to Agent Pay for Machines after pilots with Coinbase, Base, Cloudflare, and other partners.",
     "source": "The Block",
-    "time": "10/19/2026, 5:28:43 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037",
+    "time": "10/20/2026, 6:00:00 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406",
     "category": "Markets"
   },
   {
-    "title": "AnchorWatch Trust Company launches bitcoin custody service with up to $370 million in insurance per client",
-    "summary": "AnchorWatch launched Nevada-chartered bitcoin custody with a $10,000 monthly fee cap and optional insurance of up to $370 million per client.",
+    "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
+    "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
     "source": "The Block",
-    "time": "10/19/2026, 5:00:00 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-19-anchorwatch-bitcoin-custody-insurance-421011",
+    "time": "10/20/2026, 4:31:29 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
     "category": "Markets"
   }
 ]
