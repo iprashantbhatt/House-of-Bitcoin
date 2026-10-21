@@ -1,5 +1,13 @@
 [
   {
+    "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+    "summary": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets.",
+    "source": "CoinDesk",
+    "time": "10/20/2026, 11:12:21 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+    "category": "Markets"
+  },
+  {
     "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
     "summary": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach.",
     "source": "CoinDesk",
@@ -56,11 +64,19 @@
     "category": "Markets"
   },
   {
-    "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-    "summary": "The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios.",
-    "source": "CoinDesk",
-    "time": "10/20/2026, 1:10:40 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+    "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold ",
+    "summary": "A merger would bring Tesla into the same corporate group as Grok developer SpaceXAI and social media platform X.",
+    "source": "CoinTelegraph",
+    "time": "10/21/2026, 3:19:14 AM",
+    "link": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+    "summary": "The network’s validators approved a recovery plan and opened claims until May 1, 2027.",
+    "source": "CoinTelegraph",
+    "time": "10/21/2026, 1:26:02 AM",
+    "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -112,19 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
-    "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.",
-    "source": "CoinTelegraph",
-    "time": "10/20/2026, 6:38:13 PM",
-    "link": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
-    "summary": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture.",
-    "source": "CoinTelegraph",
-    "time": "10/20/2026, 6:23:17 PM",
-    "link": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
+    "summary": "A viral Claude Code prompt lets Android TV owners switch off sponsored rows and tracking software and build their own home screens, with no root access and every change reversible.",
+    "source": "Decrypt",
+    "time": "10/21/2026, 12:16:04 AM",
+    "link": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
     "category": "Markets"
   },
   {
@@ -184,11 +192,11 @@
     "category": "Markets"
   },
   {
-    "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
-    "summary": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
-    "source": "Decrypt",
-    "time": "10/20/2026, 7:03:26 PM",
-    "link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
+    "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+    "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
+    "source": "The Block",
+    "time": "10/21/2026, 4:30:08 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
     "category": "Markets"
   },
   {
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/20/2026, 6:00:00 PM",
     "link": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406",
-    "category": "Markets"
-  },
-  {
-    "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
-    "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
-    "source": "The Block",
-    "time": "10/20/2026, 4:31:29 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
     "category": "Markets"
   }
 ]
