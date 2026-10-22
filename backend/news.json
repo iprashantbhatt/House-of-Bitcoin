@@ -1,5 +1,53 @@
 [
   {
+    "title": "Asian stocks tumble, bitcoin retreats as China enters bear market ",
+    "summary": "Technology shares led regional losses as mixed U.S. earnings unsettled investors and Brent crude climbed above $112 a barrel.",
+    "source": "CoinDesk",
+    "time": "10/22/2026, 10:49:08 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+    "category": "Markets"
+  },
+  {
+    "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+    "summary": "Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims’ claims to the coins.",
+    "source": "CoinDesk",
+    "time": "10/22/2026, 8:24:10 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+    "category": "Markets"
+  },
+  {
+    "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+    "summary": "The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets.",
+    "source": "CoinDesk",
+    "time": "10/22/2026, 7:24:58 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+    "summary": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.",
+    "source": "CoinDesk",
+    "time": "10/22/2026, 6:41:59 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+    "category": "Markets"
+  },
+  {
+    "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+    "summary": "The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31.",
+    "source": "CoinDesk",
+    "time": "10/22/2026, 6:36:20 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+    "summary": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.",
+    "source": "CoinDesk",
+    "time": "10/22/2026, 5:51:34 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+    "category": "Markets"
+  },
+  {
     "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
     "summary": "The president is hosting a cybercrime event that will highlight U.S. authorities' efforts to crack down on crypto scams run by foreign criminal organizations.",
     "source": "CoinDesk",
@@ -16,51 +64,59 @@
     "category": "Markets"
   },
   {
-    "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-    "summary": "When it comes to the U.S., Bybit will look to work with with someone like Interactive Brokers (IB), for example, said CEO Ben Zhou.",
-    "source": "CoinDesk",
-    "time": "10/21/2026, 5:09:22 PM",
-    "link": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+    "title": "Starknet voters back research into life beyond Ethereum",
+    "summary": "StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain.",
+    "source": "CoinTelegraph",
+    "time": "10/22/2026, 11:37:54 AM",
+    "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-    "summary": "Real-world assets already back the largest stablecoins, yet borrowing against them onchain still runs through variable-rate pools. Peter Gaffney of O2O Capital Partners explains why fixed-rate, fixed-term lending is the missing piece, and how a 5% shift in Sky and Ethena reserves could create $1.8 billion of demand for real-world assets.",
-    "source": "CoinDesk",
-    "time": "10/21/2026, 5:00:53 PM",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+    "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+    "summary": "Cloudflare’s Matthew Prince said the network saw thousands of exploit attempts even before the PHP vulnerability was publicly disclosed.",
+    "source": "CoinTelegraph",
+    "time": "10/22/2026, 11:06:02 AM",
+    "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-    "summary": "Vault12 raised $17.45 million selling VGT in 2018 and says it met or dropped every promise, yet the token has never traded on a centralized exchange.",
-    "source": "CoinDesk",
-    "time": "10/21/2026, 2:12:36 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
+    "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+    "summary": "US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.",
+    "source": "CoinTelegraph",
+    "time": "10/22/2026, 9:37:32 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-    "summary": "The collaboration will explore card-linked merchant payments for Japanese visitors in South Korea and peer-to-peer wallet transfers among broader cross-border trade remittances.",
-    "source": "CoinDesk",
-    "time": "10/21/2026, 2:10:39 PM",
-    "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/22/2026, 7:56:18 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-    "summary": "Dogecoin Labs will combine MyDoge, DogeOS and merchant payment tools as developers try to turn coin holders into customers for applications and businesses.",
-    "source": "CoinDesk",
-    "time": "10/21/2026, 2:00:00 PM",
-    "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
+    "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
+    "summary": "“Plenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,” says Illuvium co-founder Kieran Warwick.",
+    "source": "CoinTelegraph",
+    "time": "10/22/2026, 7:35:38 AM",
+    "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-    "summary": "Your day-ahead look for Oct. 21, 2026",
-    "source": "CoinDesk",
-    "time": "10/21/2026, 1:15:00 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+    "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix ",
+    "summary": "Government websites and online services were disrupted after concerns about a PHP bug that could allow attackers to take control of vulnerable servers.",
+    "source": "CoinTelegraph",
+    "time": "10/22/2026, 2:44:00 AM",
+    "link": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress ",
+    "summary": "Banking advocacy organizations are pushing back against the OCC’s finalized rules on a stablecoin law, arguing against changes to provisions on yield.",
+    "source": "CoinTelegraph",
+    "time": "10/21/2026, 11:53:48 PM",
+    "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -69,62 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/21/2026, 10:26:07 PM",
     "link": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
-    "summary": "The US President detailed many schemes defrauding Americans, but referred only to “cybercurrency“ related to scams.",
-    "source": "CoinTelegraph",
-    "time": "10/21/2026, 10:19:39 PM",
-    "link": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/21/2026, 10:10:47 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-    "summary": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU.",
-    "source": "CoinTelegraph",
-    "time": "10/21/2026, 7:57:39 PM",
-    "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
-    "summary": "The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime.",
-    "source": "CoinTelegraph",
-    "time": "10/21/2026, 7:25:00 PM",
-    "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform ",
-    "summary": "The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a “watershed moment for American finance.”",
-    "source": "CoinTelegraph",
-    "time": "10/21/2026, 7:10:54 PM",
-    "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules ",
-    "summary": "Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.",
-    "source": "CoinTelegraph",
-    "time": "10/21/2026, 6:09:26 PM",
-    "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat ",
-    "summary": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.",
-    "source": "CoinTelegraph",
-    "time": "10/21/2026, 5:13:17 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,46 @@
     "category": "Markets"
   },
   {
+    "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+    "summary": "Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.",
+    "source": "The Block",
+    "time": "10/22/2026, 11:56:16 AM",
+    "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
+    "category": "Markets"
+  },
+  {
+    "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
+    "summary": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.",
+    "source": "The Block",
+    "time": "10/22/2026, 11:32:00 AM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
+    "category": "Markets"
+  },
+  {
+    "title": "Layer 2 Scaling Solutions",
+    "summary": "Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain.\r\nEthereum’s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can get priced out. Layer 2s address this by moving transaction activity to scaling systems that sit around Ethereum while still using it for settlement, security, data posting, or verification.\r\nThe most important Layer 2 designs today are rollups. Rollups process transactions off-chain, bundle them together, and post data or proofs back to Ethereum. This makes transactions cheaper and faster while keeping a connection to Ethereum’s trust foundation.",
+    "source": "The Block",
+    "time": "10/22/2026, 11:15:50 AM",
+    "link": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
+    "category": "Markets"
+  },
+  {
+    "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
+    "summary": "The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance.",
+    "source": "The Block",
+    "time": "10/22/2026, 11:11:57 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
+    "category": "Markets"
+  },
+  {
+    "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+    "summary": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.",
+    "source": "The Block",
+    "time": "10/22/2026, 2:00:00 AM",
+    "link": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+    "category": "Markets"
+  },
+  {
     "title": "Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says",
     "summary": "A Mizuho survey of 600+ Robinhood users finds 94% would trade single-stock perpetual futures, mostly with new money.",
     "source": "The Block",
@@ -213,46 +253,6 @@
     "source": "The Block",
     "time": "10/21/2026, 6:44:01 PM",
     "link": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
-    "category": "Markets"
-  },
-  {
-    "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
-    "summary": "Grayscale expands in-kind subscriptions to 10 crypto funds, letting eligible investors swap tokens for shares without selling for cash.",
-    "source": "The Block",
-    "time": "10/21/2026, 5:12:00 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
-    "category": "Markets"
-  },
-  {
-    "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
-    "summary": "Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality from 12.8 seconds to about 150 milliseconds.",
-    "source": "The Block",
-    "time": "10/21/2026, 4:24:39 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
-    "category": "Markets"
-  },
-  {
-    "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
-    "summary": "Standard Chartered has signed definitive agreements to acquire Zodia Custody, subject to regulatory approval.",
-    "source": "The Block",
-    "time": "10/21/2026, 2:44:53 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
-    "category": "Markets"
-  },
-  {
-    "title": "Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand",
-    "summary": "Dogecoin Labs, backed by the Dogecoin Foundation, unites MyDoge, DogeOS and Such App to push DOGE into payments and DeFi.",
-    "source": "The Block",
-    "time": "10/21/2026, 2:00:00 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
-    "summary": "Bitcoin volatility is approaching its 2026 lows, with K33 pointing to weak trading activity ahead of several potential market catalysts.",
-    "source": "The Block",
-    "time": "10/21/2026, 1:55:08 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
     "category": "Markets"
   }
 ]
