@@ -1,5 +1,61 @@
 [
   {
+    "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+    "summary": "The Riksbank sees an e-krona as critical to securing national payments and monetary control.",
+    "source": "CoinDesk",
+    "time": "10/23/2026, 10:57:34 AM",
+    "link": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+    "category": "Markets"
+  },
+  {
+    "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+    "summary": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange.",
+    "source": "CoinDesk",
+    "time": "10/23/2026, 10:02:35 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
+    "category": "Markets"
+  },
+  {
+    "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+    "summary": "Matthew Modabber was reportedly ousted after an internal probe of several instances of misconduct, according to the New York Post.",
+    "source": "CoinDesk",
+    "time": "10/23/2026, 7:01:19 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+    "category": "Markets"
+  },
+  {
+    "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+    "summary": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.",
+    "source": "CoinDesk",
+    "time": "10/23/2026, 6:59:34 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+    "category": "Markets"
+  },
+  {
+    "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+    "summary": "Toto Finance wants 22 million ADA from Cardano’s treasury to buy tokenized copper, and the metal would have to trade well above its all-time high for holders to get their money back.",
+    "source": "CoinDesk",
+    "time": "10/23/2026, 6:36:51 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+    "summary": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
+    "source": "CoinDesk",
+    "time": "10/23/2026, 5:13:01 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+    "category": "Markets"
+  },
+  {
+    "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+    "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.",
+    "source": "CoinDesk",
+    "time": "10/23/2026, 12:43:36 AM",
+    "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+    "category": "Markets"
+  },
+  {
     "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
     "summary": "The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes.",
     "source": "CoinDesk",
@@ -8,123 +64,83 @@
     "category": "Markets"
   },
   {
-    "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
-    "summary": "When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank.",
-    "source": "CoinDesk",
-    "time": "10/22/2026, 5:40:25 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto for Advisors: Stablecoins are ready for prime time",
-    "summary": "",
-    "source": "CoinDesk",
-    "time": "10/22/2026, 4:58:31 PM",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa ",
-    "summary": "The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported.",
-    "source": "CoinDesk",
-    "time": "10/22/2026, 4:37:12 PM",
-    "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
-    "summary": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress.",
-    "source": "CoinDesk",
-    "time": "10/22/2026, 3:00:00 PM",
-    "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
-    "category": "Markets"
-  },
-  {
-    "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-    "summary": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.",
-    "source": "CoinDesk",
-    "time": "10/22/2026, 2:14:29 PM",
-    "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-    "summary": "Your day-ahead look for Oct. 21, 2026",
-    "source": "CoinDesk",
-    "time": "10/22/2026, 1:20:04 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-    "summary": "Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%.",
-    "source": "CoinDesk",
-    "time": "10/22/2026, 12:50:04 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
-    "category": "Markets"
-  },
-  {
-    "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-    "summary": "According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC.",
+    "title": "Bybit secures first full Dubai license for spot trading services",
+    "summary": "Bybit’s new VARA licence authorizes spot trading services in Dubai, but the exchange must complete additional regulatory requirements before launching.",
     "source": "CoinTelegraph",
-    "time": "10/22/2026, 11:39:18 PM",
-    "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/23/2026, 11:50:04 AM",
+    "link": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Dune launches real-time data feeds covering 200 onchain trading venues ",
-    "summary": "The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny.",
+    "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+    "summary": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
     "source": "CoinTelegraph",
-    "time": "10/22/2026, 10:36:00 PM",
-    "link": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/23/2026, 10:47:34 AM",
+    "link": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+    "summary": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.",
+    "source": "CoinTelegraph",
+    "time": "10/23/2026, 9:15:53 AM",
+    "link": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+    "summary": "Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
+    "source": "CoinTelegraph",
+    "time": "10/23/2026, 9:09:39 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "10/22/2026, 10:09:59 PM",
+    "time": "10/23/2026, 7:15:14 AM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy ",
-    "summary": "While crypto-aligned PACs have stepped up spending in Ohio, a committee launched by the co-founders of crypto exchange Gemini made one of its first forays into the Lone Star State.",
+    "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+    "summary": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects.",
     "source": "CoinTelegraph",
-    "time": "10/22/2026, 9:29:53 PM",
-    "link": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/23/2026, 7:09:41 AM",
+    "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Underdog taps zerohash to bring crypto deposits to prediction markets ",
-    "summary": "The new funding option, expected to launch later this year, will allow eligible Underdog users to deposit digital assets around the clock.",
+    "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+    "summary": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
     "source": "CoinTelegraph",
-    "time": "10/22/2026, 7:24:49 PM",
-    "link": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/23/2026, 6:34:14 AM",
+    "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition ",
-    "summary": "According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors.",
+    "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
+    "summary": "BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland.",
     "source": "CoinTelegraph",
-    "time": "10/22/2026, 6:50:51 PM",
-    "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/23/2026, 2:59:35 AM",
+    "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
-    "summary": "According to the Central Bank of Ireland, Coinbase Ireland had agreed with the facts around the enforcement action and will be subject to fines and sanctions upon approval by a high court.",
-    "source": "CoinTelegraph",
-    "time": "10/22/2026, 6:48:00 PM",
-    "link": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
+    "summary": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near.",
+    "source": "Decrypt",
+    "time": "10/23/2026, 10:55:35 AM",
+    "link": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower ",
-    "summary": "Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump’s comments on Iran military action.",
-    "source": "CoinTelegraph",
-    "time": "10/22/2026, 6:20:35 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
+    "summary": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
+    "source": "Decrypt",
+    "time": "10/23/2026, 12:21:46 AM",
+    "link": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
     "category": "Markets"
   },
   {
@@ -176,19 +192,35 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-    "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
-    "source": "Decrypt",
-    "time": "10/22/2026, 6:31:07 PM",
-    "link": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
+    "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+    "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.",
+    "source": "The Block",
+    "time": "10/23/2026, 11:52:44 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
     "category": "Markets"
   },
   {
-    "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
-    "summary": "Neoclouds like CoreWeave and Nebius rent Nvidia GPUs to AI labs, and several started out mining crypto. Here's how the AI cloud model works.",
-    "source": "Decrypt",
-    "time": "10/22/2026, 5:45:07 PM",
-    "link": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
+    "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+    "summary": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments.",
+    "source": "The Block",
+    "time": "10/23/2026, 6:03:09 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
+    "category": "Markets"
+  },
+  {
+    "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+    "summary": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform.",
+    "source": "The Block",
+    "time": "10/23/2026, 4:48:13 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
+    "summary": "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%.",
+    "source": "The Block",
+    "time": "10/23/2026, 4:21:30 AM",
+    "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
     "category": "Markets"
   },
   {
@@ -221,38 +253,6 @@
     "source": "The Block",
     "time": "10/22/2026, 3:55:03 PM",
     "link": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
-    "category": "Markets"
-  },
-  {
-    "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
-    "summary": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.",
-    "source": "The Block",
-    "time": "10/22/2026, 3:27:54 PM",
-    "link": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
-    "category": "Markets"
-  },
-  {
-    "title": "Dune launches onchain trading data feeds as tokenized markets expand",
-    "summary": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.",
-    "source": "The Block",
-    "time": "10/22/2026, 2:00:00 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
-    "category": "Markets"
-  },
-  {
-    "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
-    "summary": "SoFi has launched SOFIE, a tokenized deposit offering 4.4% APY and FDIC insurance, with the option to convert to SoFiUSD.",
-    "source": "The Block",
-    "time": "10/22/2026, 2:00:00 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
-    "summary": "Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.",
-    "source": "The Block",
-    "time": "10/22/2026, 11:56:16 AM",
-    "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
     "category": "Markets"
   }
 ]
