@@ -1,5 +1,53 @@
 [
   {
+    "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+    "summary": "Your look at what's coming in the week starting Oct. 26.",
+    "source": "CoinDesk",
+    "time": "10/26/2026, 10:14:47 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
+    "category": "Markets"
+  },
+  {
+    "title": "Over 11 million bitcoin has no known owner. Here's what it means",
+    "summary": "The large number of coins held in unidentified wallets shows that retail investors have been in this market for years, observers said. But this interpretation comes with a caveat.",
+    "source": "CoinDesk",
+    "time": "10/26/2026, 8:18:24 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
+    "category": "Markets"
+  },
+  {
+    "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+    "summary": "The Mumbai-based exchange initially dismissed reports of suspicious outflows as a false alarm. It now says it lost $16 million and will absorb the loss.",
+    "source": "CoinDesk",
+    "time": "10/26/2026, 6:39:17 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+    "summary": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.",
+    "source": "CoinDesk",
+    "time": "10/26/2026, 6:15:20 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+    "summary": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%.",
+    "source": "CoinDesk",
+    "time": "10/26/2026, 5:37:02 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+    "category": "Markets"
+  },
+  {
+    "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+    "summary": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
+    "source": "CoinDesk",
+    "time": "10/26/2026, 4:11:39 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+    "category": "Markets"
+  },
+  {
     "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
     "summary": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
     "source": "CoinDesk",
@@ -16,115 +64,67 @@
     "category": "Markets"
   },
   {
-    "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-    "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
-    "source": "CoinDesk",
-    "time": "10/24/2026, 6:00:00 PM",
-    "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-    "category": "Markets"
-  },
-  {
-    "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-    "summary": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education.",
-    "source": "CoinDesk",
-    "time": "10/24/2026, 5:21:06 PM",
-    "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-    "summary": "Bitcoin has sunk to its weakest level in more than one month.",
-    "source": "CoinDesk",
-    "time": "10/24/2026, 5:11:24 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
-    "category": "Markets"
-  },
-  {
-    "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-    "summary": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself.",
-    "source": "CoinDesk",
-    "time": "10/24/2026, 5:00:00 PM",
-    "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
-    "category": "Markets"
-  },
-  {
-    "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-    "summary": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token.",
-    "source": "CoinDesk",
-    "time": "10/24/2026, 4:38:47 PM",
-    "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
-    "category": "Markets"
-  },
-  {
-    "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
-    "summary": "Six more companies have objected to listing tokenized versions of their stock on the venue, Reuters reported, bringing the total to 22.",
-    "source": "CoinDesk",
-    "time": "10/24/2026, 4:06:24 PM",
-    "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
-    "category": "Markets"
-  },
-  {
-    "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-    "summary": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can.",
+    "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week ",
+    "summary": "Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week of US tech earnings and inflation data.",
     "source": "CoinTelegraph",
-    "time": "10/25/2026, 11:48:40 PM",
-    "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/26/2026, 11:49:55 AM",
+    "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
-    "summary": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year.",
+    "title": "Securitize’s tokenized stock value halves as Circle widens lead",
+    "summary": "SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reached a combined $383.6 million across several issuers in the $3.3 billion tokenized equities market.",
     "source": "CoinTelegraph",
-    "time": "10/25/2026, 4:11:00 PM",
-    "link": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/26/2026, 11:25:01 AM",
+    "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
-    "summary": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country’s central banker.",
+    "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+    "summary": "US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals.",
     "source": "CoinTelegraph",
-    "time": "10/25/2026, 12:42:00 PM",
-    "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/26/2026, 9:20:49 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-    "summary": "As of Friday, 22 companies had filed objections as part of the joint venture’s proposed tokenized stock platform under the SEC’s innovation exemption.",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "10/23/2026, 11:32:16 PM",
-    "link": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/26/2026, 6:44:44 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
-    "summary": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul.",
+    "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
+    "summary": "The warning comes as Gartner forecasts that more than 80% of specialist cloud providers will cease operating independently by 2030.",
     "source": "CoinTelegraph",
-    "time": "10/23/2026, 10:54:17 PM",
-    "link": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/26/2026, 6:13:33 AM",
+    "link": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-    "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
+    "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+    "summary": "The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong.",
     "source": "CoinTelegraph",
-    "time": "10/23/2026, 8:39:02 PM",
-    "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/26/2026, 4:21:26 AM",
+    "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
-    "summary": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum.",
+    "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+    "summary": "A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks.",
     "source": "CoinTelegraph",
-    "time": "10/23/2026, 7:42:12 PM",
-    "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/26/2026, 3:24:04 AM",
+    "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
-    "summary": "The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.",
+    "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+    "summary": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.",
     "source": "CoinTelegraph",
-    "time": "10/23/2026, 6:08:40 PM",
-    "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/26/2026, 1:13:29 AM",
+    "link": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,14 @@
     "category": "Markets"
   },
   {
+    "title": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
+    "summary": "The delay reportedly aims to align with the U.S. schedule of integrating CARF, the OECD's international tax framework for digital assets.",
+    "source": "The Block",
+    "time": "10/26/2026, 11:06:02 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649",
+    "category": "Markets"
+  },
+  {
     "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
     "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like \"a false alarm.\"",
     "source": "The Block",
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/23/2026, 7:03:56 PM",
     "link": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
-    "category": "Markets"
-  },
-  {
-    "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
-    "summary": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
-    "source": "The Block",
-    "time": "10/23/2026, 3:00:00 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
     "category": "Markets"
   }
 ]
