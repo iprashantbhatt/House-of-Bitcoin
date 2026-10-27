@@ -1,5 +1,53 @@
 [
   {
+    "title": "Now is the time to accumulate bitcoin, Galaxy says",
+    "summary": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin’s recovery towards its previous high.",
+    "source": "CoinDesk",
+    "time": "10/27/2026, 10:42:46 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
+    "category": "Markets"
+  },
+  {
+    "title": "An AI label alone no longer wins lenders, JPMorgan says",
+    "summary": "As default insurance on several AI-linked firms hits record costs, companies must show they can finance investment, service the debt and eventually mint cash, JPMorgan says.",
+    "source": "CoinDesk",
+    "time": "10/27/2026, 9:24:39 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
+    "category": "Markets"
+  },
+  {
+    "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+    "summary": "Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them.",
+    "source": "CoinDesk",
+    "time": "10/27/2026, 8:44:04 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+    "category": "Markets"
+  },
+  {
+    "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+    "summary": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.",
+    "source": "CoinDesk",
+    "time": "10/27/2026, 8:09:56 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+    "category": "Markets"
+  },
+  {
+    "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+    "summary": "Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received.",
+    "source": "CoinDesk",
+    "time": "10/27/2026, 7:14:41 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+    "category": "Markets"
+  },
+  {
+    "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+    "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X.",
+    "source": "CoinDesk",
+    "time": "10/27/2026, 5:28:49 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+    "category": "Markets"
+  },
+  {
     "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
     "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
     "source": "CoinDesk",
@@ -16,115 +64,75 @@
     "category": "Markets"
   },
   {
-    "title": "OCC calls on community banks to enter the stablecoin payments market",
-    "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach.",
-    "source": "CoinDesk",
-    "time": "10/26/2026, 4:45:51 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-    "category": "Markets"
-  },
-  {
-    "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-    "summary": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won’t share crypto trading data until 2029.",
-    "source": "CoinDesk",
-    "time": "10/26/2026, 3:51:07 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-    "category": "Markets"
-  },
-  {
-    "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-    "summary": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days.",
-    "source": "CoinDesk",
-    "time": "10/26/2026, 3:23:41 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-    "category": "Markets"
-  },
-  {
-    "title": "AI giant Anthropic files for blockbuster IPO",
-    "summary": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November.",
-    "source": "CoinDesk",
-    "time": "10/26/2026, 2:22:09 PM",
-    "link": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-    "category": "Markets"
-  },
-  {
-    "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-    "summary": "Your day-ahead look for Oct. 26, 2026",
-    "source": "CoinDesk",
-    "time": "10/26/2026, 12:53:07 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-    "summary": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.",
-    "source": "CoinDesk",
-    "time": "10/26/2026, 12:24:33 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-    "category": "Markets"
-  },
-  {
-    "title": "US OCC calls on community banks to become payment stablecoin issuers",
-    "summary": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January",
+    "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
+    "summary": "Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirected to a reserve for the network.",
     "source": "CoinTelegraph",
-    "time": "10/26/2026, 10:38:30 PM",
-    "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/27/2026, 11:00:31 AM",
+    "link": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs ",
-    "summary": "The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential hedging against fluctuations in AI computing costs.",
+    "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn ",
+    "summary": "Bloom pledged to reimburse nine traders after $953,000 was drained from 48 wallets, saying no private keys were accessed or compromised.",
     "source": "CoinTelegraph",
-    "time": "10/26/2026, 10:23:32 PM",
-    "link": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/27/2026, 10:07:37 AM",
+    "link": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
-    "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.",
+    "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+    "summary": "The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank will allow it to restore some services.",
     "source": "CoinTelegraph",
-    "time": "10/26/2026, 8:47:40 PM",
-    "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/27/2026, 9:04:21 AM",
+    "link": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "AI company Anthropic announces IPO, expected as early as November",
-    "summary": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026.",
+    "title": "Bitcoin ETFs claw back $110M after $774M exit",
+    "summary": "US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound.",
     "source": "CoinTelegraph",
-    "time": "10/26/2026, 7:42:41 PM",
-    "link": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/27/2026, 8:35:37 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
-    "summary": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading.",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "10/26/2026, 6:46:09 PM",
-    "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/27/2026, 7:08:28 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029 ",
-    "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.",
+    "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+    "summary": "The stablecoin payments company previously disputed reports that its US listing had been delayed.",
     "source": "CoinTelegraph",
-    "time": "10/26/2026, 5:18:09 PM",
-    "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/27/2026, 5:26:51 AM",
+    "link": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-    "summary": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets.",
+    "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+    "summary": "Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks.",
     "source": "CoinTelegraph",
-    "time": "10/26/2026, 4:54:15 PM",
-    "link": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/27/2026, 2:55:03 AM",
+    "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO ",
-    "summary": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades.",
+    "title": "Ripple wins final US approval for national trust bank",
+    "summary": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody.",
     "source": "CoinTelegraph",
-    "time": "10/26/2026, 3:25:22 PM",
-    "link": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/27/2026, 1:06:41 AM",
+    "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+    "summary": "The federally supervised bank will manage RLUSD's reserves and offer custody, as banking groups fight crypto charters in court.",
+    "source": "Decrypt",
+    "time": "10/27/2026, 11:16:46 AM",
+    "link": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
     "category": "Markets"
   },
   {
@@ -184,11 +192,43 @@
     "category": "Markets"
   },
   {
-    "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
-    "summary": "Elon Musk says SpaceX closed a $40 billion chip deal with Apollo while lenders shut the door on smaller AI cloud firms, a split that could decide who controls computing.",
-    "source": "Decrypt",
-    "time": "10/26/2026, 7:16:02 PM",
-    "link": "https://decrypt.co/381848/spacex-40-billion-ai-chips-elon-musk-warns-most-neoclouds-will-die",
+    "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
+    "summary": "Ark Invest rebalanced its fund weightings, adding Circle shares and trimming its Bitcoin ETF holdings as BTC fell below $80,000.",
+    "source": "The Block",
+    "time": "10/27/2026, 11:57:34 AM",
+    "link": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
+    "category": "Markets"
+  },
+  {
+    "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
+    "summary": "Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives.",
+    "source": "The Block",
+    "time": "10/27/2026, 7:28:34 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
+    "category": "Markets"
+  },
+  {
+    "title": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
+    "summary": "StoneX has raised its price target for bitcoin treasury company Strive to $43 from $32 and reiterated its Buy rating on the stock.",
+    "source": "The Block",
+    "time": "10/27/2026, 4:58:07 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818",
+    "category": "Markets"
+  },
+  {
+    "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+    "summary": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity.",
+    "source": "The Block",
+    "time": "10/27/2026, 3:28:18 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
+    "category": "Markets"
+  },
+  {
+    "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+    "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
+    "source": "The Block",
+    "time": "10/27/2026, 2:00:00 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
     "category": "Markets"
   },
   {
@@ -213,46 +253,6 @@
     "source": "The Block",
     "time": "10/26/2026, 6:55:02 PM",
     "link": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
-    "category": "Markets"
-  },
-  {
-    "title": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
-    "summary": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook.",
-    "source": "The Block",
-    "time": "10/26/2026, 5:36:43 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
-    "category": "Markets"
-  },
-  {
-    "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
-    "summary": "The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets.",
-    "source": "The Block",
-    "time": "10/26/2026, 5:27:37 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
-    "category": "Markets"
-  },
-  {
-    "title": "Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH",
-    "summary": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25.",
-    "source": "The Block",
-    "time": "10/26/2026, 3:12:59 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
-    "category": "Markets"
-  },
-  {
-    "title": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares",
-    "summary": "Strategy's bitcoin holdings account for roughly 4% of the total supply cap, with $3.9 billion in paper gains.",
-    "source": "The Block",
-    "time": "10/26/2026, 2:23:14 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699",
-    "category": "Markets"
-  },
-  {
-    "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
-    "summary": "Strive's latest bitcoin purchase puts it within 1,000 BTC of second-place Metaplanet as it unveils a new $1 billion preferred stock offering program.",
-    "source": "The Block",
-    "time": "10/26/2026, 2:19:08 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
     "category": "Markets"
   }
 ]
