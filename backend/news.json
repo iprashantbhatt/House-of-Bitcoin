@@ -1,66 +1,122 @@
 [
   {
-    "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-    "summary": "Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, while curbing crypto debanking.",
+    "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+    "summary": "Itaú Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline.",
     "source": "CoinDesk",
-    "time": "10/27/2026, 9:41:33 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+    "time": "10/28/2026, 11:07:54 AM",
+    "link": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
     "category": "Markets"
   },
   {
-    "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
-    "summary": "Crypto trading volume fell 38% from year-ago levels, but the firm's overall blockchain business gained traction.",
+    "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+    "summary": "South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.",
     "source": "CoinDesk",
-    "time": "10/27/2026, 9:32:21 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
+    "time": "10/28/2026, 10:59:25 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
     "category": "Markets"
   },
   {
-    "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
-    "summary": "The U.S. Commodity Futures Trading Commission has pursued more than a dozen legal actions to protect what its chief sees as its sole power over prediction markets.",
+    "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
+    "summary": "Both bitcoin and the S&P 500 have historically produced positive returns in a year after midterms. BTC's pattern, however, could also be explained by the four-year halving cycles.",
     "source": "CoinDesk",
-    "time": "10/27/2026, 8:07:59 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+    "time": "10/28/2026, 10:15:22 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
     "category": "Markets"
   },
   {
-    "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
-    "summary": "The latest notice added four objections, bringing the total to 26 as the joint venture prepares to test the SEC’s new framework for blockchain-based stock trading.",
+    "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
+    "summary": "The firms announced the agreement at Meridian 2026, the Stellar Development Foundation’s annual conference in Portugal.",
     "source": "CoinDesk",
-    "time": "10/27/2026, 7:13:02 PM",
-    "link": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+    "time": "10/28/2026, 10:00:00 AM",
+    "link": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
     "category": "Markets"
   },
   {
-    "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
-    "summary": "USDT volume on crypto exchange Mercado Bitcoin jumped nearly 800% and bitcoin volume surged 865%. Binance’s USDT/BRL market tripled while the global BTC/USDT pair fell.",
+    "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+    "summary": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn.",
     "source": "CoinDesk",
-    "time": "10/27/2026, 5:59:07 PM",
-    "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+    "time": "10/28/2026, 6:28:13 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
     "category": "Markets"
   },
   {
-    "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-    "summary": "Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year.",
+    "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+    "summary": "The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed.",
     "source": "CoinDesk",
-    "time": "10/27/2026, 5:35:29 PM",
-    "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+    "time": "10/28/2026, 6:10:36 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
     "category": "Markets"
   },
   {
-    "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-    "summary": "The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.",
+    "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+    "summary": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
     "source": "CoinDesk",
-    "time": "10/27/2026, 3:21:10 PM",
-    "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+    "time": "10/28/2026, 5:15:20 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
     "category": "Markets"
   },
   {
-    "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
-    "summary": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.",
+    "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+    "summary": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breached.",
     "source": "CoinDesk",
-    "time": "10/27/2026, 3:00:00 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+    "time": "10/28/2026, 4:11:14 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
+    "summary": "Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases.",
+    "source": "CoinTelegraph",
+    "time": "10/28/2026, 10:56:00 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+    "summary": "US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.",
+    "source": "CoinTelegraph",
+    "time": "10/28/2026, 8:57:18 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Coinbase denies systems breach, says vendor exposed customer data",
+    "summary": "Coinbase said that an incident at analytics vendor Amplitude exposed some customers’ contact data, but it found no evidence of unauthorized access to its own systems.",
+    "source": "CoinTelegraph",
+    "time": "10/28/2026, 8:42:55 AM",
+    "link": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/28/2026, 7:00:00 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+    "summary": "Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US.",
+    "source": "CoinTelegraph",
+    "time": "10/28/2026, 4:55:57 AM",
+    "link": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bithumb discloses data leak after internal system breach: Report",
+    "summary": "The breach impacted its in-house mobile system, used by employees for work and information sharing.",
+    "source": "CoinTelegraph",
+    "time": "10/28/2026, 3:18:47 AM",
+    "link": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Discord is making public chats searchable on Google: How to opt out",
+    "summary": "Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns.",
+    "source": "CoinTelegraph",
+    "time": "10/28/2026, 1:47:04 AM",
+    "link": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -72,59 +128,19 @@
     "category": "Markets"
   },
   {
-    "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
-    "summary": "More than 40% of the companies initially proposed to have their stocks listed in tokenized form have asked to opt-out.",
-    "source": "CoinTelegraph",
-    "time": "10/27/2026, 10:26:41 PM",
-    "link": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
+    "summary": "South Korea's second-largest crypto exchange is checking whether customer data was exposed, as two other financial firms report breaches.",
+    "source": "Decrypt",
+    "time": "10/28/2026, 11:57:29 AM",
+    "link": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
     "category": "Markets"
   },
   {
-    "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says ",
-    "summary": "Speaking on Cointelegraph’s Chain Reaction podcast, Muneeb Ali warned that uncertainty over Bitcoin’s quantum security could deter institutional investors.",
-    "source": "CoinTelegraph",
-    "time": "10/27/2026, 9:33:19 PM",
-    "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets ",
-    "summary": "Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger.",
-    "source": "CoinTelegraph",
-    "time": "10/27/2026, 8:54:05 PM",
-    "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/27/2026, 8:36:13 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "CFTC sues Utah to block action against prediction markets ",
-    "summary": "The US state filed a lawsuit against Kalshi last week, seeking to recover up to $60 million in profits related to event contracts on prediction markets.",
-    "source": "CoinTelegraph",
-    "time": "10/27/2026, 8:21:59 PM",
-    "link": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
-    "summary": "The September survey offered a possible window into US voters who could consider fintech and digital asset policies on Election Day.",
-    "source": "CoinTelegraph",
-    "time": "10/27/2026, 7:08:00 PM",
-    "link": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar ",
-    "summary": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business.",
-    "source": "CoinTelegraph",
-    "time": "10/27/2026, 5:37:15 PM",
-    "link": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
+    "summary": "The incident at analytics firm Amplitude hit a \"small subset\" of Coinbase customers, the exchange said, without saying how many.",
+    "source": "Decrypt",
+    "time": "10/28/2026, 11:10:31 AM",
+    "link": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
     "category": "Markets"
   },
   {
@@ -176,19 +192,19 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
-    "summary": "Attackers obtained the factory key that proves Keystone's hardware wallets are genuine, and 25,964 buyer records were affected. The company says recovery phrases and private keys were not involved.",
-    "source": "Decrypt",
-    "time": "10/27/2026, 7:16:02 PM",
-    "link": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
+    "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+    "summary": "Moody's Ratings assigned the RLUSD A2 long-term and P-1 short-term ratings, citing credit quality and market value of its reserve assets.",
+    "source": "The Block",
+    "time": "10/28/2026, 10:15:20 AM",
+    "link": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
     "category": "Markets"
   },
   {
-    "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
-    "summary": "A collaboration with payments-tech firm ACI Worldwide will pilot folding USDC settlement into Colombia’s instant-payments network.",
-    "source": "Decrypt",
-    "time": "10/27/2026, 6:45:18 PM",
-    "link": "https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia",
+    "title": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
+    "summary": "The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin.",
+    "source": "The Block",
+    "time": "10/28/2026, 4:00:33 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962",
     "category": "Markets"
   },
   {
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "10/27/2026, 4:01:12 PM",
     "link": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
-    "category": "Markets"
-  },
-  {
-    "title": "Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback",
-    "summary": "Galaxy returned to profitability in the third quarter as trading volumes and lending increased, with a new $200 million buyback authorized.",
-    "source": "The Block",
-    "time": "10/27/2026, 3:39:22 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-    "summary": "The company plans to expand its AI business and hire about 12 people by year-end, COO Ethan Vera told The Block.",
-    "source": "The Block",
-    "time": "10/27/2026, 3:32:08 PM",
-    "link": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
     "category": "Markets"
   }
 ]
