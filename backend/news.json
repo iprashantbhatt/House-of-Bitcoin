@@ -1,194 +1,250 @@
 [
   {
-    "title": "The chart bitcoin traders should be paying attention to",
-    "summary": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.",
+    "title": "Binance loses $5.7 billion in largest crypto hack to date",
+    "summary": "Crypto prices are sliding on the news, with bitcoin falling back to $79,000.",
     "source": "CoinDesk",
-    "time": "10/29/2026, 8:44:44 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+    "time": "10/29/2026, 10:12:45 PM",
+    "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
     "category": "Markets"
   },
   {
-    "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-    "summary": "Three flaws a language-model scan dug up are the first disclosed under Core’s new rules for bugs that are easy to find.",
+    "title": "Polymarket suspends trading after third-party breach leads to user losses",
+    "summary": "Polymarket said one of its third-party providers was breached after users reported seeing their accounts drained.",
     "source": "CoinDesk",
-    "time": "10/29/2026, 6:54:39 AM",
-    "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+    "time": "10/29/2026, 7:55:35 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
     "category": "Markets"
   },
   {
-    "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-    "summary": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed.",
+    "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+    "summary": "The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company.",
     "source": "CoinDesk",
-    "time": "10/29/2026, 6:30:34 AM",
-    "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+    "time": "10/29/2026, 6:04:19 PM",
+    "link": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
     "category": "Markets"
   },
   {
-    "title": "Utah charges predictions platform Kalshi with illegal gambling",
-    "summary": "Utah has filed criminal charges against betting platform Kalshi and its co-founders.",
+    "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
+    "summary": "The exchange is closing accounts in both countries after MEXC and Bitget announced similar moves earlier this month.",
     "source": "CoinDesk",
-    "time": "10/29/2026, 6:02:37 AM",
-    "link": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
+    "time": "10/29/2026, 5:51:18 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
-    "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
+    "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+    "summary": "The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure.",
     "source": "CoinDesk",
-    "time": "10/29/2026, 4:32:43 AM",
-    "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+    "time": "10/29/2026, 5:35:43 PM",
+    "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
     "category": "Markets"
   },
   {
-    "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
-    "summary": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it.",
+    "title": "Crypto exchange HTX exits the UK after settling with the FCA",
+    "summary": "The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.",
     "source": "CoinDesk",
-    "time": "10/29/2026, 4:21:24 AM",
-    "link": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+    "time": "10/29/2026, 5:11:18 PM",
+    "link": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-    "summary": "Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.",
+    "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+    "summary": "Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.",
     "source": "CoinDesk",
-    "time": "10/28/2026, 10:13:44 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+    "time": "10/29/2026, 3:55:47 PM",
+    "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
     "category": "Markets"
   },
   {
-    "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
-    "summary": "The U.S. Commodity Futures Trading Commission held a forum in which the chairman, Mike Selig, suggested AI agents may usher in a financial revolution.",
+    "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
+    "summary": "",
     "source": "CoinDesk",
-    "time": "10/28/2026, 8:01:53 PM",
-    "link": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
+    "time": "10/29/2026, 3:39:01 PM",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K ",
-    "summary": "BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.",
+    "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+    "summary": "Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.",
     "source": "CoinTelegraph",
-    "time": "10/29/2026, 11:46:43 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/29/2026, 11:31:07 PM",
+    "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "ECB President Christine Lagarde to step down in February 2027 ",
-    "summary": "Lagarde announced plans to step down as European Central Bank President after serving more than seven years in the role.",
+    "title": "Binance hit by $5.8B hack as Tether and Circle freeze billions",
+    "summary": "Binance is investigating a multibillion-dollar security breach involving its Ethereum wallets, with Tether and Circle freezing more than $2.36 billion in stablecoins.",
     "source": "CoinTelegraph",
-    "time": "10/29/2026, 11:29:38 AM",
-    "link": "https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin ETFs add $137M, pushing October back into the green",
-    "summary": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.",
-    "source": "CoinTelegraph",
-    "time": "10/29/2026, 8:32:20 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/29/2026, 10:24:36 PM",
+    "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "10/29/2026, 7:00:00 AM",
+    "time": "10/29/2026, 8:58:57 PM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
-    "summary": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt.",
+    "title": "Public companies double share of blockchain revenue since 2022: Report ",
+    "summary": "A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications.",
     "source": "CoinTelegraph",
-    "time": "10/29/2026, 5:39:49 AM",
-    "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/29/2026, 8:53:14 PM",
+    "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
-    "summary": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.",
+    "title": "Polymarket suspended trading amid reports of user funds being drained",
+    "summary": "The prediction markets platform halted trading on Thursday after it reported one of its third party providers had been compromised.",
     "source": "CoinTelegraph",
-    "time": "10/29/2026, 4:16:32 AM",
-    "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/29/2026, 8:23:03 PM",
+    "link": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
-    "summary": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move.",
+    "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps ",
+    "summary": "Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures.",
     "source": "CoinTelegraph",
-    "time": "10/29/2026, 2:12:01 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/29/2026, 6:12:03 PM",
+    "link": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down ",
-    "summary": "Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing.",
+    "title": "KuCoin suspends services in Russia and Belarus",
+    "summary": "The exchange cited legal and regulatory compliance in its reason for cutting off services to users based in the two countries, currently the targets of international sanctions.",
     "source": "CoinTelegraph",
-    "time": "10/28/2026, 10:35:52 PM",
-    "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "10/29/2026, 6:08:41 PM",
+    "link": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-    "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
-    "source": "Decrypt",
-    "time": "10/28/2026, 10:46:02 PM",
-    "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+    "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
+    "summary": "The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-clock trading and immediate settlement under the SEC’s innovation exemption.",
+    "source": "CoinTelegraph",
+    "time": "10/29/2026, 5:27:39 PM",
+    "link": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
-    "summary": "SK Hynix's quarterly revenue topped 100 trillion won for the first time, and the chipmaker says memory demand will outrun supply through 2030, with DRAM and HBM sold out through 2029.",
+    "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+    "summary": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
     "source": "Decrypt",
-    "time": "10/28/2026, 10:16:03 PM",
-    "link": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
+    "time": "10/29/2026, 11:57:48 PM",
+    "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
     "category": "Markets"
   },
   {
-    "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-    "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
+    "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+    "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
     "source": "Decrypt",
-    "time": "10/28/2026, 9:16:03 PM",
-    "link": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+    "time": "10/29/2026, 10:36:24 PM",
+    "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
     "category": "Markets"
   },
   {
-    "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
-    "summary": "A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%.",
+    "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
+    "summary": "Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.",
     "source": "Decrypt",
-    "time": "10/28/2026, 8:46:03 PM",
-    "link": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
+    "time": "10/29/2026, 9:46:43 PM",
+    "link": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
     "category": "Markets"
   },
   {
-    "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-    "summary": "OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.",
+    "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
+    "summary": "Chrome's new autofill uses Google's Gemini AI to search your Gmail for order numbers, tracking details, and flight bookings and fill them into web forms. It is rolling out in the U.S.",
     "source": "Decrypt",
-    "time": "10/28/2026, 8:16:02 PM",
-    "link": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+    "time": "10/29/2026, 8:46:02 PM",
+    "link": "https://decrypt.co/382183/chrome-pull-details-from-your-gmail-web-forms",
     "category": "Markets"
   },
   {
-    "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
-    "summary": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
+    "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
+    "summary": "Polymarket restricted trading and paused relayer actions as users report funds leaving their accounts. A suspected attacker wallet holds about $2.65 million in POL, per Arkham data.",
     "source": "Decrypt",
-    "time": "10/28/2026, 7:25:18 PM",
-    "link": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+    "time": "10/29/2026, 7:53:44 PM",
+    "link": "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident",
     "category": "Markets"
   },
   {
-    "title": "AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds",
-    "summary": "Professional analysts went along with their AI agent’s hidden opinion 86% of the time, and few credited it.",
+    "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+    "summary": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.",
     "source": "Decrypt",
-    "time": "10/28/2026, 6:36:02 PM",
-    "link": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions",
+    "time": "10/29/2026, 7:46:02 PM",
+    "link": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees",
     "category": "Markets"
   },
   {
-    "title": "Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor",
-    "summary": "STRC will begin paying dividends for every calendar day from November, with STRF, STRK and STRD following in January.",
+    "title": "Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority",
+    "summary": "Only 13% of Americans say a candidate’s support for crypto growth is very important, according to a survey conducted by Ipsos for the DeFi Education Fund, even as the industry spends heavily on next week’s elections.",
     "source": "Decrypt",
-    "time": "10/28/2026, 6:03:32 PM",
-    "link": "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
+    "time": "10/29/2026, 6:46:02 PM",
+    "link": "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
+    "category": "Markets"
+  },
+  {
+    "title": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
+    "summary": "A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rates with two officials voting to hike. Here's why that matters for Bitcoin's price.",
+    "source": "Decrypt",
+    "time": "10/29/2026, 6:15:11 PM",
+    "link": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
+    "category": "Markets"
+  },
+  {
+    "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+    "summary": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
+    "source": "The Block",
+    "time": "10/29/2026, 10:49:16 PM",
+    "link": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
+    "category": "Markets"
+  },
+  {
+    "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends",
+    "summary": "Strategy reported $19.53B in Q3 net income on a $20.91B bitcoin gain, holds 848,517 BTC, and moves preferreds to daily dividends.",
+    "source": "The Block",
+    "time": "10/29/2026, 9:58:35 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
+    "category": "Markets"
+  },
+  {
+    "title": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
+    "summary": "After over $2.5 million was lost within minutes on Polymarket, the platform said it has since placed its exchange in cancel-only mode.",
+    "source": "The Block",
+    "time": "10/29/2026, 8:00:06 PM",
+    "link": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
+    "category": "Markets"
+  },
+  {
+    "title": "HYPE surges 15% as NYSE parent ICE moves to bring Hyperliquid perps to US",
+    "summary": "NYSE parent ICE will partner with and invest in Trade[XYZ] to launch regulated, Hyperliquid-based perpetual futures in the U.S.",
+    "source": "The Block",
+    "time": "10/29/2026, 3:44:53 PM",
+    "link": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
+    "category": "Markets"
+  },
+  {
+    "title": "Uniswap Labs opens fee conversion tool TJAR to apps, starting with Robinhood",
+    "summary": "Uniswap Labs has opened up its Token Jar fee conversion system to other apps through a new tool called TJAR.",
+    "source": "The Block",
+    "time": "10/29/2026, 3:34:17 PM",
+    "link": "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131",
+    "category": "Markets"
+  },
+  {
+    "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
+    "summary": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
+    "source": "The Block",
+    "time": "10/29/2026, 2:00:00 PM",
+    "link": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
+    "category": "Markets"
+  },
+  {
+    "title": "Curve Finance launches on Stellar in first native deployment outside EVM ecosystem",
+    "summary": "Curve Finance has launched on Stellar mainnet, its first native deployment outside the Ethereum Virtual Machine (EVM) ecosystem.",
+    "source": "The Block",
+    "time": "10/29/2026, 12:00:00 PM",
+    "link": "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121",
     "category": "Markets"
   },
   {
@@ -197,62 +253,6 @@
     "source": "The Block",
     "time": "10/29/2026, 7:40:32 AM",
     "link": "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
-    "category": "Markets"
-  },
-  {
-    "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
-    "summary": "Bernstein sees Robinhood’s crypto business shifting toward infrastructure as new products like prediction markets and perps gain ground.",
-    "source": "The Block",
-    "time": "10/28/2026, 6:06:24 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
-    "summary": "Bitwise's bear case puts bitcoin at $130,686 by 2036, while its bull case reaches $3.67 million over the next decade.",
-    "source": "The Block",
-    "time": "10/28/2026, 5:07:08 PM",
-    "link": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
-    "category": "Markets"
-  },
-  {
-    "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
-    "summary": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
-    "source": "The Block",
-    "time": "10/28/2026, 4:56:36 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
-    "category": "Markets"
-  },
-  {
-    "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid",
-    "summary": "Avail launched ShieldTX, a Hyperliquid privacy tool that creates a separate wallet for each perpetual futures position.",
-    "source": "The Block",
-    "time": "10/28/2026, 4:00:02 PM",
-    "link": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto braces for potential shift in congressional oversight after midterms",
-    "summary": "Post-Clarity Act, the crypto sector could find itself navigating a very different political landscape under a new Congress.",
-    "source": "The Block",
-    "time": "10/28/2026, 3:43:01 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949",
-    "category": "Markets"
-  },
-  {
-    "title": "Ripple expects $900 million annualized product revenue run rate as institutional business expands",
-    "summary": "Ripple expects a $900M annualized product revenue run rate by end of 2026, as RLUSD reaches $2.5B and payments near $150B in lifetime volume.",
-    "source": "The Block",
-    "time": "10/28/2026, 2:00:00 PM",
-    "link": "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920",
-    "category": "Markets"
-  },
-  {
-    "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
-    "summary": "Moody's Ratings assigned the RLUSD A2 long-term and P-1 short-term ratings, citing credit quality and market value of its reserve assets.",
-    "source": "The Block",
-    "time": "10/28/2026, 10:15:20 AM",
-    "link": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
     "category": "Markets"
   }
 ]
