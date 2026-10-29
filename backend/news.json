@@ -1,5 +1,53 @@
 [
   {
+    "title": "The chart bitcoin traders should be paying attention to",
+    "summary": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.",
+    "source": "CoinDesk",
+    "time": "10/29/2026, 8:44:44 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+    "category": "Markets"
+  },
+  {
+    "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+    "summary": "Three flaws a language-model scan dug up are the first disclosed under Core’s new rules for bugs that are easy to find.",
+    "source": "CoinDesk",
+    "time": "10/29/2026, 6:54:39 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+    "category": "Markets"
+  },
+  {
+    "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+    "summary": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed.",
+    "source": "CoinDesk",
+    "time": "10/29/2026, 6:30:34 AM",
+    "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+    "category": "Markets"
+  },
+  {
+    "title": "Utah charges predictions platform Kalshi with illegal gambling",
+    "summary": "Utah has filed criminal charges against betting platform Kalshi and its co-founders.",
+    "source": "CoinDesk",
+    "time": "10/29/2026, 6:02:37 AM",
+    "link": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+    "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
+    "source": "CoinDesk",
+    "time": "10/29/2026, 4:32:43 AM",
+    "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+    "category": "Markets"
+  },
+  {
+    "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+    "summary": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it.",
+    "source": "CoinDesk",
+    "time": "10/29/2026, 4:21:24 AM",
+    "link": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+    "category": "Markets"
+  },
+  {
     "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
     "summary": "Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.",
     "source": "CoinDesk",
@@ -16,51 +64,59 @@
     "category": "Markets"
   },
   {
-    "title": "Crypto isn’t a partisan fight, proven by data",
-    "summary": "Treating crypto as a political battleground only makes it harder to build the secure, transparent, American-made financial system that most Americans say they want, argues DeFi Education Fund’s Jennifer Rosenthal.",
-    "source": "CoinDesk",
-    "time": "10/28/2026, 7:11:31 PM",
-    "link": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
+    "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K ",
+    "summary": "BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.",
+    "source": "CoinTelegraph",
+    "time": "10/29/2026, 11:46:43 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Fed leaves interest rates unchanged, as expected",
-    "summary": "A rate hike in December remains likely as the U.S. central bank continues to focus on inflation, which remains well above its 2% target.",
-    "source": "CoinDesk",
-    "time": "10/28/2026, 7:00:42 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
+    "title": "ECB President Christine Lagarde to step down in February 2027 ",
+    "summary": "Lagarde announced plans to step down as European Central Bank President after serving more than seven years in the role.",
+    "source": "CoinTelegraph",
+    "time": "10/29/2026, 11:29:38 AM",
+    "link": "https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
-    "summary": "Coinbase faces a key earnings test as analysts debate the strength of its trading rebound following a sharp drop in Robinhood's crypto revenue.",
-    "source": "CoinDesk",
-    "time": "10/28/2026, 6:02:57 PM",
-    "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
+    "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+    "summary": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.",
+    "source": "CoinTelegraph",
+    "time": "10/29/2026, 8:32:20 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
-    "summary": "The largest card networks now sit in the top governance tier of x402, the standard that AI agents use to pay for things online. Albert Castellana of GenLayer Labs explains why that standard has no way to dispute a charge, and what happens when the payment settles but the agent receives something wrong or useless.",
-    "source": "CoinDesk",
-    "time": "10/28/2026, 5:01:36 PM",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "10/29/2026, 7:00:00 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
-    "summary": "DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up.",
-    "source": "CoinDesk",
-    "time": "10/28/2026, 2:14:37 PM",
-    "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+    "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+    "summary": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt.",
+    "source": "CoinTelegraph",
+    "time": "10/29/2026, 5:39:49 AM",
+    "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
-    "summary": "Nearly half the companies on the venture’s original roster have now objected to their shares trading on the planned blockchain-based venue.",
-    "source": "CoinDesk",
-    "time": "10/28/2026, 1:59:36 PM",
-    "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+    "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+    "summary": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.",
+    "source": "CoinTelegraph",
+    "time": "10/29/2026, 4:16:32 AM",
+    "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+    "summary": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move.",
+    "source": "CoinTelegraph",
+    "time": "10/29/2026, 2:12:01 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -69,62 +125,6 @@
     "source": "CoinTelegraph",
     "time": "10/28/2026, 10:35:52 PM",
     "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "10/28/2026, 8:46:45 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series ",
-    "summary": "The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about the downfall of the crypto exchange and his relationship with Caroline Ellison.",
-    "source": "CoinTelegraph",
-    "time": "10/28/2026, 8:10:40 PM",
-    "link": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Strategy shareholders approve daily dividends for four preferred stocks ",
-    "summary": "The largest Bitcoin treasury company will begin daily dividend payments on STRC in November, with three other preferred securities following in January 2027.",
-    "source": "CoinTelegraph",
-    "time": "10/28/2026, 7:00:54 PM",
-    "link": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
-    "summary": "The FEC reported an “electronic filing system outage” on Tuesday as groups are expected to ramp up spending before the US midterm elections.",
-    "source": "CoinTelegraph",
-    "time": "10/28/2026, 6:05:42 PM",
-    "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-    "summary": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
-    "source": "CoinTelegraph",
-    "time": "10/28/2026, 5:53:26 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Phantom launches Kalshi-powered prediction markets for US users ",
-    "summary": "The crypto wallet’s new integration offers CFTC-regulated event contracts through Kalshi, as prediction markets face growing legal challenges in the US.",
-    "source": "CoinTelegraph",
-    "time": "10/28/2026, 5:40:02 PM",
-    "link": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-    "summary": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.",
-    "source": "CoinTelegraph",
-    "time": "10/28/2026, 2:47:51 PM",
-    "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,14 @@
     "category": "Markets"
   },
   {
+    "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
+    "summary": "Utah AG Derek Brown filed criminal charges against Kalshi, Tarek Mansour and Luana Lopes Lara for allegedly promoting online gambling.",
+    "source": "The Block",
+    "time": "10/29/2026, 7:40:32 AM",
+    "link": "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
+    "category": "Markets"
+  },
+  {
     "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
     "summary": "Bernstein sees Robinhood’s crypto business shifting toward infrastructure as new products like prediction markets and perps gain ground.",
     "source": "The Block",
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "10/28/2026, 10:15:20 AM",
     "link": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
-    "category": "Markets"
-  },
-  {
-    "title": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
-    "summary": "The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin.",
-    "source": "The Block",
-    "time": "10/28/2026, 4:00:33 AM",
-    "link": "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962",
     "category": "Markets"
   }
 ]
