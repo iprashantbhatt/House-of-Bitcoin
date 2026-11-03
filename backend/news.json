@@ -1,130 +1,146 @@
 [
   {
-    "title": "Big crypto wants the one thing it can’t buy: your vote",
-    "summary": "Our loyalty has been to the technology. This election, the trap is to let the biggest intermediaries claim it for themselves, argues Berkeley Law lecturer Hermine Wong.",
+    "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
+    "summary": "A fifth straight weekly decline would mark bitcoin’s joint third-longest losing streak, as oil rebounds and Apple’s margin warning adds to investor caution ahead of the U.S. midterms.",
     "source": "CoinDesk",
-    "time": "11/2/2026, 10:38:53 PM",
-    "link": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
+    "time": "11/3/2026, 10:50:16 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-    "summary": "Bulls are watching short positions, exchange withdrawals and key price levels for signs of a rebound after the midterms.",
+    "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+    "summary": "The high-profile denial follows FBI alerts identifying North Korean-controlled wallet addresses tied to the largest cryptocurrency exploit in history.",
     "source": "CoinDesk",
-    "time": "11/2/2026, 7:13:57 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+    "time": "11/3/2026, 10:40:32 AM",
+    "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
     "category": "Markets"
   },
   {
-    "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
-    "summary": "The unidentified attacker moved funds through ether, instant exchanges and Monero, but the victim and affected exchanges remain unknown.",
+    "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+    "summary": "Partners like Tether, Circle, and Chainalysis helped freeze $11M of the stolen assets.",
     "source": "CoinDesk",
-    "time": "11/2/2026, 6:21:04 PM",
-    "link": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
+    "time": "11/3/2026, 9:56:48 AM",
+    "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
     "category": "Markets"
   },
   {
-    "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
-    "summary": "Broadridge, Computershare, Equiniti and Superstate join the exchange's planned blockchain market, bringing shareholder records and voting services onchain.",
+    "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
+    "summary": "The Guppy Multiple Moving Average bands signal a bearish momentum, even as seasonality and post-midterm history lean bullish.",
     "source": "CoinDesk",
-    "time": "11/2/2026, 5:41:46 PM",
-    "link": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
+    "time": "11/3/2026, 9:50:56 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
     "category": "Markets"
   },
   {
-    "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
-    "summary": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack.",
+    "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+    "summary": "The user protection fund now sits below the $800 million level that Binance’s own rules say triggers a top-up, and the exchange hasn’t said when it will refill it.",
     "source": "CoinDesk",
-    "time": "11/2/2026, 4:53:29 PM",
-    "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+    "time": "11/3/2026, 6:36:56 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
     "category": "Markets"
   },
   {
-    "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
-    "summary": "Nearly 70% of the companies initially picked for trading have opted out, while 19 firms including Apple, Tesla and Amazon have no disclosed objection as the 30-day response window nears its end.",
+    "title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
+    "summary": "The company's revenue dropped 63% in the third quarter, while a $127 million accounting gain helped turn an operating loss into a reported profit.",
     "source": "CoinDesk",
-    "time": "11/2/2026, 4:26:43 PM",
-    "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+    "time": "11/3/2026, 6:29:48 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
     "category": "Markets"
   },
   {
-    "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
-    "summary": "The Claude developer generated $17 billion in quarterly revenue, but higher computing costs resulted in a $567 million operating loss.",
+    "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
+    "summary": "A 12-person committee briefly rewrote one of Arbitrum’s core contracts to spend from an address it held no key for, then put the code back. It’s the second time this year.",
     "source": "CoinDesk",
-    "time": "11/2/2026, 4:18:55 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
+    "time": "11/3/2026, 6:25:12 AM",
+    "link": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
     "category": "Markets"
   },
   {
-    "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
-    "summary": "The bank uses Hong Kong's EnsembleTX system to move deposits between participating banks around the clock, settling in central bank money.",
+    "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+    "summary": "ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower.",
     "source": "CoinDesk",
-    "time": "11/2/2026, 4:05:24 PM",
-    "link": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
+    "time": "11/3/2026, 5:48:17 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+    "category": "Markets"
+  },
+  {
+    "title": "France postpones 2027 budget vote, crypto exit-tax proposals scrapped",
+    "summary": "The National Assembly postponed the vote on the budget’s revenue section for the second time, while the Nov. 17 deadline for the first reading examination nears.",
+    "source": "CoinTelegraph",
+    "time": "11/3/2026, 11:49:26 AM",
+    "link": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater ",
+    "summary": "Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance.",
+    "source": "CoinTelegraph",
+    "time": "11/3/2026, 11:04:05 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
+    "summary": "ARK Invest added Coinbase and Circle shares across two trading sessions while selling about $8 million in Bullish as crypto stocks declined.",
+    "source": "CoinTelegraph",
+    "time": "11/3/2026, 9:35:13 AM",
+    "link": "https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Suspected EU crypto theft estimate rises to $133M: ZachXBT",
+    "summary": "ZachXBT identified another $27 million in exchange withdrawals, some of which occurred after he first flagged the suspected crypto theft.",
+    "source": "CoinTelegraph",
+    "time": "11/3/2026, 9:18:22 AM",
+    "link": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June ",
+    "summary": "BlackRock’s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows.",
+    "source": "CoinTelegraph",
+    "time": "11/3/2026, 8:49:51 AM",
+    "link": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "11/2/2026, 11:36:09 PM",
+    "time": "11/3/2026, 7:00:00 AM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
-    "summary": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state.",
+    "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+    "summary": "Crypto.com will discontinue its consumer app services in Hong Kong in February next year.",
     "source": "CoinTelegraph",
-    "time": "11/2/2026, 11:22:30 PM",
-    "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/3/2026, 6:10:19 AM",
+    "link": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
-    "summary": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts.",
+    "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
+    "summary": "The Reserve Bank of Australia raised its benchmark rate to 4.85% on rising technology costs from AI investment and higher energy prices.",
     "source": "CoinTelegraph",
-    "time": "11/2/2026, 10:54:41 PM",
-    "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/3/2026, 5:14:32 AM",
+    "link": "https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-    "summary": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000.",
-    "source": "CoinTelegraph",
-    "time": "11/2/2026, 10:16:24 PM",
-    "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
+    "summary": "Kim Yo Jong suggested the U.S. itself could be behind the theft, as Binance said hourly deposits had begun to exceed withdrawals.",
+    "source": "Decrypt",
+    "time": "11/3/2026, 11:18:48 AM",
+    "link": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
     "category": "Markets"
   },
   {
-    "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
-    "summary": "Slowing trading activity and fallout from the Binance hack are clouding Coinbase’s revenue prospects, prompting Morgan Stanley to lower its rating on the stock.",
-    "source": "CoinTelegraph",
-    "time": "11/2/2026, 9:22:23 PM",
-    "link": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-    "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
-    "source": "CoinTelegraph",
-    "time": "11/2/2026, 8:27:58 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
-    "summary": "Brazil’s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.",
-    "source": "CoinTelegraph",
-    "time": "11/2/2026, 8:05:35 PM",
-    "link": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
-    "summary": "The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets.",
-    "source": "CoinTelegraph",
-    "time": "11/2/2026, 7:00:16 PM",
-    "link": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
+    "summary": "Users say Claude is routing some requests to a stronger unreleased model, a Mythos 5.5 label appeared in Anthropic’s site code, and OpenAI appears to be testing GPT-6.2 Astra.",
+    "source": "Decrypt",
+    "time": "11/3/2026, 12:10:25 AM",
+    "link": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
     "category": "Markets"
   },
   {
@@ -176,19 +192,27 @@
     "category": "Markets"
   },
   {
-    "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
-    "summary": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50.",
-    "source": "Decrypt",
-    "time": "11/2/2026, 6:36:03 PM",
-    "link": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
+    "title": "NEAR governance approves proposal to cut token issuance ceiling to 1.6%",
+    "summary": "NEAR's House of Stake passed HSP-029, which lowers the network's maximum annual issuance rate from 2.5% to 1.6% over 24 months.",
+    "source": "The Block",
+    "time": "11/3/2026, 10:19:41 AM",
+    "link": "https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378",
     "category": "Markets"
   },
   {
-    "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
-    "summary": "The OpenAI CEO said it's \"quite terrible\" for DRAM to sit largely idle in personal computers while AI data centers face a supply crunch.",
-    "source": "Decrypt",
-    "time": "11/2/2026, 6:07:28 PM",
-    "link": "https://decrypt.co/382345/elon-musk-mocks-sam-altman-over-claim-home-pcs-are-wasting-ram",
+    "title": "Consensys launches cross-ledger settlement and routing stack for institutional networks",
+    "summary": "Consensys launched a technology stack enabling banks to route and settle transactions across independent ledgers without moving assets.",
+    "source": "The Block",
+    "time": "11/3/2026, 9:56:07 AM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375",
+    "category": "Markets"
+  },
+  {
+    "title": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
+    "summary": "Cathie Wood's Ark Invest bought $3.4 million of Coinbase shares, $2.6 million of Circle, and $645,820 of Robinhood on Monday.",
+    "source": "The Block",
+    "time": "11/3/2026, 3:57:33 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "11/2/2026, 4:01:36 PM",
     "link": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
-    "summary": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack.",
-    "source": "The Block",
-    "time": "11/2/2026, 3:40:53 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
-    "category": "Markets"
-  },
-  {
-    "title": "‘We found room for even more orange’: Michael Saylor’s Strategy scoops up another 811 bitcoin for $65.5 million",
-    "summary": "The latest bitcoin acquisition disclosure comes after Strategy reported $19.5 billion in third quarter net income on Thursday.",
-    "source": "The Block",
-    "time": "11/2/2026, 2:09:43 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275",
-    "category": "Markets"
-  },
-  {
-    "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
-    "summary": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday's Binance's hack.",
-    "source": "The Block",
-    "time": "11/2/2026, 5:11:05 AM",
-    "link": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
     "category": "Markets"
   }
 ]
