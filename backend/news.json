@@ -1,130 +1,138 @@
 [
   {
-    "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
-    "summary": "The industry's primary campaign arm had cultivated a reputation as an unstoppable force, but more than a third of its spending failed to hit the mark, especially in Ohio.",
+    "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+    "summary": "Riot has sold most of its bitcoin to fund its move into data centers. Its latest agreement gives Anthropic a way to finance part of the build and collect interest through rent deductions.",
     "source": "CoinDesk",
-    "time": "11/4/2026, 9:29:12 PM",
-    "link": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
+    "time": "11/5/2026, 10:36:32 AM",
+    "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
     "category": "Markets"
   },
   {
-    "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
-    "summary": "Industry experts warn the Clarity Act is likely dead in its current form as incoming Democratic majorities eye tighter scrutiny of crypto markets and tokenized stocks.",
+    "title": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+    "summary": "Crypto firms must collect customer and transaction data from 2027, with Hong Kong sharing the information with overseas tax authorities from 2028.",
     "source": "CoinDesk",
-    "time": "11/4/2026, 5:11:29 PM",
-    "link": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
+    "time": "11/5/2026, 9:35:37 AM",
+    "link": "https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities",
     "category": "Markets"
   },
   {
-    "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
-    "summary": "Bitcoin miners pivoting to AI face new uncertainty over power access and construction permits, while companies with approved projects could benefit from tighter supply.",
+    "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+    "summary": "OpenAI says its AI found 948 Linux flaws and wrote a working attack for each one. Crypto security voices say decentralization leaves the industry better placed than most to cope.",
     "source": "CoinDesk",
-    "time": "11/4/2026, 5:08:14 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+    "time": "11/5/2026, 9:26:26 AM",
+    "link": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto",
     "category": "Markets"
   },
   {
-    "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
-    "summary": "Retail traders increasingly want trades that resolve fast, from prediction markets to same-day options. Andy Baehr of GSR argues perpetual futures belong in that group, and that ICE’s deal to bring Trade[XYZ]’s Hyperliquid markets onshore is a play for that customer, one that doesn’t need a crypto asset to work.",
+    "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+    "summary": "About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Roughly 10,000 coins have left over the past week, but only about 40 moved out Wednesday.",
     "source": "CoinDesk",
-    "time": "11/4/2026, 4:27:20 PM",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
+    "time": "11/5/2026, 6:47:01 AM",
+    "link": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
     "category": "Markets"
   },
   {
-    "title": "The election changes Washington. The work on crypto continues",
-    "summary": "The next Congress inherits an unfinished assignment: establishing clear, lasting rules for digital assets that protect consumers and ensure American innovation continues to thrive, writes Blockchain Association's Lindsay Fraser.",
+    "title": "The pile of lawsuits against Kalshi just grew by one",
+    "summary": "Arkansas has accused the prediction market of running illegal gambling, joining Utah and several other U.S. states that have filed criminal or civil charges.",
     "source": "CoinDesk",
-    "time": "11/4/2026, 3:25:12 PM",
-    "link": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
+    "time": "11/5/2026, 6:28:52 AM",
+    "link": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
-    "summary": "The biggest losers were the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
+    "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+    "summary": "The fix went live Wednesday after validator support reset the activation clock in October. XRP itself was unaffected.",
     "source": "CoinDesk",
-    "time": "11/4/2026, 3:00:53 PM",
-    "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+    "time": "11/5/2026, 6:25:06 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
     "category": "Markets"
   },
   {
-    "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
-    "summary": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge.",
+    "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+    "summary": "Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation.",
     "source": "CoinDesk",
-    "time": "11/4/2026, 2:00:00 PM",
-    "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+    "time": "11/5/2026, 6:13:45 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
     "category": "Markets"
   },
   {
-    "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
-    "summary": "North Korea’s TraderTraitor is routing Binance hack proceeds through THORChain, swapping ether for bitcoin after an earlier wave of conversions from Tron.",
+    "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+    "summary": "A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show.",
     "source": "CoinDesk",
-    "time": "11/4/2026, 1:49:56 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+    "time": "11/5/2026, 5:11:33 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
+    "summary": "Bitcoin outperformed the S&P 500 in half of the past 90 US trading sessions, while historical midterm data highlights gains for stocks.",
+    "source": "CoinTelegraph",
+    "time": "11/5/2026, 11:28:26 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+    "summary": "South Korea is seeking a fourth delay to its 22% crypto tax, months after reaffirming plans to begin taxing digital asset gains in January 2027.",
+    "source": "CoinTelegraph",
+    "time": "11/5/2026, 10:35:29 AM",
+    "link": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+    "summary": "Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.",
+    "source": "CoinTelegraph",
+    "time": "11/5/2026, 10:04:42 AM",
+    "link": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+    "summary": "Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 million, extending its outflow streak to four trading sessions.",
+    "source": "CoinTelegraph",
+    "time": "11/5/2026, 9:22:30 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Crédit Mutuel Arkéa resumes operations after attack, assesses losses",
+    "summary": "The bank said customer funds were unaffected after attackers accessed its systems through a service provider’s platform.",
+    "source": "CoinTelegraph",
+    "time": "11/5/2026, 8:23:06 AM",
+    "link": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "11/4/2026, 11:54:23 PM",
+    "time": "11/5/2026, 7:21:12 AM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-    "summary": "The crypto exchange’s founder warned of security staffing shortages amid restructuring as analysts flagged suspicious transfers potentially linked to the Mercado Bitcoin hack.",
+    "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+    "summary": "Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their owners.",
     "source": "CoinTelegraph",
-    "time": "11/4/2026, 11:31:58 PM",
-    "link": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/5/2026, 7:02:29 AM",
+    "link": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress ",
-    "summary": "Crypto super PACs spent more than $176 million on the midterms, but the Democratic sweep raises the prospect of tougher industry scrutiny.",
+    "title": "‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep",
+    "summary": "Democrats wasted little time after their midterm victory, warning tech CEOs to prepare for subpoenas and signaling fresh investigations into Trump’s business dealings.",
     "source": "CoinTelegraph",
-    "time": "11/4/2026, 11:17:33 PM",
-    "link": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/5/2026, 5:52:49 AM",
+    "link": "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1",
-    "summary": "From setting up an SMSF or a company, to just leaving the country entirely, here are some strategies Australian Bitcoiners can employ to deal with 2027’s massive CGT hike.",
-    "source": "CoinTelegraph",
-    "time": "11/4/2026, 10:30:00 PM",
-    "link": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms ",
-    "summary": "The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied.",
-    "source": "CoinTelegraph",
-    "time": "11/4/2026, 8:15:39 PM",
-    "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
-    "summary": "Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income.",
-    "source": "CoinTelegraph",
-    "time": "11/4/2026, 7:47:56 PM",
-    "link": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
-    "summary": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition.",
-    "source": "CoinTelegraph",
-    "time": "11/4/2026, 7:02:42 PM",
-    "link": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
-    "summary": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell.",
-    "source": "CoinTelegraph",
-    "time": "11/4/2026, 4:29:23 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Arkansas Sues Kalshi, Joining a Growing List of States Targeting Prediction Markets",
+    "summary": "Attorney General Tim Griffin said betting on \"whether the Razorbacks win or lose\" is gambling, and wants restitution, penalties and taxes.",
+    "source": "Decrypt",
+    "time": "11/5/2026, 11:28:58 AM",
+    "link": "https://decrypt.co/382588/arkansas-sues-kalshi-joining-a-growing-list-of-states-targeting-prediction-markets",
     "category": "Markets"
   },
   {
@@ -184,11 +192,35 @@
     "category": "Markets"
   },
   {
-    "title": "What Is x402? How AI Agents Pay With Crypto",
-    "summary": "Coinbase's x402 protocol puts the web's long-unused 402 code to work so AI agents and apps can pay for APIs and data in stablecoins like USDC.",
-    "source": "Decrypt",
-    "time": "11/4/2026, 6:59:09 PM",
-    "link": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
+    "title": "Eric Trump’s American Bitcoin swings to $126 million profit in Q3 on digital asset gains",
+    "summary": "American Bitcoin reported Q3 net income of $126 million, swinging from a $57.2 million net loss in the previous quarter.",
+    "source": "The Block",
+    "time": "11/5/2026, 9:52:32 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
+    "category": "Markets"
+  },
+  {
+    "title": "Arkansas sues Kalshi, says its alleged illegal gambling operations cause mental harm",
+    "summary": "The lawsuit adds Arkansas to a growing list of states taking legal action against the prediction market platform.",
+    "source": "The Block",
+    "time": "11/5/2026, 9:26:48 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407",
+    "category": "Markets"
+  },
+  {
+    "title": "The Digital Chamber calls Sherrod Brown’s win ‘most consequential unfavorable result’ for crypto",
+    "summary": "Democrats are set to reorient the crypto policy debate toward stronger consumer protections and regulatory accountability, the group said.",
+    "source": "The Block",
+    "time": "11/5/2026, 5:28:54 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371",
+    "category": "Markets"
+  },
+  {
+    "title": "Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses",
+    "summary": "Crédit Mutuel Arkéa did not confirm the exact amount of losses but validated the order of magnitude of the $133 million figure.",
+    "source": "The Block",
+    "time": "11/5/2026, 5:01:16 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372",
     "category": "Markets"
   },
   {
@@ -221,38 +253,6 @@
     "source": "The Block",
     "time": "11/4/2026, 5:58:42 PM",
     "link": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
-    "category": "Markets"
-  },
-  {
-    "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
-    "summary": "The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds.",
-    "source": "The Block",
-    "time": "11/4/2026, 5:27:49 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
-    "category": "Markets"
-  },
-  {
-    "title": "Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction",
-    "summary": "Circle reported $865 million in third-quarter revenue and reserve income and disclosed cuts affecting approximately 5% of its workforce.",
-    "source": "The Block",
-    "time": "11/4/2026, 2:17:31 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671",
-    "category": "Markets"
-  },
-  {
-    "title": "BitGo launches institutional trading and financial solutions business led by former NYDIG executive",
-    "summary": "BitGo has launched Global Markets, an institutional trading and financial solutions business headed by former NYDIG executive Pete Janney.",
-    "source": "The Block",
-    "time": "11/4/2026, 1:00:00 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646",
-    "category": "Markets"
-  },
-  {
-    "title": "DeFi Explained",
-    "summary": "DeFi 201 explains decentralized finance as a connected protocol system. It follows how DEXs and AMMs, liquidity pools, lending markets, yield aggregators, oracles, derivatives and DAO governance fit together, and where composability creates systemic risk.",
-    "source": "The Block",
-    "time": "11/4/2026, 12:05:30 PM",
-    "link": "https://www.theblock.co/learn/defi/defi-explained-432391",
     "category": "Markets"
   }
 ]
