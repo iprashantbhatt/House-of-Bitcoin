@@ -1,5 +1,45 @@
 [
   {
+    "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+    "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
+    "source": "CoinDesk",
+    "time": "11/6/2026, 9:47:42 AM",
+    "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+    "category": "Markets"
+  },
+  {
+    "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+    "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
+    "source": "CoinDesk",
+    "time": "11/6/2026, 9:04:52 AM",
+    "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+    "category": "Markets"
+  },
+  {
+    "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+    "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
+    "source": "CoinDesk",
+    "time": "11/6/2026, 6:14:48 AM",
+    "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+    "category": "Markets"
+  },
+  {
+    "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+    "summary": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain.",
+    "source": "CoinDesk",
+    "time": "11/6/2026, 3:24:23 AM",
+    "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+    "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
+    "source": "CoinDesk",
+    "time": "11/6/2026, 2:30:00 AM",
+    "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+    "category": "Markets"
+  },
+  {
     "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
     "summary": "The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud.",
     "source": "CoinDesk",
@@ -8,7 +48,7 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+    "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
     "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
     "source": "CoinDesk",
     "time": "11/5/2026, 7:48:40 PM",
@@ -24,107 +64,91 @@
     "category": "Markets"
   },
   {
-    "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-    "summary": "Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices.",
-    "source": "CoinDesk",
-    "time": "11/5/2026, 5:49:08 PM",
-    "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
-    "summary": "",
-    "source": "CoinDesk",
-    "time": "11/5/2026, 5:13:32 PM",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
-    "category": "Markets"
-  },
-  {
-    "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
-    "summary": "Lin Han says Gate holds enough assets in cold storage to cover customer balances even if its hot wallets are emptied. An independent audit is underway.",
-    "source": "CoinDesk",
-    "time": "11/5/2026, 3:21:50 PM",
-    "link": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
-    "category": "Markets"
-  },
-  {
-    "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
-    "summary": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group.",
-    "source": "CoinDesk",
-    "time": "11/5/2026, 3:00:00 PM",
-    "link": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
-    "category": "Markets"
-  },
-  {
-    "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-    "summary": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
-    "source": "CoinDesk",
-    "time": "11/5/2026, 2:29:40 PM",
-    "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-    "category": "Markets"
-  },
-  {
-    "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
-    "summary": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins.",
+    "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+    "summary": "South Korea’s GOPAX suspended trading, deposits and standard withdrawals after a hacking threat, with manual withdrawals available through support.",
     "source": "CoinTelegraph",
-    "time": "11/5/2026, 11:43:18 PM",
-    "link": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/6/2026, 11:47:33 AM",
+    "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express  ",
-    "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins.",
+    "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
+    "summary": "Experts say blockchain records show repeated wallet drains but cannot establish Binance’s internal signing controls or transaction limits.",
     "source": "CoinTelegraph",
-    "time": "11/5/2026, 11:18:42 PM",
-    "link": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/6/2026, 11:40:57 AM",
+    "link": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Crypto ally French Hill wins reelection but set to lose House chair",
-    "summary": "Republican French Hill secured another term in Congress but will lose his leadership of the House Financial Services Committee when Democrats take control in January.",
+    "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+    "summary": "Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access.",
     "source": "CoinTelegraph",
-    "time": "11/5/2026, 10:39:19 PM",
-    "link": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/6/2026, 10:00:36 AM",
+    "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
-    "summary": "SignalPlus said attackers compromised an engineer’s computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full.",
+    "title": "Hyperliquid Strategies seeks futures registration for perps ",
+    "summary": "The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US.",
     "source": "CoinTelegraph",
-    "time": "11/5/2026, 8:02:19 PM",
-    "link": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/6/2026, 9:42:54 AM",
+    "link": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Fed, OCC check US banks after Binance hack as experts flag security risks ",
-    "summary": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.",
+    "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+    "summary": "US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.",
     "source": "CoinTelegraph",
-    "time": "11/5/2026, 7:32:45 PM",
-    "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/6/2026, 9:19:18 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-    "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets.",
+    "title": "Chainalysis says breach exposed password hashes and live tokens",
+    "summary": "Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.",
     "source": "CoinTelegraph",
-    "time": "11/5/2026, 7:09:38 PM",
-    "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/6/2026, 7:54:34 AM",
+    "link": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Paraguay president resigns after collapse of Ueno digital bank",
-    "summary": "Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno Bank’s parent company, as the lender’s collapse left millions of customers unable to access their funds.",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "11/5/2026, 6:40:25 PM",
-    "link": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/6/2026, 7:04:41 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains ",
-    "summary": "Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains.",
+    "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+    "summary": "Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage.",
     "source": "CoinTelegraph",
-    "time": "11/5/2026, 5:48:41 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/6/2026, 6:07:00 AM",
+    "link": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+    "summary": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
+    "source": "Decrypt",
+    "time": "11/6/2026, 11:57:06 AM",
+    "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+    "category": "Markets"
+  },
+  {
+    "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
+    "summary": "The Network Sustainability Mechanism will reissue removed ZEC from 2031 within the 21 million cap, as the community debates its dev fund.",
+    "source": "Decrypt",
+    "time": "11/6/2026, 11:13:27 AM",
+    "link": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+    "category": "Markets"
+  },
+  {
+    "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
+    "summary": "Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.",
+    "source": "Decrypt",
+    "time": "11/6/2026, 12:06:02 AM",
+    "link": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
     "category": "Markets"
   },
   {
@@ -168,27 +192,35 @@
     "category": "Markets"
   },
   {
-    "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
-    "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.",
-    "source": "Decrypt",
-    "time": "11/5/2026, 8:16:03 PM",
-    "link": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
+    "title": "Kalshi hit with injunction over sports contracts on California tribal lands",
+    "summary": "A federal judge has granted the preliminary injunction to bar Kalshi from offering sports contracts on the lands of two California tribes.",
+    "source": "The Block",
+    "time": "11/6/2026, 9:34:02 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813",
     "category": "Markets"
   },
   {
-    "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
-    "summary": "The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings.",
-    "source": "Decrypt",
-    "time": "11/5/2026, 7:25:31 PM",
-    "link": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
+    "title": "Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
+    "summary": "NU7 also activates the Network Sustainability Mechanism, which removes 60% of each block's transaction fees from circulation.",
+    "source": "The Block",
+    "time": "11/6/2026, 8:36:42 AM",
+    "link": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
     "category": "Markets"
   },
   {
-    "title": "S&#038;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs",
-    "summary": "A day after Trump celebrated stock market records, the S&P 500 sank 3.8%, putting emergency trading halts in focus as AI stocks dragged Wall Street sharply lower during Thursday trading.",
-    "source": "Decrypt",
-    "time": "11/5/2026, 7:05:21 PM",
-    "link": "https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
+    "title": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
+    "summary": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million.",
+    "source": "The Block",
+    "time": "11/6/2026, 5:29:14 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
+    "category": "Markets"
+  },
+  {
+    "title": "Ark Invest buys more Coinbase as shares plunge 10% in wider market rout",
+    "summary": "Cathie Wood's Ark Invest bought $2.44 million worth of Coinbase on Thursday as the stock plunged 9.69% amid a broader sell-off.",
+    "source": "The Block",
+    "time": "11/6/2026, 4:56:28 AM",
+    "link": "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769",
     "category": "Markets"
   },
   {
@@ -221,38 +253,6 @@
     "source": "The Block",
     "time": "11/5/2026, 5:53:56 PM",
     "link": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
-    "category": "Markets"
-  },
-  {
-    "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business",
-    "summary": "Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved.",
-    "source": "The Block",
-    "time": "11/5/2026, 5:00:02 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
-    "category": "Markets"
-  },
-  {
-    "title": "Payward-affiliated fund and clients buy AAVE token stake on secondary market",
-    "summary": "Payward disclosed neither the size nor price of the AAVE purchases and said it may acquire more tokens.",
-    "source": "The Block",
-    "time": "11/5/2026, 4:36:50 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798",
-    "category": "Markets"
-  },
-  {
-    "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
-    "summary": "Samsung Wallet's Stablecoin Account is now live for eligible U.S. Galaxy users, allowing them to use USDC on Solana.",
-    "source": "The Block",
-    "time": "11/5/2026, 3:19:51 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
-    "category": "Markets"
-  },
-  {
-    "title": "Eric Trump’s American Bitcoin swings to $126 million profit in Q3 on digital asset gains",
-    "summary": "American Bitcoin reported Q3 net income of $126 million, swinging from a $57.2 million net loss in the previous quarter.",
-    "source": "The Block",
-    "time": "11/5/2026, 9:52:32 AM",
-    "link": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
     "category": "Markets"
   }
 ]
