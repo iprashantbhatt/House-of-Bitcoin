@@ -1,5 +1,53 @@
 [
   {
+    "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+    "summary": "The Capital Markets Alliance argues that the products fall under the Securities and Exchange Commission’s jurisdiction.",
+    "source": "CoinDesk",
+    "time": "11/10/2026, 10:14:30 AM",
+    "link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
+    "category": "Markets"
+  },
+  {
+    "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+    "summary": "Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway.",
+    "source": "CoinDesk",
+    "time": "11/10/2026, 8:01:06 AM",
+    "link": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+    "summary": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters.",
+    "source": "CoinDesk",
+    "time": "11/10/2026, 6:18:31 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+    "category": "Markets"
+  },
+  {
+    "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+    "summary": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.",
+    "source": "CoinDesk",
+    "time": "11/10/2026, 5:51:20 AM",
+    "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+    "summary": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief.",
+    "source": "CoinDesk",
+    "time": "11/10/2026, 4:22:26 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+    "category": "Markets"
+  },
+  {
+    "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+    "summary": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+    "source": "CoinDesk",
+    "time": "11/9/2026, 11:56:27 PM",
+    "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+    "category": "Markets"
+  },
+  {
     "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
     "summary": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture.",
     "source": "CoinDesk",
@@ -16,115 +64,75 @@
     "category": "Markets"
   },
   {
-    "title": "Google’s AI chip push adds more pressure on Nvidia",
-    "summary": "Google’s specialised AI chips threaten greater competition as Nvidia faces a leadership investigation.",
-    "source": "CoinDesk",
-    "time": "11/9/2026, 4:20:05 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
+    "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+    "summary": "Bitcoin price action and stock futures trended lower after Fed governor Christopher Waller said that he would vote to raise interest rates by 0.25% at the December FOMC meeting.",
+    "source": "CoinTelegraph",
+    "time": "11/10/2026, 11:08:22 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-    "summary": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says.",
-    "source": "CoinDesk",
-    "time": "11/9/2026, 4:00:44 PM",
-    "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+    "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
+    "summary": "BitGo’s $71 million unrealized gain on its crypto holdings helped nearly double its net income, but revenue and earnings came in below preliminary analyst expectations.",
+    "source": "CoinTelegraph",
+    "time": "11/10/2026, 10:05:16 AM",
+    "link": "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-    "summary": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market",
-    "source": "CoinDesk",
-    "time": "11/9/2026, 2:40:06 PM",
-    "link": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
+    "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+    "summary": "US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock’s IBIT totaling $1.66 billion.",
+    "source": "CoinTelegraph",
+    "time": "11/10/2026, 9:02:05 AM",
+    "link": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-    "summary": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading.",
-    "source": "CoinDesk",
-    "time": "11/9/2026, 1:41:35 PM",
-    "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-    "category": "Markets"
-  },
-  {
-    "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-    "summary": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens",
-    "source": "CoinDesk",
-    "time": "11/9/2026, 1:37:13 PM",
-    "link": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin bulls can't rely on ETF flows",
-    "summary": "Your day-ahead look for Nov. 9, 2026",
-    "source": "CoinDesk",
-    "time": "11/9/2026, 1:30:00 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
+    "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+    "summary": "Securitize agreed to buy River One to bring stablecoin funding to asset-backed lending and expects the deal to close in the fourth quarter of 2026.",
+    "source": "CoinTelegraph",
+    "time": "11/10/2026, 8:49:14 AM",
+    "link": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "11/9/2026, 11:06:26 PM",
+    "time": "11/10/2026, 7:00:00 AM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
-    "summary": "Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax.",
+    "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
+    "summary": "“Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm told Cointelegraph.",
     "source": "CoinTelegraph",
-    "time": "11/9/2026, 10:00:00 PM",
-    "link": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/10/2026, 6:05:58 AM",
+    "link": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-    "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.",
+    "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+    "summary": "Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns.",
     "source": "CoinTelegraph",
-    "time": "11/9/2026, 9:26:34 PM",
-    "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/10/2026, 4:04:54 AM",
+    "link": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-    "summary": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.",
+    "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+    "summary": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses.",
     "source": "CoinTelegraph",
-    "time": "11/9/2026, 8:52:34 PM",
-    "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/10/2026, 1:42:39 AM",
+    "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-    "summary": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.",
-    "source": "CoinTelegraph",
-    "time": "11/9/2026, 7:25:29 PM",
-    "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "PNC Bank tests turning USDC payments into dollar deposits",
-    "summary": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.",
-    "source": "CoinTelegraph",
-    "time": "11/9/2026, 6:48:35 PM",
-    "link": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-    "summary": "Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
-    "source": "CoinTelegraph",
-    "time": "11/9/2026, 6:41:02 PM",
-    "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
-    "summary": "Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares.",
-    "source": "CoinTelegraph",
-    "time": "11/9/2026, 6:13:25 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair",
+    "summary": "An aide said Trump family crypto businesses should \"preserve their documents\" as Warren prepares to take over the Senate Banking Committee.",
+    "source": "Decrypt",
+    "time": "11/10/2026, 11:41:06 AM",
+    "link": "https://decrypt.co/382910/tough-questions-ahead-warren-targets-prediction-markets-trump-crypto-as-banking-chair",
     "category": "Markets"
   },
   {
@@ -184,75 +192,67 @@
     "category": "Markets"
   },
   {
-    "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
-    "summary": "The Ethereum co-founder says ETH's value comes from stability, not fee burns, citing its decentralization, censorship resistance and security.",
-    "source": "Decrypt",
-    "time": "11/9/2026, 6:14:10 PM",
-    "link": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
+    "title": "Exodus shares rise 10% ahead of Q3 earnings showing 7% revenue growth, $8.3 million loss",
+    "summary": "Exodus shares rose 10% as the company reported third-quarter revenue of $32.5 million and a net loss of $8.3 million.",
+    "source": "The Block",
+    "time": "11/10/2026, 11:53:57 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-10-exodus-shares-rise-10-ahead-of-q3-earnings-showing-7-revenue-growth-8-3-million-loss-437012",
     "category": "Markets"
   },
   {
-    "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
-    "summary": "MARA posted a $634.4 million Q3 net profit, then sold 13,597 BTC to repay $750 million in loans as it pivots to AI.",
+    "title": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
+    "summary": "Cathie Wood's Ark Invest sold $6.1 million worth of Block shares and $1.13 million worth of Bullish shares through its ETFs on Monday.",
     "source": "The Block",
-    "time": "11/9/2026, 11:07:00 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
+    "time": "11/10/2026, 11:36:53 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003",
     "category": "Markets"
   },
   {
-    "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
-    "summary": "Sen. Elizabeth Warren is setting her sights on prediction market oversight and the Trump family's burgeoning crypto businesses.",
+    "title": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
+    "summary": "NEAR AI explained that it found no indication that stored Private Chat conversations or uploaded files were accessed.",
     "source": "The Block",
-    "time": "11/9/2026, 9:04:49 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
+    "time": "11/10/2026, 11:17:13 AM",
+    "link": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002",
     "category": "Markets"
   },
   {
-    "title": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
-    "summary": "Fulton’s complaint cites a recorded Buterin conversation and alleges discrimination and retaliation.",
+    "title": "Walt expands beyond Telegram with standalone crypto trading app",
+    "summary": "Walt launched a standalone app, expanding its crypto investment platform beyond Telegram for the first time.",
     "source": "The Block",
-    "time": "11/9/2026, 7:30:22 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
+    "time": "11/10/2026, 10:30:00 AM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981",
     "category": "Markets"
   },
   {
-    "title": "StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market",
-    "summary": "StoneX initiated coverage of Bullish with a Buy rating and a $42 price target, implying roughly 97% upside from its current levels.",
+    "title": "BitGo revenue falls 51% in Q3 as trading slows; net income rises on treasury gains",
+    "summary": "The revenue decline was driven by continued soft crypto trading environment and a higher mix of lower-margin stablecoin transactions.",
     "source": "The Block",
-    "time": "11/9/2026, 5:07:05 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464",
+    "time": "11/10/2026, 9:20:53 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-10-bitgo-revenue-falls-q3-436986",
     "category": "Markets"
   },
   {
-    "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
-    "summary": "PNC Bank is piloting USDC payment acceptance for corporate and institutional clients through its expanded partnership with Coinbase.",
+    "title": "Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures",
+    "summary": "The crypto firms moved for leave to file an amicus brief defending the CFTC's authority to regulate single-stock perpetual futures in the US.",
     "source": "The Block",
-    "time": "11/9/2026, 5:01:28 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
+    "time": "11/10/2026, 7:19:10 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
     "category": "Markets"
   },
   {
-    "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
-    "summary": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain.",
+    "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+    "summary": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier.",
     "source": "The Block",
-    "time": "11/9/2026, 4:54:16 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
+    "time": "11/10/2026, 4:36:43 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
     "category": "Markets"
   },
   {
-    "title": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains",
-    "summary": "Sharplink posted Q3 revenue of $13.5 million and net income of $751.4 million, driven by unrealized ETH gains.",
+    "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+    "summary": "The acquisition is expected to add a new layer of financing to Securitize, enabling the platform to offer asset-backed lending.",
     "source": "The Block",
-    "time": "11/9/2026, 4:40:30 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459",
-    "category": "Markets"
-  },
-  {
-    "title": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
-    "summary": "River Markets' affiliate registered with CFTC as an FCM as it builds a prime brokerage for institutional prediction market traders.",
-    "source": "The Block",
-    "time": "11/9/2026, 4:05:02 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266",
+    "time": "11/10/2026, 3:13:07 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955",
     "category": "Markets"
   }
 ]
