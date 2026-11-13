@@ -1,7 +1,55 @@
 [
   {
-    "title": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
-    "summary": "Bitcoin fell below its 200-week moving average as the Dollar Index held above 103, while gold struggled to recover and oil prices rebounded.",
+    "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+    "summary": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move.",
+    "source": "CoinDesk",
+    "time": "11/13/2026, 7:39:58 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+    "category": "Markets"
+  },
+  {
+    "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+    "summary": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week.",
+    "source": "CoinDesk",
+    "time": "11/13/2026, 6:05:43 PM",
+    "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+    "summary": "Bitcoin is down 21% this year as investors weigh Anthropic’s anticipated listing, Nvidia’s leadership upheaval and rising Fed rate hike expectations.",
+    "source": "CoinDesk",
+    "time": "11/13/2026, 5:01:27 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+    "category": "Markets"
+  },
+  {
+    "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+    "summary": "While earnings and the company’s newly introduced financial performance measure remained below year-earlier levels, there are signs of improvement from the second quarter.",
+    "source": "CoinDesk",
+    "time": "11/13/2026, 3:02:00 PM",
+    "link": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
+    "summary": "Your day-ahead look for Nov. 13, 2026",
+    "source": "CoinDesk",
+    "time": "11/13/2026, 1:14:22 PM",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+    "summary": "Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5% since midnight UTC, as the dollar climbs and liquidations top $1.6 billion.",
+    "source": "CoinDesk",
+    "time": "11/13/2026, 12:52:25 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+    "category": "Markets"
+  },
+  {
+    "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
+    "summary": "Equity markets are falling as well, with interest rates and the dollar surging amid an increasingly hawkish Federal Reserve.",
     "source": "CoinDesk",
     "time": "11/13/2026, 10:16:58 AM",
     "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
@@ -16,243 +64,195 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-    "summary": "About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000.",
-    "source": "CoinDesk",
-    "time": "11/13/2026, 7:03:41 AM",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-    "summary": "Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell below $70,000 on Friday, the lowest since August.",
-    "source": "CoinDesk",
-    "time": "11/13/2026, 6:45:26 AM",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-    "category": "Markets"
-  },
-  {
-    "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
-    "summary": "A deal could be announced as soon as December, putting $2.1 billion of bitcoin under one roof, a sliver of what the combined group would be worth.",
-    "source": "CoinDesk",
-    "time": "11/13/2026, 6:08:59 AM",
-    "link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-    "summary": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market.",
-    "source": "CoinDesk",
-    "time": "11/13/2026, 4:37:00 AM",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
-    "category": "Markets"
-  },
-  {
-    "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-    "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
-    "source": "CoinDesk",
-    "time": "11/12/2026, 11:55:52 PM",
-    "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-    "category": "Markets"
-  },
-  {
-    "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-    "summary": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission.",
-    "source": "CoinDesk",
-    "time": "11/12/2026, 11:47:41 PM",
-    "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
-    "category": "Markets"
-  },
-  {
-    "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-    "summary": "Unocoin said the transfers were signed outside BitGo’s platform while its account was frozen, possibly via a wallet recovery feature.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 10:58:21 AM",
-    "link": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-    "summary": "Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 10:39:05 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
-    "summary": "Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 10:27:14 AM",
-    "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
-    "summary": "Jane Street ended Q3 with 19% fewer shares in BlackRock’s Bitcoin ETF, and a higher share price lifted the stake’s value to $957 million.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 10:05:10 AM",
-    "link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
-    "summary": "Microsoft began a wider patch rollout Friday as the outage disrupted government email and Microsoft 365 connectors in ChatGPT and Claude.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 9:26:01 AM",
-    "link": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "11/13/2026, 7:16:46 AM",
+    "time": "11/13/2026, 11:08:37 PM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
-    "summary": "Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage.",
+    "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+    "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
     "source": "CoinTelegraph",
-    "time": "11/13/2026, 7:00:15 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/13/2026, 11:01:03 PM",
+    "link": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
-    "summary": "The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC.",
+    "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+    "summary": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
     "source": "CoinTelegraph",
-    "time": "11/13/2026, 3:29:27 AM",
-    "link": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/13/2026, 10:49:27 PM",
+    "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
-    "summary": "House panels requested December interviews with Huang and Nvidia's top lawyer as scrutiny shifts to Commerce's oversight of chip exports.",
+    "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+    "summary": "Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded.",
+    "source": "CoinTelegraph",
+    "time": "11/13/2026, 10:01:39 PM",
+    "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+    "summary": "Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest.",
+    "source": "CoinTelegraph",
+    "time": "11/13/2026, 9:53:20 PM",
+    "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+    "summary": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and operating profit.",
+    "source": "CoinTelegraph",
+    "time": "11/13/2026, 7:28:29 PM",
+    "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+    "summary": "Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels.",
+    "source": "CoinTelegraph",
+    "time": "11/13/2026, 5:39:11 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
+    "summary": "Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps.",
+    "source": "CoinTelegraph",
+    "time": "11/13/2026, 2:41:26 PM",
+    "link": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
+    "summary": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO.",
     "source": "Decrypt",
-    "time": "11/13/2026, 11:55:54 AM",
-    "link": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
+    "time": "11/13/2026, 11:16:03 PM",
+    "link": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
     "category": "Markets"
   },
   {
-    "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
-    "summary": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout.",
+    "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+    "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket.",
     "source": "Decrypt",
-    "time": "11/12/2026, 11:36:02 PM",
-    "link": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+    "time": "11/13/2026, 10:36:03 PM",
+    "link": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
     "category": "Markets"
   },
   {
-    "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
-    "summary": "The FBI says the “FaceStealer” scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on video calls—as the DOJ also moves to seize $1.2 billion from the Binance hack.",
+    "title": "China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
+    "summary": "Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives.",
     "source": "Decrypt",
-    "time": "11/12/2026, 11:06:03 PM",
-    "link": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+    "time": "11/13/2026, 9:45:03 PM",
+    "link": "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
     "category": "Markets"
   },
   {
-    "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
-    "summary": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether the decision could slow its Bitcoin buying.",
+    "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+    "summary": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.",
     "source": "Decrypt",
-    "time": "11/12/2026, 10:26:03 PM",
-    "link": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+    "time": "11/13/2026, 9:16:03 PM",
+    "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
     "category": "Markets"
   },
   {
-    "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
-    "summary": "Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme.",
+    "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+    "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
     "source": "Decrypt",
-    "time": "11/12/2026, 9:36:03 PM",
-    "link": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+    "time": "11/13/2026, 8:36:03 PM",
+    "link": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
     "category": "Markets"
   },
   {
-    "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-    "summary": "Nvidia’s longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credibility to a company facing a very public leadership test.",
+    "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
+    "summary": "The Federal Reserve is examining whether AI will lower prices or keep inflation elevated, a question that could shape interest rates and the outlook for crypto.",
     "source": "Decrypt",
-    "time": "11/12/2026, 7:55:03 PM",
-    "link": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+    "time": "11/13/2026, 7:36:02 PM",
+    "link": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
     "category": "Markets"
   },
   {
-    "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
-    "summary": "Nvidia shares tumbled after Jensen Huang’s exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank. Here's how the AI trade is shaping up.",
+    "title": "Trump’s First Democratic Picks for SEC and CFTC Could Reshape Crypto’s Regulators",
+    "summary": "The bipartisan slate—two Republicans and two Democrats, Trump’s first Democratic picks for either agency—would refill commissions that have driven crypto policy since the Clarity Act’s collapse.",
     "source": "Decrypt",
-    "time": "11/12/2026, 7:06:03 PM",
-    "link": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
+    "time": "11/13/2026, 6:56:03 PM",
+    "link": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
     "category": "Markets"
   },
   {
-    "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
-    "summary": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down the state’s 0.2% levy on digital asset transactions.",
+    "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
+    "summary": "Bitcoin is back near August levels as persistent inflation, growing expectations of another interest-rate hike and ETF withdrawals pressure prices.",
     "source": "Decrypt",
-    "time": "11/12/2026, 6:46:02 PM",
-    "link": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+    "time": "11/13/2026, 6:22:54 PM",
+    "link": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
     "category": "Markets"
   },
   {
-    "title": "Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering",
-    "summary": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.",
+    "title": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ",
+    "summary": "Meta employees are testing Takes, a prediction app that rewards correct calls with credibility points.",
     "source": "The Block",
-    "time": "11/13/2026, 11:16:04 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
+    "time": "11/13/2026, 9:55:26 PM",
+    "link": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
     "category": "Markets"
   },
   {
-    "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
-    "summary": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares.",
+    "title": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
+    "summary": "MEGA, formerly the MegaETH Foundation, laid off 20% of staff days after its rebrand and $30 million push into AI inference products.",
     "source": "The Block",
-    "time": "11/13/2026, 10:59:16 AM",
-    "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
+    "time": "11/13/2026, 8:26:53 PM",
+    "link": "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206",
     "category": "Markets"
   },
   {
-    "title": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
-    "summary": "Arkansas previously sued Kalshi on Nov. 4, alleging that it operated an illegal gambling platform in the state.",
+    "title": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
+    "summary": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban.",
     "source": "The Block",
-    "time": "11/13/2026, 10:32:39 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
+    "time": "11/13/2026, 8:09:12 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
-    "summary": "A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions.",
+    "title": "CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders",
+    "summary": "CFTC Chairman Michael Selig says disputes over whether event contracts are gambling shouldn’t put executives at risk of jail.",
     "source": "The Block",
-    "time": "11/13/2026, 7:23:43 AM",
-    "link": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
+    "time": "11/13/2026, 7:51:03 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
     "category": "Markets"
   },
   {
-    "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
-    "summary": "The new service is built on the Beacon Network, which has more than 200 members covering 80% of crypto trading volume.",
+    "title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
+    "summary": "Hyperliquid’s share of open interest reached 11.7% across the platform and eight major centralized rivals.",
     "source": "The Block",
-    "time": "11/13/2026, 6:08:25 AM",
-    "link": "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609",
+    "time": "11/13/2026, 5:37:26 PM",
+    "link": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
     "category": "Markets"
   },
   {
-    "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
-    "summary": "Crypto Council for Innovation's Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation.",
+    "title": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
+    "summary": "Kraken parent Payward’s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%.",
     "source": "The Block",
-    "time": "11/13/2026, 5:56:47 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
+    "time": "11/13/2026, 4:31:22 PM",
+    "link": "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
-    "summary": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more.",
+    "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
+    "summary": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss.",
     "source": "The Block",
-    "time": "11/13/2026, 5:20:00 AM",
-    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
+    "time": "11/13/2026, 3:50:49 PM",
+    "link": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
     "category": "Markets"
   },
   {
-    "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
-    "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam.",
+    "title": "Ethereum and Layer 1s Explained",
+    "summary": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.",
     "source": "The Block",
-    "time": "11/12/2026, 11:40:22 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+    "time": "11/13/2026, 3:12:23 PM",
+    "link": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
     "category": "Markets"
   }
 ]
