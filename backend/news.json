@@ -1,5 +1,13 @@
 [
   {
+    "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+    "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+    "source": "CoinDesk",
+    "time": "11/14/2026, 5:30:00 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+    "category": "Markets"
+  },
+  {
     "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
     "summary": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
     "source": "CoinDesk",
@@ -56,11 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-    "summary": "Equity markets are falling as well, with interest rates and the dollar surging amid an increasingly hawkish Federal Reserve.",
-    "source": "CoinDesk",
-    "time": "11/13/2026, 10:16:58 AM",
-    "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+    "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+    "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
+    "source": "CoinTelegraph",
+    "time": "11/14/2026, 11:34:06 AM",
+    "link": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+    "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem.",
+    "source": "CoinTelegraph",
+    "time": "11/14/2026, 9:12:30 AM",
+    "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+    "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
+    "source": "CoinTelegraph",
+    "time": "11/14/2026, 7:33:13 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -101,30 +125,6 @@
     "source": "CoinTelegraph",
     "time": "11/13/2026, 9:53:20 PM",
     "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
-    "summary": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and operating profit.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 7:28:29 PM",
-    "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
-    "summary": "Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 5:39:11 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
-    "summary": "Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 2:41:26 PM",
-    "link": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,14 @@
     "category": "Markets"
   },
   {
+    "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+    "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
+    "source": "The Block",
+    "time": "11/14/2026, 6:40:00 AM",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+    "category": "Markets"
+  },
+  {
     "title": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ",
     "summary": "Meta employees are testing Takes, a prediction app that rewards correct calls with credibility points.",
     "source": "The Block",
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "11/13/2026, 3:50:49 PM",
     "link": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
-    "category": "Markets"
-  },
-  {
-    "title": "Ethereum and Layer 1s Explained",
-    "summary": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.",
-    "source": "The Block",
-    "time": "11/13/2026, 3:12:23 PM",
-    "link": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
     "category": "Markets"
   }
 ]
