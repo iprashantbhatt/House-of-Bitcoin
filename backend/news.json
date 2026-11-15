@@ -1,5 +1,61 @@
 [
   {
+    "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+    "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+    "source": "CoinDesk",
+    "time": "11/15/2026, 3:50:57 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
+    "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
+    "source": "CoinDesk",
+    "time": "11/14/2026, 5:33:29 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+    "category": "Markets"
+  },
+  {
+    "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+    "summary": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
+    "source": "CoinDesk",
+    "time": "11/14/2026, 5:33:23 PM",
+    "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+    "category": "Markets"
+  },
+  {
+    "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+    "summary": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
+    "source": "CoinDesk",
+    "time": "11/14/2026, 4:38:27 PM",
+    "link": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+    "category": "Markets"
+  },
+  {
+    "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+    "summary": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
+    "source": "CoinDesk",
+    "time": "11/14/2026, 4:00:00 PM",
+    "link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+    "category": "Markets"
+  },
+  {
+    "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+    "summary": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report.",
+    "source": "CoinDesk",
+    "time": "11/14/2026, 2:00:00 PM",
+    "link": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+    "category": "Markets"
+  },
+  {
+    "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+    "summary": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
+    "source": "CoinDesk",
+    "time": "11/14/2026, 1:57:00 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+    "category": "Markets"
+  },
+  {
     "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
     "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
     "source": "CoinDesk",
@@ -8,59 +64,35 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-    "summary": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
-    "source": "CoinDesk",
-    "time": "11/14/2026, 12:30:00 AM",
-    "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+    "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+    "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
+    "source": "CoinTelegraph",
+    "time": "11/15/2026, 11:23:17 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-    "summary": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move.",
-    "source": "CoinDesk",
-    "time": "11/13/2026, 7:39:58 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+    "title": "Coinone warns of phishing, identity theft after customer data breach",
+    "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
+    "source": "CoinTelegraph",
+    "time": "11/15/2026, 9:07:58 AM",
+    "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-    "summary": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week.",
-    "source": "CoinDesk",
-    "time": "11/13/2026, 6:05:43 PM",
-    "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+    "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+    "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+    "source": "CoinTelegraph",
+    "time": "11/15/2026, 7:27:26 AM",
+    "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
-    "summary": "Bitcoin is down 21% this year as investors weigh Anthropic’s anticipated listing, Nvidia’s leadership upheaval and rising Fed rate hike expectations.",
-    "source": "CoinDesk",
-    "time": "11/13/2026, 5:01:27 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
-    "category": "Markets"
-  },
-  {
-    "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
-    "summary": "While earnings and the company’s newly introduced financial performance measure remained below year-earlier levels, there are signs of improvement from the second quarter.",
-    "source": "CoinDesk",
-    "time": "11/13/2026, 3:02:00 PM",
-    "link": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
-    "summary": "Your day-ahead look for Nov. 13, 2026",
-    "source": "CoinDesk",
-    "time": "11/13/2026, 1:14:22 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-    "summary": "Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5% since midnight UTC, as the dollar climbs and liquidations top $1.6 billion.",
-    "source": "CoinDesk",
-    "time": "11/13/2026, 12:52:25 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "11/14/2026, 12:28:12 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -88,14 +120,6 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 11:08:37 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
     "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
     "source": "CoinTelegraph",
@@ -104,27 +128,35 @@
     "category": "Markets"
   },
   {
-    "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-    "summary": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 10:49:27 PM",
-    "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
+    "summary": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties—sending Nvidia’s stock reeling and leaving the chipmaker leaderless.",
+    "source": "Decrypt",
+    "time": "11/14/2026, 7:01:02 PM",
+    "link": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
     "category": "Markets"
   },
   {
-    "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
-    "summary": "Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 10:01:39 PM",
-    "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+    "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
+    "source": "Decrypt",
+    "time": "11/14/2026, 6:01:02 PM",
+    "link": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
     "category": "Markets"
   },
   {
-    "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
-    "summary": "Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 9:53:20 PM",
-    "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+    "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
+    "source": "Decrypt",
+    "time": "11/14/2026, 5:01:02 PM",
+    "link": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+    "category": "Markets"
+  },
+  {
+    "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
+    "summary": "OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software.",
+    "source": "Decrypt",
+    "time": "11/14/2026, 3:01:02 PM",
+    "link": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
     "category": "Markets"
   },
   {
@@ -160,35 +192,27 @@
     "category": "Markets"
   },
   {
-    "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
-    "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
-    "source": "Decrypt",
-    "time": "11/13/2026, 8:36:03 PM",
-    "link": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
+    "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+    "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+    "source": "The Block",
+    "time": "11/15/2026, 12:07:35 AM",
+    "link": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
     "category": "Markets"
   },
   {
-    "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
-    "summary": "The Federal Reserve is examining whether AI will lower prices or keep inflation elevated, a question that could shape interest rates and the outlook for crypto.",
-    "source": "Decrypt",
-    "time": "11/13/2026, 7:36:02 PM",
-    "link": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+    "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+    "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
+    "source": "The Block",
+    "time": "11/14/2026, 8:06:59 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
     "category": "Markets"
   },
   {
-    "title": "Trump’s First Democratic Picks for SEC and CFTC Could Reshape Crypto’s Regulators",
-    "summary": "The bipartisan slate—two Republicans and two Democrats, Trump’s first Democratic picks for either agency—would refill commissions that have driven crypto policy since the Clarity Act’s collapse.",
-    "source": "Decrypt",
-    "time": "11/13/2026, 6:56:03 PM",
-    "link": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
-    "summary": "Bitcoin is back near August levels as persistent inflation, growing expectations of another interest-rate hike and ETF withdrawals pressure prices.",
-    "source": "Decrypt",
-    "time": "11/13/2026, 6:22:54 PM",
-    "link": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
+    "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+    "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
+    "source": "The Block",
+    "time": "11/14/2026, 6:50:41 PM",
+    "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "11/13/2026, 7:51:03 PM",
     "link": "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
-    "category": "Markets"
-  },
-  {
-    "title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
-    "summary": "Hyperliquid’s share of open interest reached 11.7% across the platform and eight major centralized rivals.",
-    "source": "The Block",
-    "time": "11/13/2026, 5:37:26 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
-    "category": "Markets"
-  },
-  {
-    "title": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
-    "summary": "Kraken parent Payward’s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%.",
-    "source": "The Block",
-    "time": "11/13/2026, 4:31:22 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721",
-    "category": "Markets"
-  },
-  {
-    "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
-    "summary": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss.",
-    "source": "The Block",
-    "time": "11/13/2026, 3:50:49 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
     "category": "Markets"
   }
 ]
