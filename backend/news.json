@@ -1,5 +1,21 @@
 [
   {
+    "title": "Did prediction markets call the U.S. midterm election?: State of Crypto ",
+    "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
+    "source": "CoinDesk",
+    "time": "11/15/2026, 8:30:00 PM",
+    "link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+    "summary": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
+    "source": "CoinDesk",
+    "time": "11/15/2026, 3:00:00 PM",
+    "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+    "category": "Markets"
+  },
+  {
     "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
     "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
     "source": "CoinDesk",
@@ -48,19 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-    "summary": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
-    "source": "CoinDesk",
-    "time": "11/14/2026, 1:57:00 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+    "title": "US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest",
+    "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate NVIDIA boss Jensen Huang.",
+    "source": "CoinTelegraph",
+    "time": "11/15/2026, 11:50:59 PM",
+    "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-    "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
-    "source": "CoinDesk",
-    "time": "11/14/2026, 5:30:00 AM",
-    "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+    "title": "Enterprise blockchain is going to come back from the dead",
+    "summary": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+    "source": "CoinTelegraph",
+    "time": "11/15/2026, 3:30:00 PM",
+    "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "11/15/2026, 12:18:48 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -88,14 +112,6 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "11/14/2026, 12:28:12 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "Microsoft confirms global outage resolved, rules out cyberattack",
     "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
     "source": "CoinTelegraph",
@@ -112,19 +128,19 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-    "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
-    "source": "CoinTelegraph",
-    "time": "11/14/2026, 7:33:13 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+    "summary": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
+    "source": "Decrypt",
+    "time": "11/15/2026, 5:01:02 PM",
+    "link": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
     "category": "Markets"
   },
   {
-    "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-    "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
-    "source": "CoinTelegraph",
-    "time": "11/13/2026, 11:01:03 PM",
-    "link": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+    "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
+    "source": "Decrypt",
+    "time": "11/15/2026, 3:01:02 PM",
+    "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
     "category": "Markets"
   },
   {
@@ -176,19 +192,19 @@
     "category": "Markets"
   },
   {
-    "title": "China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
-    "summary": "Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives.",
-    "source": "Decrypt",
-    "time": "11/13/2026, 9:45:03 PM",
-    "link": "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
+    "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+    "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
+    "source": "The Block",
+    "time": "11/15/2026, 10:57:53 PM",
+    "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
     "category": "Markets"
   },
   {
-    "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-    "summary": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.",
-    "source": "Decrypt",
-    "time": "11/13/2026, 9:16:03 PM",
-    "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
+    "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+    "summary": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
+    "source": "The Block",
+    "time": "11/15/2026, 9:33:17 PM",
+    "link": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
     "category": "Markets"
   },
   {
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "11/13/2026, 8:26:53 PM",
     "link": "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206",
-    "category": "Markets"
-  },
-  {
-    "title": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
-    "summary": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban.",
-    "source": "The Block",
-    "time": "11/13/2026, 8:09:12 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
-    "category": "Markets"
-  },
-  {
-    "title": "CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders",
-    "summary": "CFTC Chairman Michael Selig says disputes over whether event contracts are gambling shouldn’t put executives at risk of jail.",
-    "source": "The Block",
-    "time": "11/13/2026, 7:51:03 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
     "category": "Markets"
   }
 ]
