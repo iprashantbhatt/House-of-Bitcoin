@@ -1,5 +1,29 @@
 [
   {
+    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+    "summary": "The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in the third quarter, giving it exposure to roughly 28,000 BTC.",
+    "source": "CoinDesk",
+    "time": "11/17/2026, 6:37:23 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+    "category": "Markets"
+  },
+  {
+    "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+    "summary": "The company’s accounting policy requires it to record price declines without reversing those write-downs when XRP recovers.",
+    "source": "CoinDesk",
+    "time": "11/17/2026, 6:02:05 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+    "category": "Markets"
+  },
+  {
+    "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+    "summary": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.",
+    "source": "CoinDesk",
+    "time": "11/16/2026, 10:51:04 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+    "category": "Markets"
+  },
+  {
     "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
     "summary": "Rising bond yields, ETF outflows and forced selling are weighing on bitcoin as traders brace for more losses.",
     "source": "CoinDesk",
@@ -40,91 +64,91 @@
     "category": "Markets"
   },
   {
-    "title": "Solana drops ‘beta’ label after more than six years",
-    "summary": "The blockchain is getting a shared version number. Wallets, transactions and apps remain unchanged.",
-    "source": "CoinDesk",
-    "time": "11/16/2026, 2:03:16 PM",
-    "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-    "category": "Markets"
-  },
-  {
-    "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
-    "summary": "CZ says Binance isn’t selling crypto and he has been buying. OKX founder Star Xu accuses him of misleading customers about the exchange’s role in successive October crashes.",
-    "source": "CoinDesk",
-    "time": "11/16/2026, 1:55:46 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
-    "summary": "The price action runs counter to a crypto-market view that a cooling AI trade would trigger a rotation into digital assets and spark a rally.",
-    "source": "CoinDesk",
-    "time": "11/16/2026, 1:09:00 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
-    "category": "Markets"
-  },
-  {
-    "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-    "summary": "The Supreme Court refused to hear Custodia Bank’s appeal, meaning a lower court ruling allowing the Fed to reject account applications will stand.",
+    "title": "Google says hackers use AI agents to find and exploit software flaws",
+    "summary": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches.",
     "source": "CoinTelegraph",
-    "time": "11/16/2026, 11:54:57 PM",
-    "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/17/2026, 11:05:59 AM",
+    "link": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "German lawmakers back crypto freezes outside criminal cases",
-    "summary": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
+    "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+    "summary": "Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers’ conduct was ethical or violated other laws.",
     "source": "CoinTelegraph",
-    "time": "11/16/2026, 11:46:44 PM",
-    "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/17/2026, 10:30:05 AM",
+    "link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Binance hack may push institutions to outside custody, FalconX exec says",
-    "summary": "FalconX’s Joshua Lim says the Binance hack could push institutions to keep crypto off exchanges and change how large investors trade in 2027.",
+    "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+    "summary": "Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions.",
     "source": "CoinTelegraph",
-    "time": "11/16/2026, 11:19:41 PM",
-    "link": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/17/2026, 10:08:32 AM",
+    "link": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
+    "summary": "The former Robinhood engineer used confidential information about upcoming Robinhood token listings to trade on Hyperliquid.",
+    "source": "CoinTelegraph",
+    "time": "11/17/2026, 7:35:19 AM",
+    "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "11/16/2026, 11:07:36 PM",
+    "time": "11/17/2026, 7:00:00 AM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
-    "summary": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.",
+    "title": "Trezor customer data exposed in 3rd partner breach this year",
+    "summary": "Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.",
     "source": "CoinTelegraph",
-    "time": "11/16/2026, 9:45:47 PM",
-    "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/17/2026, 4:46:22 AM",
+    "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
-    "summary": "Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront.",
+    "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+    "summary": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to security researchers.",
     "source": "CoinTelegraph",
-    "time": "11/16/2026, 9:18:02 PM",
-    "link": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/17/2026, 2:02:05 AM",
+    "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
-    "summary": "The proposed standard aims to connect tokenized stockholders with corporate disclosures and voting materials across digital wallets, but would not create shareholder rights.",
+    "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
+    "summary": "The chipmaker’s board is reportedly focused on investigating Huang’s conduct, even as a petition calling for his reinstatement gathers more than 187,000 signatures.",
     "source": "CoinTelegraph",
-    "time": "11/16/2026, 8:56:18 PM",
-    "link": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/17/2026, 12:50:41 AM",
+    "link": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
-    "summary": "Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals.",
-    "source": "CoinTelegraph",
-    "time": "11/16/2026, 7:07:49 PM",
-    "link": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Nvidia Board Not Considering Jensen Huang's Return: Report",
+    "summary": "The board is focused on its probe into the ousted co-founder, a source told CNBC, despite Donald Trump and Elon Musk backing his return.",
+    "source": "Decrypt",
+    "time": "11/17/2026, 10:54:32 AM",
+    "link": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
+    "category": "Markets"
+  },
+  {
+    "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+    "summary": "A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked.",
+    "source": "Decrypt",
+    "time": "11/17/2026, 10:27:29 AM",
+    "link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+    "category": "Markets"
+  },
+  {
+    "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
+    "summary": "CoinGecko has received backing from the Solana Foundation to expand into market intelligence and explore trading.",
+    "source": "Decrypt",
+    "time": "11/17/2026, 10:01:03 AM",
+    "link": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
     "category": "Markets"
   },
   {
@@ -168,27 +192,51 @@
     "category": "Markets"
   },
   {
-    "title": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
-    "summary": "Former White House crypto chief Patrick Witt said the Clarity Act \"lost against the clock,\" and regulators will now set the rules.",
-    "source": "Decrypt",
-    "time": "11/16/2026, 8:36:03 PM",
-    "link": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
+    "title": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
+    "summary": "A former Robinhood engineer faces up to 20 years after admitting to profiting from Hyperliquid trades ahead of crypto listing announcements.",
+    "source": "The Block",
+    "time": "11/17/2026, 11:49:40 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106",
     "category": "Markets"
   },
   {
-    "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
-    "summary": "Trump would welcome Nvidia’s co-founder back. Altman, who survived his own CEO ouster, sympathizes but stops short of endorsing Huang’s comeback.",
-    "source": "Decrypt",
-    "time": "11/16/2026, 8:05:02 PM",
-    "link": "https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia",
+    "title": "Tether Capital invests $15 million in Nomad, eyes wider access to USDT and XAUT in Brazil",
+    "summary": "Tether said the deal could ease international payments in Brazil and open the door to USDT and Tether Gold integrations.",
+    "source": "The Block",
+    "time": "11/17/2026, 11:20:37 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
     "category": "Markets"
   },
   {
-    "title": "Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump",
-    "summary": "Federal Reserve Chair Kevin Warsh says staff are studying three possible economic futures for AI, ranging from widespread productivity gains to higher unemployment and a painful correction in technology stocks.",
-    "source": "Decrypt",
-    "time": "11/16/2026, 7:36:44 PM",
-    "link": "https://decrypt.co/383354/fed-modeling-ai-super-intelligence-scenarios-job-losses-stock-market",
+    "title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
+    "summary": "Grayscale Head of Research Zach Pandl said crypto still has strong fundamental demand, such as institutional adoption of stablecoins.",
+    "source": "The Block",
+    "time": "11/17/2026, 8:39:17 AM",
+    "link": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
+    "category": "Markets"
+  },
+  {
+    "title": "Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia",
+    "summary": "Cathie Wood's Ark Invest bought additional shares in Block Inc., Circle, and Coinbase as the stocks traded lower on Monday.",
+    "source": "The Block",
+    "time": "11/17/2026, 7:35:02 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
+    "category": "Markets"
+  },
+  {
+    "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+    "summary": "In today's newsletter, CZ denies Binance sold crypto as bitcoin rebounds from four-month low; Bitwise sees Solana reaching $1,100 by 2031 in bull case; and more.",
+    "source": "The Block",
+    "time": "11/17/2026, 6:45:00 AM",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
+    "category": "Markets"
+  },
+  {
+    "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
+    "summary": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.",
+    "source": "The Block",
+    "time": "11/17/2026, 12:27:15 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
     "category": "Markets"
   },
   {
@@ -205,54 +253,6 @@
     "source": "The Block",
     "time": "11/16/2026, 9:44:01 PM",
     "link": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
-    "category": "Markets"
-  },
-  {
-    "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
-    "summary": "A judge acquitted the Peraire-Bueno brothers of wire fraud over the Ethereum MEV exploit, ruling prosecutors showed no misrepresentation.",
-    "source": "The Block",
-    "time": "11/16/2026, 9:30:37 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
-    "summary": "Bitwise predicts the SOL token will be valued at $1,100 by 2031, versus $385 in the base case and $80 in the bear case.",
-    "source": "The Block",
-    "time": "11/16/2026, 9:27:32 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407",
-    "category": "Markets"
-  },
-  {
-    "title": "Solflare CEO says AI security reviews are essential, touts ‘bunker mode’ and MoneyGram deal",
-    "summary": "Vidor Gencel says AI catches chained exploits humans miss, and details the wallet's \"bunker mode,\" privacy mode, and MoneyGram USDC cash-out.",
-    "source": "The Block",
-    "time": "11/16/2026, 7:59:21 PM",
-    "link": "https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396",
-    "category": "Markets"
-  },
-  {
-    "title": "Winklevoss-backed Cypherpunk buys Zcash dip as mining debut delivers $2.6 million operating profit",
-    "summary": "Since quarter-end, Cypherpunk bought another 3,775 ZEC for about $3.5 million at an average price of $920.40.",
-    "source": "The Block",
-    "time": "11/16/2026, 7:43:19 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-16-winklevoss-cypherpunk-buys-zcash-dip-mining-debut-delivers-2-6-million-operating-profit-441392",
-    "category": "Markets"
-  },
-  {
-    "title": "Standard Chartered says Japan’s bond tokenization plans could help drive RWA market to $2 trillion",
-    "summary": "Standard Chartered said Japan's bond tokenization plans could help the tokenized RWA market reach its $2 trillion forecast by 2028.",
-    "source": "The Block",
-    "time": "11/16/2026, 6:54:24 PM",
-    "link": "https://www.theblock.co/news/web3/2026-11-16-japan-tokenized-government-bonds-standard-chartered-rwa-2-trillion-441384",
-    "category": "Markets"
-  },
-  {
-    "title": "Privacy on Solana is ‘non-negotiable’ for institutional adoption, Mert Mumtaz says",
-    "summary": "Mert Mumtaz sees privacy becoming standard on blockchains, much like HTTPS did for the modern internet.",
-    "source": "The Block",
-    "time": "11/16/2026, 6:22:19 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363",
     "category": "Markets"
   }
 ]
