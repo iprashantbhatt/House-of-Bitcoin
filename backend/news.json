@@ -1,5 +1,53 @@
 [
   {
+    "title": "Fed's rate hike push may be a mistake. Here's why",
+    "summary": "Experts argue that the Fed is looking at the wrong data as it pushes for more interest-rate hikes, with falling gasoline and energy prices suggesting inflation pressures are already easing.",
+    "source": "CoinDesk",
+    "time": "11/19/2026, 7:23:19 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
+    "category": "Markets"
+  },
+  {
+    "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+    "summary": "An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first.",
+    "source": "CoinDesk",
+    "time": "11/19/2026, 6:39:06 AM",
+    "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+    "summary": "Hyperscale Data needs another $74.8 million to complete its Michigan data center project, even after selling its remaining bitcoin and raising fresh debt.",
+    "source": "CoinDesk",
+    "time": "11/19/2026, 5:46:10 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+    "category": "Markets"
+  },
+  {
+    "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+    "summary": "Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print.",
+    "source": "CoinDesk",
+    "time": "11/19/2026, 4:40:48 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+    "category": "Markets"
+  },
+  {
+    "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+    "summary": "Despite a Commodity Futures Trading Commission demand that prediction markets return to operating in all 50 states, federal courts continue to get in the way.",
+    "source": "CoinDesk",
+    "time": "11/19/2026, 1:33:46 AM",
+    "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+    "category": "Markets"
+  },
+  {
+    "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+    "summary": "Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital.",
+    "source": "CoinDesk",
+    "time": "11/18/2026, 11:30:00 PM",
+    "link": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+    "category": "Markets"
+  },
+  {
     "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
     "summary": "Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange.",
     "source": "CoinDesk",
@@ -16,115 +64,75 @@
     "category": "Markets"
   },
   {
-    "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
-    "summary": "Prosecutors estimate the defendant still holds 56,000 BTC, meaning the proposed deal would leave him with roughly $1 billion.",
-    "source": "CoinDesk",
-    "time": "11/18/2026, 4:38:38 PM",
-    "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+    "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+    "summary": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.",
+    "source": "CoinTelegraph",
+    "time": "11/19/2026, 11:32:05 AM",
+    "link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
-    "summary": "As Hong Kong pushes banks to use AI to combat crypto crime, experts say the technology must detect suspicious transfers without putting customer funds at risk.",
-    "source": "CoinDesk",
-    "time": "11/18/2026, 4:23:18 PM",
-    "link": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+    "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+    "summary": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
+    "source": "CoinTelegraph",
+    "time": "11/19/2026, 9:54:58 AM",
+    "link": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-    "summary": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure.",
-    "source": "CoinDesk",
-    "time": "11/18/2026, 1:53:34 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+    "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+    "summary": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.",
+    "source": "CoinTelegraph",
+    "time": "11/19/2026, 9:26:19 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
-    "summary": "Bullish’s institutional focus may have shielded the company from the decline in activity experienced by rivals catering to retail traders and offers some insight to its revenue beat.",
-    "source": "CoinDesk",
-    "time": "11/18/2026, 1:41:09 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
+    "title": "BTCPay Server issues emergency update for 5 security flaws",
+    "summary": "The EU’s cybersecurity service said the flaws could let attackers to run malicious code remotely on vulnerable servers without logging in.",
+    "source": "CoinTelegraph",
+    "time": "11/19/2026, 9:04:37 AM",
+    "link": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
-    "summary": "The Singapore bank will let institutional clients buy and redeem USDC directly as banks across Asia develop their own blockchain payment systems.",
-    "source": "CoinDesk",
-    "time": "11/18/2026, 1:25:14 PM",
-    "link": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
+    "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
+    "summary": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.",
+    "source": "CoinTelegraph",
+    "time": "11/19/2026, 8:55:56 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
-    "summary": "Your day-ahead look for Nov. 18, 2026",
-    "source": "CoinDesk",
-    "time": "11/18/2026, 1:15:00 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
+    "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+    "summary": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.",
+    "source": "CoinTelegraph",
+    "time": "11/19/2026, 7:00:00 AM",
+    "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "11/18/2026, 11:09:15 PM",
+    "time": "11/19/2026, 7:00:00 AM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
-    "summary": "S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score.",
+    "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+    "summary": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.",
     "source": "CoinTelegraph",
-    "time": "11/18/2026, 10:57:35 PM",
-    "link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/19/2026, 6:27:45 AM",
+    "link": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
-    "summary": "Ledger advised customers who purchased devices in Berlin since January 2026 to contact support as it investigates suspected hardware implants in Germany and Dubai.",
-    "source": "CoinTelegraph",
-    "time": "11/18/2026, 10:13:58 PM",
-    "link": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
-    "summary": "Variational raised $110 million at a $1.5 billion valuation to expand Omni’s derivatives markets and increase trading limits.",
-    "source": "CoinTelegraph",
-    "time": "11/18/2026, 9:32:06 PM",
-    "link": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
-    "summary": "The court orders allow legal notices to be served via blockchain and provide for a continuously updated list of 26,000 wallet addresses linked to stolen assets, Binance’s lawyers said.",
-    "source": "CoinTelegraph",
-    "time": "11/18/2026, 9:20:37 PM",
-    "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
-    "summary": "The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs.",
-    "source": "CoinTelegraph",
-    "time": "11/18/2026, 7:27:52 PM",
-    "link": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
-    "summary": "BlackRock’s staked Ether ETF earns a cut of what traders pay for priority on Ethereum, the acquittal left the legal risk to that income unresolved.",
-    "source": "CoinTelegraph",
-    "time": "11/18/2026, 6:05:04 PM",
-    "link": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Polymarket US takes rapid-fire crypto trading format to oil, natural gas",
-    "summary": "Polymarket US said it attracted more than 300,000 traders to its short-duration crypto markets in six weeks and is now expanding the format to energy commodities.",
-    "source": "CoinTelegraph",
-    "time": "11/18/2026, 6:00:00 PM",
-    "link": "https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+    "summary": "Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.",
+    "source": "Decrypt",
+    "time": "11/19/2026, 11:25:05 AM",
+    "link": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
     "category": "Markets"
   },
   {
@@ -184,11 +192,59 @@
     "category": "Markets"
   },
   {
-    "title": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
-    "summary": "Christopher Waller says stubborn inflation may warrant a bigger December rate hike, while a separate speech outlined why blockchain-based payments still need traditional settlement systems and stronger safeguards to scale.",
-    "source": "Decrypt",
-    "time": "11/18/2026, 7:16:02 PM",
-    "link": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
+    "title": "Ant International launches protocol for real-time settlement between tokenized deposits and money market funds",
+    "summary": "Ant launched the Whale Orchestration Protocol to enable settlement between tokenized deposits and tokenized money market funds.",
+    "source": "The Block",
+    "time": "11/19/2026, 11:39:29 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586",
+    "category": "Markets"
+  },
+  {
+    "title": "Singapore’s MAS issues $77 million in tokenized bills settled via CBDC",
+    "summary": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC.",
+    "source": "The Block",
+    "time": "11/19/2026, 9:25:35 AM",
+    "link": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
+    "category": "Markets"
+  },
+  {
+    "title": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers",
+    "summary": "Bitcoin funding stayed negative for 67 consecutive days into May before recovering to about 8% annualized by the end of October.",
+    "source": "The Block",
+    "time": "11/19/2026, 7:00:00 AM",
+    "link": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
+    "category": "Markets"
+  },
+  {
+    "title": "Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more",
+    "summary": "In today's newsletter, Binance obtains $6.5 billion freezing order from Abu Dhabi court; CryptoQuant says bitcoin is back in a bearish phase but has entered a 'value zone'; and more.",
+    "source": "The Block",
+    "time": "11/19/2026, 7:00:00 AM",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511",
+    "category": "Markets"
+  },
+  {
+    "title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
+    "summary": "The company confirmed that the new cases share the same kind of physical modification as tampered devices found across Southeast Asia.",
+    "source": "The Block",
+    "time": "11/19/2026, 5:13:18 AM",
+    "link": "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530",
+    "category": "Markets"
+  },
+  {
+    "title": "Kraken parent Payward to acquire Tribe Capital to expand private-market offerings",
+    "summary": "The deal will add private-market sourcing, underwriting, and fund management capabilities to Payward's platform.",
+    "source": "The Block",
+    "time": "11/19/2026, 4:18:53 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522",
+    "category": "Markets"
+  },
+  {
+    "title": "Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability",
+    "summary": "The companies said that unlocking the full potential of 'always-on' tokenized deposits requires interoperability across platforms.",
+    "source": "The Block",
+    "time": "11/19/2026, 3:30:00 AM",
+    "link": "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964",
     "category": "Markets"
   },
   {
@@ -197,62 +253,6 @@
     "source": "The Block",
     "time": "11/18/2026, 11:09:17 PM",
     "link": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
-    "category": "Markets"
-  },
-  {
-    "title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
-    "summary": "Binance has obtained a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts as it seeks to recover crypto stolen in October hack.",
-    "source": "The Block",
-    "time": "11/18/2026, 8:40:25 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
-    "category": "Markets"
-  },
-  {
-    "title": "Ondo to launch tokenized Anthropic stock on IPO day",
-    "summary": "Ondo’s ANTon token will track Anthropic shares from the day the Claude maker starts trading on Nasdaq.",
-    "source": "The Block",
-    "time": "11/18/2026, 7:51:30 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
-    "category": "Markets"
-  },
-  {
-    "title": "CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’",
-    "summary": "Bitcoin has dipped below its 200-day and 365-day moving averages of $72,900 and $75,900, respectively, CryptoQuant said.",
-    "source": "The Block",
-    "time": "11/18/2026, 6:13:37 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471",
-    "category": "Markets"
-  },
-  {
-    "title": "Bullish’s Q3 adjusted profit rises 35%, digital asset sales fall 23%",
-    "summary": "Bullish shares rose about 10% after the crypto exchange reported earnings and authorized a buyback.",
-    "source": "The Block",
-    "time": "11/18/2026, 6:02:41 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456",
-    "category": "Markets"
-  },
-  {
-    "title": "Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific",
-    "summary": "Visa plans to let eligible Visa Direct clients in Asia-Pacific fund cross-border payouts with stablecoins.",
-    "source": "The Block",
-    "time": "11/18/2026, 5:30:41 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
-    "category": "Markets"
-  },
-  {
-    "title": "Variational raises $110 million at $1.5 billion valuation to expand onchain derivatives trading",
-    "summary": "The derivatives protocol’s Omni platform has processed over $475 billion in volume as it expands into traditional markets.",
-    "source": "The Block",
-    "time": "11/18/2026, 4:51:42 PM",
-    "link": "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445",
-    "category": "Markets"
-  },
-  {
-    "title": "StoneX cuts Bitdeer price target to $15 amid new US chip export controls",
-    "summary": "StoneX trimmed its 2027 revenue and EBITDA estimates for Bitdeer to account for Malaysian licensing scenarios, among other factors.",
-    "source": "The Block",
-    "time": "11/18/2026, 4:16:54 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-18-stonex-cuts-bitdeer-price-target-to-15-amid-new-us-chip-export-controls-443440",
     "category": "Markets"
   }
 ]
