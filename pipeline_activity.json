@@ -38,5 +38,10 @@
     "timestamp": "2026-11-22 00:07:18",
     "step": "VIDEO-RENDER",
     "details": "Rendered short: hob_final_2026-11-22_00-00-21.mp4"
+  },
+  {
+    "timestamp": "2026-11-22 00:07:23",
+    "step": "YT-UPLOAD",
+    "details": "Published YouTube Short: Bitcoin retests $62K as Nasdaq futures rise ahead "
   }
 ]
