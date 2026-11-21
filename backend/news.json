@@ -1,5 +1,37 @@
 [
   {
+    "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+    "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
+    "source": "CoinDesk",
+    "time": "11/21/2026, 7:16:42 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+    "category": "Markets"
+  },
+  {
+    "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+    "summary": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+    "source": "CoinDesk",
+    "time": "11/21/2026, 6:59:19 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+    "summary": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+    "source": "CoinDesk",
+    "time": "11/21/2026, 5:10:07 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+    "category": "Markets"
+  },
+  {
+    "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+    "summary": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.",
+    "source": "CoinDesk",
+    "time": "11/20/2026, 11:51:14 PM",
+    "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+    "category": "Markets"
+  },
+  {
     "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
     "summary": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
     "source": "CoinDesk",
@@ -32,35 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-    "summary": "The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred.",
-    "source": "CoinDesk",
-    "time": "11/20/2026, 3:25:57 PM",
-    "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
+    "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+    "summary": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
+    "source": "CoinTelegraph",
+    "time": "11/21/2026, 10:48:56 AM",
+    "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
-    "summary": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%.",
-    "source": "CoinDesk",
-    "time": "11/20/2026, 2:35:33 PM",
-    "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+    "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+    "summary": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties.",
+    "source": "CoinTelegraph",
+    "time": "11/21/2026, 8:51:47 AM",
+    "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-    "summary": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds.",
-    "source": "CoinDesk",
-    "time": "11/20/2026, 2:30:22 PM",
-    "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-    "category": "Markets"
-  },
-  {
-    "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-    "summary": "The ECB president called for common rules as the EU's new blockchain settlement system handled a 1 billion-euro ($1.1 billion) digital bond transaction.",
-    "source": "CoinDesk",
-    "time": "11/20/2026, 2:11:49 PM",
-    "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+    "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+    "summary": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
+    "source": "CoinTelegraph",
+    "time": "11/21/2026, 6:40:35 AM",
+    "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -101,30 +125,6 @@
     "source": "CoinTelegraph",
     "time": "11/20/2026, 4:52:06 PM",
     "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "DBS bets it can lose the deposit and keep the client",
-    "summary": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it.",
-    "source": "CoinTelegraph",
-    "time": "11/20/2026, 4:32:30 PM",
-    "link": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "11/20/2026, 2:29:58 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
-    "summary": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.",
-    "source": "CoinTelegraph",
-    "time": "11/20/2026, 2:21:39 PM",
-    "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,14 @@
     "category": "Markets"
   },
   {
+    "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
+    "summary": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more.",
+    "source": "The Block",
+    "time": "11/21/2026, 5:30:00 AM",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+    "category": "Markets"
+  },
+  {
     "title": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
     "summary": "Fortitude wins shareholder backing for its planned Nasdaq debut as ZEC trades 55% below its record high.",
     "source": "The Block",
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "11/20/2026, 3:36:10 PM",
     "link": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
-    "category": "Markets"
-  },
-  {
-    "title": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
-    "summary": "BlackRock's IBIT made up nearly all of Thursday's outflows, despite Morgan Stanley's MSBT attracting $49.6 million.",
-    "source": "The Block",
-    "time": "11/20/2026, 1:29:57 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
     "category": "Markets"
   }
 ]
