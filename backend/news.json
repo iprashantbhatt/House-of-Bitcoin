@@ -1,5 +1,29 @@
 [
   {
+    "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+    "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+    "source": "CoinDesk",
+    "time": "11/21/2026, 6:50:00 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+    "category": "Markets"
+  },
+  {
+    "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+    "summary": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
+    "source": "CoinDesk",
+    "time": "11/21/2026, 5:41:00 PM",
+    "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+    "category": "Markets"
+  },
+  {
+    "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+    "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
+    "source": "CoinDesk",
+    "time": "11/21/2026, 1:30:00 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+    "category": "Markets"
+  },
+  {
     "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
     "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
     "source": "CoinDesk",
@@ -40,27 +64,11 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play ",
-    "summary": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide.",
-    "source": "CoinDesk",
-    "time": "11/20/2026, 7:13:52 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
-    "category": "Markets"
-  },
-  {
-    "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-    "summary": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing.",
-    "source": "CoinDesk",
-    "time": "11/20/2026, 3:54:30 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
-    "category": "Markets"
-  },
-  {
-    "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-    "summary": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework.",
-    "source": "CoinDesk",
-    "time": "11/20/2026, 3:38:30 PM",
-    "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "11/21/2026, 12:18:52 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -120,11 +128,35 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
-    "summary": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.",
-    "source": "CoinTelegraph",
-    "time": "11/20/2026, 4:52:06 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+    "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+    "source": "Decrypt",
+    "time": "11/21/2026, 7:01:02 PM",
+    "link": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+    "category": "Markets"
+  },
+  {
+    "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+    "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms—even faking SEC certificates and filings—to defraud U.S. investors of more than $37 million.",
+    "source": "Decrypt",
+    "time": "11/21/2026, 6:01:02 PM",
+    "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+    "category": "Markets"
+  },
+  {
+    "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+    "summary": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.",
+    "source": "Decrypt",
+    "time": "11/21/2026, 5:01:02 PM",
+    "link": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+    "category": "Markets"
+  },
+  {
+    "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+    "summary": "Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
+    "source": "Decrypt",
+    "time": "11/21/2026, 3:01:06 PM",
+    "link": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
     "category": "Markets"
   },
   {
@@ -160,35 +192,27 @@
     "category": "Markets"
   },
   {
-    "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
-    "summary": "Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt injection.",
-    "source": "Decrypt",
-    "time": "11/20/2026, 7:16:02 PM",
-    "link": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+    "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+    "summary": "Kalshi, which is headquartered in New York, has said the order would shut it down nationwide, though NY's AG said that's not her goal.",
+    "source": "The Block",
+    "time": "11/21/2026, 10:17:36 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
     "category": "Markets"
   },
   {
-    "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
-    "summary": "Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
-    "source": "Decrypt",
-    "time": "11/20/2026, 6:41:45 PM",
-    "link": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+    "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+    "summary": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
+    "source": "The Block",
+    "time": "11/21/2026, 7:51:14 PM",
+    "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
-    "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.",
-    "source": "Decrypt",
-    "time": "11/20/2026, 5:35:59 PM",
-    "link": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-    "category": "Markets"
-  },
-  {
-    "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
-    "summary": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.",
-    "source": "Decrypt",
-    "time": "11/20/2026, 4:42:51 PM",
-    "link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+    "title": "Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+    "summary": "Chainflip's FLIP token dropped 34% in price in the wake of the apparently automated attack, per The Block's price data.",
+    "source": "The Block",
+    "time": "11/21/2026, 4:24:14 PM",
+    "link": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "11/20/2026, 7:17:39 PM",
     "link": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
-    "category": "Markets"
-  },
-  {
-    "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
-    "summary": "Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit.",
-    "source": "The Block",
-    "time": "11/20/2026, 5:11:22 PM",
-    "link": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
-    "category": "Markets"
-  },
-  {
-    "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
-    "summary": "Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends.",
-    "source": "The Block",
-    "time": "11/20/2026, 3:51:32 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
-    "category": "Markets"
-  },
-  {
-    "title": "Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.",
-    "summary": "Wintermute's Ron Hammond says crypto needs a new strategy after repeated lobbying setbacks against established financial interests.",
-    "source": "The Block",
-    "time": "11/20/2026, 3:36:10 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
     "category": "Markets"
   }
 ]
