@@ -48,5 +48,10 @@
     "timestamp": "2026-11-22 00:08:09",
     "step": "IG-REEL",
     "details": "Published Instagram Reel: Bitcoin retests $62K as Nasdaq futures rise ahead "
+  },
+  {
+    "timestamp": "2026-11-22 12:00:41",
+    "step": "IG-CAROUSEL",
+    "details": "Published Instagram Carousel (3 slides)"
   }
 ]
