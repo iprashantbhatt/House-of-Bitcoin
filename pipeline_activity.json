@@ -98,5 +98,10 @@
     "timestamp": "2026-11-24 00:07:18",
     "step": "VIDEO-RENDER",
     "details": "Rendered short: hob_final_2026-11-24_00-00-18.mp4"
+  },
+  {
+    "timestamp": "2026-11-24 00:07:24",
+    "step": "YT-UPLOAD",
+    "details": "Published YouTube Short: Bitcoin rebounds 17% from $55K lows as Nvidia rall"
   }
 ]
