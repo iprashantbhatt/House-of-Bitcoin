@@ -128,5 +128,10 @@
     "timestamp": "2026-11-25 00:08:52",
     "step": "VIDEO-RENDER",
     "details": "Rendered short: hob_final_2026-11-25_00-00-23.mp4"
+  },
+  {
+    "timestamp": "2026-11-25 00:08:57",
+    "step": "YT-UPLOAD",
+    "details": "Published YouTube Short: Bitcoin sell-off driven by weak demand, forced liq"
   }
 ]
