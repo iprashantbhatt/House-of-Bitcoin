@@ -133,5 +133,10 @@
     "timestamp": "2026-11-25 00:08:57",
     "step": "YT-UPLOAD",
     "details": "Published YouTube Short: Bitcoin sell-off driven by weak demand, forced liq"
+  },
+  {
+    "timestamp": "2026-11-25 00:09:49",
+    "step": "IG-REEL",
+    "details": "Published Instagram Reel: Bitcoin sell-off driven by weak demand, forced liq"
   }
 ]
