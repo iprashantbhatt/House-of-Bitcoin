@@ -1,5 +1,29 @@
 [
   {
+    "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
+    "summary": "Fintech firms could lead stablecoin ventures, but banks would need to own more than half of any issuer.",
+    "source": "CoinDesk",
+    "time": "11/24/2026, 11:29:14 AM",
+    "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
+    "summary": "Nasdaq 100 futures fell about 1% after the index surged on Monday, while the Dollar Index held above 104, its highest level since March 2025.",
+    "source": "CoinDesk",
+    "time": "11/24/2026, 11:08:38 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+    "category": "Markets"
+  },
+  {
+    "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+    "summary": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.",
+    "source": "CoinDesk",
+    "time": "11/24/2026, 1:25:04 AM",
+    "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+    "category": "Markets"
+  },
+  {
     "title": "New York judge declines to block Kalshi from operating in the state for now",
     "summary": "Judge Melissa Crane did not shut down Kalshi's operations in a hearing Monday, but did say she wanted both parties to present their full arguments in an expedited fashion.",
     "source": "CoinDesk",
@@ -40,35 +64,59 @@
     "category": "Markets"
   },
   {
-    "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
-    "summary": "The Nasdaq-listed crypto miner can borrow without selling its reserves or issuing new shares, but falling BTC prices could force it to pledge more collateral.",
-    "source": "CoinDesk",
-    "time": "11/23/2026, 4:02:32 PM",
-    "link": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
+    "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
+    "summary": "Bitcoin continued to threaten the loss of $60,000 support as gold attempted to bounce from a 60-day losing streak during which it fell nearly 25%.",
+    "source": "CoinTelegraph",
+    "time": "11/24/2026, 10:25:45 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
-    "summary": "",
-    "source": "CoinDesk",
-    "time": "11/23/2026, 3:43:18 PM",
-    "link": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
-    "category": "Markets"
-  },
-  {
-    "title": "Nvidia soars as Jensen Huang returns to lead company",
-    "summary": "The Nasdaq gained more than 6% as Nvidia rose as much as 35%. After a brief surge, crypto returned to a more muted advance.",
-    "source": "CoinDesk",
-    "time": "11/23/2026, 3:13:44 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
+    "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
+    "summary": "BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion.",
+    "source": "CoinTelegraph",
+    "time": "11/24/2026, 8:41:50 AM",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "11/23/2026, 10:40:44 PM",
+    "time": "11/24/2026, 7:00:00 AM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+    "summary": "The independent macro research company warns the Bitcoin sell-off may not have yet run its course.",
+    "source": "CoinTelegraph",
+    "time": "11/24/2026, 6:07:30 AM",
+    "link": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Google wants to make you the star of your own AI slop movies",
+    "summary": "Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role in their very own romantic comedy.",
+    "source": "CoinTelegraph",
+    "time": "11/24/2026, 4:13:22 AM",
+    "link": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+    "summary": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.",
+    "source": "CoinTelegraph",
+    "time": "11/24/2026, 1:36:26 AM",
+    "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+    "summary": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
+    "source": "CoinTelegraph",
+    "time": "11/24/2026, 12:43:34 AM",
+    "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -80,51 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Kalshi secures temporary win in New York gambling law dispute",
-    "summary": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.",
-    "source": "CoinTelegraph",
-    "time": "11/23/2026, 9:38:43 PM",
-    "link": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
-    "summary": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.",
-    "source": "CoinTelegraph",
-    "time": "11/23/2026, 8:35:06 PM",
-    "link": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
-    "summary": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.",
-    "source": "CoinTelegraph",
-    "time": "11/23/2026, 8:16:46 PM",
-    "link": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-    "summary": "Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issuers simply wanted more time.",
-    "source": "CoinTelegraph",
-    "time": "11/23/2026, 6:42:18 PM",
-    "link": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
-    "summary": "Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidations topped $500 million four hours.",
-    "source": "CoinTelegraph",
-    "time": "11/23/2026, 5:51:17 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
-    "summary": "The US bank is offering Bitcoin-backed loans ranging from $10,000 to $250,000 through LendingUSA, allowing borrowers to access cash without selling their holdings.",
-    "source": "CoinTelegraph",
-    "time": "11/23/2026, 5:23:37 PM",
-    "link": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
+    "summary": "GLM-5.4 uses a looping architecture to squeeze more reasoning power from fewer parameters, challenging the expensive approach favored by American AI giants.",
+    "source": "Decrypt",
+    "time": "11/24/2026, 12:06:02 AM",
+    "link": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
     "category": "Markets"
   },
   {
@@ -184,11 +192,43 @@
     "category": "Markets"
   },
   {
-    "title": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
-    "summary": "Nvidia shares jumped more than 33% after the board reinstated Huang 11 days post-resignation, adding over $36 billion to his fortune while dealing short sellers their worst single-day loss since at least 2019.",
-    "source": "Decrypt",
-    "time": "11/23/2026, 6:28:08 PM",
-    "link": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
+    "title": "Bitcoin slips back toward $60,000 as Jensen Huang’s Nvidia return rally fizzles",
+    "summary": "Analysts said Huang's return was a reflex rally that did not resolve the macro headwinds bitcoin is facing as a risk asset.",
+    "source": "The Block",
+    "time": "11/24/2026, 7:21:34 AM",
+    "link": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472",
+    "category": "Markets"
+  },
+  {
+    "title": "DOJ moves to recover $1.17 billion from Binance hack, Strategy buys another 457 BTC, and more",
+    "summary": "In today's newsletter, DOJ moves to recover $1.17 billion from Binance hack; Strategy buys another 457 BTC as Saylor says 'the dots aren't done'; and more.",
+    "source": "The Block",
+    "time": "11/24/2026, 6:40:00 AM",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-24-doj-binance-hack-strategy-bitcoin-more-crypto-news-445430",
+    "category": "Markets"
+  },
+  {
+    "title": "Kalshi halts operations in Utah while dodging immediate ban in New York",
+    "summary": "Kalshi has suspended operations in Utah after a federal judge allowed the state to enforce its gambling laws.",
+    "source": "The Block",
+    "time": "11/24/2026, 5:28:02 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456",
+    "category": "Markets"
+  },
+  {
+    "title": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
+    "summary": "Plaintiff Larry Pearl purchased TerraUSD on Coinbase shortly before the token collapsed and accused Coinbase of misrepresentation.",
+    "source": "The Block",
+    "time": "11/24/2026, 4:05:45 AM",
+    "link": "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448",
+    "category": "Markets"
+  },
+  {
+    "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
+    "summary": "Staff at the CFTC issued an advisory saying certain regulated firms may count crypto such as bitcoin and ether toward operating costs.",
+    "source": "The Block",
+    "time": "11/24/2026, 1:33:22 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
     "category": "Markets"
   },
   {
@@ -213,46 +253,6 @@
     "source": "The Block",
     "time": "11/23/2026, 9:00:34 PM",
     "link": "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398",
-    "category": "Markets"
-  },
-  {
-    "title": "CFTC prediction market rules advance to White House review amid state-federal jurisdiction fight",
-    "summary": "A proposed set of rules by the CFTC to further assert its oversight of prediction markets is now with the White House for review.",
-    "source": "The Block",
-    "time": "11/23/2026, 7:30:09 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384",
-    "category": "Markets"
-  },
-  {
-    "title": "Sky cofounder weighs SKY sale to repay $77 million as stUSDS pool runs dry",
-    "summary": "USDS held near $1 on Monday even as the separate stUSDS lending pool had no funds available for withdrawals.",
-    "source": "The Block",
-    "time": "11/23/2026, 6:31:50 PM",
-    "link": "https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373",
-    "category": "Markets"
-  },
-  {
-    "title": "DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million",
-    "summary": "DeFi Development added about 5,180 SOL, lifting its Solana treasury to 2.62 million SOL in its 11th straight week of buying since Sept. 14.",
-    "source": "The Block",
-    "time": "11/23/2026, 4:34:51 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-23-defi-development-dfdv-solana-treasury-11-consecutive-weeks-444950",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitmine adds 7,819 ETH as Tom Lee makes the ‘hard money’ case",
-    "summary": "Bitmine added 7,819 ETH over the past week, lifting its total holdings to 6,085,564 ETH, or 4.98% of the circulating supply.",
-    "source": "The Block",
-    "time": "11/23/2026, 4:02:41 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%",
-    "summary": "Ahead of the announcement, Polymarket put the odds of Huang rejoining Nvidia by the end of the year at just 10.5%.",
-    "source": "The Block",
-    "time": "11/23/2026, 4:02:21 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952",
     "category": "Markets"
   }
 ]
