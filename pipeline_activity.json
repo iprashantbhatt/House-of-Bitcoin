@@ -118,5 +118,10 @@
     "timestamp": "2026-11-25 00:00:20",
     "step": "SITE-UPDATE",
     "details": "Updated HOB portal: Bitcoin sell-off driven by weak demand, forced liq"
+  },
+  {
+    "timestamp": "2026-11-25 00:01:25",
+    "step": "IG-CAROUSEL",
+    "details": "Published Instagram Carousel (3 slides)"
   }
 ]
