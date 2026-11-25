@@ -158,5 +158,10 @@
     "timestamp": "2026-11-26 00:10:24",
     "step": "VIDEO-RENDER",
     "details": "Rendered short: hob_final_2026-11-26_00-00-19.mp4"
+  },
+  {
+    "timestamp": "2026-11-26 00:10:30",
+    "step": "YT-UPLOAD",
+    "details": "Published YouTube Short: Bitcoin falls toward $57K amid US tariff fears, ho"
   }
 ]
