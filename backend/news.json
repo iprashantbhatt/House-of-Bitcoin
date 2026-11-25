@@ -1,5 +1,53 @@
 [
   {
+    "title": "Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower",
+    "summary": "HYPE fell 8% and SOL 5%, and one analyst said a recovery will need selling in stocks to ease first, with U.S. inflation data due before Thanksgiving.",
+    "source": "CoinDesk",
+    "time": "11/25/2026, 9:35:47 AM",
+    "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
+    "category": "Markets"
+  },
+  {
+    "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+    "summary": "The fix would stop the computers that run Solana from wasting effort on transactions the network has already thrown out, freeing up power its recent speed upgrade didn't touch.",
+    "source": "CoinDesk",
+    "time": "11/25/2026, 7:33:10 AM",
+    "link": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+    "category": "Markets"
+  },
+  {
+    "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+    "summary": "Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined.",
+    "source": "CoinDesk",
+    "time": "11/25/2026, 7:15:08 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+    "category": "Markets"
+  },
+  {
+    "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+    "summary": "Derive’s new options on Nvidia, Anthropic, stock indices and oil bring hedging tools to onchain RWA markets.",
+    "source": "CoinDesk",
+    "time": "11/25/2026, 5:57:22 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+    "category": "Markets"
+  },
+  {
+    "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+    "summary": "The Czech National Bank bought bitcoin a year ago as an experiment. The coin has fallen at least 40% since, and the bank's audited accounts carry it at cost rather than market value. The CNB told CoinDesk an outside custodian holds the coins.",
+    "source": "CoinDesk",
+    "time": "11/25/2026, 5:50:08 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+    "category": "Markets"
+  },
+  {
+    "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+    "summary": "President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal.",
+    "source": "CoinDesk",
+    "time": "11/25/2026, 4:35:20 AM",
+    "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+    "category": "Markets"
+  },
+  {
     "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
     "summary": "The state continues to hold the criminal charges in its back pocket with a vow to hit Kalshi and other prediction markets with gambling accusations if they return.",
     "source": "CoinDesk",
@@ -16,115 +64,75 @@
     "category": "Markets"
   },
   {
-    "title": "Anchorage Digital to unveil new asset-management subsidiary",
-    "summary": "The crypto custody technology firm said it will unveil a separate subsidiary called 61st Parallel Asset Management.",
-    "source": "CoinDesk",
-    "time": "11/24/2026, 4:06:32 PM",
-    "link": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
+    "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
+    "summary": "Senators also rejected stablecoin-swap and crypto exit-tax proposals, while the 2027 budget remains under parliamentary consideration.",
+    "source": "CoinTelegraph",
+    "time": "11/25/2026, 10:58:12 AM",
+    "link": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
-    "summary": "Token issuers would have to disclose how they plan to spend investors' money and could face criminal charges for misleading buyers.",
-    "source": "CoinDesk",
-    "time": "11/24/2026, 3:40:53 PM",
-    "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
+    "title": "Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market",
+    "summary": "Crypto research firm Kaiko said the cash-out was smaller than in 2022 and has slowed, with stablecoin supply down just 0.4% since Nov. 13.",
+    "source": "CoinTelegraph",
+    "time": "11/25/2026, 10:52:22 AM",
+    "link": "https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
-    "summary": "Ansem suspects someone broke into his account on Bullpen, the trading terminal he co-founded, where the wallet's private key had been imported.",
-    "source": "CoinDesk",
-    "time": "11/24/2026, 1:47:49 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
+    "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
+    "summary": "Hackers already use AI to target crypto exchanges, while future quantum computers could break the cryptography that protects users’ funds.",
+    "source": "CoinTelegraph",
+    "time": "11/25/2026, 9:40:28 AM",
+    "link": "https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
-    "summary": "The Trump Administration could unveil tariff hikes against China, Japan, South Korea and other countries as soon as this week, according to a WSJ report.",
-    "source": "CoinDesk",
-    "time": "11/24/2026, 1:47:40 PM",
-    "link": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
-    "summary": "Your day-ahead look for Nov. 24, 2026",
-    "source": "CoinDesk",
-    "time": "11/24/2026, 1:36:28 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
-    "category": "Markets"
-  },
-  {
-    "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
-    "summary": "The banks tested a new way to trade fractions of physical gold bars and use the metal as collateral without moving it from vaults for the first time.",
-    "source": "CoinDesk",
-    "time": "11/24/2026, 1:04:39 PM",
-    "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
+    "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+    "summary": "South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders.",
+    "source": "CoinTelegraph",
+    "time": "11/25/2026, 7:54:59 AM",
+    "link": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "11/24/2026, 11:12:10 PM",
+    "time": "11/25/2026, 6:50:43 AM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
-    "summary": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services.",
+    "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
+    "summary": "Velocity relaunched in September as a rebuilt version of Drift Protocol, which was attacked by North Korean hackers in April.",
     "source": "CoinTelegraph",
-    "time": "11/24/2026, 10:50:25 PM",
-    "link": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/25/2026, 6:32:55 AM",
+    "link": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-    "summary": "Utah’s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, while separate civil litigation remains unresolved.",
+    "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+    "summary": "The president’s remarks come days before Jensen Huang is due to face congressional questioning over national security concerns and US chip export controls.",
     "source": "CoinTelegraph",
-    "time": "11/24/2026, 9:48:27 PM",
-    "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/25/2026, 5:14:42 AM",
+    "link": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-    "summary": "The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors.",
+    "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+    "summary": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter.",
     "source": "CoinTelegraph",
-    "time": "11/24/2026, 8:44:23 PM",
-    "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/25/2026, 2:40:59 AM",
+    "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
-    "summary": "Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it has yet to decide on compensation for affected customers.",
-    "source": "CoinTelegraph",
-    "time": "11/24/2026, 8:04:26 PM",
-    "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "CFTC sets new prediction market rules as more firms seek US entry",
-    "summary": "The US regulator has approved permanent reporting rules for certain event contracts as more companies look to launch prediction markets.",
-    "source": "CoinTelegraph",
-    "time": "11/24/2026, 7:31:42 PM",
-    "link": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
-    "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.",
-    "source": "CoinTelegraph",
-    "time": "11/24/2026, 7:07:22 PM",
-    "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-    "summary": "Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.",
-    "source": "CoinTelegraph",
-    "time": "11/24/2026, 6:09:11 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
+    "summary": "Rockstar's parent said the project's \"bring your own files\" instruction was a misleading attempt to dodge responsibility for the leak.",
+    "source": "Decrypt",
+    "time": "11/25/2026, 11:35:57 AM",
+    "link": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
     "category": "Markets"
   },
   {
@@ -184,11 +192,59 @@
     "category": "Markets"
   },
   {
-    "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
-    "summary": "Fear and Greed indexes are flashing extreme fear across stocks and crypto as Nvidia’s relief rally fades, Bitcoin falls below $60,000, and investors brace for higher interest rates",
-    "source": "Decrypt",
-    "time": "11/24/2026, 7:16:02 PM",
-    "link": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
+    "title": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
+    "summary": "The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management.",
+    "source": "The Block",
+    "time": "11/25/2026, 11:23:10 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
+    "category": "Markets"
+  },
+  {
+    "title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
+    "summary": "HSBC, Standard Chartered, Bank of China (Hong Kong), DBS, and six other banks are the platform’s first direct participants.",
+    "source": "The Block",
+    "time": "11/25/2026, 11:05:40 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132",
+    "category": "Markets"
+  },
+  {
+    "title": "Ethereum Foundation researchers pick one hash ‘to rule them all’ for post-quantum upgrade",
+    "summary": "Keccak-256 was favored for its long cryptanalysis record and existing role across Ethereum, despite slower proving than BLAKE3.",
+    "source": "The Block",
+    "time": "11/25/2026, 10:49:45 AM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125",
+    "category": "Markets"
+  },
+  {
+    "title": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
+    "summary": "Cathie Wood's Ark Invest sold its own Ark 21Shares bitcoin ETF on Tuesday amid a broader crypto market downturn.",
+    "source": "The Block",
+    "time": "11/25/2026, 8:26:57 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+    "summary": "In today's newsletter, bitcoin, ether gain recognition under CFTC financial requirements; Ethereum Foundation doubles security team as AI risks grow; and more.",
+    "source": "The Block",
+    "time": "11/25/2026, 6:15:00 AM",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+    "category": "Markets"
+  },
+  {
+    "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+    "summary": "AG Derek Brown's office filed a motion Monday to drop the charges without prejudice, meaning it can refile if Kalshi returns.",
+    "source": "The Block",
+    "time": "11/25/2026, 4:59:52 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
+    "category": "Markets"
+  },
+  {
+    "title": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+    "summary": "Proceeds from the 10% tax would be channeled to a new fund for universal pre-kindergarten for children ages 2 to 4.",
+    "source": "The Block",
+    "time": "11/25/2026, 3:46:14 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
     "category": "Markets"
   },
   {
@@ -197,62 +253,6 @@
     "source": "The Block",
     "time": "11/24/2026, 11:10:45 PM",
     "link": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
-    "category": "Markets"
-  },
-  {
-    "title": "SEC staff gives Molecule no-action relief for scientific research tokens",
-    "summary": "SEC staff said it would not recommend an enforcement action against Molecule for its utility tokens that allow people to support research.",
-    "source": "The Block",
-    "time": "11/24/2026, 9:53:14 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
-    "category": "Markets"
-  },
-  {
-    "title": "Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
-    "summary": "Krak has opened a waitlist for two U.S. credit card products, including a secured card that uses USDC as collateral.",
-    "source": "The Block",
-    "time": "11/24/2026, 7:35:02 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
-    "category": "Markets"
-  },
-  {
-    "title": "Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’",
-    "summary": "Rep. Raskin has expanded his investigation into 1789 Capital, probing potential links between investments in companies such as Polymarket.",
-    "source": "The Block",
-    "time": "11/24/2026, 7:05:03 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052",
-    "category": "Markets"
-  },
-  {
-    "title": "We’ve Entered Peak FEAR; SKY Falls",
-    "summary": "Fear no Greed Last week was another down week, with Bitcoin now retracing its entire summer move. The Fear and Greed Index continued its downward trend, nearly dropping to single digits. Bitcoin’s price hit a local high of $87k after rising from its summer lows and has returned to the level of around $59k at […]",
-    "source": "The Block",
-    "time": "11/24/2026, 6:42:29 PM",
-    "link": "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476",
-    "category": "Markets"
-  },
-  {
-    "title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
-    "summary": "Rialto has processed more than $600 million in spot trading volume across its app and Swap API since launching publicly in July, Can said.",
-    "source": "The Block",
-    "time": "11/24/2026, 6:00:02 PM",
-    "link": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030",
-    "category": "Markets"
-  },
-  {
-    "title": "Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%",
-    "summary": "Ansem said he is conducting a security review as onchain analysts try to get to the bottom of his wallet drain.",
-    "source": "The Block",
-    "time": "11/24/2026, 5:51:21 PM",
-    "link": "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
-    "category": "Markets"
-  },
-  {
-    "title": "Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services",
-    "summary": "Europol traced more than €26 million ($28.5 million) in crypto transactions during an investigation into illegal IPTV services.",
-    "source": "The Block",
-    "time": "11/24/2026, 5:45:33 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019",
     "category": "Markets"
   }
 ]
