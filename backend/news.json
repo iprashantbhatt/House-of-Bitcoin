@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+    "summary": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline.",
+    "source": "CoinDesk",
+    "time": "11/26/2026, 5:46:01 AM",
+    "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+    "category": "Markets"
+  },
+  {
     "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
     "summary": "The government opposed the measures citing existing EU data-sharing rules and non-legal tender status, leaving the 2027 budget open.",
     "source": "CoinDesk",
@@ -56,11 +64,27 @@
     "category": "Markets"
   },
   {
-    "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-    "summary": "Bitcoin (BTC) is down 1.2% since midnight UTC as the stock selloff resumes, with ether (ETH) and DeFi tokens falling about twice as far.",
-    "source": "CoinDesk",
-    "time": "11/25/2026, 12:57:50 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+    "title": "1Password hacker stole customer names and emails, but vaults safe",
+    "summary": "The password manager, which is used by millions of people to store their login credentials, said customer vaults were unaffected by the breach.",
+    "source": "CoinTelegraph",
+    "time": "11/26/2026, 5:55:16 AM",
+    "link": "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+    "summary": "US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC efforts to ease regulatory requirements for the crypto industry.",
+    "source": "CoinTelegraph",
+    "time": "11/26/2026, 5:24:45 AM",
+    "link": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+    "summary": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptography.",
+    "source": "CoinTelegraph",
+    "time": "11/26/2026, 2:33:20 AM",
+    "link": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -101,30 +125,6 @@
     "source": "CoinTelegraph",
     "time": "11/25/2026, 7:54:51 PM",
     "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
-    "summary": "US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery.",
-    "source": "CoinTelegraph",
-    "time": "11/25/2026, 6:53:10 PM",
-    "link": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
-    "summary": "The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday.",
-    "source": "CoinTelegraph",
-    "time": "11/25/2026, 6:33:22 PM",
-    "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
-    "summary": "The proposed settlement would resolve a shareholder lawsuit dating back to 2018 that alleged Nvidia misled investors about its exposure to the cryptocurrency industry.",
-    "source": "CoinTelegraph",
-    "time": "11/25/2026, 6:19:33 PM",
-    "link": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,22 @@
     "category": "Markets"
   },
   {
+    "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+    "summary": "The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for full passage before the session ends.",
+    "source": "The Block",
+    "time": "11/26/2026, 4:03:01 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
+    "category": "Markets"
+  },
+  {
+    "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+    "summary": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs.",
+    "source": "The Block",
+    "time": "11/26/2026, 3:22:43 AM",
+    "link": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+    "category": "Markets"
+  },
+  {
     "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
     "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto.",
     "source": "The Block",
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "11/25/2026, 6:26:55 PM",
     "link": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
-    "category": "Markets"
-  },
-  {
-    "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
-    "summary": "Franklin Templeton's Crypto Index ETF (EZPZ) will add Hyperliquid's HYPE token effective Dec. 1, according to an SEC prospectus supplement.",
-    "source": "The Block",
-    "time": "11/25/2026, 5:54:15 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
-    "category": "Markets"
-  },
-  {
-    "title": "Aave Labs publicly launches savings app as balances top $63 million",
-    "summary": "Aave App supports bank transfers in the U.S., UK, and EEA, plus stablecoin deposits across eight networks.",
-    "source": "The Block",
-    "time": "11/25/2026, 5:00:00 PM",
-    "link": "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674",
     "category": "Markets"
   }
 ]
