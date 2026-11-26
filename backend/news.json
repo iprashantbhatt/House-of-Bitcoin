@@ -1,194 +1,218 @@
 [
   {
-    "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
-    "summary": "Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion expiry, with traders piling into downside protection as volatility rises.",
+    "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+    "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
     "source": "CoinDesk",
-    "time": "11/26/2026, 9:01:33 AM",
-    "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+    "time": "11/26/2026, 6:30:00 PM",
+    "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
     "category": "Markets"
   },
   {
-    "title": "Zcash developers want users to move $300 million out of an older privacy system",
-    "summary": "Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it.",
+    "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+    "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
     "source": "CoinDesk",
-    "time": "11/26/2026, 8:09:25 AM",
-    "link": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+    "time": "11/26/2026, 5:50:23 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
     "category": "Markets"
   },
   {
-    "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
-    "summary": "An attacker steered up to 1.9 EH/s of mining power to an impostor pool earlier in November using a weakness most of the industry's largest pools still carry.",
+    "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+    "summary": "",
     "source": "CoinDesk",
-    "time": "11/26/2026, 7:19:09 AM",
-    "link": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+    "time": "11/26/2026, 4:42:43 PM",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
     "category": "Markets"
   },
   {
-    "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
-    "summary": "Two SEC-registered funds open to ordinary investors marked Ripple stock 70% apart on Sept. 30, and the lower mark sits barely above what the other fund paid in 2018.",
+    "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+    "summary": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit.",
     "source": "CoinDesk",
-    "time": "11/26/2026, 6:30:38 AM",
-    "link": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
+    "time": "11/26/2026, 3:05:58 PM",
+    "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
     "category": "Markets"
   },
   {
-    "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
-    "summary": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline.",
+    "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
+    "summary": "The breach exposed client and employee contact information at Standard Chartered's crypto custodian, which said no unauthorized transactions took place.",
     "source": "CoinDesk",
-    "time": "11/26/2026, 5:46:01 AM",
-    "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+    "time": "11/26/2026, 1:38:51 PM",
+    "link": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
     "category": "Markets"
   },
   {
-    "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
-    "summary": "The government opposed the measures citing existing EU data-sharing rules and non-legal tender status, leaving the 2027 budget open.",
+    "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+    "summary": "Your day-ahead look for Nov. 26, 2026",
     "source": "CoinDesk",
-    "time": "11/25/2026, 7:24:47 PM",
-    "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+    "time": "11/26/2026, 1:14:46 PM",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
     "category": "Markets"
   },
   {
-    "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
-    "summary": "Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing.",
+    "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
+    "summary": "The firm previously estimated it handled 4% of global crypto exchange trading volume and raised $17 million after the FTX collapse.",
     "source": "CoinDesk",
-    "time": "11/25/2026, 6:38:33 PM",
-    "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+    "time": "11/26/2026, 12:27:50 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
     "category": "Markets"
   },
   {
-    "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
-    "summary": "The EBA renewed its call for the commission to propose rules for crypto firms granting client access to DeFi, particularly lending protocols.",
+    "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+    "summary": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much.",
     "source": "CoinDesk",
-    "time": "11/25/2026, 5:02:31 PM",
-    "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+    "time": "11/26/2026, 12:17:22 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
     "category": "Markets"
   },
   {
-    "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
-    "summary": "Zcash developers urged users to move funds out of an older shielded transaction pool over concerns that AI advances could compromise its cryptography.",
+    "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+    "summary": "Netflix’s The Altruist has been slammed for its ‘very racist’ portrayal of CZ. BitMart reportedly has a $319.5 million shortfall and just $1.9M in liquid assets.",
     "source": "CoinTelegraph",
-    "time": "11/26/2026, 11:15:28 AM",
-    "link": "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
-    "summary": "The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.",
-    "source": "CoinTelegraph",
-    "time": "11/26/2026, 10:42:34 AM",
-    "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
-    "summary": "The spot Bitcoin ETF will be backed by Bitcoin held in cold storage at a Swiss bank, unlike prior Bitcoin ETPs structured as debt securities.",
-    "source": "CoinTelegraph",
-    "time": "11/26/2026, 10:18:15 AM",
-    "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/26/2026, 11:39:46 PM",
+    "link": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "11/26/2026, 7:00:00 AM",
+    "time": "11/26/2026, 11:12:06 PM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
-    "summary": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto.",
+    "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+    "summary": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027.",
     "source": "CoinTelegraph",
-    "time": "11/26/2026, 6:53:08 AM",
-    "link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/26/2026, 10:42:43 PM",
+    "link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
-    "summary": "Sky’s Core Facilitator invoked the protocol’s emergency response process to expedite a vote rather than wait until the next scheduled vote on Dec. 3.",
+    "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+    "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.",
     "source": "CoinTelegraph",
-    "time": "11/26/2026, 6:29:26 AM",
-    "link": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/26/2026, 10:33:47 PM",
+    "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "1Password hacker stole customer names and emails, but vaults safe",
-    "summary": "The password manager, which is used by millions of people to store their login credentials, said customer vaults were unaffected by the breach.",
+    "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+    "summary": "Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without regulated access to decentralized finance.",
     "source": "CoinTelegraph",
-    "time": "11/26/2026, 5:55:16 AM",
-    "link": "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/26/2026, 10:13:53 PM",
+    "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
-    "summary": "US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC efforts to ease regulatory requirements for the crypto industry.",
+    "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+    "summary": "Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.",
     "source": "CoinTelegraph",
-    "time": "11/26/2026, 5:24:45 AM",
-    "link": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/26/2026, 9:05:18 PM",
+    "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "China's Google Just Released Its Fast New AI Model for Free",
-    "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
-    "source": "Decrypt",
-    "time": "11/25/2026, 11:38:09 PM",
-    "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+    "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+    "summary": "A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance.",
+    "source": "CoinTelegraph",
+    "time": "11/26/2026, 7:26:31 PM",
+    "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
-    "summary": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia’s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties.",
-    "source": "Decrypt",
-    "time": "11/25/2026, 10:46:02 PM",
-    "link": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+    "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+    "summary": "Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period.",
+    "source": "CoinTelegraph",
+    "time": "11/26/2026, 6:39:53 PM",
+    "link": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
-    "summary": "An attacker compromised an employee’s GitHub account to reach 1Password’s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed.",
+    "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+    "summary": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns.",
     "source": "Decrypt",
-    "time": "11/25/2026, 10:16:02 PM",
-    "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+    "time": "11/26/2026, 11:01:02 PM",
+    "link": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
     "category": "Markets"
   },
   {
-    "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
-    "summary": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second.",
+    "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+    "summary": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.",
     "source": "Decrypt",
-    "time": "11/25/2026, 9:36:03 PM",
-    "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+    "time": "11/26/2026, 10:01:03 PM",
+    "link": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
     "category": "Markets"
   },
   {
-    "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
-    "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover.",
+    "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
+    "summary": "A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary.",
     "source": "Decrypt",
-    "time": "11/25/2026, 9:06:03 PM",
-    "link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+    "time": "11/26/2026, 8:01:02 PM",
+    "link": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
     "category": "Markets"
   },
   {
-    "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
-    "summary": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners.",
+    "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+    "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
     "source": "Decrypt",
-    "time": "11/25/2026, 8:28:54 PM",
-    "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+    "time": "11/26/2026, 7:15:29 PM",
+    "link": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
     "category": "Markets"
   },
   {
-    "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
-    "summary": "The FCC authorized SpaceX’s solar-powered Starmind constellation, backing Elon Musk’s plans to move AI computing into orbit and reduce the industry’s dependence on increasingly strained power grids here on Earth.",
+    "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+    "summary": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.",
     "source": "Decrypt",
-    "time": "11/25/2026, 7:18:10 PM",
-    "link": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
+    "time": "11/26/2026, 5:43:02 PM",
+    "link": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
     "category": "Markets"
   },
   {
-    "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-    "summary": "OpenAI is merging ChatGPT’s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get.",
+    "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+    "summary": "OpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset.",
     "source": "Decrypt",
-    "time": "11/25/2026, 6:46:02 PM",
-    "link": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
+    "time": "11/26/2026, 4:11:14 PM",
+    "link": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+    "category": "Markets"
+  },
+  {
+    "title": "Elon Musk Says ‘Multiplanetary’ SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
+    "summary": "The SpaceX founder claims the firm could one day be worth a million times the global economy, as he pledges free shares to American children.",
+    "source": "Decrypt",
+    "time": "11/26/2026, 3:38:55 PM",
+    "link": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
+    "category": "Markets"
+  },
+  {
+    "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
+    "summary": "The startup uses AI to interpret real-world events for onchain apps and agents, recording evidence and reasoning so outcomes can be audited.",
+    "source": "Decrypt",
+    "time": "11/26/2026, 3:26:22 PM",
+    "link": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
+    "category": "Markets"
+  },
+  {
+    "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+    "summary": "The Cash Leg Moves Onchain An onchain trade requires both the tokenized asset itself and an onchain payment that clears it. Most of this year’s progress has been focused on the asset. Last week bank money started to move onchain too. Last Tuesday, Fed Governor Christopher Waller said that central bank money needs to stay […]",
+    "source": "The Block",
+    "time": "11/26/2026, 6:32:00 PM",
+    "link": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+    "category": "Markets"
+  },
+  {
+    "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+    "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin \"capitulation.\"",
+    "source": "The Block",
+    "time": "11/26/2026, 5:18:24 PM",
+    "link": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+    "category": "Markets"
+  },
+  {
+    "title": "‘The time to prepare for a cryptographic breakthrough is before it happens’: Zcash team urges faster deprecation of legacy shielded pool",
+    "summary": "Zakura wants Zcash to disable Sapling deposits over speculative concerns about AI-assisted mathematical breakthroughs.",
+    "source": "The Block",
+    "time": "11/26/2026, 2:22:47 PM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "11/26/2026, 6:16:11 AM",
     "link": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
-    "category": "Markets"
-  },
-  {
-    "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
-    "summary": "The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for full passage before the session ends.",
-    "source": "The Block",
-    "time": "11/26/2026, 4:03:01 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
-    "category": "Markets"
-  },
-  {
-    "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
-    "summary": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs.",
-    "source": "The Block",
-    "time": "11/26/2026, 3:22:43 AM",
-    "link": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
-    "category": "Markets"
-  },
-  {
-    "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
-    "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto.",
-    "source": "The Block",
-    "time": "11/25/2026, 11:20:02 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
     "category": "Markets"
   }
 ]
