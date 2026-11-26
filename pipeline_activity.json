@@ -188,5 +188,10 @@
     "timestamp": "2026-11-27 00:07:53",
     "step": "VIDEO-RENDER",
     "details": "Rendered short: hob_final_2026-11-27_00-00-19.mp4"
+  },
+  {
+    "timestamp": "2026-11-27 00:07:58",
+    "step": "YT-UPLOAD",
+    "details": "Published YouTube Short: 7 bizarre things crypto whales spent a fortune on"
   }
 ]
