@@ -1,5 +1,37 @@
 [
   {
+    "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+    "summary": "Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion expiry, with traders piling into downside protection as volatility rises.",
+    "source": "CoinDesk",
+    "time": "11/26/2026, 9:01:33 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+    "category": "Markets"
+  },
+  {
+    "title": "Zcash developers want users to move $300 million out of an older privacy system",
+    "summary": "Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it.",
+    "source": "CoinDesk",
+    "time": "11/26/2026, 8:09:25 AM",
+    "link": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+    "category": "Markets"
+  },
+  {
+    "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+    "summary": "An attacker steered up to 1.9 EH/s of mining power to an impostor pool earlier in November using a weakness most of the industry's largest pools still carry.",
+    "source": "CoinDesk",
+    "time": "11/26/2026, 7:19:09 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+    "category": "Markets"
+  },
+  {
+    "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
+    "summary": "Two SEC-registered funds open to ordinary investors marked Ripple stock 70% apart on Sept. 30, and the lower mark sits barely above what the other fund paid in 2018.",
+    "source": "CoinDesk",
+    "time": "11/26/2026, 6:30:38 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
+    "category": "Markets"
+  },
+  {
     "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
     "summary": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline.",
     "source": "CoinDesk",
@@ -32,35 +64,51 @@
     "category": "Markets"
   },
   {
-    "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
-    "summary": "Lawmaker Yaroslav Zhelezniak said he expects roughly $330 million (15 billion hryvnias) in added budget revenue, though the time frame remains unclear.",
-    "source": "CoinDesk",
-    "time": "11/25/2026, 5:02:07 PM",
-    "link": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+    "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
+    "summary": "Zcash developers urged users to move funds out of an older shielded transaction pool over concerns that AI advances could compromise its cryptography.",
+    "source": "CoinTelegraph",
+    "time": "11/26/2026, 11:15:28 AM",
+    "link": "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
-    "summary": "Yen-funded carry trades ran an estimated $250 billion before the August 2024 selloff, and the Bank of Japan's policy rate is now around 1.25%. Phillip Lord of Bitcoin Japan explains how yen funding conditions reach bitcoin, and the shareholder test Japanese companies' bitcoin treasury strategies should have to pass.",
-    "source": "CoinDesk",
-    "time": "11/25/2026, 4:59:44 PM",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+    "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+    "summary": "The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.",
+    "source": "CoinTelegraph",
+    "time": "11/26/2026, 10:42:34 AM",
+    "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
-    "summary": "South Korea's second-largest crypto exchange said its trading systems were not breached, but stolen customer records could already be being used in future scams.",
-    "source": "CoinDesk",
-    "time": "11/25/2026, 3:47:17 PM",
-    "link": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+    "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+    "summary": "The spot Bitcoin ETF will be backed by Bitcoin held in cold storage at a Swiss bank, unlike prior Bitcoin ETPs structured as debt securities.",
+    "source": "CoinTelegraph",
+    "time": "11/26/2026, 10:18:15 AM",
+    "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
-    "summary": "Your day-ahead look for Nov. 25, 2026",
-    "source": "CoinDesk",
-    "time": "11/25/2026, 1:18:46 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "11/26/2026, 7:00:00 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+    "summary": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto.",
+    "source": "CoinTelegraph",
+    "time": "11/26/2026, 6:53:08 AM",
+    "link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
+    "summary": "Sky’s Core Facilitator invoked the protocol’s emergency response process to expedite a vote rather than wait until the next scheduled vote on Dec. 3.",
+    "source": "CoinTelegraph",
+    "time": "11/26/2026, 6:29:26 AM",
+    "link": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -77,54 +125,6 @@
     "source": "CoinTelegraph",
     "time": "11/26/2026, 5:24:45 AM",
     "link": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
-    "summary": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptography.",
-    "source": "CoinTelegraph",
-    "time": "11/26/2026, 2:33:20 AM",
-    "link": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "11/25/2026, 11:33:13 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
-    "summary": "The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting in 2028 as part of a global effort to combat tax evasion.",
-    "source": "CoinTelegraph",
-    "time": "11/25/2026, 10:53:38 PM",
-    "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
-    "summary": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners’ computing power and potentially steal rewards.",
-    "source": "CoinTelegraph",
-    "time": "11/25/2026, 10:22:19 PM",
-    "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
-    "summary": "Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives exchanges face a different calculation over their Bitcoin holdings.",
-    "source": "CoinTelegraph",
-    "time": "11/25/2026, 10:11:39 PM",
-    "link": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
-    "summary": "Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls since the Merge.",
-    "source": "CoinTelegraph",
-    "time": "11/25/2026, 7:54:51 PM",
-    "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,46 @@
     "category": "Markets"
   },
   {
+    "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
+    "summary": "The Swiss Federal Council cleared 57 potential partners for cryptoasset tax-information exchanges beginning in 2028.",
+    "source": "The Block",
+    "time": "11/26/2026, 10:40:41 AM",
+    "link": "https://www.theblock.co/news/regulation/2026-11-26-switzerland-approves-57-jurisdictions-for-crypto-data-exchange-from-2028-446821",
+    "category": "Markets"
+  },
+  {
+    "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+    "summary": "Spot bitcoin ETFs have already hit record monthly net outflows of $5.39 billion in November, with several trading days remaining.",
+    "source": "The Block",
+    "time": "11/26/2026, 9:50:46 AM",
+    "link": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
+    "category": "Markets"
+  },
+  {
+    "title": "Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says",
+    "summary": "BIT Asset Management's BBIT fund debuted on SIX Swiss Exchange with 350 BTC in assets and a 0.19% annual expense ratio.",
+    "source": "The Block",
+    "time": "11/26/2026, 7:30:00 AM",
+    "link": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
+    "category": "Markets"
+  },
+  {
+    "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+    "summary": "In today's newsletter, Fidelity files for spot Chainlink ETF; Musk's X wins ruling in alleged bitcoin content-farm case; and more.",
+    "source": "The Block",
+    "time": "11/26/2026, 6:45:00 AM",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
+    "category": "Markets"
+  },
+  {
+    "title": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
+    "summary": "Galaxy now treats a daily close below $58,525, the June 30 closing low, as the start of a move toward a materially lower low.",
+    "source": "The Block",
+    "time": "11/26/2026, 6:16:11 AM",
+    "link": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
+    "category": "Markets"
+  },
+  {
     "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
     "summary": "The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for full passage before the session ends.",
     "source": "The Block",
@@ -213,46 +253,6 @@
     "source": "The Block",
     "time": "11/25/2026, 11:20:02 PM",
     "link": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
-    "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
-    "source": "The Block",
-    "time": "11/25/2026, 8:37:10 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
-    "category": "Markets"
-  },
-  {
-    "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
-    "summary": "Fidelity has filed with the U.S. Securities and Exchange Commission to launch a spot Chainlink exchange-traded fund.",
-    "source": "The Block",
-    "time": "11/25/2026, 8:32:42 PM",
-    "link": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
-    "category": "Markets"
-  },
-  {
-    "title": "Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’",
-    "summary": "Following President Trump’s directive to crack down on fraud, the Justice Department announced what it called its “largest-ever crackdown.\"",
-    "source": "The Block",
-    "time": "11/25/2026, 7:05:18 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
-    "category": "Markets"
-  },
-  {
-    "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
-    "summary": "Nvidia agreed to a $290M settlement over claims it misled investors about crypto mining demand driving 2017–18 gaming GPU sales.",
-    "source": "The Block",
-    "time": "11/25/2026, 7:00:13 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin falls below $58,000 as CoinShares’ Butterfill sees ‘tail end of the bear market’",
-    "summary": "The crypto market cap fell to its lowest since September 2024 as stocks slid and U.S. inflation picked up.",
-    "source": "The Block",
-    "time": "11/25/2026, 6:26:55 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
     "category": "Markets"
   }
 ]
