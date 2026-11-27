@@ -213,5 +213,10 @@
     "timestamp": "2026-11-28 00:00:50",
     "step": "IG-CAROUSEL",
     "details": "Published Instagram Carousel (3 slides)"
+  },
+  {
+    "timestamp": "2026-11-28 00:07:45",
+    "step": "VIDEO-RENDER",
+    "details": "Rendered short: hob_final_2026-11-28_00-00-20.mp4"
   }
 ]
