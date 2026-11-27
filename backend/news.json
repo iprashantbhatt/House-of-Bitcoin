@@ -1,5 +1,53 @@
 [
   {
+    "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+    "summary": "The prediction market is pitching protection against tariffs, weather and other business risks as courts challenge its ability to offer sports wagers.",
+    "source": "CoinDesk",
+    "time": "11/27/2026, 2:19:10 PM",
+    "link": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+    "summary": "Your day-ahead look for Nov. 27, 2026",
+    "source": "CoinDesk",
+    "time": "11/27/2026, 1:16:07 PM",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound ",
+    "summary": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses.",
+    "source": "CoinDesk",
+    "time": "11/27/2026, 12:45:47 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+    "category": "Markets"
+  },
+  {
+    "title": "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
+    "summary": "Stocks are broadly higher, but bitcoin has slipped back near $60,000, reversing a turkey day advance.",
+    "source": "CoinDesk",
+    "time": "11/27/2026, 12:34:37 PM",
+    "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+    "category": "Markets"
+  },
+  {
+    "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+    "summary": "Pablo Hernández de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin.",
+    "source": "CoinDesk",
+    "time": "11/27/2026, 12:22:42 PM",
+    "link": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+    "category": "Markets"
+  },
+  {
+    "title": "Injective asks SEC to allow order books for tokenized stock trading",
+    "summary": "The regulator's rules favor one type of blockchain trading system, leaving platforms built on Injective out, the developer said. It wants the SEC to open stock trading to order-book systems.",
+    "source": "CoinDesk",
+    "time": "11/27/2026, 12:07:17 PM",
+    "link": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+    "category": "Markets"
+  },
+  {
     "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
     "summary": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch.",
     "source": "CoinDesk",
@@ -16,179 +64,155 @@
     "category": "Markets"
   },
   {
-    "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
-    "summary": "U.S. equity futures extended Wednesday’s rebound after markets closed for Thanksgiving, with AI infrastructure stocks leading premarket gains.",
-    "source": "CoinDesk",
-    "time": "11/27/2026, 10:49:55 AM",
-    "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
-    "category": "Markets"
-  },
-  {
-    "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
-    "summary": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide.",
-    "source": "CoinDesk",
-    "time": "11/27/2026, 8:33:01 AM",
-    "link": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
-    "category": "Markets"
-  },
-  {
-    "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
-    "summary": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock.",
-    "source": "CoinDesk",
-    "time": "11/27/2026, 6:06:32 AM",
-    "link": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
-    "category": "Markets"
-  },
-  {
-    "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
-    "summary": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
-    "source": "CoinDesk",
-    "time": "11/27/2026, 5:45:47 AM",
-    "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
-    "category": "Markets"
-  },
-  {
-    "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
-    "summary": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test.",
-    "source": "CoinDesk",
-    "time": "11/27/2026, 5:29:47 AM",
-    "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
-    "category": "Markets"
-  },
-  {
-    "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
-    "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
-    "source": "CoinDesk",
-    "time": "11/26/2026, 6:30:00 PM",
-    "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
-    "category": "Markets"
-  },
-  {
-    "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
-    "summary": "Bluefin will close its perps platform on Dec. 4, exiting a shrinking Sui market where it once handled over $500 million in daily trades.",
-    "source": "CoinTelegraph",
-    "time": "11/27/2026, 11:26:06 AM",
-    "link": "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
-    "summary": "ESMA’s new MiCA register will replace manual reporting and introduce automated data checks and a version history for crypto white papers.",
-    "source": "CoinTelegraph",
-    "time": "11/27/2026, 9:04:39 AM",
-    "link": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "New York AG secures $1.37B court judgment against NovaTech founders",
-    "summary": "The judgment follows an August 2025 default ruling against the founders over a Ponzi scheme that targeted Haitian and other immigrant communities.",
-    "source": "CoinTelegraph",
-    "time": "11/27/2026, 8:19:44 AM",
-    "link": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "11/27/2026, 7:00:00 AM",
+    "time": "11/27/2026, 11:12:51 PM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Japan’s crypto security group taps SEAL to speed up hack response",
-    "summary": "The partnership comes weeks after a third-party data breach exposed hundreds of thousands of customer email addresses belonging to two Japanese crypto exchanges.",
+    "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+    "summary": "The addition comes as US spot investment products tracking Hyperliquid’s native token reach $266.5 million in assets under management.",
     "source": "CoinTelegraph",
-    "time": "11/27/2026, 6:22:36 AM",
-    "link": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/27/2026, 10:15:29 PM",
+    "link": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
-    "summary": "Glamsterdam’s Hoodi upgrade was delayed in October after concerns that changes to gas pricing could break some existing smart contracts.",
+    "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+    "summary": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn.",
     "source": "CoinTelegraph",
-    "time": "11/27/2026, 5:47:36 AM",
-    "link": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/27/2026, 8:23:00 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
-    "summary": "Bug bounty platform HackerOne said it’s increasing its triage throughput with AI agents after a record quarter of reports in the third quarter.",
+    "title": "China sets March 2027 rollout for blockchain identity regulations",
+    "summary": "China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy.",
     "source": "CoinTelegraph",
-    "time": "11/27/2026, 2:47:38 AM",
-    "link": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/27/2026, 6:37:23 PM",
+    "link": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
-    "summary": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash’s privacy design sets it apart.",
+    "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+    "summary": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher.",
     "source": "CoinTelegraph",
-    "time": "11/27/2026, 1:35:39 AM",
-    "link": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "11/27/2026, 5:48:51 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
-    "summary": "Core developers will ship Glamsterdam's contested gas changes unaltered, after security concerns halted the Hoodi fork in October.",
-    "source": "Decrypt",
-    "time": "11/27/2026, 11:15:51 AM",
-    "link": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+    "title": "What was Coinbase worth while Nasdaq was closed?",
+    "summary": "A Thanksgiving buyer paid 106.24 USDC per Coinbase share. Whether that looked like a holiday rally depended on when you’d last checked the stock.",
+    "source": "CoinTelegraph",
+    "time": "11/27/2026, 3:40:54 PM",
+    "link": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
-    "summary": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns.",
-    "source": "Decrypt",
-    "time": "11/26/2026, 11:01:02 PM",
-    "link": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+    "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+    "summary": "Binance is hiring for equity capital markets roles, including an analyst to develop tokenized equity products and assess prospective issuers.",
+    "source": "CoinTelegraph",
+    "time": "11/27/2026, 2:44:00 PM",
+    "link": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
-    "summary": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.",
-    "source": "Decrypt",
-    "time": "11/26/2026, 10:01:03 PM",
-    "link": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+    "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+    "summary": "Brazil’s stock exchange is working with six major financial institutions on a real-backed stablecoin that could launch as early as the first quarter of 2027.",
+    "source": "CoinTelegraph",
+    "time": "11/27/2026, 1:39:54 PM",
+    "link": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
-    "summary": "A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary.",
+    "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+    "summary": "The ChatGPT maker’s counterclaims flip the script on a dispute Apple started in July, alleging the iPhone maker took its trade secrets and pressured shared hardware suppliers to freeze it out of the AI-device race.",
     "source": "Decrypt",
-    "time": "11/26/2026, 8:01:02 PM",
-    "link": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+    "time": "11/27/2026, 10:46:03 PM",
+    "link": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
-    "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
+    "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+    "summary": "A draft AI-assisted proof of the Riemann Hypothesis renewed worries about the math securing Bitcoin, but K33 says no cryptographic compromise has been demonstrated.",
     "source": "Decrypt",
-    "time": "11/26/2026, 7:15:29 PM",
-    "link": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+    "time": "11/27/2026, 9:46:02 PM",
+    "link": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
     "category": "Markets"
   },
   {
-    "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
-    "summary": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.",
+    "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+    "summary": "Bitcoin is trading below several of its most popular long-term price models, breaking historical support levels that previously helped investors anticipate the cryptocurrency's eventual recovery from prolonged, painful bear markets.",
     "source": "Decrypt",
-    "time": "11/26/2026, 5:43:02 PM",
-    "link": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+    "time": "11/27/2026, 8:46:02 PM",
+    "link": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
     "category": "Markets"
   },
   {
-    "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
-    "summary": "OpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset.",
+    "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+    "summary": "Bitcoin’s largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year.",
     "source": "Decrypt",
-    "time": "11/26/2026, 4:11:14 PM",
-    "link": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+    "time": "11/27/2026, 7:16:03 PM",
+    "link": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
     "category": "Markets"
   },
   {
-    "title": "Elon Musk Says ‘Multiplanetary’ SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
-    "summary": "The SpaceX founder claims the firm could one day be worth a million times the global economy, as he pledges free shares to American children.",
+    "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+    "summary": "The intrusion at Cloud One, discovered during a system upgrade, has prompted a Cyber Command damage assessment and disrupted the platform that runs air-defense radar feeds, munitions tracking and personnel data.",
     "source": "Decrypt",
-    "time": "11/26/2026, 3:38:55 PM",
-    "link": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
+    "time": "11/27/2026, 6:43:29 PM",
+    "link": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+    "category": "Markets"
+  },
+  {
+    "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+    "summary": "Banned Nvidia racks were found at a Shanghai data center tied to Alice Huang, as Trump said the U.S. could still take a stake in the firm.",
+    "source": "Decrypt",
+    "time": "11/27/2026, 6:09:30 PM",
+    "link": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
+    "category": "Markets"
+  },
+  {
+    "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
+    "summary": "Modders have added multiplayer to an unofficial PC port and unlocked higher frame rates on jailbroken consoles.",
+    "source": "Decrypt",
+    "time": "11/27/2026, 5:21:40 PM",
+    "link": "https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
+    "category": "Markets"
+  },
+  {
+    "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegotá and Beyond",
+    "summary": "Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.",
+    "source": "Decrypt",
+    "time": "11/27/2026, 2:50:04 PM",
+    "link": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
+    "category": "Markets"
+  },
+  {
+    "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+    "summary": "Bitcoin needs USDT supply to start growing again for a sustained price recovery, according to CryptoQuant.",
+    "source": "The Block",
+    "time": "11/27/2026, 7:13:45 PM",
+    "link": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+    "category": "Markets"
+  },
+  {
+    "title": "Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+    "summary": "USDT issuer Tether spent about $10 million earlier this week to acquire 3.72 million Bitdeer Class A ordinary shares.",
+    "source": "The Block",
+    "time": "11/27/2026, 4:00:21 PM",
+    "link": "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554",
+    "category": "Markets"
+  },
+  {
+    "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+    "summary": "K33 said recent mathematical advances had not demonstrated a compromise of Bitcoin's cryptography, while urging closer attention to AI.",
+    "source": "The Block",
+    "time": "11/27/2026, 3:24:21 PM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "11/26/2026, 6:32:00 PM",
     "link": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
-    "category": "Markets"
-  },
-  {
-    "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
-    "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin \"capitulation.\"",
-    "source": "The Block",
-    "time": "11/26/2026, 5:18:24 PM",
-    "link": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
-    "category": "Markets"
-  },
-  {
-    "title": "‘The time to prepare for a cryptographic breakthrough is before it happens’: Zcash team urges faster deprecation of legacy shielded pool",
-    "summary": "Zakura wants Zcash to disable Sapling deposits over speculative concerns about AI-assisted mathematical breakthroughs.",
-    "source": "The Block",
-    "time": "11/26/2026, 2:22:47 PM",
-    "link": "https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000",
-    "category": "Markets"
-  },
-  {
-    "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
-    "summary": "The Swiss Federal Council cleared 57 potential partners for cryptoasset tax-information exchanges beginning in 2028.",
-    "source": "The Block",
-    "time": "11/26/2026, 10:40:41 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-11-26-switzerland-approves-57-jurisdictions-for-crypto-data-exchange-from-2028-446821",
     "category": "Markets"
   }
 ]
