@@ -208,5 +208,10 @@
     "timestamp": "2026-11-28 00:00:17",
     "step": "SITE-UPDATE",
     "details": "Updated HOB portal: Bitcoin whales pile into BTC despite shrinking pro"
+  },
+  {
+    "timestamp": "2026-11-28 00:00:50",
+    "step": "IG-CAROUSEL",
+    "details": "Published Instagram Carousel (3 slides)"
   }
 ]
