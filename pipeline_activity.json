@@ -218,5 +218,10 @@
     "timestamp": "2026-11-28 00:07:45",
     "step": "VIDEO-RENDER",
     "details": "Rendered short: hob_final_2026-11-28_00-00-20.mp4"
+  },
+  {
+    "timestamp": "2026-11-28 00:07:50",
+    "step": "YT-UPLOAD",
+    "details": "Published YouTube Short: Bitcoin whales pile into BTC despite shrinking pro"
   }
 ]
