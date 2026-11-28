@@ -1,5 +1,13 @@
 [
   {
+    "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+    "summary": "As prices tanked, blockchain trackers flagged a large outflow of ether from a wallet linked to World Liberty Financial.",
+    "source": "CoinDesk",
+    "time": "11/28/2026, 10:32:51 AM",
+    "link": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+    "category": "Markets"
+  },
+  {
     "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
     "summary": "The prediction market is pitching protection against tariffs, weather and other business risks as courts challenge its ability to offer sports wagers.",
     "source": "CoinDesk",
@@ -56,11 +64,19 @@
     "category": "Markets"
   },
   {
-    "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
-    "summary": "Tether says it has returned $1.28 billion in frozen USDT, but victims can wait years to recover their money and face fees of up to 20%.",
-    "source": "CoinDesk",
-    "time": "11/27/2026, 11:00:00 AM",
-    "link": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+    "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+    "summary": "A working group will examine enhancing connectivity between domestic digital payment networks and bringing their regulations into more alignment.",
+    "source": "CoinTelegraph",
+    "time": "11/28/2026, 11:31:00 AM",
+    "link": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Binance plans Asia hub in Bhutan, receives preliminary approval",
+    "summary": "The agreement is a milestone in Binance’s effort to expand its presence in Bhutan since launching a national crypto-powered tourism payment system in 2025.",
+    "source": "CoinTelegraph",
+    "time": "11/28/2026, 8:43:00 AM",
+    "link": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -109,22 +125,6 @@
     "source": "CoinTelegraph",
     "time": "11/27/2026, 3:40:54 PM",
     "link": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
-    "summary": "Binance is hiring for equity capital markets roles, including an analyst to develop tokenized equity products and assess prospective issuers.",
-    "source": "CoinTelegraph",
-    "time": "11/27/2026, 2:44:00 PM",
-    "link": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
-    "summary": "Brazil’s stock exchange is working with six major financial institutions on a real-backed stablecoin that could launch as early as the first quarter of 2027.",
-    "source": "CoinTelegraph",
-    "time": "11/27/2026, 1:39:54 PM",
-    "link": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,14 @@
     "category": "Markets"
   },
   {
+    "title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more",
+    "summary": "In today's newsletter, CryptoQuant says bitcoin price recovery needs USDT supply growth; K33 assesses AI's growing threat to Bitcoin security; and more.",
+    "source": "The Block",
+    "time": "11/28/2026, 5:11:00 AM",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571",
+    "category": "Markets"
+  },
+  {
     "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
     "summary": "Bitcoin needs USDT supply to start growing again for a sustained price recovery, according to CryptoQuant.",
     "source": "The Block",
@@ -245,14 +253,6 @@
     "source": "The Block",
     "time": "11/27/2026, 3:20:00 AM",
     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
-    "category": "Markets"
-  },
-  {
-    "title": "Tokenized Anthropic Holders Doubled in 3 Days",
-    "summary": "The Cash Leg Moves Onchain An onchain trade requires both the tokenized asset itself and an onchain payment that clears it. Most of this year’s progress has been focused on the asset. Last week bank money started to move onchain too. Last Tuesday, Fed Governor Christopher Waller said that central bank money needs to stay […]",
-    "source": "The Block",
-    "time": "11/26/2026, 6:32:00 PM",
-    "link": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
     "category": "Markets"
   }
 ]
